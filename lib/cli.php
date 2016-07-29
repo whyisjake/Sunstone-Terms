@@ -110,10 +110,17 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	private function set_term( $pid, $term_name, $taxonomy ) {
 		$exist = get_term_by( 'name', $term_name, $taxonomy );
 		if ( $exist === false ) {
+			WP_CLI::line( sprintf( 'Term %s doesn\'t exist, let\'s add it...', $term_name ) );
 			$exist = wp_insert_term( $term_name, $taxonomy );
+			if ( ! is_wp_error( $exist ) ) {
+				WP_CLI::line( sprintf( 'Added %s', $term_name ) );
+			}
 		}
 		if ( isset( $exist->term_id ) && ! is_wp_error( $exist ) ) {
 			$added = wp_set_object_terms( $pid, $exist->term_id, $taxonomy, true );
+			if ( ! is_wp_error( $added ) ) {
+				WP_CLI::success( sprintf( 'Added %s to %d', $term_name, $pid ) );
+			}
 		}
 		wp_update_term_count_now( array( $exist->term_id ), $taxonomy );
 	}
