@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Cutting Edge",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Cutting_Edge"
+      },
+      "salience": 0.11678754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cutting Edge",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Works in Progress The Cutting Edge",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11678754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works in Progress The Cutting Edge",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Works in Progress",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.079550892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works in Progress",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Works in Progress",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kenny_Miller"
+      },
+      "salience": 0.032951664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miller",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.023030911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Cutting Edge",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018392041,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Cutting Edge",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia Sorenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074901218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia Sorenson",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia Sorenson",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

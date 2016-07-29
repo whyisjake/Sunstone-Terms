@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Utah Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49850088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormon",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20491008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democratic Party",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.044953931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 270
+          }
+        },
+        {
+          "text": {
+            "content": "Democratic Party",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republicans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.007871747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Republicans",
+            "beginOffset": 243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0074529476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.0052873697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 283
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

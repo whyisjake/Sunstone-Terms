@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "The Da Vinci Code",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+      },
+      "salience": 0.17202228,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Da Vinci Code",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "The Da Vinci Code",
+            "beginOffset": 1460
+          }
+        }
+      ]
+    },
+    {
+      "name": "WHAT&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034833197,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHAT&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "DA VINCI CODE CRAZE",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.034833197,
+      "mentions": [
+        {
+          "text": {
+            "content": "DA VINCI CODE CRAZE",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Brown&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016983813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Brown&",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Brown&",
+            "beginOffset": 641
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Brown&",
+            "beginOffset": 1436
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013333639,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.012236998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      "salience": 0.012029754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 1677
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042466652,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Toscano",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042466652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Toscano",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0039571845,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039078612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity&",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036628807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030055374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jody England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030055374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jody England Hansen",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0030055374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 925
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "Iowa City Campground",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.062064733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa City Campground",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa_City,_Iowa"
+      },
+      "salience": 0.043569393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa City",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Iowa City",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Handcart Rush",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.03772359,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Handcart Rush",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "The Handcart Rush",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "The Handcart Rush",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Too Late",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037352506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Too Late",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Too Late",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa City Campground Preparations",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037352506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa City Campground Preparations",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Iowa City Campground Preparations",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.016487036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "European",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0091133146,
+      "mentions": [
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.004501258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0035919913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "mp3Lyndia Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010880337,
+      "mentions": [
+        {
+          "text": {
+            "content": "mp3Lyndia Carter",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robyn Davis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010880337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robyn Davis",
+            "beginOffset": 828
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

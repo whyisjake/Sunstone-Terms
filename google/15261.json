@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038363058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025529424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History Neither",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025159914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History Neither",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Yorker",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_New_Yorker"
+      },
+      "salience": 0.0035354597,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Yorker",
+            "beginOffset": 434
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

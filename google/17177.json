@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Mormon church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.027829349,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 549
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 961
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1345
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1499
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09131 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025452802,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09131 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0092444355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0052270177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0043428792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret M. Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020049012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret M. Toscano",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020049012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taryn Nelson Seawright",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020049012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taryn Nelson Seawright",
+            "beginOffset": 801
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

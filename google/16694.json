@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Gerald E. Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.484305,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Jones",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Gerald E. Jones",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.020859517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch Nichols",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069433493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch Nichols",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00433845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039778007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 793
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Callister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019215547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Callister",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011675045,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Callister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043497947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Callister",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Page Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041225422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Page Kimball",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041225422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ruth Ogden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035208757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ruth Ogden",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Halstead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035208757,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Halstead",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0035208757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Beth Raines",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035208757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Beth Raines",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Satan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Satan"
+      },
+      "salience": 0.00090728322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Satan",
+            "beginOffset": 935
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

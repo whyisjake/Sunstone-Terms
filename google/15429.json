@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Agency Choices",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.26922143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agency Choices",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.037721779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 297
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shaw",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shaw_Communications"
+      },
+      "salience": 0.036571175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaw",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beverly Shaw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015648445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beverly Shaw",
+            "beginOffset": 520
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

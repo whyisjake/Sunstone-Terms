@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.16426055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 785
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 896
+          }
+        }
+      ]
+    },
+    {
+      "name": "Two Jesuses Of Third Nephi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.089662619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two Jesuses Of Third Nephi",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sermon on the Mount",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sermon_on_the_Mount"
+      },
+      "salience": 0.038843229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.030776219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Wunderli",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030594556,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Wunderli",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.030229941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Van Hale Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065606162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Van Hale Brian",
+            "beginOffset": 393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

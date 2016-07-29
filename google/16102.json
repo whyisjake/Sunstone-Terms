@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.079004392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1262
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1311
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1300
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City,_Utah"
+      },
+      "salience": 0.017389793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 1057
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnny Lingo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014868095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnny Lingo",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny Lingo",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny Lingo",
+            "beginOffset": 1036
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City_(film)"
+      },
+      "salience": 0.01359982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 1088
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0039653582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormon",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Mormon",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emily Asplund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033902293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily Asplund",
+            "beginOffset": 551
+          }
+        },
+        {
+          "text": {
+            "content": "Emily",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032850055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Williams",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.00284657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fred Esplin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028056595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fred Esplin",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barbara Bannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028056595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbara Bannon",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "William",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)"
+      },
+      "salience": 0.0027225432,
+      "mentions": [
+        {
+          "text": {
+            "content": "William",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dutcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018758529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dutcher",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

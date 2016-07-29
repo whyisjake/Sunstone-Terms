@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Grief Ritual",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13184094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grief Ritual",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grief Ritual",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089427754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grief Ritual",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Grief Ritual",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Last Word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078201741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Last Word",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Last Word",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Last Word",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Job",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0761767,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Job",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Job",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Job",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belgian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Belgium"
+      },
+      "salience": 0.021344163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belgian",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zurich Becky Cornwall",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0066620423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zurich Becky Cornwall",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0066620423,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0066620423,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0066620423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

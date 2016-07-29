@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Martin Handcart Disaster",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.052357506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Handcart Disaster",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Willie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0387551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Willie",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Willie",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Willie",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10253",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034431431,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10253",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013858285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. STEPHENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040430147,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. STEPHENS",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crimean War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Crimean_War"
+      },
+      "salience": 0.0038460915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crimean War",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fort Laramie",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site"
+      },
+      "salience": 0.0038460915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fort Laramie",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "KEVIN HOLDSWORTH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031335475,
+      "mentions": [
+        {
+          "text": {
+            "content": "KEVIN HOLDSWORTH",
+            "beginOffset": 658
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

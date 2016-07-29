@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Sonia Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30227545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia Johnson",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Feminist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050358985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Feminist",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kay Gaisford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050358985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kay Gaisford",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine R. Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022914369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Nadine R. Hansen",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018329689,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Jose_State_University"
+      },
+      "salience": 0.015789703,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose State University",
+            "beginOffset": 166
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Clara",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Clara_County,_California"
+      },
+      "salience": 0.012804926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Clara",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cape",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cape"
+      },
+      "salience": 0.0078175971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cape",
+            "beginOffset": 520
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

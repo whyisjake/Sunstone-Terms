@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.20376971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1065
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Basin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Basin"
+      },
+      "salience": 0.022270588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Basin",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Great Basin",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.01922702,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wallace Stegner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wallace_Stegner"
+      },
+      "salience": 0.012531296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012531296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Country",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Country",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristine Haglund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083823325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Haglund",
+            "beginOffset": 460
+          }
+        },
+        {
+          "text": {
+            "content": "Haglund",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Stevenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083823325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Stevenson",
+            "beginOffset": 481
+          }
+        },
+        {
+          "text": {
+            "content": "Rebecca Stevenson",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sacred Harp",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacred_Harp"
+      },
+      "salience": 0.006423227,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sacred Harp",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0059959576,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bay Psalm Book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bay_Psalm_Book"
+      },
+      "salience": 0.0059959576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bay Psalm Book",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Bay Psalm Book",
+            "beginOffset": 1262
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.0059959576,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 1281
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amazing Grace&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048089954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amazing Grace&",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048089954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith&",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_music"
+      },
+      "salience": 0.0040069567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 1314
+          }
+        }
+      ]
+    },
+    {
+      "name": "OneNote",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037116422,
+      "mentions": [
+        {
+          "text": {
+            "content": "OneNote",
+            "beginOffset": 886
+          }
+        }
+      ]
+    },
+    {
+      "name": "We&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002394665,
+      "mentions": [
+        {
+          "text": {
+            "content": "We&",
+            "beginOffset": 961
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

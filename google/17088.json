@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.22987229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 429
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 829
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 1018
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.034071729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shaman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028196052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaman",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Shaman",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0070133349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048562228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 577
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

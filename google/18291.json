@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Liz Shropshire",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045359742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liz Shropshire",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.033486083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Child Of War His Ultimate Gift Of Peace And Teaching Peace Through Music",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029844271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Child Of War His Ultimate Gift Of Peace And Teaching Peace Through Music",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kosovo"
+      },
+      "salience": 0.027161177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kosovo",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Kosovo",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shropshire Music Foundation",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shropshire_Music_Foundation"
+      },
+      "salience": 0.02134789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shropshire Music Foundation",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Shropshire Music Foundation",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016533257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liz",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shropshire Liz Shropshire",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001086944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shropshire  Liz Shropshire",
+            "beginOffset": 673
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

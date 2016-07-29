@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Adam and Eve: The Male",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.21313258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam and Eve: The Male",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve: The Male",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Male",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve: The Male",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.097853646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 630
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Doctrine&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021360839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Doctrine&",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Doctrine&",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Doctrine&",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0099709053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0069939941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 453
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

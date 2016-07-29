@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Christian Economy Ethics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061221104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Economy Ethics",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.034071032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 563
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

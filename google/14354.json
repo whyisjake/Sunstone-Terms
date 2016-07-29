@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Friedman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Milton_Friedman"
+      },
+      "salience": 0.53035736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friedman",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Friedman",
+            "beginOffset": 342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris The Beauty of the Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13327858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris The Beauty of the Old Testament",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament The Beauty of the Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024839262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament The Beauty of the Old Testament",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.00918636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 479
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 492
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

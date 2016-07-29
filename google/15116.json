@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Sariah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sariah"
+      },
+      "salience": 0.52213526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sariah",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Sariah",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Sariah",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.14569069,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 345
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehi_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.048818182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021062925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryan",
+            "beginOffset": 262
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0088839494,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0069860388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 334
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

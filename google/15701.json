@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Joe Black",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37585574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Black",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Black",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prejudices Of Our Times",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.066322066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prejudices Of Our Times",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prejudices Of Our Times LeCheminant",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066322066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prejudices Of Our Times LeCheminant",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada Polish",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012605359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada Polish",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012605359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elsinore castle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kronborg"
+      },
+      "salience": 0.011951537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elsinore castle",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prejudices Of Our Times Dale LeCheminant",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010400956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prejudices Of Our Times Dale LeCheminant",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shakespeare",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Shakespeare"
+      },
+      "salience": 0.0030967896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakespeare",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

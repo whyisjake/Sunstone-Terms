@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Scurlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03177622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scurlock",
+            "beginOffset": 659
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020203961,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.012695591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brown_University"
+      },
+      "salience": 0.003051061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027687808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock Marius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023022897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock Marius",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.0019599814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 748
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

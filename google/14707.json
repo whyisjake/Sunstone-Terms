@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Lao Tzu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13418944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lao Tzu",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nature of Government Lao Tzu",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13418944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nature of Government Lao Tzu",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Benjamin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Benjamin"
+      },
+      "salience": 0.079833671,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Benjamin",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "King Benjamin",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "King Benjamin",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nature of Government",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0491931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nature of Government",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03302056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.027780736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master's_degree"
+      },
+      "salience": 0.0263407,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East Lao Tzu",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021030383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East Lao Tzu",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nature of Government",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021030383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nature of Government",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016292237,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Peck",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

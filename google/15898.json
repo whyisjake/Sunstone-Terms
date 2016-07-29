@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "21ST CENTURY Heaton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025922781,
+      "mentions": [
+        {
+          "text": {
+            "content": "21ST CENTURY Heaton",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Timothy Heaton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011092101,
+      "mentions": [
+        {
+          "text": {
+            "content": "Timothy Heaton",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0040292623,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0040292623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 316
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

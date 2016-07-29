@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16614336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 624
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02808357,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLachlan",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "JAMES MCLACHLAN",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "James McLachlan",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "KIMBALL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044347174,
+      "mentions": [
+        {
+          "text": {
+            "content": "KIMBALL",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sin isn&#",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003334899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sin isn&#",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0029614288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1183
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025400373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim",
+            "beginOffset": 750
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

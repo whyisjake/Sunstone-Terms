@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Study of Religion to World Affairs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10212927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Study of Religion to World Affairs",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Study of Religion to World Affairs Virginia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030662157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Study of Religion to World Affairs Virginia",
+            "beginOffset": 77
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.016440522,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Study of Religion",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_studies"
+      },
+      "salience": 0.016294807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Study of Religion",
+            "beginOffset": 599
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.35747504,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Solomon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Solomon"
+      },
+      "salience": 0.066613086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solomon",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Solomon",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Solomon",
+            "beginOffset": 695
+          }
+        },
+        {
+          "text": {
+            "content": "Solomon",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grandad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027625501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grandad",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kings 3",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0057503274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kings 3",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "Kings 3",
+            "beginOffset": 852
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003781307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 350
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

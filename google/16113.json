@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "America&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015844429,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 1251
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crime&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013620407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crime&",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Crime&",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Crime&",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroyln Tanner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00229734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroyln Tanner",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driessen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015574294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driessen",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dee Rowland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015574294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dee Rowland",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Families Against Mandatory Minimums",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Families_Against_Mandatory_Minimums"
+      },
+      "salience": 0.0015184117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Families Against Mandatory Minimums",
+            "beginOffset": 876
+          }
+        },
+        {
+          "text": {
+            "content": "FAMM",
+            "beginOffset": 913
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale A. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dale_A._Kimball"
+      },
+      "salience": 0.0012227803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale A. Kimball",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Reverend"
+      },
+      "salience": 0.00056717737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donald Graves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048432616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donald Graves",
+            "beginOffset": 982
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

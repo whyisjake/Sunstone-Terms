@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "The Place of Satire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46405259,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Place of Satire",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "The Place of Satire",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "The Place of Satire",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.19076315,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wittenburg",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016581778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wittenburg",
+            "beginOffset": 423
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

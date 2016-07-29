@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.20436814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 596
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 951
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reading_(process)"
+      },
+      "salience": 0.048764903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09321",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046363588,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09321",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_America"
+      },
+      "salience": 0.029200172,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.018930195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Luffman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037631365,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Luffman",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brent Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037631365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brent Johns",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "RVD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024490957,
+      "mentions": [
+        {
+          "text": {
+            "content": "RVD",
+            "beginOffset": 925
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

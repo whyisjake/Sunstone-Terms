@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "CHRISTIAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.093142681,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRISTIAN",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.059674885,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 737
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seventh-day Adventism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024384858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seventh-day Adventism",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Seventh-day Adventism",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.016521532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reorganized Church of Jesus Christ of Latter Day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.015665861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reorganized Church of Jesus Christ of Latter Day Saints",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.015045605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 936
+          }
+        }
+      ]
+    },
+    {
+      "name": "Worldwide Church of God",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grace_Communion_International"
+      },
+      "salience": 0.011671788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Worldwide Church of God",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "Worldwide Church of God",
+            "beginOffset": 1158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reorganized Church of Jesus Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reorganized_Church_of_Jesus_Christ_(Bickertonite)"
+      },
+      "salience": 0.0078052734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reorganized Church of Jesus Christ",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0062395888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaron McCraney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060065794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron McCraney",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0018688089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall Gloria",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018688089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall Gloria",
+            "beginOffset": 799
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

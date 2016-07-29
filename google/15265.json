@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Choice Expedition Participants",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21401854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choice Expedition Participants",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Choice Expedition Participants",
+            "beginOffset": 109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.0053875064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 330
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

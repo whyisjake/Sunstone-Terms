@@ -1,0 +1,397 @@
+{
+  "entities": [
+    {
+      "name": "Jack Newell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50497514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Newell",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Jack Newell",
+            "beginOffset": 1552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Rogers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015737465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Rogers",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015673498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 995
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.014049456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 1678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Forty: Celebration of Levi Peterson&",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.013824928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forty: Celebration of Levi Peterson&",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Backslider&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013824928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Backslider&",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frank Windham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013824928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frank Windham",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "David O. McKay&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010857931,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay&",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay&",
+            "beginOffset": 1769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Methodist",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Methodism"
+      },
+      "salience": 0.0070819557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Methodist",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Methodist",
+            "beginOffset": 1648
+          }
+        }
+      ]
+    },
+    {
+      "name": "High B. Brown&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057859807,
+      "mentions": [
+        {
+          "text": {
+            "content": "High B. Brown&",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.0023102849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Carolina"
+      },
+      "salience": 0.0020656616,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Carolina",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_Carolina"
+      },
+      "salience": 0.0020656616,
+      "mentions": [
+        {
+          "text": {
+            "content": "North Carolina",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Hampshire"
+      },
+      "salience": 0.0017641662,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Hampshire",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0017641662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woodworth",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Samuelsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samuelsen",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gae Lyn Hnderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gae Lyn Hnderson",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morgan B. ADair",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morgan B. ADair",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marylee Mitcham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marylee Mitcham",
+            "beginOffset": 1072
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce W. Jorgensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce W. Jorgensen",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0012712572,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "High B. Brown&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010931853,
+      "mentions": [
+        {
+          "text": {
+            "content": "High B. Brown&",
+            "beginOffset": 1807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.00039524131,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

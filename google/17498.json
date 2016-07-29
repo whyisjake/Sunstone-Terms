@@ -1,0 +1,373 @@
+{
+  "entities": [
+    {
+      "name": "JOHN BREWER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15090223,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN BREWER",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "John Brewer",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Brewer",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Brewer",
+            "beginOffset": 648
+          }
+        },
+        {
+          "text": {
+            "content": "John Brewer",
+            "beginOffset": 1116
+          }
+        },
+        {
+          "text": {
+            "content": "Brewer",
+            "beginOffset": 1281
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOSE DAVILA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14330618,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSE DAVILA",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Davila",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Davila",
+            "beginOffset": 637
+          }
+        },
+        {
+          "text": {
+            "content": "Jose Davila",
+            "beginOffset": 1100
+          }
+        },
+        {
+          "text": {
+            "content": "Davila",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "CENTRAL UTAH",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038932223,
+      "mentions": [
+        {
+          "text": {
+            "content": "CENTRAL UTAH",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOOK OF MORMON ARCHAEOLOGY",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.038932223,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON ARCHAEOLOGY",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LUNATIC FRINGE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034861322,
+      "mentions": [
+        {
+          "text": {
+            "content": "LUNATIC FRINGE",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.030310605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephite",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.027131336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 1176
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jaredite",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jaredites"
+      },
+      "salience": 0.027131336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jaredite",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Jaredite",
+            "beginOffset": 1188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jose Davila",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017357506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jose Davila",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015910977,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Smith",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0048378892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.0043434743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 485
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00398237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0035607039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 462
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1405
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0035607039,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027489709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.0027489709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Haitian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Haiti"
+      },
+      "salience": 0.0027489709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Haitian",
+            "beginOffset": 881
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM SF05013",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020099731,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM SF05013",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017191028,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 840
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.013760701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0022650675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angela R. Campbell SF05013",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080798985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angela R. Campbell  SF05013",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00049320317,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 934
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

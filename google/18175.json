@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.042912021,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calls To You Faith Transitions And Healing This",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0338013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calls To You Faith Transitions And Healing This",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043664505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": 249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fatimah S. Salleh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00348208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fatimah S. Salleh",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Fatimah S. Salleh",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Butterworth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Feminist_Mormon_Housewives"
+      },
+      "salience": 0.0024261633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Butterworth",
+            "beginOffset": 904
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.0009117914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 665
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

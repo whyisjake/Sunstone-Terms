@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.17376602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eve And Modern Science Adam, Eve And Modern Science Terman",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.094579667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eve And Modern Science Adam, Eve And Modern Science Terman",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Eve And Modern Science Terry Terman",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angela Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051401049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angela Campbell",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Angela Campbell",
+            "beginOffset": 526
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

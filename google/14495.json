@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Stromberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5846231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stromberg",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061718967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.050758019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Directions for Women and the Church After Sonia: New Directions for Women and the Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020030547,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Directions for Women and the Church After Sonia: New Directions for Women and the Church",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.010551548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008887291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Directions for Women and the Church",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00854996,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Directions for Women and the Church",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027739441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 431
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

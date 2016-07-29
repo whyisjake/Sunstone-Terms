@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.073679715,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women Speak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010206889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women Speak",
+            "beginOffset": 487
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

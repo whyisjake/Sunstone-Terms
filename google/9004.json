@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Tamara Taysom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24094836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tamara Taysom",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Tamara Taysom",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0576021,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.027394654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Mormon Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016154466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon Utah&",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Early Mormon Utah&",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014677853,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 184
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

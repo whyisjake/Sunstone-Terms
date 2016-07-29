@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.16802934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 608
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "James W. Ure",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16524504,
+      "mentions": [
+        {
+          "text": {
+            "content": "James W. Ure",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "James W. Ure",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "James W. Ure",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049457192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim",
+            "beginOffset": 482
+          }
+        },
+        {
+          "text": {
+            "content": "Jim",
+            "beginOffset": 718
+          }
+        }
+      ]
+    },
+    {
+      "name": "INACTIVE MORMONS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025093157,
+      "mentions": [
+        {
+          "text": {
+            "content": "INACTIVE MORMONS",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Ure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027586676,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Ure",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Signature Books",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0024531428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Signature Books",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "Signature Books",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Rolly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001803965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Rolly",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Rolly",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0004723251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 771
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

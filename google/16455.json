@@ -1,0 +1,287 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.30011493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1752
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 539
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1861
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10809714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 831
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1958
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01611767,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1797
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Membership",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014271485,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Membership",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chile SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01276585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chile SL03091",
+            "beginOffset": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.010908389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Branford",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0094485562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Branford",
+            "beginOffset": 1560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0055739693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.005183721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 870
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1187
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0037423919,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0020575309,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0020225798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clark Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061975542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark Knowlton",
+            "beginOffset": 1379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugo Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061975542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugo Olaiz",
+            "beginOffset": 1395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allan Sumnall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061975542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allan Sumnall",
+            "beginOffset": 1407
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

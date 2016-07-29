@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32446706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1869
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 513
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.091608629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 805
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2075
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buffy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buffy_Summers"
+      },
+      "salience": 0.023646593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buffy",
+            "beginOffset": 1424
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015495068,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1914
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vampire Slayer",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Slayer_(Buffy_the_Vampire_Slayer)"
+      },
+      "salience": 0.012271231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vampire Slayer",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012271231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel SL03091",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0053566052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0049815043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 844
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035962134,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026730234,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1778
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023858179,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hooper",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022827445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hooper",
+            "beginOffset": 1701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019434561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "K. Riess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00075901183,
+      "mentions": [
+        {
+          "text": {
+            "content": "K. Riess",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judi Dushku",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058805046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judi Dushku",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058805046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judy",
+            "beginOffset": 1543
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

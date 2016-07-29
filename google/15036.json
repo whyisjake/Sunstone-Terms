@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Good Parent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43818134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Good Parent",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poisonous Pedagogy of Unrighteous Dominion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076938666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poisonous Pedagogy of Unrighteous Dominion",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.073193558,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.064383648,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unrighteous Dominion",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Priesthood_(LDS_Church)"
+      },
+      "salience": 0.020859767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unrighteous Dominion",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Pennsylvania",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Pennsylvania"
+      },
+      "salience": 0.015147579,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Pennsylvania",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Farnworth The Poisonous Pedagogy of Unrighteous Dominion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015147579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Farnworth The Poisonous Pedagogy of Unrighteous Dominion",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philadelphia"
+      },
+      "salience": 0.01257194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philadelphia",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego"
+      },
+      "salience": 0.01257194,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angelus",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angelus"
+      },
+      "salience": 0.0039288797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angelus",
+            "beginOffset": 404
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

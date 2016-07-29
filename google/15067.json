@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.015520425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wallace Toronto",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014713597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace Toronto",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Czechoslovakian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Czechoslovakia"
+      },
+      "salience": 0.0038061452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Czechoslovakian",
+            "beginOffset": 403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Faithful Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13310149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faithful Mormon",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molly Benyon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045023985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly Benyon",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.030354757,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faithful Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025608703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faithful Mormon",
+            "beginOffset": 820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.014057023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.0099568311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lori winter Stromberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082587413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lori winter Stromberg",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0074176127,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 554
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 596
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

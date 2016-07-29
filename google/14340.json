@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Paulson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henry_Paulson"
+      },
+      "salience": 0.12301478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paulson",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Finitism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037991915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Finitism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Finitism",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Worship Mormon Finitism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031956092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Worship Mormon Finitism",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adequate Object of Religious Worship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023562813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adequate Object of Religious Worship",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.017101647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 295
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adequate Object of Religious Worship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013652189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adequate Object of Religious Worship",
+            "beginOffset": 655
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

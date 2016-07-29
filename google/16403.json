@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36128604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1389
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 450
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.077204436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 742
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018198125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus SL03091",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.0089233723,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0079826657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0036881699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 781
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0019899956,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCall SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019631903,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall  SL03091",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014644683,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 946
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014340871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 966
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

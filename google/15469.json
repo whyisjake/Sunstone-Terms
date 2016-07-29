@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "HYDROGEN BOND HYDROGEN BOND G. Pace Ryan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58522147,
+      "mentions": [
+        {
+          "text": {
+            "content": "HYDROGEN BOND HYDROGEN BOND G. Pace Ryan",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terrence Malick",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Terrence_Malick"
+      },
+      "salience": 0.065759219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terrence Malick",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "David G. Pace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033325184,
+      "mentions": [
+        {
+          "text": {
+            "content": "David G. Pace",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fran",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019720279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fran",
+            "beginOffset": 116
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

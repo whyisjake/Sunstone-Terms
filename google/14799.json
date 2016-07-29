@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church On Religious Beliefs And Practices Religiosity Of LDS Afro-Americans",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.3900978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church On Religious Beliefs And Practices Religiosity Of LDS Afro-Americans",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church On Religious Beliefs And Practices",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church On Religious Beliefs And Practices",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Afro-Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.05167181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Afro-Americans",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Afro-Americans",
+            "beginOffset": 542
+          }
+        },
+        {
+          "text": {
+            "content": "Afro Americans",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANSI",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011660726,
+      "mentions": [
+        {
+          "text": {
+            "content": "ANSI",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesse",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096779792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesse",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0043173046,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Anti-Mormon Model",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.065591484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Mormon Model",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "True Church Critiquing the Anti-Mormon Model",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.050509766,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church Critiquing the Anti-Mormon Model",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "True Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.044440776,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anti-Mormon Model",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010185722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Mormon Model",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.0033034391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 418
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

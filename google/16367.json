@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Bonner Richie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03974133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bonner Richie",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Impulses War",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01245526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Impulses War",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010050503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity&",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity&",
+            "beginOffset": 1714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monk",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Monk"
+      },
+      "salience": 0.0035932967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monk",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terry D. Kester",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024023624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terry D. Kester",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024023624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Kader",
+            "beginOffset": 946
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonnie Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024023624,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonnie Ritchie",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0024023624,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.40243754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.20076154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 864
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poulsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Poulsen"
+      },
+      "salience": 0.0039631478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poulsen",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janeanne Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039631478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janeanne Peterson",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0037878782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1108
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0788288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 516
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 723
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1287
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.058247115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 472
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1089
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1736
+          }
+        }
+      ]
+    },
+    {
+      "name": "QUESTIONING BOOK OF MORMON WORDPRINT",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024155039,
+      "mentions": [
+        {
+          "text": {
+            "content": "QUESTIONING BOOK OF MORMON WORDPRINT",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Solomon Spalding",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Solomon_Spalding"
+      },
+      "salience": 0.0057433071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solomon Spalding",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Spalding",
+            "beginOffset": 486
+          }
+        },
+        {
+          "text": {
+            "content": "Solomon Spalding",
+            "beginOffset": 1686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sidney Rigdon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sidney_Rigdon"
+      },
+      "salience": 0.005160735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sidney Rigdon",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "Rigdon",
+            "beginOffset": 499
+          }
+        },
+        {
+          "text": {
+            "content": "Sidney Rigdon",
+            "beginOffset": 1718
+          }
+        }
+      ]
+    },
+    {
+      "name": "American English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences"
+      },
+      "salience": 0.0045703244,
+      "mentions": [
+        {
+          "text": {
+            "content": "American English",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0013728286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012738587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hale",
+            "beginOffset": 1354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000528171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,313 @@
+{
+  "entities": [
+    {
+      "name": "How Big",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.19119999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "How Big",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "How Big",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "How Big",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "How Big",
+            "beginOffset": 2596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.15164413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 587
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 770
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1371
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1482
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1785
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.024329437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 461
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 723
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 2796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00091564492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1198
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.00046606033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 1644
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 1869
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 2059
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.00046606033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 1659
+          }
+        },
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 1881
+          }
+        },
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 2045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034533403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 2255
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Thomas Panelists",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00020875622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Thomas Panelists",
+            "beginOffset": 1846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0001998832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 1921
+          }
+        },
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 2033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peterson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Levi_S._Peterson"
+      },
+      "salience": 0.0001998832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 1937
+          }
+        },
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 2018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Call",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00018662502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Call",
+            "beginOffset": 1895
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Tanner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00018662502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Tanner",
+            "beginOffset": 1906
+          }
+        }
+      ]
+    },
+    {
+      "name": "PM. Tanner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0001855642,
+      "mentions": [
+        {
+          "text": {
+            "content": "PM. Tanner",
+            "beginOffset": 1992
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Call",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0001855642,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Call",
+            "beginOffset": 2004
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Hope for Earnestly: The Psychological Dimensions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10349104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope for Earnestly: The Psychological Dimensions",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Hope for Earnestly: The Psychological Dimensions",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Hope for Earnestly: The Psychological Dimensions",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belier",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082837321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belier",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Belier",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Belier",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.082837321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.072629921,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

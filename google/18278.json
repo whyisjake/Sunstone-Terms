@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saint",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.16895446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 927
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Passive Aggression Creating A Culture Of Collaboration Recent",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049719527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Passive Aggression Creating A Culture Of Collaboration Recent",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Front"
+      },
+      "salience": 0.021898231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004859685,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 457
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

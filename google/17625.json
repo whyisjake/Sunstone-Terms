@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.41581255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 588
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Magical Treasure Seekers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025971772,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magical Treasure Seekers",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0031305354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 428
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Reed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019658802,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Reed",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017759296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael &hellip",
+            "beginOffset": 814
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young Family Mormonism",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.080731064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young Family Mormonism",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young Family",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young Family",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.042554896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phil Spector",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phil_Spector"
+      },
+      "salience": 0.022498187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phil Spector",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "salience": 0.021331595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": 210
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

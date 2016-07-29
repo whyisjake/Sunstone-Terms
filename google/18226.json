@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.25941139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1002
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017982258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stuart Bingham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01572532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stuart Bingham",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marks",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/German_gold_mark"
+      },
+      "salience": 0.013566797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marks",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith S Scriptural",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013566797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith S Scriptural",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.01234271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 1048
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.00696489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0063437633,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 933
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_and_Abel"
+      },
+      "salience": 0.001737995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ham"
+      },
+      "salience": 0.0016223859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ham",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Ham",
+            "beginOffset": 1259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015856815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago Divinity School",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

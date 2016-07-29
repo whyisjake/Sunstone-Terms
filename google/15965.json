@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Christian Community Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13653494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Community Jesus",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Community",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.018303147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Community",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Community",
+            "beginOffset": 1229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041002869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Austin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Austin,_Texas"
+      },
+      "salience": 0.003346415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austin",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sermon on the Mount",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sermon_on_the_Mount"
+      },
+      "salience": 0.002870898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Hayes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025934067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Hayes",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025165603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 964
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

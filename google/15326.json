@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.078670435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Syracuse",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Syracuse,_New_York"
+      },
+      "salience": 0.036846109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syracuse",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Syracuse",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.024064794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Virginia"
+      },
+      "salience": 0.012900029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 161
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York"
+      },
+      "salience": 0.012900029,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.01222851,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Are Marriage Ideals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011922039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Are Marriage Ideals",
+            "beginOffset": 505
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

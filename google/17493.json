@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young Compton",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12707481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young  Compton",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colonizer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11524361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colonizer",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacob Hamblin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jacob_Hamblin"
+      },
+      "salience": 0.10955453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob Hamblin",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.079335287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 74
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

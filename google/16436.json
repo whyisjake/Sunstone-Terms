@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32638359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1837
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 523
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1946
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.063954122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 815
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2043
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.017549055,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.011899194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0060918308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1812
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033955006,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0028121341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 854
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.00206522,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014963634,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1746
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0013468829,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1019
+          }
+        }
+      ]
+    },
+    {
+      "name": "PhD Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012778904,
+      "mentions": [
+        {
+          "text": {
+            "content": "PhD Henderson",
+            "beginOffset": 1699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon Banks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012586156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon Banks",
+            "beginOffset": 1378
+          }
+        },
+        {
+          "text": {
+            "content": "Gordon",
+            "beginOffset": 1655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0010929595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1039
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.00032919983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Louis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/St._Louis"
+      },
+      "salience": 0.00032919983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Louis",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

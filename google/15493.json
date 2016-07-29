@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.024601452,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lavina_Fielding_Anderson"
+      },
+      "salience": 0.0049260645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 894
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

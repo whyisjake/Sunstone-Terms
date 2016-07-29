@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Tigers",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tiger"
+      },
+      "salience": 0.34528416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tigers",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Tigers",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Tigers",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0082224794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Time",
+            "beginOffset": 572
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

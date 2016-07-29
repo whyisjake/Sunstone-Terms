@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32671255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1856
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 498
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.092549086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 790
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2062
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01567116,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Report SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012411257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Report SL03091",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0054182638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0050388724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 829
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kanavel Whitesides",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036458569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kanavel Whitesides",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0036377003,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0027505355,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027038958,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1765
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0024133832,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0023723918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1014
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul James Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059485988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul James Toscano",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059485988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 1396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059485988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 1410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059485988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerry",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

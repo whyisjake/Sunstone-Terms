@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "The Transformation of Mormon Publishing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.11026394,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Transformation of Mormon Publishing",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09331 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024665151,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09331 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amazon.com",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Amazon.com"
+      },
+      "salience": 0.012636872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amazon.com",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Amazon.com",
+            "beginOffset": 1453
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012636872,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.010155009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1709
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret Book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_Book"
+      },
+      "salience": 0.0087245358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret Book",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Deseret Book",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Deseret"
+      },
+      "salience": 0.005299978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret",
+            "beginOffset": 595
+          }
+        },
+        {
+          "text": {
+            "content": "Deseret",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0026911933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "K. Riess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026525,
+      "mentions": [
+        {
+          "text": {
+            "content": "K. Riess",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg Kofford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021980903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg Kofford",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christopher Bigelow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021980903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher Bigelow",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021980903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 912
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

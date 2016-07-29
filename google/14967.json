@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Veil Rending",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6279096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Veil Rending",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Veil",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Veil",
+            "beginOffset": 451
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014314144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katz",
+            "beginOffset": 239
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

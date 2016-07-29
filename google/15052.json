@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "The Restorationist Seventies Reorganize",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.28646737,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Restorationist Seventies Reorganize",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "The Restorationist Seventies Reorganize",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "The Restorationist Seventies Reorganize",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Divinity ROTC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0085503906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Divinity ROTC",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vietnam War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vietnam_War"
+      },
+      "salience": 0.0085503906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnam War",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "RTC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0081065344,
+      "mentions": [
+        {
+          "text": {
+            "content": "RTC",
+            "beginOffset": 326
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0067256428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 416
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

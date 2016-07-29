@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Godwrestling Godwrestling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12954846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godwrestling Godwrestling",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Francis_Walker_(entomologist)"
+      },
+      "salience": 0.063675188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walker",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021286543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Godwrestling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020480825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godwrestling",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+      },
+      "salience": 0.015667155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

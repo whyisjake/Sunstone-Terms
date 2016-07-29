@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Discussion Cultures",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12236725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Discussion Cultures",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.046649877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cultures in Conflict",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013485927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cultures in Conflict",
+            "beginOffset": 436
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

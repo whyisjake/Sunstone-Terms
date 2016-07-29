@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "name": "John Whiting",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18286446,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Whiting",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 465
+          }
+        },
+        {
+          "text": {
+            "content": "John Whiting",
+            "beginOffset": 1212
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.088081114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 437
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 1147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnny&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06679485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnny&",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny&",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny&",
+            "beginOffset": 1323
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny&",
+            "beginOffset": 1443
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04236554,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Kimball",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Service Station Guy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017808011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guy",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Service Station Guy",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Guy",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014078956,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 1298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064632013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnny",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0025347311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 907
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

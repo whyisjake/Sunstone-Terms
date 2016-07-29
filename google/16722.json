@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.23229331,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Chandler Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077738792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennifer Chandler Jones",
+            "beginOffset": 438
+          }
+        },
+        {
+          "text": {
+            "content": "Jennifer",
+            "beginOffset": 530
+          }
+        },
+        {
+          "text": {
+            "content": "Jennifer",
+            "beginOffset": 807
+          }
+        },
+        {
+          "text": {
+            "content": "Jennifer Chandler Jones",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandler Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053363189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chandler Jones",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.022616955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edgar Cayce",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Edgar_Cayce"
+      },
+      "salience": 0.011503537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edgar Cayce",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Edgar Cayce",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002226999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "Justin Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068245881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Justin Smith",
+            "beginOffset": 792
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.039693158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0084287087,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret Book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_Book"
+      },
+      "salience": 0.0084287087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret Book",
+            "beginOffset": 366
+          }
+        },
+        {
+          "text": {
+            "content": "Deseret Book",
+            "beginOffset": 673
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

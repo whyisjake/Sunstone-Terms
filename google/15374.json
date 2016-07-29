@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Truth"
+      },
+      "salience": 0.57119191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Truth",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Standard Plan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024979988,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Standard Plan",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Standard Plan",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Standard Plan",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0042108446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0042108446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 189
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

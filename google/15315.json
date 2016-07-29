@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.051567614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021248577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010334157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon Larson",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

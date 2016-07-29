@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.18740726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.09131629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Universe Gays",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0276318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Universe Gays",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Universe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012072665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Universe",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Universe",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "JP Nielsen",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0035663547,
+      "mentions": [
+        {
+          "text": {
+            "content": "JP Nielsen",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeppson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029656631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeppson",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey Nielsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeffrey_Nielsen"
+      },
+      "salience": 0.0027643777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffrey Nielsen",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston_College"
+      },
+      "salience": 0.0022911218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston College",
+            "beginOffset": 664
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston College Jeff",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022911218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston College Jeff",
+            "beginOffset": 682
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

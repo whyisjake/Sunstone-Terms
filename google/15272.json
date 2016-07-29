@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.23626859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kendricks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1199807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kendricks",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deathrow",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012771832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deathrow",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0078704441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0078704441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

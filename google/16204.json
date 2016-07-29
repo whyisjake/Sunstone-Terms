@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.020579953,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angela bay Buchanan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010354785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angela bay Buchanan",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Angela",
+            "beginOffset": 580
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

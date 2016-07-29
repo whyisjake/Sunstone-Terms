@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Sexuality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Human_sexuality"
+      },
+      "salience": 0.18506177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexuality",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Sexuality",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Sexuality",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15157154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Males",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.10339556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077890116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve",
+            "beginOffset": 261
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

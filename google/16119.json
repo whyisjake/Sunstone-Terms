@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.075675383,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 611
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023137629,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "B. Quist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016781624,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. Quist",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.00052176492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 986
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

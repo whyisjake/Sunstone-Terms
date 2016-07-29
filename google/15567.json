@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Frank J. Cannon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Frank_J._Cannon"
+      },
+      "salience": 0.54426181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frank J. Cannon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Frank J. Cannon",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Frank",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Frank J. Cannon",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.073278747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Muckraker Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.065196618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Muckraker Kenney",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth L. Cannon II",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047413219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth L. Cannon II",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Kenneth L. Cannon II",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025443656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenney",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017563619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 148
+          }
+        }
+      ]
+    },
+    {
+      "name": "San",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Storage_area_network"
+      },
+      "salience": 0.0030273213,
+      "mentions": [
+        {
+          "text": {
+            "content": "San",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

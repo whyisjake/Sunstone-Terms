@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.071260184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolution",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evolution"
+      },
+      "salience": 0.051582381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution",
+            "beginOffset": 1299
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quest for Understanding Evolution",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035318412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quest for Understanding Evolution",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Jeffery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022043835,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Jeffery",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.016975304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1313
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quest for Understanding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01551285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quest for Understanding",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Quest for Understanding",
+            "beginOffset": 1326
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trent D. Stephens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010427322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trent D. Stephens",
+            "beginOffset": 856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.010363247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1584
+          }
+        }
+      ]
+    },
+    {
+      "name": "word of God",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0033311439,
+      "mentions": [
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pleistocene",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pleistocene"
+      },
+      "salience": 0.0028792506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pleistocene",
+            "beginOffset": 1277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richely Crapo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028792506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richely Crapo",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul J. Bybee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028792506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul J. Bybee",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Jeffery Meldrum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002386085,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Jeffery Meldrum",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.0014154793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00097188074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffrey",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00097188074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 1065
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.00074194104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 1202
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

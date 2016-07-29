@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "William Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_D._Russell_(historian)"
+      },
+      "salience": 0.21625981,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Russell",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS Schisms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065824546,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS Schisms",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Schisms",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "JD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juris_Doctor"
+      },
+      "salience": 0.01202675,
+      "mentions": [
+        {
+          "text": {
+            "content": "JD",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS Schisms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0095993448,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS Schisms",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.0073383767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul school of theology",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Paul_School_of_Theology"
+      },
+      "salience": 0.0031144058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Paul school of theology",
+            "beginOffset": 348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+      },
+      "salience": 0.0031144058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 381
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

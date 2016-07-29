@@ -1,0 +1,475 @@
+{
+  "entities": [
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.056761988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 1275
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 1442
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 2278
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 2529
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Gospel Global",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053145021,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Gospel Global",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "The Gospel Global",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "The Gospel Global",
+            "beginOffset": 2450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.050656203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1505
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1555
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 2730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.01737492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Universal",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Universal_Studios"
+      },
+      "salience": 0.014293985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Universal",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Universal",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Universal",
+            "beginOffset": 2482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.010837646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle Paul",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africa Pianos",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010835696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa Pianos",
+            "beginOffset": 107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.010388346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 2573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0035083729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africans",
+            "beginOffset": 1523
+          }
+        },
+        {
+          "text": {
+            "content": "Africans",
+            "beginOffset": 1539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0032653294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1653
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 2261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pioneer",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pioneer_Corporation"
+      },
+      "salience": 0.0027321423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pioneer",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0025162774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 765
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "you kn nnj nnj",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0022312223,
+      "mentions": [
+        {
+          "text": {
+            "content": "you kn nnj nnj",
+            "beginOffset": 2385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gentile",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gentile"
+      },
+      "salience": 0.0020064202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gentile",
+            "beginOffset": 787
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019948173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Clark",
+            "beginOffset": 2305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gretchen Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019948173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gretchen Clark",
+            "beginOffset": 2317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lord&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019866521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord&",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0019272164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0018507945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018369243,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. Silver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001703501,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Silver",
+            "beginOffset": 2294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homer Lebaron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001703501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homer Lebaron",
+            "beginOffset": 2333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Norman Bangerter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001703501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Norman Bangerter",
+            "beginOffset": 2348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollis Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001703501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollis Johnson",
+            "beginOffset": 2366
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001461742,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1757
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

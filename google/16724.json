@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "Bible.",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.3284187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible.",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Bible.",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Bible.",
+            "beginOffset": 532
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 658
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 732
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.27770141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plurality Of Gods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055697039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plurality Of Gods",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene Needham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028497649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene Needham",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025848754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gods",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deity"
+      },
+      "salience": 0.013360594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scot Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036560069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scot Denhalter",
+            "beginOffset": 486
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "SW07011",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040347077,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW07011",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lester_B._Pearson"
+      },
+      "salience": 0.021682424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pearson",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latterday Saints",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0059639928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latterday Saints",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Facing East",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036664605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Facing East",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "LYNN PEARSON Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012997579,
+      "mentions": [
+        {
+          "text": {
+            "content": "LYNN PEARSON  Mormons",
+            "beginOffset": 804
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

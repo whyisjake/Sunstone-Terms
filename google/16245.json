@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "War in Heaven Revisted: Agency",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.047440369,
+      "mentions": [
+        {
+          "text": {
+            "content": "War in Heaven Revisted: Agency",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0040194211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Ferguson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034020245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Ferguson",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032244076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Chandler",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027714472,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 782
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

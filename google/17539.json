@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16090035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vinson",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eve",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evening"
+      },
+      "salience": 0.029009346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eve",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Eve",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Calgary",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Calgary"
+      },
+      "salience": 0.00409853,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Calgary",
+            "beginOffset": 341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arlington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arlington_County,_Virginia"
+      },
+      "salience": 0.0036941331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arlington",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0029025967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_radio"
+      },
+      "salience": 0.0029025967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001057953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.00090347533,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 481
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

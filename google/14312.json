@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "War As Metaphor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12484565,
+      "mentions": [
+        {
+          "text": {
+            "content": "War As Metaphor",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "War As Metaphor",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "War As Metaphor",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Thought&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090103723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Thought&",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Thought&",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Thought&",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.022841502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marshall",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marshall,_Texas"
+      },
+      "salience": 0.0045854021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marshall",
+            "beginOffset": 414
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

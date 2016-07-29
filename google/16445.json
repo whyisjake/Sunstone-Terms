@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.41600558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1689
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 490
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.078070708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 782
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1895
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diaries of Helen Mar Whitney SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02763099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diaries of Helen Mar Whitney SL03091",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.023022177,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0080004064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1664
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0036943271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 821
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002713291,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "LA nnj SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019660322,
+      "mentions": [
+        {
+          "text": {
+            "content": "LA nnj SL03091",
+            "beginOffset": 1591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dr",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_(title)"
+      },
+      "salience": 0.0016790209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dr",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014664943,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014360654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Compton",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00043257477,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Compton",
+            "beginOffset": 1330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda Wilcox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043257477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Wilcox",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

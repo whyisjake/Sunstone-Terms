@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Early Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.031881098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Early Mormon",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Early Mormon",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.016205188,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.010457494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 591
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

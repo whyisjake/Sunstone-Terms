@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "name": "MITT ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.24490756,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 465
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1304
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 1558
+          }
+        }
+      ]
+    },
+    {
+      "name": "JON HUNTSMAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Huntsman,_Jr."
+      },
+      "salience": 0.07753817,
+      "mentions": [
+        {
+          "text": {
+            "content": "JON HUNTSMAN",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Jon Huntsman",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROSEANNE BARR",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roseanne_Barr"
+      },
+      "salience": 0.070136756,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROSEANNE BARR",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Roseanne Barr",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROCKY ANDERSON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rocky_Anderson"
+      },
+      "salience": 0.040000007,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROCKY ANDERSON",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Rocky Anderson",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.012003273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.0045221588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 1448
+          }
+        }
+      ]
+    },
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020058271,
+      "mentions": [
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "Justice Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Justice_Party_(United_States)"
+      },
+      "salience": 0.0018584945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Justice Party",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Green Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Green_Party_of_the_United_States"
+      },
+      "salience": 0.0018584945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Green Party",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0014533707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.0013774271,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gop",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0013774271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gop",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0013774271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044591233,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tuvalu",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tuvalu"
+      },
+      "salience": 0.00034548523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tuvalu",
+            "beginOffset": 1095
+          }
+        }
+      ]
+    },
+    {
+      "name": "Midwest",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Midwestern_United_States"
+      },
+      "salience": 0.00027495823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Midwest",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

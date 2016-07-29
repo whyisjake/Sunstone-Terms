@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Sam Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17062256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Cannon",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Cannon",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Science Theatre 3000 Mormon Science Theatre 3000 Workman",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1689494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Science Theatre 3000 Mormon Science Theatre 3000 Workman",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ancient_Rome"
+      },
+      "salience": 0.027413314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew Workman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026373236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Workman",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matt workmen Mormon Science Theatre",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026373236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matt workmen Mormon Science Theatre",
+            "beginOffset": 447
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

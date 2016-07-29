@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017561056,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013648462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1245
+          }
+        }
+      ]
+    },
+    {
+      "name": "John W. Quiring",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037767419,
+      "mentions": [
+        {
+          "text": {
+            "content": "John W. Quiring",
+            "beginOffset": 577
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLachlan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sarah_McLachlan"
+      },
+      "salience": 0.0031254846,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLachlan",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carolina_Hurricanes"
+      },
+      "salience": 0.0031254846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolina",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Victor valley park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025901971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Victor valley park",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Victor valley college",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0025901971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Victor valley college",
+            "beginOffset": 850
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

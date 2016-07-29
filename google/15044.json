@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "university of Oregon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Oregon"
+      },
+      "salience": 0.0846661,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Oregon",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scriptures",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.0643766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paradise"
+      },
+      "salience": 0.059038177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven I Jerry",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014661672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven I Jerry",
+            "beginOffset": 93
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.011971031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "MFA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Fine_Arts"
+      },
+      "salience": 0.010795577,
+      "mentions": [
+        {
+          "text": {
+            "content": "MFA",
+            "beginOffset": 161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mercer",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mercer_County,_New_Jersey"
+      },
+      "salience": 0.010235038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mercer",
+            "beginOffset": 239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.010081687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Jersey"
+      },
+      "salience": 0.010081687,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0037837012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0033223219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 413
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

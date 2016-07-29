@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Canon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canon_(priest)"
+      },
+      "salience": 0.29896471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Canon",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Canon",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "St mark",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_the_Evangelist"
+      },
+      "salience": 0.045600869,
+      "mentions": [
+        {
+          "text": {
+            "content": "St mark",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "St mark",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038152356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.021950332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul's church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0075210724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Paul's church",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronald Tara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075210724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronald Tara",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075210724,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Preston",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Preston,_Lancashire"
+      },
+      "salience": 0.0062389723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Preston",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Randlett Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062389723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Randlett Utah",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community"
+      },
+      "salience": 0.0060019954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rosalie Colorado",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019463579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rosalie Colorado",
+            "beginOffset": 343
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

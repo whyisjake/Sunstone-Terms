@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Book&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30737734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book&",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Book&",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Book&",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Isaiah 29",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097008847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isaiah 29",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Isaiah 29",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057841703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isaiah 29",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Isaiah 29",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anthony Hutchinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037759524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anthony Hutchinson",
+            "beginOffset": 309
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Three Witnesses Hutchinson",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016143873,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Three Witnesses Hutchinson",
+            "beginOffset": 178
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

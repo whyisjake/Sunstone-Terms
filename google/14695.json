@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.05988748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Norman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Norman,_Oklahoma"
+      },
+      "salience": 0.013072939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Norman",
+            "beginOffset": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011001397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 84
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

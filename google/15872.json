@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Robert Jay Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19993559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay Christensen",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Jay Christensen",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.058608893,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peggy Fletcher Europe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009355667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peggy Fletcher Europe",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

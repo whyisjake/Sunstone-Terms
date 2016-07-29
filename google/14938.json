@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Daily Meditations",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.63893658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daily Meditations",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supplemental Mormon Religious Practice Daily Meditations",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.36106339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Supplemental Mormon Religious Practice Daily Meditations",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Supplemental Mormon Religious Practice  Daily Meditations",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Supplemental Mormon Religious Practice",
+            "beginOffset": 148
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

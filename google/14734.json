@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Calvin Grandal",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13508037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin Grandal",
+            "beginOffset": 375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bagley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1268702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church: Editorial Cartoonists",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.068682849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church: Editorial Cartoonists",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Church: Editorial Cartoonists",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Editorial Cartoonists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Editorial_cartoonist"
+      },
+      "salience": 0.023955313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Editorial Cartoonists",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Salt_Lake_Tribune"
+      },
+      "salience": 0.019056533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake Tribune",
+            "beginOffset": 276
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

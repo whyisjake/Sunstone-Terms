@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "History Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10829081,
+      "mentions": [
+        {
+          "text": {
+            "content": "History Farnsworth",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039657325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 664
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017938944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014149696,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marmion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010025569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marmion",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010025569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tennessee state university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tennessee_State_University"
+      },
+      "salience": 0.010025569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tennessee state university",
+            "beginOffset": 541
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

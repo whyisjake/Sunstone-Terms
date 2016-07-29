@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "MOSTE DESERT LUKKING PLASE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21862642,
+      "mentions": [
+        {
+          "text": {
+            "content": "MOSTE DESERT LUKKING PLASE",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051311456,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMEN",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.022918491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.019304449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.011768012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.0090235444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Upper",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Upper_Canada"
+      },
+      "salience": 0.0058899671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Upper",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0058012889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 777
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folkman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047000693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folkman",
+            "beginOffset": 546
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

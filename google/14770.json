@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Opening of Black Missions",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.20602858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Opening of Black Missions",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/West_Africa"
+      },
+      "salience": 0.16894412,
+      "mentions": [
+        {
+          "text": {
+            "content": "West Africa",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "West Africa",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "West Africa",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Black Missions",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.082811534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black Missions",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Africa Opening of Black Missions",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.082811534,
+      "mentions": [
+        {
+          "text": {
+            "content": "West Africa Opening of Black Missions",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.020539055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.019738078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "P.R.",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Public_relations"
+      },
+      "salience": 0.016194159,
+      "mentions": [
+        {
+          "text": {
+            "content": "P. R.",
+            "beginOffset": 313
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

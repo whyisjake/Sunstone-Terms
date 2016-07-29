@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "It&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24575838,
+      "mentions": [
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 648
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Accurate&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05092321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Accurate&",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Accurate&",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Accurate&",
+            "beginOffset": 684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.012827076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 338
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

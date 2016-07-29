@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Kay Gillespie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21863841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kay Gillespie",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Gillespie",
+            "beginOffset": 573
+          }
+        },
+        {
+          "text": {
+            "content": "Gillespie",
+            "beginOffset": 681
+          }
+        },
+        {
+          "text": {
+            "content": "Kay Gillespie",
+            "beginOffset": 765
+          }
+        },
+        {
+          "text": {
+            "content": "Kay Gillespie",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quinn McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.080429442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quinn McKay",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.057694018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 299
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 736
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1544
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1603
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTI-CLAUS LECTURE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.036868174,
+      "mentions": [
+        {
+          "text": {
+            "content": "ANTI-CLAUS LECTURE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SANTA-AT-THE-MANGER MYTHS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022807376,
+      "mentions": [
+        {
+          "text": {
+            "content": "SANTA-AT-THE-MANGER MYTHS",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anti-Claus",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011701254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Claus",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Anti-Claus",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Claus",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Claus"
+      },
+      "salience": 0.0099553978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Claus",
+            "beginOffset": 381
+          }
+        },
+        {
+          "text": {
+            "content": "Santa",
+            "beginOffset": 729
+          }
+        },
+        {
+          "text": {
+            "content": "Santa Claus",
+            "beginOffset": 1626
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0035281794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 545
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

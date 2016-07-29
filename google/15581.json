@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Sarah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33823106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051735826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alive and Well",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.051222943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alive and Well",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molly Benion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036838088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benion",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Molly Benion",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alive and Well",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034652721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alive and Well",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Alive and Well",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.010474035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ali",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ali"
+      },
+      "salience": 0.0099294521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ali",
+            "beginOffset": 455
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

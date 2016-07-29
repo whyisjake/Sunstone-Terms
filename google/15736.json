@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Allen D. Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29729441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allen D. Roberts",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Allen D. Roberts",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Recollections Of A Mormon Bookseller",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.23911816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Recollections Of A Mormon Bookseller",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Recollections Of A Mormon Bookseller",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Recollections Of A Mormon Bookseller",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hofmann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048477955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hofmann",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Hofmann",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Hofmann",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curt Bench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019595418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curt Bench",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.010966848,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunstone",
+            "beginOffset": 298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0028422896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

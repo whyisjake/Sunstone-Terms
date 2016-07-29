@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Biography&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.048922826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Biography&",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033133555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bringhurst",
+            "beginOffset": 282
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.012398634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "sequoia National",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sequoia_National_Park"
+      },
+      "salience": 0.010284106,
+      "mentions": [
+        {
+          "text": {
+            "content": "sequoia National",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0032073057,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 367
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

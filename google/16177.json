@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.097903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.045618553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.022984991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1225
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0058056796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0058056796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0058056796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047516841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Woodworth",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031769176,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Anderson",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

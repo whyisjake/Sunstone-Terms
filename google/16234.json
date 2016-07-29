@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "To Enforce Church Values",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029564308,
+      "mentions": [
+        {
+          "text": {
+            "content": "To Enforce Church Values",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.022675937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 102
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

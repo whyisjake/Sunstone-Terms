@@ -1,0 +1,359 @@
+{
+  "entities": [
+    {
+      "name": "Green",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Environmentally_friendly"
+      },
+      "salience": 0.044968843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Green",
+            "beginOffset": 749
+          }
+        },
+        {
+          "text": {
+            "content": "Green",
+            "beginOffset": 1019
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.025508482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 1676
+          }
+        }
+      ]
+    },
+    {
+      "name": "News Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025250275,
+      "mentions": [
+        {
+          "text": {
+            "content": "News Fundamentalist Mormons",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Green&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023973383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Green&",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Green&",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Green&",
+            "beginOffset": 1566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.019320045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 687
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.015180321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 1734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Australia"
+      },
+      "salience": 0.015180321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Australia",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Australia",
+            "beginOffset": 1744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.015180321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japan",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Japan",
+            "beginOffset": 1757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.011068785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 1513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0097199632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1441
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Leavitt",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._Leavitt"
+      },
+      "salience": 0.0058273161,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Leavitt",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda Green",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028445965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Green",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Juab County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juab_County,_Utah"
+      },
+      "salience": 0.0023106746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juab County",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0021444694,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 838
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden Kraut",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden_Kraut"
+      },
+      "salience": 0.0017468991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden Kraut",
+            "beginOffset": 1039
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirk Torgensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017468991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirk Torgensen",
+            "beginOffset": 1052
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017468991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolyn Campbell",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.000543109,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anderson_(footballer,_born_1988)"
+      },
+      "salience": 0.000543109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

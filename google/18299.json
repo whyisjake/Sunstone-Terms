@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Decolonizing Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32657567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Decolonizing Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 514
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.19903538,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 447
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 686
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 734
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 841
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026219115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colvin",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joanna Brooks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joanna_Brooks"
+      },
+      "salience": 0.0024519623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joanna Brooks",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017339921,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 972
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

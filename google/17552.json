@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.17779142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 606
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dehlin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.018737098,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronda Roberts Callister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058790683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roberts Callister",
+            "beginOffset": 331
+          }
+        },
+        {
+          "text": {
+            "content": "Ronda Roberts Callister",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Arnold",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00427123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Arnold",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip Barlow",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philip_Barlow"
+      },
+      "salience": 0.00427123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philip Barlow",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson OneNote",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00427123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson OneNote",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toronto",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Toronto"
+      },
+      "salience": 0.00427123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toronto",
+            "beginOffset": 426
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

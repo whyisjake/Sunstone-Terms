@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Robert Gottlieb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025929788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Gottlieb",
+            "beginOffset": 110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019109802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 176
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.018119952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richie Bonner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017817276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richie Bonner",
+            "beginOffset": 314
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055017164,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner",
+            "beginOffset": 304
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

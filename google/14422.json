@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "The Methodist Connection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3873876,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Methodist Connection",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "The Methodist Connection",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Methodist Connection Joseph smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056932732,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Methodist Connection Joseph smith",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.054075208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.022457035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.011742697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011133445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marvin",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph smith and Science",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088872779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph smith and Science",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

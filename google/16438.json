@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37220958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1817
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 463
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1926
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sexual Morality Revisited SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.072120242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexual Morality Revisited SL03091",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.060789783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 755
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2023
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020356407,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070708524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032646691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 794
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1111
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023976592,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015637537,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0015313107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allen Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038222817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allen Roberts",
+            "beginOffset": 1320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037209672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Schow",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

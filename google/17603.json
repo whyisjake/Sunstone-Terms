@@ -1,0 +1,331 @@
+{
+  "entities": [
+    {
+      "name": "First Amendment",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution"
+      },
+      "salience": 0.11087173,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 1001
+          }
+        },
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 1864
+          }
+        },
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 2533
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.03068308,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011015668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 667
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1678
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eunice Rho",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087039331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eunice Rho",
+            "beginOffset": 1617
+          }
+        },
+        {
+          "text": {
+            "content": "Rho",
+            "beginOffset": 1885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0046404153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 747
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1085
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1295
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_(Bickertonite)"
+      },
+      "salience": 0.0032115418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0032115418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints.",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyon Min Rho",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0026698683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyon Min Rho",
+            "beginOffset": 2073
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pledge of Allegiance",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pledge_of_Allegiance"
+      },
+      "salience": 0.0021593289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pledge of Allegiance",
+            "beginOffset": 1398
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0021305354,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Durenberger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002038484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Durenberger",
+            "beginOffset": 2100
+          }
+        }
+      ]
+    },
+    {
+      "name": "York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/York,_Alaska"
+      },
+      "salience": 0.002038484,
+      "mentions": [
+        {
+          "text": {
+            "content": "York",
+            "beginOffset": 2203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.001765476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 1420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.001765476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.001765476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jehovah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jehovah"
+      },
+      "salience": 0.001765476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jehovah",
+            "beginOffset": 1351
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Civil_Liberties_Union"
+      },
+      "salience": 0.0010575036,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Civil Liberties Union",
+            "beginOffset": 1635
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 2025
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

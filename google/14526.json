@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Saint Peter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Peter"
+      },
+      "salience": 0.31300786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Peter",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Saint Peter",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nuclear War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nuclear_warfare"
+      },
+      "salience": 0.28444135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nuclear War",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Nuclear War",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Limits of Law: Discipleship and Conversion Nuclear War",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060498368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Limits of Law: Discipleship and Conversion Nuclear War",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Limits of Law: Discipleship",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Limits of Law: Discipleship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01952491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Limits of Law: Discipleship",
+            "beginOffset": 83
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

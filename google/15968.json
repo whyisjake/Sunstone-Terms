@@ -1,0 +1,193 @@
+{
+  "entities": [
+    {
+      "name": "Surprise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020702735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Surprise",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Surprise",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Surprise",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Humor Surprise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020702735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Humor Surprise",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Humor",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Humor",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oxymoronic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oxymoron"
+      },
+      "salience": 0.016679686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oxymoronic",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Oxymoronic",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Oxymoronic",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Bell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011677948,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Bell",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "DeGenerists",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010185283,
+      "mentions": [
+        {
+          "text": {
+            "content": "DeGenerists",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "DeGenerists",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0060648271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0031755609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 1384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eloise Bell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031113261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eloise Bell",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0024100647,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 821
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

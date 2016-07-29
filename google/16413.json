@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.35813412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1732
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.066401109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1938
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019542623,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1777
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theological Method",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013254546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological Method",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013254546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism SL03091",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0067876065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031338159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 836
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023015446,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014241744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan",
+            "beginOffset": 1522
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012438962,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012180848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011978794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 1355
+          }
+        },
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": 1532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00036690111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Birch",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

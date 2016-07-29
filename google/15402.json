@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Light&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064729981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Light&",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Light&",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Light&",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Betty Eadie&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043746859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Betty Eadie&",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Betty Eadie&",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Betty Eadie&",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014407039,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lola",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lola_Cars"
+      },
+      "salience": 0.011953968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lola",
+            "beginOffset": 381
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.14008503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 417
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019882627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015018209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0032789824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Tensmeyer Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Tensmeyer Hansen",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Diaz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ricardo Diaz",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christopher K. Bigelow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher K. Bigelow",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Montclair",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Montclair",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bucks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Milwaukee_Bucks"
+      },
+      "salience": 0.0032601254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bucks",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019222765,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00084004394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 909
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "John Sorenson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_L._Sorenson"
+      },
+      "salience": 0.091009639,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Sorenson",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Sorenson",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "John Sorenson",
+            "beginOffset": 1317
+          }
+        },
+        {
+          "text": {
+            "content": "Sorenson",
+            "beginOffset": 1428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon_(Mormon's_record)"
+      },
+      "salience": 0.063689068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 520
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 904
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.03597204,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE BOOK OF MORMON",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Landform"
+      },
+      "salience": 0.0062060333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Land",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Land",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehi&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055499091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehi&",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Lehi&",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sorenson&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003458678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sorenson&",
+            "beginOffset": 400
+          }
+        },
+        {
+          "text": {
+            "content": "Sorenson&",
+            "beginOffset": 1615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Land of Promise",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032386866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Land of Promise",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Limited Tehuantepec Model",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.003120116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Limited Tehuantepec Model",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "NIMs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002473186,
+      "mentions": [
+        {
+          "text": {
+            "content": "NIMs",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023037174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014102652,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1655
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.18939579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 402
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 585
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1533
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1722
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.17782524,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1437
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057914592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 887
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Van Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010373086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Van Hale",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0075614769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1661
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029973642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mellon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Andrew_W._Mellon_Foundation"
+      },
+      "salience": 0.00036457158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mellon",
+            "beginOffset": 1224
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

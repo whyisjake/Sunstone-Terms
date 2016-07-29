@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029061325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Court Devotional",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.023559298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Court Devotional",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Court",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0129676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Court",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Old Court",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin"
+      },
+      "salience": 0.0053067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clark",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Clark_County,_Nevada"
+      },
+      "salience": 0.0046979487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.0046979487,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "PhD",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.0040120841,
+      "mentions": [
+        {
+          "text": {
+            "content": "PhD",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0014608686,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0014608686,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0012474535,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

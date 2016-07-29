@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Elohim",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elohim"
+      },
+      "salience": 0.6180107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elohim",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Elohim",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Elohim",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jehovah",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jehovah"
+      },
+      "salience": 0.099550448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jehovah",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Jehovah",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Jehovah",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.08812575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barbara Bergmann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.078442708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbara Bergmann",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021682594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad",
+            "beginOffset": 134
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.039210234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 683
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

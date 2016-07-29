@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "The Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31274372,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Man",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "George Reynolds",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Reynolds_(Mormon)"
+      },
+      "salience": 0.11411671,
+      "mentions": [
+        {
+          "text": {
+            "content": "George Reynolds",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "George Reynolds",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book"
+      },
+      "salience": 0.055431668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "GEORGE REYNOLDS&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044801541,
+      "mentions": [
+        {
+          "text": {
+            "content": "GEORGE REYNOLDS&",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "CONCORDANCE OF THE BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.044801541,
+      "mentions": [
+        {
+          "text": {
+            "content": "CONCORDANCE OF THE BOOK OF MORMON",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Presidency",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Presidency_(LDS_Church)"
+      },
+      "salience": 0.027033683,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "First Presidency",
+            "beginOffset": 1189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Complete Concordance of The Book of Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018880112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Complete Concordance of The Book of Mormon",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Complete Concordance of The Book of Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014461217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Complete Concordance of The Book of Mormon",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerry Herman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011293439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerry Herman",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0041819117,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ladd Fowler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040257443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ladd Fowler",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040257443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terman",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Microphone"
+      },
+      "salience": 0.0033365672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.0033365672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caltech",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Institute_of_Technology"
+      },
+      "salience": 0.0010378655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caltech",
+            "beginOffset": 918
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

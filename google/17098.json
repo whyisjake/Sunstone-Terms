@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Metaphor and Symbol Drawing Inspiration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036537588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metaphor and Symbol Drawing Inspiration",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.011624543,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1083
+          }
+        }
+      ]
+    },
+    {
+      "name": "Callister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025769095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Callister",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drawing Inspiration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00094904436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drawing Inspiration",
+            "beginOffset": 985
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00066423434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 953
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

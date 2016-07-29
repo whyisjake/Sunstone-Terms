@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "St The Dynamics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30143231,
+      "mentions": [
+        {
+          "text": {
+            "content": "St The Dynamics",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Mission",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_(LDS_Church)"
+      },
+      "salience": 0.059853561,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Mission",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Mission",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Mission The Dynamics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053274505,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Mission The Dynamics",
+            "beginOffset": 20
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

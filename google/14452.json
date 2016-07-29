@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Rome Catholic University",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01692174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rome Catholic University",
+            "beginOffset": 110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gregorian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gregorian_chant"
+      },
+      "salience": 0.014466299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gregorian",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.010640625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 138
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.010640625,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Notre Dame",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Notre_Dame"
+      },
+      "salience": 0.010086607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Notre Dame",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Catholic",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030515681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Catholic",
+            "beginOffset": 349
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

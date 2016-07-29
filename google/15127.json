@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Women See Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0625643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women See Things",
+            "beginOffset": 3
+          }
+        },
+        {
+          "text": {
+            "content": "Women See Things",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Writers Read From Their Works As Women See Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060484011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers Read From Their Works As Women See Things",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Writers Read From Their Works",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041093163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers Read From Their Works",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Writers Read From Their Works",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015570591,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Nichols",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012420679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Nichols",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.010871857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0090203034,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 326
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

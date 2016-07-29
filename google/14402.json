@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "The Generational Value Struggle",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.30550119,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Generational Value Struggle",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "The Generational Value Struggle",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "The Generational Value Struggle",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0097992737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 500
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

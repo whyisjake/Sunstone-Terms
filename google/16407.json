@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.35748735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1841
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 500
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1950
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.065556221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 792
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Will Vs. Determinism SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026688058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Free Will Vs. Determinism SL03091",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1750
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019260127,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1886
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Rex Sears",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017372688,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Rex Sears",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ferguson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ferguson_unrest"
+      },
+      "salience": 0.013098999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ferguson",
+            "beginOffset": 1340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0066862972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1816
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00308662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 831
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1148
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022668121,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014783631,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rexy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014026363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rexy",
+            "beginOffset": 1607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011996542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

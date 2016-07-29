@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Jana Riess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.33839211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana Riess",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Jana",
+            "beginOffset": 506
+          }
+        },
+        {
+          "text": {
+            "content": "Riess",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Jana Riess",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flunking Sainthood",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02952525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flunking Sainthood",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sabbathkeeping",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011609238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sabbathkeeping",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Sabbathkeeping",
+            "beginOffset": 1305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flunking Sainthood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032973955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flunking Sainthood",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025714296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 710
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

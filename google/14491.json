@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Faith: The Evolution",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10189424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith: The Evolution",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ward",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ward_(electoral_subdivision)"
+      },
+      "salience": 0.060664009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community Franchising the Faith: The Evolution",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.037396081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community Franchising the Faith: The Evolution",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Franchising the Faith: The Evolution",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015993068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Franchising the Faith: The Evolution",
+            "beginOffset": 568
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

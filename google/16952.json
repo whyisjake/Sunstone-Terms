@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "RESTORATION ROY JOHNSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19042811,
+      "mentions": [
+        {
+          "text": {
+            "content": "RESTORATION JOHNSON",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "RESTORATION ROY JOHNSON",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "AGD",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017348034,
+      "mentions": [
+        {
+          "text": {
+            "content": "AGD",
+            "beginOffset": 346
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Carolina Chapel Hill",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill"
+      },
+      "salience": 0.00649014,
+      "mentions": [
+        {
+          "text": {
+            "content": "North Carolina Chapel Hill",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0056053591,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0053136353,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0053136353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "EUGENE KOVALENKO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052338396,
+      "mentions": [
+        {
+          "text": {
+            "content": "EUGENE KOVALENKO",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "EUGENE KOVALENKO",
+            "beginOffset": 863
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

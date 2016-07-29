@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "UTAH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.12396392,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1119
+          }
+        },
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 1188
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1443
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.07186155,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1154
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    },
+    {
+      "name": "WOMEN IN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050832026,
+      "mentions": [
+        {
+          "text": {
+            "content": "WOMEN IN",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intermountain District",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0029139859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermountain District",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0029139859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden,_Utah"
+      },
+      "salience": 0.0029139859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orem,_Utah"
+      },
+      "salience": 0.0029139859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orem",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pocatello",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pocatello,_Idaho"
+      },
+      "salience": 0.0029139859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pocatello",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Henerson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021898595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henerson",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laurie Heintz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021898595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laurie Heintz",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Needra Troyer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021898595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Needra Troyer",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROVS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00068093225,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROVS",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

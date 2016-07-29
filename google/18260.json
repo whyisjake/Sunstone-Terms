@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.23760696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 456
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 634
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 778
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 934
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 1080
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Church Mormon Feminism In Mexico",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022207752,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Church Mormon Feminism In Mexico",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0053494405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tinajero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019321019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tinajero",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018012986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 439
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

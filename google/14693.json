@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Erotophobia Ian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076570608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Erotophobia Ian",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mr",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mr."
+      },
+      "salience": 0.028128468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": 91
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Uplifting Entertainment Uplifting Entertainment Marriot",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.6554141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uplifting Entertainment Uplifting Entertainment Marriot",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rich Raddon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03473565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rich Raddon",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Rich Raddon",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Uplifting Entertainment Marc Marriot",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010252173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uplifting Entertainment Marc Marriot",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Billy Elliot",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Billy_Elliot"
+      },
+      "salience": 0.0066983639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billy Elliot",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0055569033,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 311
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

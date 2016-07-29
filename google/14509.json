@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gary_Anderson_(placekicker)"
+      },
+      "salience": 0.06442979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Obedience Dilemma",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029720789,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Obedience Dilemma",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016803516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenny",
+            "beginOffset": 148
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015931942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Smith",
+            "beginOffset": 197
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015931942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.015931942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041281609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

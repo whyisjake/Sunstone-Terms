@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Dichotomous Thinking",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10387681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dichotomous Thinking",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Culture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Culture_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0235551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "False&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0235551,
+      "mentions": [
+        {
+          "text": {
+            "content": "False&",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.023543932,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 966
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter Danzig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046235509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Danzig",
+            "beginOffset": 438
+          }
+        },
+        {
+          "text": {
+            "content": "Peter Danzig",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Danzig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036814644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Danzig",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Danzig",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Vance",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017911299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Vance",
+            "beginOffset": 771
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

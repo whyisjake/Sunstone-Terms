@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "CONFLICT BETWEEN RELIGION AND SCIENCE",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Conflict_thesis"
+      },
+      "salience": 0.040314045,
+      "mentions": [
+        {
+          "text": {
+            "content": "CONFLICT BETWEEN RELIGION AND SCIENCE",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rorty",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Rorty"
+      },
+      "salience": 0.0042098016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rorty",
+            "beginOffset": 534
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

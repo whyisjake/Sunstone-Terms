@@ -1,0 +1,379 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.21912682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2074
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 566
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2183
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12462806,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 858
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2280
+          }
+        }
+      ]
+    },
+    {
+      "name": "Black Africans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Black_people"
+      },
+      "salience": 0.022430841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black Africans",
+            "beginOffset": 113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Than",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020431647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Than",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018934634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 1406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0176106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1082
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014702392,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2119
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011641759,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 129
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0050802226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 2049
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.004724395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 897
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1214
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Black_British"
+      },
+      "salience": 0.0034103869,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025347937,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alabama"
+      },
+      "salience": 0.0025347937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alabama",
+            "beginOffset": 1811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Auburn Alabama",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025347937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auburn Alabama",
+            "beginOffset": 1777
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0022624107,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith Webber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021646586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith Webber",
+            "beginOffset": 1912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie Palmer Sheppard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017937316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie Palmer Sheppard",
+            "beginOffset": 1443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ted Whiters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017937316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ted Whiters",
+            "beginOffset": 1427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Renee Olson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017937316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Renee Olson",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlanta",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.00069937867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 1478
+          }
+        },
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 1704
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

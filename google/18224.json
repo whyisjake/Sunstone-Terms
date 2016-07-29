@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12047021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 890
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0084092692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1090
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032863198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0021108661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 661
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

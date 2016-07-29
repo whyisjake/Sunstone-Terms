@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Ye Polluted the Holy Church of God",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.29932815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ye Polluted the Holy Church of God",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Ye Polluted the Holy Church of God",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Ye Polluted the Holy Church of God",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Church of God",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12828587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Church of God",
+            "beginOffset": 472
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Church",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi,_son_of_Lehi"
+      },
+      "salience": 0.025614092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.022139158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1262
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Ghost",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Spirit_(Christianity)"
+      },
+      "salience": 0.0069389837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moroni",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moroni_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.0050418628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 1369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0032962612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0032962612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032962612,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of god",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_God_(Cleveland,_Tennessee)"
+      },
+      "salience": 0.0014190276,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of god",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00082710688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marone",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00082710688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hercules",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00082710688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hercules",
+            "beginOffset": 963
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

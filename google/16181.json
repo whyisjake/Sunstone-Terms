@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Richard Cummings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04706651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Cummings",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0087147467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1230
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Burtenshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028449413,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Burtenshaw",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia Convention",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)"
+      },
+      "salience": 0.0026254198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philadelphia Convention",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0020071224,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0007309143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "United",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manchester_United_F.C."
+      },
+      "salience": 0.00062414282,
+      "mentions": [
+        {
+          "text": {
+            "content": "United",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho Senate",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho_Senate"
+      },
+      "salience": 0.00062414282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho Senate",
+            "beginOffset": 943
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

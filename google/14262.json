@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.53016889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 570
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 605
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.017533896,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon history association",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_History_Association"
+      },
+      "salience": 0.012241351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon history association",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altman Pratt",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0037111933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altman Pratt",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Pratt"
+      },
+      "salience": 0.0037111933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.003169978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 414
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

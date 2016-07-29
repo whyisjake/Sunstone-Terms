@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Fogel Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41217217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Fogel Joseph Smith&",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Dynamics Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0926911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Dynamics Joseph Smith&",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0782416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Dynamics Vogel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030550698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Dynamics Vogel",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030550698,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Jess Groesbeck",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lleyton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019796204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lleyton",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01827901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013060992,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Jess Groesbeck",
+            "beginOffset": 470
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

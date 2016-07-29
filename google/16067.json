@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.22065394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 546
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.079811424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+      },
+      "salience": 0.008970187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congo",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin"
+      },
+      "salience": 0.0062876479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin",
+            "beginOffset": 448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14763732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberty Jail",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1172472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberty Jail",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Liberty Jail",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023710243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "PACIFISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacifism"
+      },
+      "salience": 0.018172398,
+      "mentions": [
+        {
+          "text": {
+            "content": "PACIFISM",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missourians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012234909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missourians",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Missourians",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri St Louis",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Missouri%E2%80%93St._Louis"
+      },
+      "salience": 0.0034019172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri St Louis",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016282428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013494346,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 761
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

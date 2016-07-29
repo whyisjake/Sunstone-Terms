@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Nephites",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057862192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Society Freeways",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027422234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Society Freeways",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Society",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01614696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Society",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Contemporary Mormon Society",
+            "beginOffset": 541
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

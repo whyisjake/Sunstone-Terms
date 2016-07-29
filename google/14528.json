@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.050364081,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.02206287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.018021965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 246
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

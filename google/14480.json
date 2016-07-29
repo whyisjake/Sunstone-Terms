@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Taliban",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Taliban"
+      },
+      "salience": 0.017531136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taliban",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.010144068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 510
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

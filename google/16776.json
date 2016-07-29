@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "CLAREMONT",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.1150242,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLAREMONT",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "CLAREMONT",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 862
+          }
+        },
+        {
+          "text": {
+            "content": "CLAREMONT",
+            "beginOffset": 1159
+          }
+        },
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAINSTREAMING OF MORMON STUDIES",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039234046,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAINSTREAMING OF MORMON STUDIES",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON STUDIES",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_studies"
+      },
+      "salience": 0.030608017,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON STUDIES",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "MORMON STUDIES",
+            "beginOffset": 1230
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010779201,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 667
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0093886377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duffy",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0035197851,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0034566333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1504
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Carolina at Chapel Hill",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.003124973,
+      "mentions": [
+        {
+          "text": {
+            "content": "North Carolina at Chapel Hill",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0027255886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.0020381962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 897
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0020381962,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 993
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

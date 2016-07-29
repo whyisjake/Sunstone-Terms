@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.005990617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.005990617,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swedenborg",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+      },
+      "salience": 0.0048618866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swedenborg",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Castleton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031222191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Castleton",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roche",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hoffmann-La_Roche"
+      },
+      "salience": 0.0015120811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roche",
+            "beginOffset": 812
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

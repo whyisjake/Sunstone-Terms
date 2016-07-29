@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Mary Ellen Roberston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18141924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen Roberston",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Ellen Roberston",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Eyring",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08244215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Eyring",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Eyring",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Val",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070437724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Val",
+            "beginOffset": 267
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

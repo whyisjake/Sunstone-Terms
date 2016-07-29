@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "New LDS Edition Making",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.073945358,
+      "mentions": [
+        {
+          "text": {
+            "content": "New LDS Edition Making",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "New LDS Edition  Making",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.043694887,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 283
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

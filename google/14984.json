@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Looking Glass",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mirror"
+      },
+      "salience": 0.59859335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Looking Glass",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Looking Glass",
+            "beginOffset": 621
+          }
+        },
+        {
+          "text": {
+            "content": "Looking Glass",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.037572157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 655
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

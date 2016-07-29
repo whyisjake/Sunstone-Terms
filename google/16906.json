@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "SYMPOSIUM FOR LAUREL THATCHER ULRICH&",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.33107862,
+      "mentions": [
+        {
+          "text": {
+            "content": "SYMPOSIUM FOR LAUREL THATCHER ULRICH&",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "SYMPOSIUM FOR LAUREL THATCHER ULRICH&",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON HISTORICAL SIGNIFICANCE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017006062,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON HISTORICAL SIGNIFICANCE",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "MORMON HISTORICAL SIGNIFICANCE",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "HARVARD HEATHER SUNDAHL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017006062,
+      "mentions": [
+        {
+          "text": {
+            "content": "HARVARD SUNDAHL",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "HARVARD HEATHER SUNDAHL",
+            "beginOffset": 414
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

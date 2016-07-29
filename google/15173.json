@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "American Mormons&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.40466741,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Mormons&",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "American Mormons&",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War II",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.034871411,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War II",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "World War II",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "World War II",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_war"
+      },
+      "salience": 0.013151657,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0090931384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Mormons&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00736727,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Mormons&",
+            "beginOffset": 611
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

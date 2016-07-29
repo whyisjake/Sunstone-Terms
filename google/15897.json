@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.2997548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Todd",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "JESUS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.077699564,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kent E. Robson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018307462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kent E. Robson",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Kent E. Robson",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0083596641,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 106
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA Todd",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0076236036,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA Todd",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helen Mar Whitney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Helen_Mar_Kimball"
+      },
+      "salience": 0.0058266674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helen Mar Whitney",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0048309849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 291
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

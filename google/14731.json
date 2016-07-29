@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "New Light From Exciting Archaeological Discoveries Jesus",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.50069743,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Light From Exciting Archaeological Discoveries Jesus",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "New Light From Exciting Archaeological",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "New Light From Exciting Archaeological",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles worth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13884099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles worth",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.046477988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.034957938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "George L.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Lucas"
+      },
+      "salience": 0.016184734,
+      "mentions": [
+        {
+          "text": {
+            "content": "George L.",
+            "beginOffset": 167
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.015346081,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 198
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton theological seminary",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_Theological_Seminary"
+      },
+      "salience": 0.015346081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton theological seminary",
+            "beginOffset": 239
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.1370405,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.J. Fogg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021009738,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.J. Fogg",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "B.J. Fogg",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Slade",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021009738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Slade",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Karen Slade",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradley Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021009738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradley Woodworth",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Bradley Woodworth",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "LizNoel Duncan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021009738,
+      "mentions": [
+        {
+          "text": {
+            "content": "LizNoel Duncan",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "LizNoel Duncan",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.013207282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robbines Lines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047811456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robbines Lines",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

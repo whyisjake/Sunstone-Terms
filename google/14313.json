@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Tom Rogers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19651687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Rogers",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Connection The Thinking Person&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19389671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thinking Person&",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Spiritual Connection The Thinking Person&",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Thinking Person&",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Connection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061615903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Connection",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Spiritual Connection",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030818084,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 482
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

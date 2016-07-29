@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "BH Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.32592806,
+      "mentions": [
+        {
+          "text": {
+            "content": "B H Roberts",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "B H Roberts",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "B H Roberts",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book Of Mormon Apologist",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.075706586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book Of Mormon Apologist",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Book Of Mormon Apologist",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Book Of Mormon Apologist",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "Critic D. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020095341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Critic D. Smith",
+            "beginOffset": 95
+          }
+        }
+      ]
+    },
+    {
+      "name": "George D. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0085626831,
+      "mentions": [
+        {
+          "text": {
+            "content": "George D. Smith",
+            "beginOffset": 636
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

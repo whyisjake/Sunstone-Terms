@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.11277851,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 644
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.068419605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.023071345,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "DC",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Controlled Substances Act",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Controlled_Substances_Act"
+      },
+      "salience": 0.011897294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Controlled Substances Act",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Controlled Substances Act",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0038252815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Word_of_Wisdom"
+      },
+      "salience": 0.0030972797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edmunds",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Edmunds.com"
+      },
+      "salience": 0.0029816851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edmunds",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jody England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029816851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jody England Hansen",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017671161,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 963
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

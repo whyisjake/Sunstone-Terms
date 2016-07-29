@@ -1,0 +1,341 @@
+{
+  "entities": [
+    {
+      "name": "Bringhurst",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Bringhurst"
+      },
+      "salience": 0.049575318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bringhurst",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.030068282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1237
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Miller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Miller_(preacher)"
+      },
+      "salience": 0.020464538,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Miller",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Perspectives On Slavery",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020464538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perspectives On Slavery",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Baker Eddy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Baker_Eddy"
+      },
+      "salience": 0.020464538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Baker Eddy",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ellen G. White",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ellen_G._White"
+      },
+      "salience": 0.020464538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen G. White",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017521143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015658285,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035781509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 403
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0027960609,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.002443332,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 1392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stirling Adams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023880429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stirling Adams",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Joaquin Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Joaquin_Valley"
+      },
+      "salience": 0.0023880429,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Joaquin Valley",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0023172952,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California Davis",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Davis"
+      },
+      "salience": 0.0023172952,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California Davis",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "St",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adivasi"
+      },
+      "salience": 0.00197906,
+      "mentions": [
+        {
+          "text": {
+            "content": "St",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00072070764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00072070764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00050993718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brody",
+            "beginOffset": 954
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Nephi 2",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01249209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi 2",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi 2",
+            "beginOffset": 1402
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Kestler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024565782,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Kestler",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph West",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022065016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph West",
+            "beginOffset": 907
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

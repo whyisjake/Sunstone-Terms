@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.15629183,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finlayson-Fife",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.04905596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finlayson-Fife",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Finlayson-Fife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04905596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennifer Finlayson-Fife",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natasha Helfer Parker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041480485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natasha Helfer Parker",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Natasha Helfer Parker",
+            "beginOffset": 195
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

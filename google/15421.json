@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Brookie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brookside"
+      },
+      "salience": 0.10690449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brookie",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Brookie",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Brookie",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "DK Brown Memorial Fiction Contest Awards Banquet",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.087212153,
+      "mentions": [
+        {
+          "text": {
+            "content": "D K Brown Memorial Fiction Contest Awards Banquet",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "DK Brown Memorial Fiction Contest Awards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05915603,
+      "mentions": [
+        {
+          "text": {
+            "content": "D K Brown Memorial Fiction Contest Awards",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "D K Brown Memorial Fiction Contest Awards",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marilyn bushman Carlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010383862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marilyn bushman Carlton",
+            "beginOffset": 552
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

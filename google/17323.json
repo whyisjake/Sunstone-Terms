@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "name": "Elijah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elijah"
+      },
+      "salience": 0.30347207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Elijah",
+            "beginOffset": 595
+          }
+        },
+        {
+          "text": {
+            "content": "Elias",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Elias",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "Elias",
+            "beginOffset": 1178
+          }
+        },
+        {
+          "text": {
+            "content": "Elias",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_the_Baptist"
+      },
+      "salience": 0.02927655,
+      "mentions": [
+        {
+          "text": {
+            "content": "John the Baptist",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Second Coming",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second_Coming"
+      },
+      "salience": 0.026651954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Coming",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Second Coming",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10224",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022457991,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10224",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.0095630446,
+      "mentions": [
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "STEVE SHIELDS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056031072,
+      "mentions": [
+        {
+          "text": {
+            "content": "STEVE SHIELDS",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0048466236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1159
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elijah/Elias/John the Baptist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037736795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah/Elias/John the Baptist",
+            "beginOffset": 293
+          }
+        }
+      ]
+    },
+    {
+      "name": "SAVAGE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026805568,
+      "mentions": [
+        {
+          "text": {
+            "content": "SAVAGE",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew 11",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025902195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew 11",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew 11",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0020775397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.0020775397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elijah/Elias/John the Baptist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019643728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah/Elias/John the Baptist",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00064619083,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 780
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

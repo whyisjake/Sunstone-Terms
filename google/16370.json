@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.19722052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "NATIONAL CULTURE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034249961,
+      "mentions": [
+        {
+          "text": {
+            "content": "NATIONAL CULTURE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wild West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_frontier"
+      },
+      "salience": 0.026248302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wild West",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Wild West",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revolutionary War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Revolutionary_War"
+      },
+      "salience": 0.018079149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revolutionary War",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Revolutionary War",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civil War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Civil_war"
+      },
+      "salience": 0.018079149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civil War",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Civil War",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.011265257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 516
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.001063518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 692
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

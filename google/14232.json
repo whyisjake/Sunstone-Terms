@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Conor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021099081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conor",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026329223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

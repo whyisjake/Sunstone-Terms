@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Sage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15543218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sage",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Sage",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Sage",
+            "beginOffset": 201
+          }
+        }
+      ]
+    },
+    {
+      "name": "Basilica",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Basilica"
+      },
+      "salience": 0.12642796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Basilica",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kingdom",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saudi_Arabia"
+      },
+      "salience": 0.10209703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Chapel Architecture",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.063707374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Chapel Architecture",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Chapel Architecture",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Chapel Architecture",
+            "beginOffset": 244
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

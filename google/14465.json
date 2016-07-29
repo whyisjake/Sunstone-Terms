@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.28178328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Workers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Worker_Movement"
+      },
+      "salience": 0.12635915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Workers",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Workers",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Workers",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City Theologies of Social Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005272218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City Theologies of Social Change",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gartner",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gartner"
+      },
+      "salience": 0.0039217779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gartner",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neil Christiansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033393167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neil Christiansen",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "JD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juris_Doctor"
+      },
+      "salience": 0.0010394107,
+      "mentions": [
+        {
+          "text": {
+            "content": "JD",
+            "beginOffset": 509
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

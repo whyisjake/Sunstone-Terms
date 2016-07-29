@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "My Faith Pillars of My Faith This",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.025984159,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith Pillars of My Faith This",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Pillars of My Faith This",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018058402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0043982319,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim Bateman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00433196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bateman",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Kim Bateman",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00433196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

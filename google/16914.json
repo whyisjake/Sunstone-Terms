@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.14840393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 910
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 656
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.13391398,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEMOCRATIZATION OF MORMON STUDIES",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029825009,
+      "mentions": [
+        {
+          "text": {
+            "content": "DEMOCRATIZATION OF MORMON STUDIES",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.013977846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 842
+          }
+        }
+      ]
+    },
+    {
+      "name": "MARK BROWN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034072902,
+      "mentions": [
+        {
+          "text": {
+            "content": "MARK BROWN",
+            "beginOffset": 692
+          }
+        },
+        {
+          "text": {
+            "content": "BROWN",
+            "beginOffset": 685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Common Consent",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Common_consent_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034059412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Common Consent",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "STEVE EVANS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Steve_Evans_(lawyer_and_blogger)"
+      },
+      "salience": 0.0027175024,
+      "mentions": [
+        {
+          "text": {
+            "content": "STEVE EVANS",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "KRISTINE HAGLUND",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kristine_Haglund"
+      },
+      "salience": 0.0027175024,
+      "mentions": [
+        {
+          "text": {
+            "content": "KRISTINE HAGLUND",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRACY MULLETT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00084534183,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRACY MULLETT",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. STAPLEY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00084534183,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. STAPLEY",
+            "beginOffset": 750
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

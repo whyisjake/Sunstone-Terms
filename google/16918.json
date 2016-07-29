@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "J. BONNER RITCHIE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47524115,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. BONNER RITCHIE",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "J. BONNER RITCHIE",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "IN A WORLD IN CONFLICT",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0588625,
+      "mentions": [
+        {
+          "text": {
+            "content": "IN A WORLD IN CONFLICT",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.0042165536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "BONNER RITCHIE Back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034163664,
+      "mentions": [
+        {
+          "text": {
+            "content": "BONNER RITCHIE  Back",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024429578,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 804
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,279 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.28380778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1822
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 528
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1931
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10252379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 820
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2028
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015069267,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010591457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Impact SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00520921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Impact SL03091",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00520921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0049469694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 859
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1176
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035361375,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027167294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0019633607,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1024
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019351233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058753882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 1379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058753882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 1397
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058753882,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Dennis Potter",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

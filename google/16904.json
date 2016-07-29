@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "BOSTON",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston"
+      },
+      "salience": 0.60212785,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOSTON",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "CAMBRIDGE",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
+      },
+      "salience": 0.26047078,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAMBRIDGE",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON HISTORY PROJECT THATCHER ULRICH LAUREL THATCHER ULRICH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13740134,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON HISTORY PROJECT  THATCHER ULRICH  LAUREL THATCHER ULRICH",
+            "beginOffset": 21
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

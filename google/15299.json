@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.105437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Covenants",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045494244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Covenants",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073652118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry",
+            "beginOffset": 309
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

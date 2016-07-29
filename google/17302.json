@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.12620959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Play Project",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.089241877,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Play Project",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "NPP",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "New Play Project",
+            "beginOffset": 728
+          }
+        },
+        {
+          "text": {
+            "content": "NPP",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10154",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027583048,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10154",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best Drama",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Logie_Award_for_Most_Outstanding_Drama_Series"
+      },
+      "salience": 0.016230393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best Drama",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Best Drama",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0083522405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adele Gabriel Adam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049725086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adele Gabriel Adam",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davey Morrison Dillard Prodigal Son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041226121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davey Morrison Dillard Prodigal Son",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gideon Burton Son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041226121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gideon Burton Son",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graham Ward Christy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026900196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graham Ward Christy",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paige Guthrie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011398417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paige Guthrie",
+            "beginOffset": 581
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

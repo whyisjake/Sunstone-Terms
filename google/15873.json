@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Calvin Ron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22648257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin Ron",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Hagen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034529872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Hagen",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Hagen",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew Workman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034529872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Workman",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew Workman",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.033671848,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018478122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linford",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Linford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007860004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Linford",
+            "beginOffset": 528
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

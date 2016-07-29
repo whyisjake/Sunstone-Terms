@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_in_Mormonism"
+      },
+      "salience": 0.055625036,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modern Day Wiccan Concept",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053656675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Day Wiccan Concept",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Day Wiccan Concept",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Day Wiccan Concept",
+            "beginOffset": 755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heavenly Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heavenly_Mother"
+      },
+      "salience": 0.043415036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goddess The Queendom",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023412386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goddess The Queendom",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goddess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Goddess"
+      },
+      "salience": 0.017828539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goddess",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Waco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Waco,_Texas"
+      },
+      "salience": 0.012515484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.010382735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 406
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

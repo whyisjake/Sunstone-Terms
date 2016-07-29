@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.12018488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 381
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Christian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044211835,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Christian",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026534187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Toscano",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Toscano",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacob Baker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00370218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baker",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob Baker",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00370218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00370218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Thomas",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Thomas",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00370218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 313
+          }
+        },
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 626
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

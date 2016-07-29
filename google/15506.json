@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "THOUGHT Neal C. Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22496255,
+      "mentions": [
+        {
+          "text": {
+            "content": "THOUGHT C. Chandler",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "THOUGHT Neal C. Chandler",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.030184506,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby) Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068031452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jay Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068031452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay Frederick",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Jay Frederick",
+            "beginOffset": 522
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

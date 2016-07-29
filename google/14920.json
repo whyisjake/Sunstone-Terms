@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "New Hymn Book&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.16560575,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Hymn Book&",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mims_(rapper)"
+      },
+      "salience": 0.13455564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mims",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mims",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Mims",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion The New Hymn Book&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.046443466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion The New Hymn Book&",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Zion  The New Hymn Book&",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_%26_Lennox"
+      },
+      "salience": 0.027443806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 257
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,219 @@
+{
+  "entities": [
+    {
+      "name": "William Tyndale",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Tyndale"
+      },
+      "salience": 0.22581069,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Tyndale",
+            "beginOffset": 259
+          }
+        },
+        {
+          "text": {
+            "content": "William Tyndale",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "THOMAS MORE",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_More"
+      },
+      "salience": 0.20738617,
+      "mentions": [
+        {
+          "text": {
+            "content": "THOMAS MORE",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas More",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas More",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "WILLIAM TYNDALE DEBATE MORMONISM",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016673803,
+      "mentions": [
+        {
+          "text": {
+            "content": "WILLIAM TYNDALE DEBATE MORMONISM",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholicism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.014024972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholicism",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Catholicism",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.011926628,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utopia",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utopia_(book)"
+      },
+      "salience": 0.011328782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utopia",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Utopia",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lutheran",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011328782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lutheran",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "Lutheran",
+            "beginOffset": 1036
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.003050176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024048325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conkling",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sara Patterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024048325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara Patterson",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ralph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024048325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ralph",
+            "beginOffset": 715
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

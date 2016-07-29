@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.046597905,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.02168037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.016215265,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.016215265,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 169
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

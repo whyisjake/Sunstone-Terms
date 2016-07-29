@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "name": "Thomas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Thomas"
+      },
+      "salience": 0.25543591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 903
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 971
+          }
+        },
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samson"
+      },
+      "salience": 0.14722535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samson",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Samson",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Samson",
+            "beginOffset": 887
+          }
+        },
+        {
+          "text": {
+            "content": "Samson",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026948361,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Russell",
+            "beginOffset": 550
+          }
+        },
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 827
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soiled",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016042138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soiled",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.012442687,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Bible",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David"
+      },
+      "salience": 0.0074980771,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Balaam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Balaam"
+      },
+      "salience": 0.0074980771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Balaam",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Balaam",
+            "beginOffset": 895
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judas_Iscariot"
+      },
+      "salience": 0.0074980771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judas",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Judas",
+            "beginOffset": 911
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.0021160645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018454522,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0018237559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017303856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.00099809945,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 651
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

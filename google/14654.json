@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Two Churches",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13360931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two Churches",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Local Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Local_church"
+      },
+      "salience": 0.049138065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.042491831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Central",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_America"
+      },
+      "salience": 0.037754811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Two The Two Churches",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023231279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two The Two Churches",
+            "beginOffset": 148
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Two Churches",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016227726,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Two Churches",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boylan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009752864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boylan",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.0092113912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dorchester",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dorchester,_Boston"
+      },
+      "salience": 0.0078712646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dorchester",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0024532299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "BFA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Fine_Arts"
+      },
+      "salience": 0.0024532299,
+      "mentions": [
+        {
+          "text": {
+            "content": "BFA",
+            "beginOffset": 557
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

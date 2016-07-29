@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.20044103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 619
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fanny Alger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fanny_Alger"
+      },
+      "salience": 0.077930145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fanny Alger",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Fanny Alger",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Fanny",
+            "beginOffset": 531
+          }
+        },
+        {
+          "text": {
+            "content": "Fanny",
+            "beginOffset": 630
+          }
+        },
+        {
+          "text": {
+            "content": "Fanny Alger",
+            "beginOffset": 860
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.060509469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 888
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10314",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015958147,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10314",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Nature",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015958147,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Nature",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.0078850659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRADLEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bradley_Braves_men's_basketball"
+      },
+      "salience": 0.0014270252,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRADLEY",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014270252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donna Karan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044377334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donna Karan",
+            "beginOffset": 822
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

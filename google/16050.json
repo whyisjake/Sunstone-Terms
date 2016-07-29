@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.32288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1066
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1204
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Follett Discourse",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Follett_discourse"
+      },
+      "salience": 0.010955669,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 1129
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055927243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armstrong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002900053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armstrong",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "University Press",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.000708448,
+      "mentions": [
+        {
+          "text": {
+            "content": "University Press",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "David O. McKay",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._McKay"
+      },
+      "salience": 0.000708448,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 931
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

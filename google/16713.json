@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0992977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 495
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake T. Ostler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Blake_Ostler"
+      },
+      "salience": 0.084238619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake T. Ostler",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armenian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armenians"
+      },
+      "salience": 0.066708848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armenian",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Armenian",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Armenian",
+            "beginOffset": 1200
+          }
+        },
+        {
+          "text": {
+            "content": "Armenian",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "All In Arminius",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037854172,
+      "mentions": [
+        {
+          "text": {
+            "content": "All In Arminius",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyper-Arminianism",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037854172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyper-Arminianism",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.022584777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012734409,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012734409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arminianism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arminianism"
+      },
+      "salience": 0.011937995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arminianism",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Arminianism",
+            "beginOffset": 1349
+          }
+        },
+        {
+          "text": {
+            "content": "Arminianism",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Augustinianism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030566524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Augustinianism",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvinism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvinism"
+      },
+      "salience": 0.0030566524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvinism",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hausam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029751782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hausam",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0023367847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 858
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

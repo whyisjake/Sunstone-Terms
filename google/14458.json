@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Shakespeare",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Shakespeare"
+      },
+      "salience": 0.097150311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakespeare",
+            "beginOffset": 304
+          }
+        },
+        {
+          "text": {
+            "content": "Shakespeare",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conflict",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Conflict_(process)"
+      },
+      "salience": 0.045895748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conflict",
+            "beginOffset": 113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014898931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0099174613,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0099174613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Herman_Melville"
+      },
+      "salience": 0.0025673052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melville",
+            "beginOffset": 373
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

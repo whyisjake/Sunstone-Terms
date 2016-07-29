@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Healing Practices",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.63714254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Healing Practices",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Century Church Healing Practices",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.23704343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Century Church Healing Practices",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Century Church  Healing Practices",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Century Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.125814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Century Church",
+            "beginOffset": 121
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

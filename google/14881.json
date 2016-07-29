@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Mister",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mr."
+      },
+      "salience": 0.36731249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2026958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel Peterson",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032903429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.024283439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023030316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "California State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_State_University"
+      },
+      "salience": 0.018920839,
+      "mentions": [
+        {
+          "text": {
+            "content": "California State University",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.017066956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 116
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.016182588,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0049121925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arabic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabic"
+      },
+      "salience": 0.0044935257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arabic",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Arabic",
+            "beginOffset": 409
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

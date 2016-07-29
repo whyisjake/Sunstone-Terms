@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Angel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angel"
+      },
+      "salience": 0.10697979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angel",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Angel",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacob",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jacob"
+      },
+      "salience": 0.036655955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Old Testament Jacob And The Angel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.030042846,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Old Testament Jacob And The Angel",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Old Testament C. Sandberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019840728,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Old Testament C. Sandberg",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Old Testament Karl C. Sandberg",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012848333,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Old Testament Karl C. Sandberg",
+            "beginOffset": 435
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

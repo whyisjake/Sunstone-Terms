@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Zelph",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.074233077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zelph",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Zelph",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Zelph",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.016969122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011849736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 198
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

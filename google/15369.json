@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Janet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097244829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077011421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Questions Three",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038433194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Questions Three",
+            "beginOffset": 93
+          }
+        }
+      ]
+    },
+    {
+      "name": "Questions",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Question"
+      },
+      "salience": 0.028334705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Questions",
+            "beginOffset": 196
+          }
+        }
+      ]
+    },
+    {
+      "name": "III",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020562805,
+      "mentions": [
+        {
+          "text": {
+            "content": "I   I I",
+            "beginOffset": 516
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

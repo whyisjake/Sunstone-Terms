@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.073059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 618
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 788
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 823
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014857535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013848671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035784019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.002505996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 573
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

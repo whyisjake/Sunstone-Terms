@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.396112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1898
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.063396096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 789
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2104
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021174038,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1943
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jones",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kenwyne_Jones"
+      },
+      "salience": 0.016256826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jones",
+            "beginOffset": 1337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natural Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014355594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natural Man",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Origins of Sin SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014355594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Origins of Sin SL03091",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0073485873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Satan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Satan"
+      },
+      "salience": 0.006691427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Satan",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Satan",
+            "beginOffset": 1573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0033920729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0024910895,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kurt SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018312398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kurt SL03091",
+            "beginOffset": 1802
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016246019,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0015908933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philippines"
+      },
+      "salience": 0.0013491787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philippines",
+            "beginOffset": 1778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Stamps",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012959189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Stamps",
+            "beginOffset": 1347
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

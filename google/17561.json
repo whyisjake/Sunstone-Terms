@@ -1,0 +1,295 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.14081226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 584
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1035
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1204
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 470
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 827
+          }
+        }
+      ]
+    },
+    {
+      "name": "Focus on the Family",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Focus_on_the_Family"
+      },
+      "salience": 0.10739704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Focus on the Family",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Focus on the Family",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evangelicals",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evangelicalism"
+      },
+      "salience": 0.0830644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evangelicals",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelicals",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelicals",
+            "beginOffset": 1114
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelicals",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evangelical Right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014321826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evangelical Right",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelical Right",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.013789146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.013339402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0080588227,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "National day of prayer Task Force",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Day_of_Prayer_Task_Force"
+      },
+      "salience": 0.0039765132,
+      "mentions": [
+        {
+          "text": {
+            "content": "National day of prayer Task Force",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Beck",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Glenn_Beck"
+      },
+      "salience": 0.0037119847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-ERA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0036683481,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-ERA",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.0036683481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029265804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duffy",
+            "beginOffset": 777
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bridget Jack Jeffries",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029265804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridget Jack Jeffries",
+            "beginOffset": 784
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.029554605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don T Need Heavenly Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027027737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Don T Need Heavenly Mother",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051813517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Anderson",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051813517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Capella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022853399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Capella",
+            "beginOffset": 578
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

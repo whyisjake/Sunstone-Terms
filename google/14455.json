@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation"
+      },
+      "salience": 0.54895818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bright Light Blind",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.054721918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bright Light Blind",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Bright Light Blind",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL85",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.021798192,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL85",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "SL85",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bright Light Blind",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014298079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bright Light Blind",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0046492987,
+      "mentions": [
+        {
+          "text": {
+            "content": "R.",
+            "beginOffset": 140
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

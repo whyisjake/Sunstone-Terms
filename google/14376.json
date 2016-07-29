@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Spectrum of Religious Beliefs and Behaviors The Spectrum of Religious Beliefs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10002948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spectrum of Religious Beliefs and Behaviors The Spectrum of Religious Beliefs",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020529317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": 204
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford Medical Center",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University_Medical_Center"
+      },
+      "salience": 0.020529317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford Medical Center",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Spectrum of Religious Beliefs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016395759,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Spectrum of Religious Beliefs",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0053280774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 348
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

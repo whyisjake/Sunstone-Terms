@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq_War"
+      },
+      "salience": 0.0716045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/War"
+      },
+      "salience": 0.06279961,
+      "mentions": [
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Norway"
+      },
+      "salience": 0.010201573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Norway",
+            "beginOffset": 207
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0096696038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane England",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moral",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moral"
+      },
+      "salience": 0.0096696038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moral",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002922294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": 357
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

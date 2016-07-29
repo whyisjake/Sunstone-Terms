@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.40084347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1835
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 486
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.064153351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 778
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2041
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021426959,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brethren: The Abdication of Agency SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014527069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brethren: The Abdication of Agency SL03091",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081824325,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Clark",
+            "beginOffset": 1326
+          }
+        },
+        {
+          "text": {
+            "content": "Clark",
+            "beginOffset": 1449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0074363649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034325907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 817
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1134
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002520845,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001826469,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1744
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016440075,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0016098963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cindy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010146989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cindy",
+            "beginOffset": 1568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040181415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 1336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

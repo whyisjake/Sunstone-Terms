@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39721653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1761
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1870
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.073935486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 770
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1967
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021773765,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1806
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finally Tells Her Story SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014769037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finally Tells Her Story SL03091",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0075638285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1736
+          }
+        }
+      ]
+    },
+    {
+      "name": "dnmt SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046867477,
+      "mentions": [
+        {
+          "text": {
+            "content": "dnmt SL03091",
+            "beginOffset": 1665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034923665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diana",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+      },
+      "salience": 0.0031091713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diana",
+            "beginOffset": 1418
+          }
+        },
+        {
+          "text": {
+            "content": "Diana",
+            "beginOffset": 1521
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025649008,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016728378,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001357485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stewart",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kristen_Stewart"
+      },
+      "salience": 0.00049348827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stewart",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004088947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 1330
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

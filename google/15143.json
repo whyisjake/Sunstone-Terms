@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Sacrament Communion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32914576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacrament Communion",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.035456829,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Sacrament",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026097585,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Sacrament",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Sacrament",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.02094111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eucharistia&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02094111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eucharistia&",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Eucharistia&",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Eucharistia&",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Balzac Communion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089711519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Balzac Communion",
+            "beginOffset": 641
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

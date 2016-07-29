@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.19088519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "U",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015230231,
+      "mentions": [
+        {
+          "text": {
+            "content": "U",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "City College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/City_College_of_New_York"
+      },
+      "salience": 0.0023105491,
+      "mentions": [
+        {
+          "text": {
+            "content": "City College",
+            "beginOffset": 339
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

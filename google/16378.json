@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36250845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1571
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 461
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1680
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1046299,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1480
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.02037688,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1616
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.013828102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070853992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0067810253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 753
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1777
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032723704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 792
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0024034802,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012991108,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012721566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 977
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038321721,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

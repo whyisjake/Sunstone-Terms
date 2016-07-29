@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.099303313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis trible",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.079823084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis trible",
+            "beginOffset": 351
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

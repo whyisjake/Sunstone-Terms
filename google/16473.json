@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Armand L. Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.25254351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mauss",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Mauss",
+            "beginOffset": 411
+          }
+        },
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 718
+          }
+        }
+      ]
+    },
+    {
+      "name": "Children: Changing Mormon Conceptions of Race",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.045161851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Children: Changing Mormon Conceptions of Race",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lineage NW3002",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.040527694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lineage NW3002",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abraham&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034769271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abraham&",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010705288,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Mauss NW3002",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0039932365,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Mauss  NW3002",
+            "beginOffset": 393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

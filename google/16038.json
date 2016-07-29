@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.19429177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1143
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.188572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 802
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 689
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1210
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Christian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14401443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Christian",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons Christian",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.039988596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1391
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1450
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066118878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00583339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0013473724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Advil",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ibuprofen"
+      },
+      "salience": 0.00044053092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Advil",
+            "beginOffset": 1049
+          }
+        }
+      ]
+    },
+    {
+      "name": "Urgench",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00034131666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Urgench",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

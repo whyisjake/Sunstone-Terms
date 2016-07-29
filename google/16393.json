@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.40221727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1533
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083956957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1739
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.02482222,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1578
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Frontier SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01969487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Frontier SL03091",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "William H. Chamberlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016845681,
+      "mentions": [
+        {
+          "text": {
+            "content": "William H. Chamberlin",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idealist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016845681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idealist",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0086320508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00398681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0021508338,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021218574,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1442
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015827641,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001549925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00046689392,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLachlan",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00046689392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 1346
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

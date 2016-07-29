@@ -1,0 +1,173 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.15895922,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 487
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 540
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1012
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10315",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03290591,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10315",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theological Justification for Environmental Activism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03290591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theological Justification for Environmental Activism",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN WOTHERSPOON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019241644,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN WOTHERSPOON",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014634989,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.01216689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. HANSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030448183,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. HANSEN",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0030448183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 699
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "David Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24589919,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Barber",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 529
+          }
+        },
+        {
+          "text": {
+            "content": "David Barber",
+            "beginOffset": 1372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historical Jesus Teaching the Historical Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14196607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical Jesus Teaching the Historical Jesus",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 304
+          }
+        },
+        {
+          "text": {
+            "content": "Historical Jesus",
+            "beginOffset": 1344
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1472
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunday School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunday_school"
+      },
+      "salience": 0.00875292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 1647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barber",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barber"
+      },
+      "salience": 0.0033487806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barber",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0025944512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indian_National_Congress"
+      },
+      "salience": 0.0016637001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

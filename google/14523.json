@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068968982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Historicity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05830422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Historicity",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Various Views Book of Mormon Historicity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05830422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Various Views Book of Mormon Historicity",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Views",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019703783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Views",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheraton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sheraton_Hotels_and_Resorts"
+      },
+      "salience": 0.015104875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheraton",
+            "beginOffset": 133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Book of Mormon Historicity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0091856457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Book of Mormon Historicity",
+            "beginOffset": 485
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

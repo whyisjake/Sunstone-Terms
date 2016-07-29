@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Community of Christ",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.027174765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.012123398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 902
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.003198632,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "sub-Saharan Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sub-Saharan_Africa"
+      },
+      "salience": 0.003198632,
+      "mentions": [
+        {
+          "text": {
+            "content": "sub-Saharan Africa",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0026513471,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fletcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000969075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fletcher",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronald W. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080302189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronald W. Smith",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenny Hedman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080302189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenny Hedman",
+            "beginOffset": 748
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

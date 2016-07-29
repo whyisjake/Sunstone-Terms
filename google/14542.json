@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Bishops Roundtable",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.079473041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bishops Roundtable",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Bishops Roundtable",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Bishops Roundtable",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0042766603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

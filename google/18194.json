@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020914316,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Family: A Proclamation",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012266031,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Family: A Proclamation",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "The Family: A Proclamation",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063193818,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0058271117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 406
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neca Allgood",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043418594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neca Allgood",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sara Jade Woodhouse",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043418594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara Jade Woodhouse",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grayson Moore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043418594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grayson Moore",
+            "beginOffset": 561
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

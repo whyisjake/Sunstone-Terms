@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.26094806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18211384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marty",
+            "beginOffset": 192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ye The Living Among The Dead",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.1103932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ye The Living Among The Dead",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Ye The Living Among The Dead",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Ye The Living Among The Dead",
+            "beginOffset": 411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

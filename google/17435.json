@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "R. Stucki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058689278,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Stucki",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mesoamerica",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mesoamerica"
+      },
+      "salience": 0.031567413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mesoamerica",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Mesoamerica",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.019810984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "lDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016268991,
+      "mentions": [
+        {
+          "text": {
+            "content": "lDS",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "lDS",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015455714,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ecuador"
+      },
+      "salience": 0.0045941272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ecuador",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "New World",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_World"
+      },
+      "salience": 0.0041696816,
+      "mentions": [
+        {
+          "text": {
+            "content": "New World",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "New World",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "South american",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_America"
+      },
+      "salience": 0.0041696816,
+      "mentions": [
+        {
+          "text": {
+            "content": "South american",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "South american",
+            "beginOffset": 968
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

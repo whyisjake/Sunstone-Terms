@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.073530681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women: Comparing Church History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055946305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women: Comparing Church History",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Priesthood Authority for Women This",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.050178371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Priesthood Authority for Women This",
+            "beginOffset": 93
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blacks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Black"
+      },
+      "salience": 0.043019813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blacks",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cowley Massachusetts",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003879667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cowley Massachusetts",
+            "beginOffset": 586
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

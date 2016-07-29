@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Dane Whitman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15338434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitman",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Dane Whitman",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Legislating Morality Legal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035261326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Legislating Morality Legal",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Legislating Morality",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012780276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Legislating Morality",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of North Carolina",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_North_Carolina"
+      },
+      "salience": 0.0104349,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of North Carolina",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0074016247,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duke University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duke_University"
+      },
+      "salience": 0.0027043191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke University",
+            "beginOffset": 433
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

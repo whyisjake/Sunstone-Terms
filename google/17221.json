@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Armstrong",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lance_Armstrong"
+      },
+      "salience": 0.086758673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armstrong",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09311 The Changing General Conference",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.040695503,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09311 The Changing General Conference",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.033500064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.013954523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.013441023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "David O. McKay",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._McKay"
+      },
+      "salience": 0.012768349,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard N.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049220663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard N.",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041978271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0034418118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 431
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0033639779,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 567
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

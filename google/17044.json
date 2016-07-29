@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Sermons",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sermon"
+      },
+      "salience": 0.054696098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermons",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth_Day"
+      },
+      "salience": 0.031384617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth Day",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Earth Day",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ritchey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021750716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ritchey",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth Utah Interfaith Power",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016166378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth Utah Interfaith Power",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Earth Utah Interfaith Power",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Light",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Light"
+      },
+      "salience": 0.016166378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Light",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Light",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Your Faith Community",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0085183922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Your Faith Community",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Your Faith Community",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hoffman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042050183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hoffman",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034853828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve",
+            "beginOffset": 582
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

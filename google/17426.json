@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.51423186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1048
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.014092316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "North American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_America"
+      },
+      "salience": 0.014092316,
+      "mentions": [
+        {
+          "text": {
+            "content": "North American",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "North American",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.00878504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0041034226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 510
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 644
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Spirituality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Age"
+      },
+      "salience": 0.0024024805,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Age",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "New Spirituality",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pagan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001810161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pagan",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017619177,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "CIA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+      },
+      "salience": 0.0017619177,
+      "mentions": [
+        {
+          "text": {
+            "content": "CIA",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016698656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republicans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0014602036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republicans",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010323219,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

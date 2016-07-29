@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Symbiosis",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Symbiosis"
+      },
+      "salience": 0.21188666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Symbiosis",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_State_University"
+      },
+      "salience": 0.0091245184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington State University",
+            "beginOffset": 231
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA S.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0078016319,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA S.",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ukrainian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ukraine"
+      },
+      "salience": 0.0078016319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ukrainian",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_(state)"
+      },
+      "salience": 0.0023652099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 327
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.23811032,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Cabell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1688606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Cabell",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Cabell",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian BYU",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039774697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Brian BYU",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036225546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowlton",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Knowlton",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Knowlton",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Farr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036225546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Byrd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012552877,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Byrd",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.011900806,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 485
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

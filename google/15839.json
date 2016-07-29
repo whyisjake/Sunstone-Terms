@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.16601773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 649
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cisneros Terry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14376667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cisneros Terry",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Cisneros",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "EVOLUTION OF MORMON ATTITUDES",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067393206,
+      "mentions": [
+        {
+          "text": {
+            "content": "EVOLUTION OF MORMON ATTITUDES",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "EVOLUTION OF MORMON ATTITUDES",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "EVOLUTION OF MORMON ATTITUDES",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Leckman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015863221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Leckman",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Reese",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015863221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Reese",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0011802701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 836
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 895
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1105
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

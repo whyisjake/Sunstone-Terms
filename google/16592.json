@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Saints",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.083476074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018747469,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.010578183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Malmedy Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Malmedy_massacre"
+      },
+      "salience": 0.0079009794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malmedy Massacre",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Malmedy Massacre",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Battle of the Bulge",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Battle_of_the_Bulge"
+      },
+      "salience": 0.0079009794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Battle of the Bulge",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Battle of the Bulge",
+            "beginOffset": 1173
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ardennes forest",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ardennes"
+      },
+      "salience": 0.0026394357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ardennes forest",
+            "beginOffset": 377
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allies",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Allies_of_World_War_II"
+      },
+      "salience": 0.002540848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allies",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Belgium"
+      },
+      "salience": 0.0024638597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belgium",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Belgium",
+            "beginOffset": 1231
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0024081166,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_Thomas_Anderson"
+      },
+      "salience": 0.0019022659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryan Little",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ryan_Little"
+      },
+      "salience": 0.0019022659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryan Little",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam Abel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019022659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam Abel",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geoffrey Panos Britain",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019022659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Geoffrey Panos Britain",
+            "beginOffset": 673
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

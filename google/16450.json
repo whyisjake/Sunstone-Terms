@@ -1,0 +1,367 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.20901313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2099
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 519
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083430372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 379
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 811
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2305
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014084066,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2144
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0095290188,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "World Religions 101",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0095290188,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Religions 101",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0048675528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 2074
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0045266543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 850
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0032677348,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021678293,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1015
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021310051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0020741678,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1763
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0018135891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana K. Riess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.0017187605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana K. Riess",
+            "beginOffset": 1367
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dewey Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017187605,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 1382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don Lavange",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017187605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don Lavange",
+            "beginOffset": 1399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017187605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 1412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017187605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 1429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Taiwan"
+      },
+      "salience": 0.00053429639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 1477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chinese_language"
+      },
+      "salience": 0.00053429639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chinese",
+            "beginOffset": 1539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00053429639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1650
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

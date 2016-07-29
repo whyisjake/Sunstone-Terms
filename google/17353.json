@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.22155489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 544
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 833
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1772324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.095786825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10326",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016634103,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10326",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016634103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clear",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.015134152,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 931
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019453048,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whitman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walt_Whitman"
+      },
+      "salience": 0.0019453048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitman",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "CLARK",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015367051,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLARK",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ukraine"
+      },
+      "salience": 0.0015367051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ukraine",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cefn",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015367051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cefn",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010934885,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Posehn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00047792611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Posehn",
+            "beginOffset": 794
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,193 @@
+{
+  "entities": [
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.044055268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Armstrong",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Karen_Armstrong"
+      },
+      "salience": 0.011045652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Armstrong",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Karen Armstrong",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009924,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Parker Blount",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "H. Parker Blount",
+            "beginOffset": 684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana Reiss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana Reiss",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Jana Reiss",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0089158854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buddhism"
+      },
+      "salience": 0.0089158854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dewey Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089158854,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 714
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

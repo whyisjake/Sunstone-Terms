@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Republicanization",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.18667324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republicanization",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.15194067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.1464898,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOP",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "GOP",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "GOP",
+            "beginOffset": 181
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

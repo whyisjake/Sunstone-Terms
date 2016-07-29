@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Crooks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12807342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crooks",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Crooks",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Con-Artists",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082127549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Con-Artists",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Con-Artists",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Con-Artists",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Un",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Nations"
+      },
+      "salience": 0.082127549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Un",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Un",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Un",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "And Crackpots: Business",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.082127549,
+      "mentions": [
+        {
+          "text": {
+            "content": "And Crackpots: Business",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "And Crackpots: Business",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "And Crackpots: Business",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front Crooks",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.050587296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front Crooks",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Front"
+      },
+      "salience": 0.02980694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ludlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017666342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ludlow",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

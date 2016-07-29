@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Single Mormon Sex",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45744264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Single Mormon Sex",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Single Mormon",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Single Mormon",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sex",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sex"
+      },
+      "salience": 0.013014615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sex",
+            "beginOffset": 388
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

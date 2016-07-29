@@ -1,0 +1,401 @@
+{
+  "entities": [
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.027969245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 760
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.026930988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.026599318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bathsheba Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bathsheba_W._Smith"
+      },
+      "salience": 0.020867625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bathsheba Smith",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Bathsheba Smith",
+            "beginOffset": 1512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thompson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018790079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thompson",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.016641662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Scripture",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09322 Panel: Activists",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016641662,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09322 Panel: Activists",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.015135883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Olsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010879775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Olsen",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.008935838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.003021135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 593
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristen Olsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022106722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristen Olsen",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enoch",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Enoch_(ancestor_of_Noah)"
+      },
+      "salience": 0.0021261279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enoch",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Daniel"
+      },
+      "salience": 0.0020150288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018880182,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "China Jerusalem",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018880182,
+      "mentions": [
+        {
+          "text": {
+            "content": "China Jerusalem",
+            "beginOffset": 1176
+          }
+        }
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Costa_Rica"
+      },
+      "salience": 0.0018880182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Costa Rica",
+            "beginOffset": 1195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marshall",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Marshall"
+      },
+      "salience": 0.00167322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marshall",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kosovo"
+      },
+      "salience": 0.0015646218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kosovo",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Korea"
+      },
+      "salience": 0.0015646218,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Korea",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0012829056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 882
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logan Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0006372754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logan Utah",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristin Olson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048649911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristin Olson",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

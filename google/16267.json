@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11083996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 927
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sarah Barringer Gordon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015254555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah Barringer Gordon",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah Barringer Gordon",
+            "beginOffset": 880
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

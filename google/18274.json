@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.36903346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1109
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.018482385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.018482385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.017638639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1002
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reader Bible Stories And Mormon Religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015567157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reader Bible Stories And Mormon Religion",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018966279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 547
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    },
+    {
+      "name": "Staker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017706706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Staker",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014674575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 736
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

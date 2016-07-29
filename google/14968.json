@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.083863154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huchol",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05181108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huchol",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Huchol",
+            "beginOffset": 139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0372162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0372162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012886031,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 223
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

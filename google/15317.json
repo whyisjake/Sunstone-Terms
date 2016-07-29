@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.47656593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.022739716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Plural Wives",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018632041,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Plural Wives",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "An Overview Christian Polygamy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018632041,
+      "mentions": [
+        {
+          "text": {
+            "content": "An Overview Christian Polygamy",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Plural Wives",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010978333,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Plural Wives",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "The Plural Wives",
+            "beginOffset": 581
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

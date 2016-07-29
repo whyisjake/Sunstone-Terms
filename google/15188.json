@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Apologetics Socrates",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.48295081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Socrates",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Apologetics Socrates",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Socrates",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035198353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "natal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012256899,
+      "mentions": [
+        {
+          "text": {
+            "content": "natal",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tanner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070962352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanner",
+            "beginOffset": 558
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "SL10163",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079133771,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10163",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl Jung",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carl_Jung"
+      },
+      "salience": 0.014219184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl Jung",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Carl Jung",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0036425723,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEMESANY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0029562379,
+      "mentions": [
+        {
+          "text": {
+            "content": "LEMESANY",
+            "beginOffset": 613
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

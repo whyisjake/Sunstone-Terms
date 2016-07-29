@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Small-Town",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Village"
+      },
+      "salience": 0.077899933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Small-Town",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Small-Town",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Singapore Musings of a Small-Town",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014738002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Singapore Musings of a Small-Town",
+            "beginOffset": 458
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

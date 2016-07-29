@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31804022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1804
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1913
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.090412244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 783
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romriell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020263523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romriell",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015327195,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Consecrated Life SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012139444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Consecrated Life SL03091",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_Nibley"
+      },
+      "salience": 0.010372977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0053001638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00492907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 822
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035585067,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Lythgoe_Bradford"
+      },
+      "salience": 0.0029557035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026450688,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1713
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023608871,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 987
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0023207886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Lythgoe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068150135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Lythgoe",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boyd J. Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005819365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyd J. Petersen",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

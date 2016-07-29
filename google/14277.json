@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Heart of the Law",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37210718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heart of the Law",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Farr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033743039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 159
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism The Heart of the Law",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02881092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism The Heart of the Law",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kim_Kardashian"
+      },
+      "salience": 0.0094472319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heart of the Law",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0075380313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heart of the Law",
+            "beginOffset": 593
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

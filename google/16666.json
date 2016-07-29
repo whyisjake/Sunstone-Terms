@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.22564045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 781
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Millennium: Social Forces And Church Growth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.030095197,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Millennium: Social Forces And Church Growth",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030095197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Huff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034347693,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Huff",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morgan B. Adair Tino",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034347693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morgan B. Adair Tino",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0034347693,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "United",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Airlines"
+      },
+      "salience": 0.0028468051,
+      "mentions": [
+        {
+          "text": {
+            "content": "United",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020128225,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1031
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

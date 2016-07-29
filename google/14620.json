@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "LDS Woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25073224,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Woman",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083833046,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 71
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

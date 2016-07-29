@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.06787172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      "salience": 0.021767473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0072253873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darron T. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031893116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darron T. Smith",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "Megan Falater",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031893116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Megan Falater",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terence",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002643391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terence",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.0008223154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 868
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Latter-Day Saints",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.03591086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 1238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Front"
+      },
+      "salience": 0.03591086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 1282
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012677813,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1201
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036869023,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021745875,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Range"
+      },
+      "salience": 0.0009505417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch",
+            "beginOffset": 852
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

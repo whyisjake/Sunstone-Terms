@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.048319958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "HISTORICAL ATLAS OF RELIGION",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02666351,
+      "mentions": [
+        {
+          "text": {
+            "content": "HISTORICAL ATLAS OF RELIGION",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "HISTORICAL ATLAS OF RELIGION",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "HISTORICAL ATLAS OF RELIGION",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010556693,
+      "mentions": [
+        {
+          "text": {
+            "content": "HISTORICAL ATLAS OF RELIGION",
+            "beginOffset": 215
+          }
+        }
+      ]
+    },
+    {
+      "name": "University Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_press"
+      },
+      "salience": 0.00895712,
+      "mentions": [
+        {
+          "text": {
+            "content": "University Press",
+            "beginOffset": 295
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip L. Barlow",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philip_Barlow"
+      },
+      "salience": 0.0083919792,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Barlow",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Philip L. Barlow",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Jackson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083919792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Jackson",
+            "beginOffset": 273
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Jackson",
+            "beginOffset": 776
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "My Faith Pillars of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.19389096,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith Pillars of My Faith",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Pillars of My Faith",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marion Morgan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0499158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marion Morgan",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emmylou",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emmylou_Harris"
+      },
+      "salience": 0.034973122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emmylou",
+            "beginOffset": 148
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

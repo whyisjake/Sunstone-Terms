@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.025492465,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023453606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.019524332,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 831
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.011200988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0022192937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019520709,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angela R. Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018010597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angela R. Campbell",
+            "beginOffset": 936
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0018010597,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford Stanford University",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00056006591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford Stanford University",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRW",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00056006591,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRW",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "NASA Ames",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ames_Research_Center"
+      },
+      "salience": 0.00056006591,
+      "mentions": [
+        {
+          "text": {
+            "content": "NASA Ames",
+            "beginOffset": 1235
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory"
+      },
+      "salience": 0.00056006591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lawrence Berkeley",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

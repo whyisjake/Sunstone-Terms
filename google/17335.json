@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "name": "Nietzsche",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+      },
+      "salience": 0.12372933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nietzsche",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Nietzsche",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Nietzsche",
+            "beginOffset": 579
+          }
+        },
+        {
+          "text": {
+            "content": "Nietzsche",
+            "beginOffset": 1165
+          }
+        },
+        {
+          "text": {
+            "content": "Nietzsche",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Will to Power",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Will_to_power"
+      },
+      "salience": 0.10701969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Will to Power",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.098969147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 475
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 626
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nietzschean Conceptions of Power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04360256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nietzschean Conceptions of Power",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exaltation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Exaltation_(Mormonism)"
+      },
+      "salience": 0.039058518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exaltation",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0347723,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 724
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1155
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10265",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033434641,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10265",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.033434641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORRIS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031734526,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORRIS",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021983902,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Farr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20832679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 1407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cecilia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061176855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cecilia",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Structural Resistance To Diversity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035515189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Structural Resistance To Diversity",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.024336096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 550
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 1371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pittsburgh",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pittsburgh"
+      },
+      "salience": 0.020021768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pittsburgh",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Pittsburgh",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Pittsburgh",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017061403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1273
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.017061403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Structural Resistance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016012743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Structural Resistance",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Structural Resistance",
+            "beginOffset": 1285
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burger King",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Burger_King"
+      },
+      "salience": 0.012024233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burger King",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0036480487,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 892
+          }
+        }
+      ]
+    },
+    {
+      "name": "Konchar Farr Europe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025054682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Konchar Farr Europe",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Catherine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025054682,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Catherine",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00077905186,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Springsteen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bruce_Springsteen"
+      },
+      "salience": 0.00077905186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Springsteen",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

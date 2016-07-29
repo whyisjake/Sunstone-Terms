@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "State Of Mind",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.60029721,
+      "mentions": [
+        {
+          "text": {
+            "content": "State Of Mind",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "State Of Mind",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "State Of Mind",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.089365587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL89024.5",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068224721,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL89024.5",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "SL89024.5",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072991815,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_University"
+      },
+      "salience": 0.0069186911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton University",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0069186911,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069186911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": 240
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Unna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38475534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.11388979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Faith",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Faith",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Ethics From Christian Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10152064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Ethics From Christian Faith",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Ethics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ethics"
+      },
+      "salience": 0.069253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Ethics",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Social Ethics",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.036376432,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lake City",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024766343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lake City",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.023487655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cydia",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016681198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cydia",
+            "beginOffset": 238
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

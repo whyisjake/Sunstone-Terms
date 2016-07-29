@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Warren Lanier",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30032927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warren Lanier",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Verizon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Verizon_Communications"
+      },
+      "salience": 0.0060462411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Verizon",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blaine",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Blaine,_Minnesota"
+      },
+      "salience": 0.0050137462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blaine",
+            "beginOffset": 283
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

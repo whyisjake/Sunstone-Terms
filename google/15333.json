@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.61375993,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 373
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Nation Under God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30787343,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Nation Under God&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "One Nation Under God&",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "One Nation Under God&",
+            "beginOffset": 340
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

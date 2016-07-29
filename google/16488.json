@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Curse of Cain",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Curse_and_mark_of_Cain"
+      },
+      "salience": 0.13678385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curse of Cain",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.038747136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mauss",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ray Botham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034857497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ray Botham",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Ray Botham",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.034857497,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

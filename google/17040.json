@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.077130623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 758
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    },
+    {
+      "name": "CROSS MORMONS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051615339,
+      "mentions": [
+        {
+          "text": {
+            "content": "CROSS MORMONS",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.035420846,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW08015",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032003775,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW08015",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE CROSS",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_cross"
+      },
+      "salience": 0.027138675,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE CROSS",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "THE CROSS",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christendom",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christendom"
+      },
+      "salience": 0.024012413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christendom",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Christendom",
+            "beginOffset": 881
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054058223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0052100341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0043186634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons non-Christian",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037485817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons non-Christian",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0030240496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 697
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHUCK SCHOFIELD MORMONS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015002387,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHUCK SCHOFIELD  MORMONS",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092110218,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. REES",
+            "beginOffset": 770
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

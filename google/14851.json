@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Rum",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rum"
+      },
+      "salience": 0.29534248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rum",
+            "beginOffset": 346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republicanism",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republicanism"
+      },
+      "salience": 0.12349025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republicanism",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Republicanism",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Republicanism",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion Rum",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.10114249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion Rum",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.037321612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.021111475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.020019377,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053386721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 274
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

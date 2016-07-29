@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Gee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037078813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gee",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oliver Cowdery",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oliver_Cowdery"
+      },
+      "salience": 0.019531794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oliver Cowdery",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Oliver Cowdery",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.017094189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014593515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel&",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Israel&",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Vogel"
+      },
+      "salience": 0.0061282041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 617
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exodus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Exodus"
+      },
+      "salience": 0.0048784413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exodus",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0048784413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0044510281,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 607
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

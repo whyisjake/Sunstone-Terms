@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.050299264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "E-prime",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/E-Prime"
+      },
+      "salience": 0.048459414,
+      "mentions": [
+        {
+          "text": {
+            "content": "E-prime",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonspeak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018187596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonspeak",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonspeak",
+            "beginOffset": 955
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0039478391,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.001291007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jepson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010002729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jepson",
+            "beginOffset": 883
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010002729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Johns",
+            "beginOffset": 894
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Songs of Peace From Battle Hymns",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13087146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Songs of Peace From Battle Hymns",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Songs of Peace",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.022033712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Songs of Peace",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017587464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Songs of Peace",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Austin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017330809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Austin",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Novell",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Novell"
+      },
+      "salience": 0.0057068481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Novell",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twin Falls Idaho",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0057068481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twin Falls Idaho",
+            "beginOffset": 377
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32124239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19242576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congressional",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.045524843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congressional",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Congressional",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Congressional",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nation&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045524843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nation&",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Nation&",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Nation&",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Main Interest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039962452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Main Interest",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Main Interest",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Main Interest",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Union Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026732903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Union Utah&",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Union",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trade_union"
+      },
+      "salience": 0.014131321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Union",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "Union",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wharton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wharton_School_of_the_University_of_Pennsylvania"
+      },
+      "salience": 0.0029890903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wharton",
+            "beginOffset": 358
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Anti-intellectualism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39023697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Anti-intellectualism",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Anti-intellectualism",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Anti-intellectualism",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.029889226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 265
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Liberty",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberty"
+      },
+      "salience": 0.31196806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberty",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Liberty",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Liberty",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nature In the Name",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.055675812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nature In the Name",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gaia",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gaia_(mythology)"
+      },
+      "salience": 0.02248049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gaia",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Gaia",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Gaia",
+            "beginOffset": 637
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bribie",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0061061373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bribie",
+            "beginOffset": 389
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

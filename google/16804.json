@@ -1,0 +1,645 @@
+{
+  "entities": [
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.056444131,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 547
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1834
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1913
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 822
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1004
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 2569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestants",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.033637043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 2683
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 4046
+          }
+        },
+        {
+          "text": {
+            "content": "Protestants",
+            "beginOffset": 2290
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriage of Convenience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018788729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriage of Convenience",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Marriage of Convenience",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Marriage of Convenience",
+            "beginOffset": 3812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Made in Heaven",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018788729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Made in Heaven",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Made in Heaven",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Made in Heaven",
+            "beginOffset": 3846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pop Culture: Shotgun Wedding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.018788729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pop Culture: Shotgun Wedding",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Pop Culture: Shotgun Wedding",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Pop Culture: Shotgun Wedding",
+            "beginOffset": 3782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark I. Pinsky Religion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016526284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Pinsky",
+            "beginOffset": 1530
+          }
+        },
+        {
+          "text": {
+            "content": "Mark",
+            "beginOffset": 3087
+          }
+        },
+        {
+          "text": {
+            "content": "Mark",
+            "beginOffset": 3561
+          }
+        },
+        {
+          "text": {
+            "content": "Mark I. Pinsky  Religion",
+            "beginOffset": 3753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ned Flanders",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ned_Flanders"
+      },
+      "salience": 0.010830586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ned Flanders",
+            "beginOffset": 2303
+          }
+        },
+        {
+          "text": {
+            "content": "Ned",
+            "beginOffset": 2598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elmer Gantry",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elmer_Gantry"
+      },
+      "salience": 0.0071939141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elmer Gantry",
+            "beginOffset": 398
+          }
+        },
+        {
+          "text": {
+            "content": "Elmer Gantry",
+            "beginOffset": 4074
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Irish_people"
+      },
+      "salience": 0.0071939141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irish",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Irish",
+            "beginOffset": 3979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071939141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood&",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Hollywood&",
+            "beginOffset": 3896
+          }
+        }
+      ]
+    },
+    {
+      "name": "Napoleon Dynamite",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Napoleon_Dynamite"
+      },
+      "salience": 0.0036031315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Napoleon Dynamite",
+            "beginOffset": 2186
+          }
+        },
+        {
+          "text": {
+            "content": "Vote for Pedro",
+            "beginOffset": 2730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark I. Pinsky&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029440429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark I. Pinsky&",
+            "beginOffset": 2755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Billy Graham",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Billy_Graham"
+      },
+      "salience": 0.0018447933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billy Graham",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York Times",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_New_York_Times"
+      },
+      "salience": 0.0017166107,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York Times",
+            "beginOffset": 3266
+          }
+        },
+        {
+          "text": {
+            "content": "Times",
+            "beginOffset": 3451
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duke University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duke_University"
+      },
+      "salience": 0.0015797102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke University",
+            "beginOffset": 2818
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011920985,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011735243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walden",
+            "beginOffset": 1944
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.001116899,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 3310
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.001116899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 3396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orange County Edition",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.001116899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orange County Edition",
+            "beginOffset": 3421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orlando Sentinel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orlando_Sentinel"
+      },
+      "salience": 0.0011078004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orlando Sentinel",
+            "beginOffset": 3616
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Mutants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Mutants"
+      },
+      "salience": 0.0009656332,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Mutants",
+            "beginOffset": 2143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cypher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
+      },
+      "salience": 0.0009656332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cypher",
+            "beginOffset": 2126
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0009656332,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 2210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homer Simpson&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00095358689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homer Simpson&",
+            "beginOffset": 2317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sun Belt",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sun_Belt"
+      },
+      "salience": 0.00067397679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sun Belt",
+            "beginOffset": 3702
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00067139493,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hatch",
+            "beginOffset": 3741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bengt Washburn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00067139493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengt Washburn",
+            "beginOffset": 3725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00067139493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 3712
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Readable Radical",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00034152443,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Readable Radical",
+            "beginOffset": 2867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Columbia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Columbia_University"
+      },
+      "salience": 0.00033988111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Columbia",
+            "beginOffset": 2988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graduate School of Journalism",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Columbia_University_Graduate_School_of_Journalism"
+      },
+      "salience": 0.00029021947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graduate School of Journalism",
+            "beginOffset": 3016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southeast",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southeastern_United_States"
+      },
+      "salience": 0.000288891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southeast",
+            "beginOffset": 3123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

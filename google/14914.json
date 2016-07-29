@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Latter-Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015908703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 241
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin"
+      },
+      "salience": 0.0054587959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin",
+            "beginOffset": 210
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

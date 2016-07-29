@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "BH Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.11582234,
+      "mentions": [
+        {
+          "text": {
+            "content": "B H Roberts",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "B H Roberts",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.076554082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith BH Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038096812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith B H Roberts",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jimmy_Carter"
+      },
+      "salience": 0.021549975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carter",
+            "beginOffset": 145
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

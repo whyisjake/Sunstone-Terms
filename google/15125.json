@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Wall of Separation",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Separation_of_church_and_state_in_the_United_States"
+      },
+      "salience": 0.0376916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wall of Separation",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Wall of Separation",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Wall of Separation",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prayer in Public Meetings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00507105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prayer in Public Meetings",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

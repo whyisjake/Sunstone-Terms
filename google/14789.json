@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.19010133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pennsylvania"
+      },
+      "salience": 0.0097526172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pennsylvania",
+            "beginOffset": 280
+          }
+        }
+      ]
+    },
+    {
+      "name": "who's who of American",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0097526172,
+      "mentions": [
+        {
+          "text": {
+            "content": "who's who of American",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Jesus Christ of latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0080901105,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Candler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080901105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Candler",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0025238532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 540
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

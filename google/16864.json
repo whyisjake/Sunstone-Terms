@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "non-LDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018443465,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "John John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081827166,
+      "mentions": [
+        {
+          "text": {
+            "content": "John John",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00233263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022190833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022190833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Youkstetter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022190833,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Youkstetter",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022190833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dewey Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022190833,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019446744,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1227
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Ramey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018390513,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Ramey",
+            "beginOffset": 735
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "The Smiths",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Smiths"
+      },
+      "salience": 0.44426715,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Smiths",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "The Smiths",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "The Smiths",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Psycho-Historical Study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055665549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psycho-Historical Study",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Mormon Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033786081,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Mormon Family",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "First Mormon Family",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "First Mormon Family",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bryan_Robson"
+      },
+      "salience": 0.029227482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robson",
+            "beginOffset": 237
+          }
+        }
+      ]
+    },
+    {
+      "name": "Visions A Psycho-Historical Study",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020748908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Visions A Psycho-Historical Study",
+            "beginOffset": 93
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.011690066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Central America A Psycho-Historical Study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0088430084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Central America A Psycho-Historical Study",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0040938654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

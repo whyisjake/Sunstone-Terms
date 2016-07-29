@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Evolution of a Soul Art",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.074465506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution of a Soul Art",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolution of a Soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074465506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution of a Soul",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Art"
+      },
+      "salience": 0.013267817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Art",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolution of a Soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011610627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution of a Soul",
+            "beginOffset": 529
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

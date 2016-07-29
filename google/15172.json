@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Generation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Generation"
+      },
+      "salience": 0.14113796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generation",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston"
+      },
+      "salience": 0.073698185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston",
+            "beginOffset": 97
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

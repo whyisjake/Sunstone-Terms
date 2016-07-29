@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.1748589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1077
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1312
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1475
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 604
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 711
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 922
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.070907816,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1300
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1336
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crisis of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049627215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crisis of Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faithful Mormon Intellectuals Crisis of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049627215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faithful Mormon Intellectuals Crisis of Faith",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Crisis of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052707749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Crisis of Faith",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0042146388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard University",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connelly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024334821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connelly",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dehlin Hardenbergh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000756695,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dehlin Hardenbergh",
+            "beginOffset": 975
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

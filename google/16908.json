@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "BRAINSTORM SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13717435,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRAINSTORM SUNSTONE",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13203204,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN WOTHERSPOON SUNSTONE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014910691,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN WOTHERSPOON  SUNSTONE",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "21ST CENTURY DEHLIN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010673955,
+      "mentions": [
+        {
+          "text": {
+            "content": "21ST CENTURY DEHLIN",
+            "beginOffset": 201
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN DEHLIN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.0062692035,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN DEHLIN",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN WOTHERSPOON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062692035,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN WOTHERSPOON",
+            "beginOffset": 425
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

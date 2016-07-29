@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Neo-Orthodoxy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13744271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Neo-Orthodoxy",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Neo-Orthodoxy",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Theological Movement Mormon Neo-Orthodoxy a New Theological Movement",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.045391876,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Theological Movement Mormon Neo-Orthodoxy a New Theological Movement",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Theological Movement",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.019469775,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Theological Movement",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kendall",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kendall_Jenner"
+      },
+      "salience": 0.014896725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kendall",
+            "beginOffset": 398
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

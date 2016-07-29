@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.6352675,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 417
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 710
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1047
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1091
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1139
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1208
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Godhead",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_in_Mormonism"
+      },
+      "salience": 0.039533272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 559
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 640
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heavenly Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heavenly_Mother_(Mormonism)"
+      },
+      "salience": 0.025306333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09162",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017847585,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09162",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Feminist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031604886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feminist",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Feminist",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0021351222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1268
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.001547334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012606011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00055000157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 860
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 939
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

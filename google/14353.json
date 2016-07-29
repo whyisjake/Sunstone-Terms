@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.28423834,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taste for Mystery The Taste",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11033141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taste for Mystery The Taste",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_College"
+      },
+      "salience": 0.014125797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard College",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States Army",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Army"
+      },
+      "salience": 0.014125797,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States Army",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Taste",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011278816,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Taste",
+            "beginOffset": 478
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Columbine Alumna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040152181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Columbine Alumna",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Golden Rule",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Golden_Rule"
+      },
+      "salience": 0.040152181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Rule",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.025605932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 896
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matt 7",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045852782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matt 7",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carlston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011577206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carlston",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011577206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 645
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.037795316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Ethics Death and Dying: Changing LDS Ethics Pam",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.035913054,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Ethics Death and Dying: Changing LDS Ethics Pam",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "iOS",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IOS"
+      },
+      "salience": 0.027530864,
+      "mentions": [
+        {
+          "text": {
+            "content": "iOS",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020286893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Socialist_Party_of_America"
+      },
+      "salience": 0.020286893,
+      "mentions": [
+        {
+          "text": {
+            "content": "S.",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "East Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/East_Germany"
+      },
+      "salience": 0.015963892,
+      "mentions": [
+        {
+          "text": {
+            "content": "East Germany",
+            "beginOffset": 287
+          }
+        }
+      ]
+    },
+    {
+      "name": "Death and Dying: Changing LDS Ethics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015358825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Death and Dying: Changing LDS Ethics",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0049878345,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 340
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

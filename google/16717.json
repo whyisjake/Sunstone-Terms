@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Ken Wilber",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ken_Wilber"
+      },
+      "salience": 0.68478847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 619
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 996
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huston Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062332363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huston Smith",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Huston Smith",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilber&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021714293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilber&",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "Wilber&",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013516566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013516566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "John T. Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013516566,
+      "mentions": [
+        {
+          "text": {
+            "content": "John T. Kesler",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0011201556,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 779
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

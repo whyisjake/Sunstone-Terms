@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Mormon CyberGalaxy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062794916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon CyberGalaxy",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mp3",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/MP3"
+      },
+      "salience": 0.0227205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mp3",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Mp3",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dehlin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.017263142,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "DEHLIN",
+            "beginOffset": 489
+          }
+        },
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 1298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormondom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059221033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormondom",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Mormondom",
+            "beginOffset": 1246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mr."
+      },
+      "salience": 0.0012985674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister",
+            "beginOffset": 911
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Colvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028521415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colvin",
+            "beginOffset": 198
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.025983248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitch Mayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010987265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitch Mayne",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Mitch Mayne",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010987265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Driggs",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Driggs",
+            "beginOffset": 933
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kalani Tonga",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010987265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kalani Tonga",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Kalani Tonga",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fatimah S. Salleh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00343208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fatimah S. Salleh",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Fatimah S. Salleh",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gina Colvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023913253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gina Colvin",
+            "beginOffset": 907
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

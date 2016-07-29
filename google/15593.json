@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Literary Tour Of The Land Of Saints A Literary Tour Of The Land Of Saints Naparsteck",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.156355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literary Tour Of The Land Of Saints A Literary Tour Of The Land Of Saints Naparsteck",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.080438182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philadelphia"
+      },
+      "salience": 0.054807547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philadelphia",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Philadelphia",
+            "beginOffset": 109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literary Tour Of The Land Of Saints Martin Naparsteck",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.033431698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literary Tour Of The Land Of Saints Martin Naparsteck",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.030612033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0079319524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 392
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

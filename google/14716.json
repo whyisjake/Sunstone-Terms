@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Barbara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032137942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbara",
+            "beginOffset": 252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul According",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028905772,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul According",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Paul According",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Paul According",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.026161106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 535
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Jewish Wisdom Let the Women Learn",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.019308638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Jewish Wisdom Let the Women Learn",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "PT",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/.pt"
+      },
+      "salience": 0.00944737,
+      "mentions": [
+        {
+          "text": {
+            "content": "PT",
+            "beginOffset": 312
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehigh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehigh_County,_Pennsylvania"
+      },
+      "salience": 0.00944737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehigh",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00944737,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0078338152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Norton Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022822935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Norton Norman",
+            "beginOffset": 633
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

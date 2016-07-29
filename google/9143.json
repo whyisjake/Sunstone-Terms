@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.14579929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium/ Session 255: Evolution of Early Mormon",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.045903765,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium/ Session 255: Evolution of Early Mormon",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg Prince",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gregory_Prince"
+      },
+      "salience": 0.041799981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg Prince",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Greg Prince",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.036164679,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryan Bingham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036164679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryan Bingham",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Ryan Bingham",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023681954,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hatch",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "John Hatch",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Vogel"
+      },
+      "salience": 0.023681954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012191366,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0115573,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marge Gregory",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075319139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marge Gregory",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Westerville Ohio",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0029886204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westerville Ohio",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dixie",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Confederate_States_of_America"
+      },
+      "salience": 0.0029886204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dixie",
+            "beginOffset": 595
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

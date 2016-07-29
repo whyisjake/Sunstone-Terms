@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Cami Hill",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10524158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cami Hill",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Pop Las Vegas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.086282991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Pop Las Vegas",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Pop Las Vegas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.051534537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Pop Las Vegas",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Pop Las Vegas",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shawn Holman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046213709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shawn Holman",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Shawn Holman",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Style Hill",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045547765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Style Hill",
+            "beginOffset": 94
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

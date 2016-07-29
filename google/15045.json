@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Appointed&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030429523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Appointed&",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Appointed&",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Appointed&",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polygamist Priesthood Authority The",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014333129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polygamist Priesthood Authority The",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polygamist Priesthood Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012006308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polygamist Priesthood Authority",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Polygamist Priesthood Authority",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083009508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074573597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fred",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "humana",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Humana"
+      },
+      "salience": 0.0025905785,
+      "mentions": [
+        {
+          "text": {
+            "content": "humana",
+            "beginOffset": 472
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

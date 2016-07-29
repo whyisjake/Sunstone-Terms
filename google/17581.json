@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.056967922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.030581785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 617
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.02930765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE BODY POLITIC",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028842824,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE BODY POLITIC",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE BODY OF CHRIST Support",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028842824,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE BODY OF CHRIST Support",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jill Peterfeso",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015999492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jill Peterfeso",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.012678748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0083491961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 1331
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis George",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Francis_George"
+      },
+      "salience": 0.0072749341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis George",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Westbrook",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003005275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westbrook",
+            "beginOffset": 697
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0028872886,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Defense of Religious Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028872886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Defense of Religious Freedom",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.00072439172,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

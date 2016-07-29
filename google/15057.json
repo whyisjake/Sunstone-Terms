@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "South America Terrorism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27662095,
+      "mentions": [
+        {
+          "text": {
+            "content": "South America Terrorism",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jordanian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jordan"
+      },
+      "salience": 0.10787205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jordanian",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chile"
+      },
+      "salience": 0.077046089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "South America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_America"
+      },
+      "salience": 0.074437633,
+      "mentions": [
+        {
+          "text": {
+            "content": "South America",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "South America",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0651547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doug",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026639791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doug",
+            "beginOffset": 302
+          }
+        }
+      ]
+    },
+    {
+      "name": "KNTV",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/KNTV"
+      },
+      "salience": 0.02152916,
+      "mentions": [
+        {
+          "text": {
+            "content": "KNTV",
+            "beginOffset": 223
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29286724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1838
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083333038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2044
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014131396,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1883
+          }
+        }
+      ]
+    },
+    {
+      "name": "Banner of Heaven SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0095638894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Banner of Heaven SL03091",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052539431,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.004886854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1813
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0045447056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0032810357,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lafferty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026119214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lafferty",
+            "beginOffset": 1613
+          }
+        },
+        {
+          "text": {
+            "content": "Lafferty",
+            "beginOffset": 1630
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021768098,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021398382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063041097,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053656712,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Jess Groesbeck",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053656712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 1351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana Bouck Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053656712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana Bouck Remy",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053656712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00053656712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1515
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

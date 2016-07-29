@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "George Q. Cannon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Q._Cannon"
+      },
+      "salience": 0.57297421,
+      "mentions": [
+        {
+          "text": {
+            "content": "George Q. Cannon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "George Q. Cannon",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "George Q. Cannon",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Cannon",
+            "beginOffset": 566
+          }
+        },
+        {
+          "text": {
+            "content": "George Q. Cannon",
+            "beginOffset": 1125
+          }
+        },
+        {
+          "text": {
+            "content": "George Q. Cannon",
+            "beginOffset": 1271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilford Woodruff&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089698009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilford Woodruff&",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Woodruff&",
+            "beginOffset": 686
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff&",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010997587,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013464822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0011159017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tosefta",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00034703445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tosefta",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

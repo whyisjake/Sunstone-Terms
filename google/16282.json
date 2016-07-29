@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.27176666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 857
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15401609,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Thomas",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "James Thomas",
+            "beginOffset": 773
+          }
+        },
+        {
+          "text": {
+            "content": "James Thomas",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Attitude",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032858726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Attitude",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ali Choucair",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021649623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ali Choucair",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "Ali",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.015816523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 902
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestinians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palestinians"
+      },
+      "salience": 0.011190074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestinians",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Palestinians",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barrani",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00340872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barrani",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Salti",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029114077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Salti",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith Haines",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029114077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith Haines",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islamic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0027646471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islamic",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Islamic",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Annapolis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Naval_Academy"
+      },
+      "salience": 0.0027593104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Annapolis",
+            "beginOffset": 451
+          }
+        }
+      ]
+    },
+    {
+      "name": "USS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Navy"
+      },
+      "salience": 0.0027593104,
+      "mentions": [
+        {
+          "text": {
+            "content": "USS",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam_in_India"
+      },
+      "salience": 0.0022867958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shiite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shia_Islam"
+      },
+      "salience": 0.0022867958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shiite",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Barrani",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018577279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolyn Barrani",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015864961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith &hellip",
+            "beginOffset": 1147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lebanon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lebanon"
+      },
+      "salience": 0.00071117893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lebanon",
+            "beginOffset": 734
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

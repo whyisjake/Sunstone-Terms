@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "My Life With Dialogue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040870041,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Life With Dialogue",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "My Life With Dialogue",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "My Life With Dialogue",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big D",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dallas_Cowboys"
+      },
+      "salience": 0.0323968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big D",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Big D",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "Big D",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "The View",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_View_(U.S._TV_series)"
+      },
+      "salience": 0.02617259,
+      "mentions": [
+        {
+          "text": {
+            "content": "The View",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "The View",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "The View",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Basement&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02617259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Basement&",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Basement&",
+            "beginOffset": 394
+          }
+        },
+        {
+          "text": {
+            "content": "Basement&",
+            "beginOffset": 600
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

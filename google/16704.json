@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Bleep Do",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0338359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bleep Do",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bleep Do We Know",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024835004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bleep Do We Know",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Bleep Do We Know",
+            "beginOffset": 750
+          }
+        }
+      ]
+    },
+    {
+      "name": "TOM L. DAVIES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024273613,
+      "mentions": [
+        {
+          "text": {
+            "content": "TOM L. DAVIES",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "L. Davies",
+            "beginOffset": 666
+          }
+        },
+        {
+          "text": {
+            "content": "TOM L. DAVIES",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0043326849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstoners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035429311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstoners",
+            "beginOffset": 518
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

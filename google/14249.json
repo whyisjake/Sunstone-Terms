@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.28821337,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lords",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lord"
+      },
+      "salience": 0.15703741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lords",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Lords",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gods",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deity"
+      },
+      "salience": 0.022959987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Gods",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015660942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington and Lee",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_and_Lee_University"
+      },
+      "salience": 0.0079528885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington and Lee",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vanderbilt",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vanderbilt_University"
+      },
+      "salience": 0.0075396849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vanderbilt",
+            "beginOffset": 262
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

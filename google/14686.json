@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.21341334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 129
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Struggle of Being Black",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.12822334,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Struggle of Being Black",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "The Struggle of Being Black",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Struggle of Being Black",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0413821,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Struggle of Being Black",
+            "beginOffset": 94
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

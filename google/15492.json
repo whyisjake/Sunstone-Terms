@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Gary Watts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30166227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Gary Watts",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "REALITY Watts",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0764326,
+      "mentions": [
+        {
+          "text": {
+            "content": "REALITY Watts",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024056349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medical Center",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017737865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medical Center",
+            "beginOffset": 139
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

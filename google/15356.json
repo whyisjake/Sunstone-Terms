@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Twenty-First Century Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1646679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century Mormons",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.098923616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.091581658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Twenty-First Century",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gregory",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031060582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gregory",
+            "beginOffset": 184
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Fletcher Greg Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026337625,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Fletcher Greg Mormons",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina"
+      },
+      "salience": 0.0068990448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlotte",
+            "beginOffset": 296
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

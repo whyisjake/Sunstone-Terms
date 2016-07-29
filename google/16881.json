@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carol_Lynn_Pearson"
+      },
+      "salience": 0.21191844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Lynn Pearson",
+            "beginOffset": 591
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Love You",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10226133,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 915
+          }
+        },
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 1122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014201743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012690043,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline Pearson Goodbye",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00071604067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Pearson Goodbye",
+            "beginOffset": 889
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

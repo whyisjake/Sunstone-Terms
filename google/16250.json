@@ -1,0 +1,335 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.12023897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1893
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Short Creek",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado_City,_Arizona"
+      },
+      "salience": 0.053483527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Short Creek",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Short Creek",
+            "beginOffset": 472
+          }
+        },
+        {
+          "text": {
+            "content": "Short Creek",
+            "beginOffset": 1727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.032950204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormonism",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Short Creek Refuge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027515125,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Short Creek Refuge",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Short Creek Refuge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027515125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Short Creek Refuge",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan Shepp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021835428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Shepp",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Original Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020012727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 781
+          }
+        },
+        {
+          "text": {
+            "content": "Original Mormonism",
+            "beginOffset": 937
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017056676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 1572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.011077169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wallace Stegner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wallace_Stegner"
+      },
+      "salience": 0.009908651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 1701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Lyman Jessop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081530958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Lyman Jessop",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Watson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047213831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Watson",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Short Creek Refuge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030145268,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Short Creek Refuge",
+            "beginOffset": 1678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kingdom of God",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kingship_and_kingdom_of_God"
+      },
+      "salience": 0.002782817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingdom of God",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023300995,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0021104615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greek",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greece"
+      },
+      "salience": 0.0014893712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 1231
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam-God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam%E2%80%93God_doctrine"
+      },
+      "salience": 0.0013259833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam-God",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.00071229931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1276
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,345 @@
+{
+  "entities": [
+    {
+      "name": "ANTI-MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Mormonism"
+      },
+      "salience": 0.18257487,
+      "mentions": [
+        {
+          "text": {
+            "content": "ANTI-MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormonism",
+            "beginOffset": 475
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormonism",
+            "beginOffset": 526
+          }
+        },
+        {
+          "text": {
+            "content": "Anti-Mormonism",
+            "beginOffset": 870
+          }
+        },
+        {
+          "text": {
+            "content": "Anti-Mormonism",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.10550241,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 544
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 942
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1103
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.03703713,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1037
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 312
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.010059944,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.010059944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 1056
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.0086849639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Love",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Big_Love"
+      },
+      "salience": 0.0056602377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 984
+          }
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/HBO"
+      },
+      "salience": 0.0056602377,
+      "mentions": [
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0034659153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Moment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0029011895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Moment",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028726535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021351865,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patrick Mason",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021351865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patrick Mason",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Dobner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021351865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennifer Dobner",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Clarence_Thomas"
+      },
+      "salience": 0.00066402549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 844
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

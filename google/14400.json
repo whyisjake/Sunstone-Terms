@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Hindu",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hindu"
+      },
+      "salience": 0.062855683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hindu",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Hindu",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mystical Common Ground Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045393787,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mystical Common Ground Mormon",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mystical Common Ground",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021515209,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mystical Common Ground",
+            "beginOffset": 77
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.01781895,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.012141147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.011511222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aristotle",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aristotle"
+      },
+      "salience": 0.0095512187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aristotle",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mystical Common Ground",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091888392,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mystical Common Ground",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029820639,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 415
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

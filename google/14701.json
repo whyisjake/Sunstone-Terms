@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Context of Authority",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.18072258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Context of Authority",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Correlation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16402519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Correlation",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "Context of Authority",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.079446383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Context of Authority",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Context of Authority",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kinsey institute",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kinsey_Institute_for_Research_in_Sex,_Gender,_and_Reproduction"
+      },
+      "salience": 0.030784795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kinsey institute",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.023254992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 112
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

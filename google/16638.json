@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.015881818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0033993612,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 400
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0033993612,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 394
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0033993612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0028118035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.00086187216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.00085112045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 941
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

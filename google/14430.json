@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.13790192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion Women Lost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10740273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion Women Lost",
+            "beginOffset": 14
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

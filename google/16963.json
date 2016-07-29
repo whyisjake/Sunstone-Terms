@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.051718459,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 984
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "FOLLETT DISCOURSE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017011814,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOLLETT DISCOURSE",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "FOLLETT DISCOURSE",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "FOLLETT DISCOURSE",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.011757525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinity",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trinity"
+      },
+      "salience": 0.011757525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0031761511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 328
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0031761511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1156
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Follett Discourse",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Follett_discourse"
+      },
+      "salience": 0.0024015508,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021788483,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 677
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. ALLRED",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015695924,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. ALLRED",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pearl of Great Price",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pearl_of_Great_Price_(Mormonism)"
+      },
+      "salience": 0.0015664796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pearl of Great Price",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.0015664796,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015428646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 429
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1239
+          }
+        }
+      ]
+    },
+    {
+      "name": "NADINE R. HANSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012163662,
+      "mentions": [
+        {
+          "text": {
+            "content": "NADINE R. HANSEN",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Follett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058020465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Follett",
+            "beginOffset": 873
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

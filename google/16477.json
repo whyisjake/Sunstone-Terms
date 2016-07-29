@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Toby Pindari",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11534891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby Pindari",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.013299738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00993545,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00993545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kayihura",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096944291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kayihura",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Kayihura",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leah Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0095657669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leah Smith",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Leah Smith",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0095657669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Pingree",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Pingree",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00078087795,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 704
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

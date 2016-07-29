@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.030796172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ye Out",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029222533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ye Out",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Books",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017421631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Books",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Books",
+            "beginOffset": 1402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fascinating World",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012897228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fascinating World",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Fascinating World",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Fascinating World",
+            "beginOffset": 1381
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ye",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kanye_West"
+      },
+      "salience": 0.01178631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ye",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Ye",
+            "beginOffset": 1327
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0035188149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 816
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1659
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018360623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 864
+          }
+        }
+      ]
+    },
+    {
+      "name": "inter",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Inter_Milan"
+      },
+      "salience": 0.00057093072,
+      "mentions": [
+        {
+          "text": {
+            "content": "inter",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

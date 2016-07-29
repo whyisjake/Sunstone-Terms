@@ -1,0 +1,327 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.12959532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1244
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 299
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12717748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1081
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.12263899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 528
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 572
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1293
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Next Generation",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation"
+      },
+      "salience": 0.02704634,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Next Generation",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diana Nelson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016763747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diana Nelson",
+            "beginOffset": 777
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael G. Nelson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041115759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael G. Nelson",
+            "beginOffset": 718
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Davis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Cheese"
+      },
+      "salience": 0.0033706732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Davis",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Montana",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Montana"
+      },
+      "salience": 0.0030785007,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Montana",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ana Nelson Shaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ana Nelson Shaw",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerilyn Pool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerilyn Pool",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davis Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davis Henderson",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knickerbocker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knickerbocker",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amanda Farr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amanda Farr",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Montana"
+      },
+      "salience": 0.0027934578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montana",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0023856855,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Eminem",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023856855,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Eminem",
+            "beginOffset": 823
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Nelson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010599573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Nelson",
+            "beginOffset": 1024
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bishopbriggs",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00074183126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bishopbriggs",
+            "beginOffset": 1177
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

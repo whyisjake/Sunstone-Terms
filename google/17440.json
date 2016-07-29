@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "The Face Of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035379674,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Face Of God",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Filter Of Mormon Iconography Strategies",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.030282086,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Filter Of Mormon Iconography Strategies",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.014161334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fernuik",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013507852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fernuik",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0075694243,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0043730605,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracy McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034456744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy McKay",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Broadway",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Broadway_theatre"
+      },
+      "salience": 0.0034456744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Broadway",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.00088812032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catalonia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catalonia"
+      },
+      "salience": 0.00088812032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catalonia",
+            "beginOffset": 898
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

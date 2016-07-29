@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "Shadow of a Doubt",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.08931572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shadow of a Doubt",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Shadow of a Doubt",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Shadow of a Doubt",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human Knowledge",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Knowledge"
+      },
+      "salience": 0.079417266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Knowledge",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Human Knowledge",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Human Knowledge",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hide From Us",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.069668964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hide From Us",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Hide From Us",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Hide From Us",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.069668964,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034634352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leslie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030422512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leslie",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graceland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Graceland"
+      },
+      "salience": 0.013284712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graceland",
+            "beginOffset": 270
+          }
+        },
+        {
+          "text": {
+            "content": "Graceland",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0093970774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Northwestern University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Northwestern_University"
+      },
+      "salience": 0.0091191642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Northwestern University",
+            "beginOffset": 335
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago_Divinity_School"
+      },
+      "salience": 0.0091191642,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago Divinity School",
+            "beginOffset": 396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0077900924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clyde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024249589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clyde",
+            "beginOffset": 539
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

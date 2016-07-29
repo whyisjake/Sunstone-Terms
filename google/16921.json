@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "MICHAEL VINSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038473062,
+      "mentions": [
+        {
+          "text": {
+            "content": "VINSON",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "MICHAEL VINSON",
+            "beginOffset": 881
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.024286434,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07101",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016245853,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07101",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0023546326,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.001977179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.0016387315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.00050977187,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 619
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

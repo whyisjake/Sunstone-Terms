@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Theological Reflection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41639116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological Reflection",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11473728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Life",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Life",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Life",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend Francis Manion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032952588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend Francis Manion",
+            "beginOffset": 234
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theological Reflection",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015113922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological Reflection",
+            "beginOffset": 109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madeleine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074195387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madeleine",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend Mannion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001921338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend Mannion",
+            "beginOffset": 358
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

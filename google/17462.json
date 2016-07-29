@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "Governor Boggs",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lilburn_Boggs"
+      },
+      "salience": 0.33294684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Governor Boggs",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Lilburn Boggs",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Boggs",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Lilburn Boggs",
+            "beginOffset": 1068
+          }
+        },
+        {
+          "text": {
+            "content": "Boggs",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    },
+    {
+      "name": "A Historical Novel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.027301148,
+      "mentions": [
+        {
+          "text": {
+            "content": "A Historical Novel",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.024433376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1170
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.01708279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Porter Rockwell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Porter_Rockwell"
+      },
+      "salience": 0.007671434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Porter Rockwell",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mississippi_River"
+      },
+      "salience": 0.0043476583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mississippi",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Coast",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/West_Coast_of_the_United_States"
+      },
+      "salience": 0.0032123222,
+      "mentions": [
+        {
+          "text": {
+            "content": "West Coast",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pinkerton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pinkerton_(detective_agency)"
+      },
+      "salience": 0.0030621276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pinkerton",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Pinkerton",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri_River"
+      },
+      "salience": 0.0030445261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri River",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Salt lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Salt_Lake"
+      },
+      "salience": 0.0030445261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Salt lake",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024803872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miller",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023507746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00077142846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walter",
+            "beginOffset": 882
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

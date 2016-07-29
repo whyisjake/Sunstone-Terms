@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.039093018,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church Eighty",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02906616,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church Eighty",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scopes",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_T._Scopes"
+      },
+      "salience": 0.012763359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scopes",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Scopes",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029831233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eastman",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029831233,
+      "mentions": [
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trent D. Stephens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029831233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trent D. Stephens",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duane E. Jeffrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028272679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duane E. Jeffrey",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "F.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Forward_(ice_hockey)"
+      },
+      "salience": 0.0023430861,
+      "mentions": [
+        {
+          "text": {
+            "content": "F.",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016564595,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

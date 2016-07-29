@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Far",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.45307109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of God",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Word_of_God_(community)"
+      },
+      "salience": 0.070196681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of God",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Word of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059381172,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Word of God",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "The Word of God",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Far",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03200049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0037676373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 369
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

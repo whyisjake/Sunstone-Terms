@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.06175134,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 645
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1091
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.041919786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 409
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1129
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.038609676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dawkins",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dawkins"
+      },
+      "salience": 0.013428453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dawkins",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dawkins",
+            "beginOffset": 734
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dawkins",
+            "beginOffset": 1061
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith To Knowledge Belief And Works Atheist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080728773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith To Knowledge Belief And Works Atheist",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Atheist",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013926466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Harris",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sam_Harris"
+      },
+      "salience": 0.0011541389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Harris",
+            "beginOffset": 750
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Andrew_Smith_(zoologist)"
+      },
+      "salience": 0.0011541389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 769
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

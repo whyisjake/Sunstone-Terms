@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.073270239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Women Beyond Fertility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039430741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Women Beyond Fertility",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maria Beyond Fertility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013415517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maria Beyond Fertility",
+            "beginOffset": 517
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "LDS Perspective",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16984218,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Perspective",
+            "beginOffset": 3
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Perspective",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Perspective",
+            "beginOffset": 276
+          }
+        }
+      ]
+    },
+    {
+      "name": "Transcendent Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11223581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Transcendent Experience",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Transcendent Experience",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Transcendent Experience",
+            "beginOffset": 299
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.058090534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 328
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Open Curtain The Open Curtain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.53776234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Open Curtain The Open Curtain",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.10374935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 194
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Open Curtain",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015931861,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Open Curtain",
+            "beginOffset": 482
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

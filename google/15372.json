@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Circle of Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063389324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Circle of Life",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Circle of Life",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Circle of Life Art",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056390803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Circle of Life Art",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011015223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee",
+            "beginOffset": 389
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

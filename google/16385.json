@@ -1,0 +1,313 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36247012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1809
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1918
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041894175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 789
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1475
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2015
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019528581,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberation Theology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberation_theology"
+      },
+      "salience": 0.013241906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberation Theology",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013241906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon SL03091",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0067794928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031296422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022984077,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "nbsp SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016653269,
+      "mentions": [
+        {
+          "text": {
+            "content": "nbsp SL03091",
+            "beginOffset": 1713
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014989689,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014678681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013816521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rossby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00073636108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rossby",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Faulconer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/James_E._Faulconer"
+      },
+      "salience": 0.00036637453,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Faulconer",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "PhD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.00036637453,
+      "mentions": [
+        {
+          "text": {
+            "content": "PhD",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Notre Dame",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Notre_Dame"
+      },
+      "salience": 0.00036637453,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Notre Dame",
+            "beginOffset": 1428
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

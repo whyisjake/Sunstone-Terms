@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "The Slaying Of Laban The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.051112305,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Slaying Of Laban The Book of Mormon",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robinson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jackie_Robinson"
+      },
+      "salience": 0.010800374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robinson",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0083480794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 1307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanite",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.0083480794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 1319
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.003243194,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 1073
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laban",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Laban_(Book_of_Mormon)"
+      },
+      "salience": 0.0031434861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laban",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024768536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madson",
+            "beginOffset": 527
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

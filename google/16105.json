@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.34910253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.01164761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale Lecheminant",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024427308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale Lecheminant",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "What&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00099546253,
+      "mentions": [
+        {
+          "text": {
+            "content": "What&",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wrong",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wrongdoing"
+      },
+      "salience": 0.00099546253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wrong",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

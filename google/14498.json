@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Discussion of Living",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.098067023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Discussion of Living",
+            "beginOffset": 760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nineteenth-Century",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/19th_century"
+      },
+      "salience": 0.022701306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nineteenth-Century",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Nineteenth-Century",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Nineteenth-Century",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084909135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Dunphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074291383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Dunphy",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0074291383,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sundance institute",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sundance_Institute"
+      },
+      "salience": 0.0074291383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sundance institute",
+            "beginOffset": 666
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

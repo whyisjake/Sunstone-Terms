@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "COLORADO CITY",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado_City,_Arizona"
+      },
+      "salience": 0.09753532,
+      "mentions": [
+        {
+          "text": {
+            "content": "COLORADO CITY",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado City",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado City",
+            "beginOffset": 635
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado City",
+            "beginOffset": 1667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Barlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038208712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Barlow",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Waco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Waco_siege"
+      },
+      "salience": 0.0086118868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 1821
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonestown",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jonestown"
+      },
+      "salience": 0.0086118868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonestown",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Jonestown",
+            "beginOffset": 1829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.0056088241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormon",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormon",
+            "beginOffset": 1632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0056088241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hildale",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hildale,_Utah"
+      },
+      "salience": 0.0056088241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hildale",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Hildale",
+            "beginOffset": 1695
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0056088241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0041278866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025562937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hillary Groutage",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019808083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hillary Groutage",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.0019808083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 1255
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Judy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008720126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judy",
+            "beginOffset": 736
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grossman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grossman",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suzann Werner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suzann Werner",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judith Naegle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judith Naegle",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Turkey"
+      },
+      "salience": 0.0018211551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turkey",
+            "beginOffset": 530
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

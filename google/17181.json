@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Worth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15002298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Worth",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Price Far Above Rubies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037802782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Price Far Above Rubies",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09151",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.037802782,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09151",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnny Lingo",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Johnny_Lingo"
+      },
+      "salience": 0.0094574858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnny Lingo",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny Lingo",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.008611518,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.0034945807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0030150576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joanne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010868885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joanne",
+            "beginOffset": 834
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego_State_University"
+      },
+      "salience": 0.0010868885,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego State University",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0010868885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 904
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

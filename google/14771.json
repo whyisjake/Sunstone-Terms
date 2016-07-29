@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.2317344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 574
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Environment Tending the Garden",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22493948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Environment Tending the Garden",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.019382549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 477
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

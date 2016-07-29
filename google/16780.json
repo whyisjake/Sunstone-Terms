@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "MORMON WOMEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19141839,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON WOMEN",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exponent II",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03892123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exponent II",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Exponent II",
+            "beginOffset": 969
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.032788843,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "BLOGGERNACLE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_blogosphere"
+      },
+      "salience": 0.023281936,
+      "mentions": [
+        {
+          "text": {
+            "content": "BLOGGERNACLE",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Bloggernacle",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Bloggernacle",
+            "beginOffset": 884
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.015331289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woman's Exponent",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Woman's_Exponent"
+      },
+      "salience": 0.0058789589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woman’s Exponent",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dora",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038353284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dora",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brookwell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031786514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brookwell",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031786514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline",
+            "beginOffset": 642
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02485121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kent Miles MORMON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02485121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kent Miles  MORMON",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "James N. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018351695,
+      "mentions": [
+        {
+          "text": {
+            "content": "James N. Kimball",
+            "beginOffset": 186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kent Miles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018351695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kent Miles",
+            "beginOffset": 204
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "People&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13537993,
+      "mentions": [
+        {
+          "text": {
+            "content": "People&",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "People&",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "People&",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Militia VS",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.092807055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Militia VS",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Militia VS",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Militia VS",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Law of the Land",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0738713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Law of the Land",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Law of the Land",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Law of the Land",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.019785674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 171
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

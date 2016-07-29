@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.12512121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Prophet Puzzle",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10939577,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prophet Puzzle",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "The Prophet Puzzle",
+            "beginOffset": 985
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.031163577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.021555042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0041608545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turk",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032427057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turk",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pickwick",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0031466843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pickwick",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quincy",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Quincy,_Illinois"
+      },
+      "salience": 0.0031466843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quincy",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026875793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brody",
+            "beginOffset": 751
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Medical Ethics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medical_ethics"
+      },
+      "salience": 0.15289244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medical Ethics",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "MD",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Medicine"
+      },
+      "salience": 0.017017001,
+      "mentions": [
+        {
+          "text": {
+            "content": "MD",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johns Hopkins",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Johns_Hopkins_University"
+      },
+      "salience": 0.012528767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johns Hopkins",
+            "beginOffset": 184
+          }
+        }
+      ]
+    },
+    {
+      "name": "City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/City"
+      },
+      "salience": 0.011878087,
+      "mentions": [
+        {
+          "text": {
+            "content": "City",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+      },
+      "salience": 0.0098539563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Central Intelligence Agency",
+            "beginOffset": 305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0093413778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077448455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Smith",
+            "beginOffset": 407
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

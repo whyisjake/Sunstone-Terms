@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "SL09113",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036942206,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09113",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.013646074,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00831692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 1302
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.0043458054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Timothy 2",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040488862,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Timothy 2",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heersink",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032661289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heersink",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010157629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie",
+            "beginOffset": 900
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abbas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mahmoud_Abbas"
+      },
+      "salience": 0.0010157629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abbas",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

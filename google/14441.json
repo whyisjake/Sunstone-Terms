@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "City of Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.093785673,
+      "mentions": [
+        {
+          "text": {
+            "content": "City of Zion",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The City of Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.093785673,
+      "mentions": [
+        {
+          "text": {
+            "content": "The City of Zion",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "MIT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"
+      },
+      "salience": 0.018409647,
+      "mentions": [
+        {
+          "text": {
+            "content": "MIT",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "City of Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017950164,
+      "mentions": [
+        {
+          "text": {
+            "content": "City of Zion",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.01527745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.0037997854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 330
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

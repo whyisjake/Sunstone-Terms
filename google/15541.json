@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Miracle Tale: The Life Of Mary Elizabeth Rollins Lightner Smith Young Miracle Tale: The Life Of Mary Elizabeth Rollins Lightner Smith Young Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41865993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miracle Tale: The Life Of Mary Elizabeth Rollins Lightner Smith Young Miracle Tale: The Life Of Mary Elizabeth Rollins Lightner Smith Young Compton",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Miracle Tale: The Life Of Mary Elizabeth Rollins Lightner Smith Young",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.28217128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006837639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 748
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

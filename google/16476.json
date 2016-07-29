@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Palmer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043318972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palmer",
+            "beginOffset": 477
+          }
+        },
+        {
+          "text": {
+            "content": "Palmer",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benediction Alley",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0026779685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benediction Alley",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Tabernacle Bar",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0024132584,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Tabernacle Bar",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013206841,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

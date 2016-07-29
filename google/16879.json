@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Is Plural Marriage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.53446245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Is Plural Marriage",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.066232875,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph F. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_F._Smith"
+      },
+      "salience": 0.015560005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph F. Smith",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph F. Smith",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006416189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021934016,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Hales",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017000872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0017000872,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.W.W.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_Wide_Web"
+      },
+      "salience": 0.0014089977,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. W. W.",
+            "beginOffset": 656
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

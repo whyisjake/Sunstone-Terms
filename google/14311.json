@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Women in Religion Women in Religion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13831009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women in Religion Women in Religion",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Women in Religion",
+            "beginOffset": 350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Esther lambda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046963047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esther lambda",
+            "beginOffset": 321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hadassah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hadassah_Women's_Zionist_Organization_of_America"
+      },
+      "salience": 0.032536332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hadassah",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "National Council of Jewish",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.028051995,
+      "mentions": [
+        {
+          "text": {
+            "content": "National Council of Jewish",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.026607633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel America",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018912042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel  America",
+            "beginOffset": 203
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

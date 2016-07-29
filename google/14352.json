@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.077071279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 562
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Taylor Never Friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062892832,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor Never Friends",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.04267808,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Golding Kimble",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016684473,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Golding Kimble",
+            "beginOffset": 163
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.H. Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.012957787,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. H. Roberts",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012957787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "California Never Friends",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0098062214,
+      "mentions": [
+        {
+          "text": {
+            "content": "California Never Friends",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0031819604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 443
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

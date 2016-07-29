@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.076195426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.032123186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 222
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

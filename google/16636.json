@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "Brian Patrick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26796719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Patrick",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Patrick",
+            "beginOffset": 560
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Patrick",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.09887325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 796
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Park City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Park_City,_Utah"
+      },
+      "salience": 0.023098601,
+      "mentions": [
+        {
+          "text": {
+            "content": "Park City",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best of Festival Award",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021879284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best of Festival Award",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Best of Festival Award",
+            "beginOffset": 901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley Film Festival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.021879284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley Film Festival",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "Berkeley Film Festival",
+            "beginOffset": 932
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best of State Award",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021879284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best of State Award",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Best of State Award",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "BURYING THE PAST: LEGACY OF THE MOUNTAIN MEADOWS MASSACRE",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Burying_the_Past"
+      },
+      "salience": 0.015101385,
+      "mentions": [
+        {
+          "text": {
+            "content": "BURYING THE PAST: LEGACY OF THE MOUNTAIN MEADOWS MASSACRE",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Burying the Past",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Burying the Past",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0092105288,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0078946846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massacre&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0055407486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massacre&",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret Morning News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_News"
+      },
+      "salience": 0.0038181322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret Morning News",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patrick Park City",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0013620226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patrick  Park City",
+            "beginOffset": 776
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

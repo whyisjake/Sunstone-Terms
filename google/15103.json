@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.051906317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Practice",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021651655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Practice",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "mount Holyoke",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mount_Holyoke_College"
+      },
+      "salience": 0.016552951,
+      "mentions": [
+        {
+          "text": {
+            "content": "mount Holyoke",
+            "beginOffset": 297
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Rochester",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Rochester"
+      },
+      "salience": 0.016552951,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Rochester",
+            "beginOffset": 355
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York"
+      },
+      "salience": 0.013726498,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 513
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

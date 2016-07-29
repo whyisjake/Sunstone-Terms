@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Kappa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082528204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kappa",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Virginia",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Virginia"
+      },
+      "salience": 0.033546556,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Virginia",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Courtney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023054829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Courtney",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Scanlon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02184749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Scanlon",
+            "beginOffset": 291
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin J. Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017882641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin J. Clark",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.017882641,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Real_Salt_Lake"
+      },
+      "salience": 0.0046182168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

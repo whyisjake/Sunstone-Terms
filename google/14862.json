@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "The Mormon Woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16584244,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Woman",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07074853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Woman",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.014689774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenyon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kenyon_College"
+      },
+      "salience": 0.011560458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenyon",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011560458,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 324
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Woman",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011122423,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Woman",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheriton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036127798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheriton",
+            "beginOffset": 366
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

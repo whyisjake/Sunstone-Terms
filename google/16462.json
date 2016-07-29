@@ -1,0 +1,295 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37597933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1797
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 482
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.060594838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 774
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2003
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020256409,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1842
+          }
+        }
+      ]
+    },
+    {
+      "name": "Occurred SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01373543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Occurred SL03091",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070321639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0058613461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 813
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1130
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1660
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023840691,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline Burge Crosby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017571892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Burge Crosby",
+            "beginOffset": 1416
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017273934,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1706
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015548354,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0015225754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 998
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mojave Desert",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mojave_Desert"
+      },
+      "salience": 0.0014751914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mojave Desert",
+            "beginOffset": 1636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038002929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 1322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.00038002929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 1336
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038002929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helen",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

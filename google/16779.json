@@ -1,0 +1,403 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.18552625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1635
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 743
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1901
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.067345053,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 409
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 774
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1693
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022054754,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1803
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018207112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Dutcher&",
+            "beginOffset": 641
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 1773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013126352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 1815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City_(film)"
+      },
+      "salience": 0.013126352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 1831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0059760567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0059760567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Singles Ward",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Singles_Ward"
+      },
+      "salience": 0.005097182,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Singles Ward",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0033366985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema&",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.0021581291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Other Side of Heaven",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Other_Side_of_Heaven"
+      },
+      "salience": 0.0021327329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Other Side of Heaven",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.M.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Midfielder"
+      },
+      "salience": 0.0020212703,
+      "mentions": [
+        {
+          "text": {
+            "content": "R.M.",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0018230615,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1497
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018230615,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 1538
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0017955678,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1484
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015107412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denhalter",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015107412,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Bernhard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015107412,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Bernhard",
+            "beginOffset": 1203
+          }
+        }
+      ]
+    },
+    {
+      "name": "States of Grace",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/States_of_Grace"
+      },
+      "salience": 0.0012136635,
+      "mentions": [
+        {
+          "text": {
+            "content": "States of Grace",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Charles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00055005192,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Charles",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

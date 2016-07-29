@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "WASHINGTON",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.080465712,
+      "mentions": [
+        {
+          "text": {
+            "content": "WASHINGTON",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "WASHINGTON",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "STERLING MCMURRIN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071463667,
+      "mentions": [
+        {
+          "text": {
+            "content": "STERLING MCMURRIN",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "STERLING MCMURRIN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055805203,
+      "mentions": [
+        {
+          "text": {
+            "content": "STERLING MCMURRIN",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "STERLING MCMURRIN",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "WASHINGTON YEARS AT HOME AND ABROAD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03535746,
+      "mentions": [
+        {
+          "text": {
+            "content": "WASHINGTON YEARS AT HOME AND ABROAD",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jackson Newell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010700042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jackson Newell",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boyer Jarvis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0076427986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyer Jarvis",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Boyer",
+            "beginOffset": 734
+          }
+        },
+        {
+          "text": {
+            "content": "Boyer Jarvis",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Jackson Newell",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0047899829,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Jackson Newell",
+            "beginOffset": 924
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

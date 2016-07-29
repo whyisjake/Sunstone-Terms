@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "NATASHA MCDONALD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44387373,
+      "mentions": [
+        {
+          "text": {
+            "content": "NATASHA MCDONALD",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Natasha",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Natasha",
+            "beginOffset": 629
+          }
+        },
+        {
+          "text": {
+            "content": "Natasha",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "BORN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Childbirth"
+      },
+      "salience": 0.028571595,
+      "mentions": [
+        {
+          "text": {
+            "content": "BORN",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natasha&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070228078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natasha&",
+            "beginOffset": 460
+          }
+        },
+        {
+          "text": {
+            "content": "Natasha&",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helen Keller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Helen_Keller"
+      },
+      "salience": 0.0036752441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helen Keller",
+            "beginOffset": 918
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bennion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028471854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bennion",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0025574132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Castro",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fidel_Castro"
+      },
+      "salience": 0.00079535076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Castro",
+            "beginOffset": 965
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

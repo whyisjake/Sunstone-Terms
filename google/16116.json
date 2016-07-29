@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Glan Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017031325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glan Lambert",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012817246,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1083
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rae Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032833291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rae Scott",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Saxton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032833291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Saxton",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Bartlett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032833291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Bartlett",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027211139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019237779,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1234
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

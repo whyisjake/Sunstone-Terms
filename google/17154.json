@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "How People Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044830248,
+      "mentions": [
+        {
+          "text": {
+            "content": "How People Change",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09007",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024267917,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09007",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022058035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "ID",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0022058035,
+      "mentions": [
+        {
+          "text": {
+            "content": "ID",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis and Clark University",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00068605109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis and Clark University",
+            "beginOffset": 917
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00068605109,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 974
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

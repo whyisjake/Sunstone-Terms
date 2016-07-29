@@ -1,0 +1,305 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_(word)"
+      },
+      "salience": 0.02533409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02533409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormonism",
+            "beginOffset": 140
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10132",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017820591,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10132",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.010217986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1427
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00893009,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1640
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. ROOS",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0087072263,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. ROOS",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "FLDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints"
+      },
+      "salience": 0.0085979365,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLDS Church",
+            "beginOffset": 405
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS Church",
+            "beginOffset": 1692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostolic United Brethren",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apostolic_United_Brethren"
+      },
+      "salience": 0.0065722032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostolic United Brethren",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Apostolic United Brethren",
+            "beginOffset": 1709
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Fundamentalism",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.0065722032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Fundamentalism",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Fundamentalism",
+            "beginOffset": 1659
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of the Firstborn",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_the_Firstborn_of_the_Fulness_of_Times"
+      },
+      "salience": 0.0030392827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of the Firstborn",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Order of Aaron",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/House_of_Aaron"
+      },
+      "salience": 0.0023109065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Order of Aaron",
+            "beginOffset": 520
+          }
+        },
+        {
+          "text": {
+            "content": "Aaron",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0023077044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1261
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Desert",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Desert"
+      },
+      "salience": 0.0021359783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Desert",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hans Baer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021359783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hans Baer",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Recreating Utopia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021359783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Recreating Utopia",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRISTOPHER BLYTHE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018638148,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRISTOPHER BLYTHE",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRISTINE BLYTHE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018638148,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRISTINE BLYTHE",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

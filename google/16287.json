@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.12151824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1085
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 924
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1182
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1287
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Snow",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/C._P._Snow"
+      },
+      "salience": 0.063931108,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Snow",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolutionary Dynamics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017040329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolutionary Dynamics",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homo Sapiens",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Homo_sapiens"
+      },
+      "salience": 0.017040329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homo Sapiens",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0042547937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 523
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

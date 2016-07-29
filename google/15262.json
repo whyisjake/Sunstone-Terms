@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.14904289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 534
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067670554,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.053761967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo The People VS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022471555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo The People VS",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "The People VS",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.021639725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Criminal Law",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Criminal_law"
+      },
+      "salience": 0.021371873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Criminal Law",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Criminal Law",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Criminal Law",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0064884736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marshall",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marshall_University"
+      },
+      "salience": 0.0053788857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marshall",
+            "beginOffset": 331
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "OP",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43002295,
+      "mentions": [
+        {
+          "text": {
+            "content": "OP",
+            "beginOffset": 256
+          }
+        }
+      ]
+    },
+    {
+      "name": "Private Man David O McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22643979,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O McKay",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Private Man David O McKay",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "David O McKay",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Public",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Public"
+      },
+      "salience": 0.089842223,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Public",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "The Public",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "The Public",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Val Rust",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.044572379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Val Rust",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Val Rust",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Private Man Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023944896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Private Man Bringhurst",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.015084902,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.015084902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Jesus Christ of latter day saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014301835,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter day saints",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.011865618,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011865618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Private Man Newell Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010211642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Private Man Newell Bringhurst",
+            "beginOffset": 577
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

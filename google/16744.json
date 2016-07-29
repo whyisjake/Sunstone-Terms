@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.36616796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scarlet Letter&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.082317822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scarlet Letter&",
+            "beginOffset": 18
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

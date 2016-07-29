@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "CofC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.055007458,
+      "mentions": [
+        {
+          "text": {
+            "content": "CofC",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "CofC",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi 6",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.055007458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi 6",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi 6",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.055007458,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi 5",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034440842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi 5",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi 5",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.014873695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale E. Luffman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007710963,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Luffman",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Dale E. Luffman",
+            "beginOffset": 656
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "John Koyle&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.81196082,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Koyle&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "John Koyle&",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "John Koyle&",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dream Mine: A Monument of Mystery Bishop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.085265458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream Mine: A Monument of Mystery Bishop",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dream Mine: A Monument of Mystery",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.081043594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream Mine: A Monument of Mystery",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dream Mine: A Monument of Mystery Bishop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021730103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream Mine: A Monument of Mystery  Bishop",
+            "beginOffset": 86
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

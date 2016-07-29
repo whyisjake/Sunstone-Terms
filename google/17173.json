@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.43277749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 977
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard I",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_I_of_England"
+      },
+      "salience": 0.015961239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 511
+          }
+        },
+        {
+          "text": {
+            "content": "Richard I",
+            "beginOffset": 917
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09121",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01520937,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09121",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.0077994787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077994787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030352762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.0014013483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kanye_West"
+      },
+      "salience": 0.0014013483,
+      "mentions": [
+        {
+          "text": {
+            "content": "West",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Delewski",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013775496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Delewski",
+            "beginOffset": 716
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

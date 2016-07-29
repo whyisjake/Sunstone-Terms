@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Wayne Booth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wayne_C._Booth"
+      },
+      "salience": 0.71539938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Booth",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Wayne",
+            "beginOffset": 1050
+          }
+        },
+        {
+          "text": {
+            "content": "Wayne Booth",
+            "beginOffset": 1581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wanderer Wayne Booth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058528935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wanderer Wayne Booth",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Wanderer Wayne Booth",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Wanderer Wayne Booth",
+            "beginOffset": 1596
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Rhetoric of Fiction",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0035822643,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Rhetoric of Fiction",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "The Rhetoric of Fiction",
+            "beginOffset": 1795
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0029378838,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0023467082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 526
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 985
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016021782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne&",
+            "beginOffset": 632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Marion ``Duff'' Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00095403654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Marion “Duff” Hanks",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00089152256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 953
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1108
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00019983697,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Thomas",
+            "beginOffset": 1231
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

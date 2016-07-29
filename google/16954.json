@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "MITT ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.54939961,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt",
+            "beginOffset": 691
+          }
+        },
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 1187
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0050628628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 576
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "B. SCOTT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024148885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "B. SCOTT",
+            "beginOffset": 813
+          }
+        },
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018164983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt&",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt&",
+            "beginOffset": 1497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard French",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011735129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard French",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clintonesque",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bill_Clinton"
+      },
+      "salience": 0.00096739858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clintonesque",
+            "beginOffset": 772
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

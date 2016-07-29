@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.08104416,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Family_(biology)"
+      },
+      "salience": 0.073673666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.073673666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archetype of Eternal Marriage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060218327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archetype of Eternal Marriage",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Archetype of Eternal Marriage",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archetype of Eternal Marriage",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049300577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archetype of Eternal Marriage",
+            "beginOffset": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014523135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.01240788,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "letterman General Hospital",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011760709,
+      "mentions": [
+        {
+          "text": {
+            "content": "letterman General Hospital",
+            "beginOffset": 280
+          }
+        }
+      ]
+    },
+    {
+      "name": "UC Davis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Davis"
+      },
+      "salience": 0.011760709,
+      "mentions": [
+        {
+          "text": {
+            "content": "UC Davis",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00974944,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "God C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008385824,
+      "mentions": [
+        {
+          "text": {
+            "content": "God C. Jess Groesbeck",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Ocean"
+      },
+      "salience": 0.0030347935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific",
+            "beginOffset": 582
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

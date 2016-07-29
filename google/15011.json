@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Plainness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077331237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plainness",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Plainness",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Plainness",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Delighting",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.063007623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Delighting",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.042662155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.037289169,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.012240342,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.010153426,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Feller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Man"
+      },
+      "salience": 0.15826088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feller",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Futurist Movement Back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036669485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Futurist Movement Back",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Futurist Movement Britain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0113768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Futurist Movement Britain",
+            "beginOffset": 108
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0083742421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kennedy center",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_F._Kennedy_Center_for_the_Performing_Arts"
+      },
+      "salience": 0.0079390621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kennedy center",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0079390621,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Futurist Movement",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0063353158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Futurist Movement",
+            "beginOffset": 678
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

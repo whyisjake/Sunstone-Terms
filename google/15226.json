@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Remembering Brad Aids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.425985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Remembering Brad Aids",
+            "beginOffset": 108
+          }
+        }
+      ]
+    },
+    {
+      "name": "Data Over Tradition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030465549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Data Over Tradition",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Data Over Tradition",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Data Over Tradition",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Remembering Brad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010779581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Remembering Brad",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Remembering Brad",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dwight Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088039143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dwight Clark",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0073048812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_University"
+      },
+      "salience": 0.002670045,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York University",
+            "beginOffset": 440
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

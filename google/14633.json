@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.25945488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.10925587,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 311
+          }
+        }
+      ]
+    },
+    {
+      "name": "Biblical Prophetic Tradition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044384565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblical Prophetic Tradition",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Biblical Prophetic Tradition",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Biblical Prophetic Tradition",
+            "beginOffset": 392
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

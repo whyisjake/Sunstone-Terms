@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "Joseph smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.12389312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 624
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 1437
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09003",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061375428,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09003",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Culture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Culture_of_the_United_States"
+      },
+      "salience": 0.032286376,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Culture",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031007305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folds",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Folds",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Folds",
+            "beginOffset": 1196
+          }
+        },
+        {
+          "text": {
+            "content": "Folds",
+            "beginOffset": 1285
+          }
+        }
+      ]
+    },
+    {
+      "name": "FLDS Woodend",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010182354,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLDS Woodend",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091206776,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 1377
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0061729024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 1214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042331065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0030944564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.0030521303,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0028680542,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 532
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.0022409987,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0022409987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015842249,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1534
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fortin Midwest America",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0008996689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fortin Midwest  America",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

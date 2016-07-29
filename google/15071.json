@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism and Education",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29651338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism and Education",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism and Education",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism and Education",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.022017594,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.022017594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 482
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

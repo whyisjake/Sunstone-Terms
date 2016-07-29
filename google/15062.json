@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Heavenly Father",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_the_Father"
+      },
+      "salience": 0.38980898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Father",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Father",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chairman of the Board",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058921263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chairman of the Board",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Chairman of the Board",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Chairman of the Board",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Confine Our Religious Experience Heavenly Father",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024900598,
+      "mentions": [
+        {
+          "text": {
+            "content": "Confine Our Religious Experience Heavenly Father",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Confine Our Religious Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018363208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Confine Our Religious Experience",
+            "beginOffset": 207
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

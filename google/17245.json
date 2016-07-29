@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Dan Witherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0571313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Witherspoon",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heretic Conflict",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.052925721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heretic Conflict",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026261926,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Kesler",
+            "beginOffset": 709
+          }
+        },
+        {
+          "text": {
+            "content": "Kesler",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0048164669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 553
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 917
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Randall Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027461476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Randall Paul",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027461476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 871
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.0027461476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0027461476,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 977
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

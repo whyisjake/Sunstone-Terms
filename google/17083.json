@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "D. Michael Martindale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27988663,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Martindale",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Martindale",
+            "beginOffset": 573
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Martindale",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.019489363,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michel Martelly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0098671047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michel Martelly",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Pace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033127232,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Pace",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027457054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dana",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027457054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dana",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0011188191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 868
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085417216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085417216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 801
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

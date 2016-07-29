@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Peggy Fletcher Stack",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peggy_Fletcher_Stack"
+      },
+      "salience": 0.21533455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fletcher Stack",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Peggy",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Peggy",
+            "beginOffset": 495
+          }
+        },
+        {
+          "text": {
+            "content": "Peggy Fletcher Stack",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Hofmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Hofmann"
+      },
+      "salience": 0.2079138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.050189413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010525581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.003284021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lake City",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monsignor Staffel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003284021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monsignor Staffel",
+            "beginOffset": 411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,341 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.087087572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1681
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1821
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10336",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042110786,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10336",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041072458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.016890187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Babylon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Babylon"
+      },
+      "salience": 0.016890187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Babylon",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Demographic Transition",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.016890187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Demographic Transition",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Culture Region",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Corridor"
+      },
+      "salience": 0.015358998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture Region",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Culture Region",
+            "beginOffset": 1755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demographic Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0096698189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Demographic Change",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Demographic Change",
+            "beginOffset": 1659
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0086490409,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rick Phillips",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082430718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rick Phillips",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "PHILLIPS",
+            "beginOffset": 1407
+          }
+        },
+        {
+          "text": {
+            "content": "Rick Phillips",
+            "beginOffset": 1949
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0064346134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1919
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Global Growth",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00346694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Global Growth",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Membership Data",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034610128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Membership Data",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adventists",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021931406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adventists",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Basin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Basin"
+      },
+      "salience": 0.0020734223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Basin",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018729625,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scully",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017548688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scully",
+            "beginOffset": 1600
+          }
+        }
+      ]
+    },
+    {
+      "name": "RONALD LAWSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004520824,
+      "mentions": [
+        {
+          "text": {
+            "content": "RONALD LAWSON",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

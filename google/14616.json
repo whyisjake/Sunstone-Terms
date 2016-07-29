@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Local Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Local_church"
+      },
+      "salience": 0.086726032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Local Church",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Central",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_America"
+      },
+      "salience": 0.086726032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Central",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elkton Ward Study",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069086544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elkton Ward Study",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Elkton Ward Study",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Elkton Ward Study",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lilly",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eli_Lilly_and_Company"
+      },
+      "salience": 0.034539744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilly",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Lilly",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Lilly",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congregational Study",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023084437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congregational Study",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Congregational Study",
+            "beginOffset": 382
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

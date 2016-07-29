@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.038989205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 602
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.031123696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1334
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.A.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.014478744,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.A.",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099972868,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059184376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0031150482,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 440
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presenter",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presenter"
+      },
+      "salience": 0.0030728232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presenter",
+            "beginOffset": 892
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0029019087,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00234627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.00234627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00234627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 931
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jet Propulsion laboratory",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory"
+      },
+      "salience": 0.00072951225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jet Propulsion laboratory",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00072951225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

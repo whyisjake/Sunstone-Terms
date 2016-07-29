@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050117645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010745903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Scott",
+            "beginOffset": 424
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

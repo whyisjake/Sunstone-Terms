@@ -1,0 +1,351 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.081859238,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 397
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 766
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.060443129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 735
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Woodward",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029630935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Woodward",
+            "beginOffset": 1165
+          }
+        },
+        {
+          "text": {
+            "content": "Woodward",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LDS_cinema"
+      },
+      "salience": 0.022152407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Cinema",
+            "beginOffset": 1890
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022151213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Dutcher&",
+            "beginOffset": 633
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 1768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dutcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01903476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dutcher",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015971338,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015971338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 1810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City_(film)"
+      },
+      "salience": 0.015971338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 1826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0072722603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0053440304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0038551446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema&",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Other Side of Heaven",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Other_Side_of_Heaven"
+      },
+      "salience": 0.0025955061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Other Side of Heaven",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.M.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Malaysian_ringgit"
+      },
+      "salience": 0.0024598627,
+      "mentions": [
+        {
+          "text": {
+            "content": "R.M.",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Singles Ward",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Singles_Ward"
+      },
+      "salience": 0.0024598627,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Singles Ward",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don Godfrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018385721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don Godfrey",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "States of Grace",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/States_of_Grace"
+      },
+      "salience": 0.0017296078,
+      "mentions": [
+        {
+          "text": {
+            "content": "States of Grace",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cronkite",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walter_Cronkite"
+      },
+      "salience": 0.00057162804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cronkite",
+            "beginOffset": 1207
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

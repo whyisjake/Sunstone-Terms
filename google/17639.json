@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Devery Anderson&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1535164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devery Anderson&",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Author Meets Critic",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11956381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Author Meets Critic",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.071689792,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016751485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016675219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duffy",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 326
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tania Rands Lyon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016675219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tania Rands Lyon",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Tania Rands Lyon",
+            "beginOffset": 346
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

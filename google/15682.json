@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27927405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2293061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford Freshmen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17808221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford Freshmen",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16908734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.10426921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford Freshmen McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039981097,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford Freshmen McCall",
+            "beginOffset": 124
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

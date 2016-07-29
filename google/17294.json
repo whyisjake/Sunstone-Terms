@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "name": "EugeneEngland.org",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.54158342,
+      "mentions": [
+        {
+          "text": {
+            "content": "EugeneEngland.org",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "EugeneEngland.org",
+            "beginOffset": 1105
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rediscovering Eugene England",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015477777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rediscovering Eugene England",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10131",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013445063,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10131",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012230128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.0078822859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 331
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriott Library",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._Willard_Marriott_Library"
+      },
+      "salience": 0.0051503493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriott Library",
+            "beginOffset": 381
+          }
+        },
+        {
+          "text": {
+            "content": "Marriott Library",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0051503493,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England Foundation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0044368221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England Foundation",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England Foundation",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "REBECCA ENGLAND",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0028162966,
+      "mentions": [
+        {
+          "text": {
+            "content": "REBECCA ENGLAND",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHARLOTTE ENGLAND",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0028162966,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHARLOTTE ENGLAND",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "JODY ENGLAND HANSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022004705,
+      "mentions": [
+        {
+          "text": {
+            "content": "HANSEN",
+            "beginOffset": 604
+          }
+        },
+        {
+          "text": {
+            "content": "JODY ENGLAND HANSEN",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina"
+      },
+      "salience": 0.0020137178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlotte",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samoa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samoa"
+      },
+      "salience": 0.0017199096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samoa",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elder_(Latter_Day_Saints)"
+      },
+      "salience": 0.001630053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce R. McConkie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bruce_R._McConkie"
+      },
+      "salience": 0.001630053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce R. McConkie",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN WOTHERSPOON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015691519,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN WOTHERSPOON",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jodi Hanson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00052971748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jodi Hanson",
+            "beginOffset": 1039
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Prodigal Sun",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12222305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prodigal Sun",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luke 15",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Luke_15"
+      },
+      "salience": 0.030912515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luke 15",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Luke 15",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027797436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol B. Quist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016791098,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. Quist",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Carol B. Quist",
+            "beginOffset": 391
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

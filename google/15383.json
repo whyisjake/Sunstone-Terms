@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Messiahs",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Messiah"
+      },
+      "salience": 0.23201391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Messiahs",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Messiahs",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul E Johnson Millenniums",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.064174868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul E Johnson Millenniums",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul E. Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0476621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul E Johnson",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Paul E. Johnson",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "Paul E Johnson",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012214048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Millenniums",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Millennium"
+      },
+      "salience": 0.010078646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Millenniums",
+            "beginOffset": 484
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

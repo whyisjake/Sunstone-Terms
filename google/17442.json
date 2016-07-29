@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Rachel maybe Whipple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12555887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel maybe Whipple",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creed: Frivolity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030540641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creed: Frivolity",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099978009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel Mabey Whipple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078973034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Mabey Whipple",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Rachel Mabey Whipple",
+            "beginOffset": 900
+          }
+        }
+      ]
+    },
+    {
+      "name": "PMS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Premenstrual_syndrome"
+      },
+      "salience": 0.0071715643,
+      "mentions": [
+        {
+          "text": {
+            "content": "PMS",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sara Burlingame",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070638009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara Burlingame",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Sara Burlingame",
+            "beginOffset": 862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Obadiah Schwarzkopf",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070638009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obadiah Schwarzkopf",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Obadiah Schwarzkopf",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0059467042,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0018527396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 666
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

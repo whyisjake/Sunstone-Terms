@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.02214103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.013667936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002541783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024227146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Montclair",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0024227146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Montclair",
+            "beginOffset": 816
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

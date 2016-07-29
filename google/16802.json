@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.46408293,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 688
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.082610205,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 716
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "AZ06013",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028792908,
+      "mentions": [
+        {
+          "text": {
+            "content": "AZ06013",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.015438182,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027465145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natasha Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027465145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natasha Daughtrey",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary M. Grossman AZ06013",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027465145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary M. Grossman  AZ06013",
+            "beginOffset": 602
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

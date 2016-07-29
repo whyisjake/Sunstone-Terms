@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Bateman Administration Waterman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41594493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bateman Administration Waterman",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Bateman",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "AAUP",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.19044904,
+      "mentions": [
+        {
+          "text": {
+            "content": "AAUP",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collision Of Cultures",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.085274071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collision Of Cultures",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "AAUP",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.045750033,
+      "mentions": [
+        {
+          "text": {
+            "content": "AAUP",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "AAUP",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bateman Administration A Collision Of Cultures",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024729155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bateman Administration A Collision Of Cultures",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "A Collision Of Cultures",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01731215,
+      "mentions": [
+        {
+          "text": {
+            "content": "A Collision Of Cultures",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryan Waterman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0094754482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Waterman",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0034412658,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 385
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

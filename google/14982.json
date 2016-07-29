@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Faith Shared Values",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050815821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith Shared Values",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "inter",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Inter_Milan"
+      },
+      "salience": 0.035210155,
+      "mentions": [
+        {
+          "text": {
+            "content": "inter",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collaboration of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020099241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collaboration of Faith",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.014119153,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor's_degree"
+      },
+      "salience": 0.014119153,
+      "mentions": [
+        {
+          "text": {
+            "content": "BA",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Smith_College"
+      },
+      "salience": 0.010390786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.010390786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.007859828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 609
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

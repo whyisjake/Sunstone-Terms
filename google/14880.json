@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Terror",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Terror_(politics)"
+      },
+      "salience": 0.075712964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terror",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_University_in_St._Louis"
+      },
+      "salience": 0.024954755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington university",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Louis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/St._Louis"
+      },
+      "salience": 0.021362452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Louis",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.01493086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 333
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

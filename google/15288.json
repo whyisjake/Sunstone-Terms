@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Lou",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016903637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lou",
+            "beginOffset": 233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013488485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormonism",
+            "beginOffset": 498
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

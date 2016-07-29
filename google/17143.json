@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.16324538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 684
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 881
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09009",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076139942,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09009",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.015441776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "PRINCE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prince_(musician)"
+      },
+      "salience": 0.0038735596,
+      "mentions": [
+        {
+          "text": {
+            "content": "PRINCE",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heaven_(Christianity)"
+      },
+      "salience": 0.0038735596,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "JALYNN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022483759,
+      "mentions": [
+        {
+          "text": {
+            "content": "JALYNN",
+            "beginOffset": 909
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

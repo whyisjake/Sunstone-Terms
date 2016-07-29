@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39627692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laser Light Revelation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.096808895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laser Light Revelation",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022217654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088654412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry",
+            "beginOffset": 374
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

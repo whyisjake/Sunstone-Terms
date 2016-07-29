@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "The Brain Mormons And War",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.089527711,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Brain Mormons And War",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.041402392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.040861029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.025102995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooke Swallow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014748234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooke Swallow",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swallow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0099944528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swallow",
+            "beginOffset": 307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Lines",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0093617979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth Lines",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "Kenneth Lines",
+            "beginOffset": 692
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

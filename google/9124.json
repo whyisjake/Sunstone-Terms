@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Arrayed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.42290109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arrayed",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacob Baker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.090304218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob Baker",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob Baker",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048848886,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Silence",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Silence"
+      },
+      "salience": 0.048848886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Silence",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038582128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017765481,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 138
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "CULTURES COLLIDE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26538014,
+      "mentions": [
+        {
+          "text": {
+            "content": "CULTURES COLLIDE",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "CULTURES COLLIDE",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "CULTURES COLLIDE",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "RELIGION Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014706077,
+      "mentions": [
+        {
+          "text": {
+            "content": "RELIGION Mormonism",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "RELIGION Mormonism",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel of Jesus Christ",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_gospel"
+      },
+      "salience": 0.013711247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel of Jesus Christ",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel of Jesus Christ",
+            "beginOffset": 1410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011849468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 1484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.001501304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Randall Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rand_Paul"
+      },
+      "salience": 0.0014340922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Randall Paul",
+            "beginOffset": 833
+          }
+        }
+      ]
+    },
+    {
+      "name": "Megan Falater",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011415898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Megan Falater",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth M. Morrison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011415898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth M. Morrison",
+            "beginOffset": 862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.00035499036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

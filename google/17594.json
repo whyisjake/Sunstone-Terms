@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "OGDEN AND PROVO TEMPLES",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.16560933,
+      "mentions": [
+        {
+          "text": {
+            "content": "OGDEN AND PROVO TEMPLES",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden,_Utah"
+      },
+      "salience": 0.16098125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 1135
+          }
+        },
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 1458
+          }
+        }
+      ]
+    },
+    {
+      "name": "TEMPLE ARCHITECTURE",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temple_architecture_(LDS_Church)"
+      },
+      "salience": 0.072816841,
+      "mentions": [
+        {
+          "text": {
+            "content": "TEMPLE ARCHITECTURE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo Temples",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028096901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo Temples",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Provo Temples",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.010614578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 438
+          }
+        },
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 1037
+          }
+        },
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 1464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barnett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033518726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barnett",
+            "beginOffset": 845
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modernism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Modernism"
+      },
+      "salience": 0.0032758587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modernism",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0032202494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0026304063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0010131655,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 971
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 1073
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

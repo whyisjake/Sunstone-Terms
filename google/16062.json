@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.58446521,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 458
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 570
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1228
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1258
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Power of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10721917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Power of God",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0091616884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0076597729,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023884231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon Simon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012736954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon Simon",
+            "beginOffset": 858
+          }
+        },
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake T. Ostler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012548734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake T. Ostler",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Nicholson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012548734,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Nicholson",
+            "beginOffset": 827
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Huff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012548734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benjamin Huff",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.0012548734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Notre Dame",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Notre_Dame"
+      },
+      "salience": 0.00039019939,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Notre Dame",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aristotle",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aristotle"
+      },
+      "salience": 0.00039019939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aristotle",
+            "beginOffset": 1093
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

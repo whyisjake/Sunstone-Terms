@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.23441809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 533
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 919
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1260
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1467
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.019722553,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 473
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 845
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.012152976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10361",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010398109,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10361",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew 23",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053330166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew 23",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew 23",
+            "beginOffset": 1236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luke 11",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Luke_11"
+      },
+      "salience": 0.0053330166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luke 11",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Luke 11",
+            "beginOffset": 1251
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0014204959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Florida"
+      },
+      "salience": 0.00034897155,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Florida",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. MCLEMORE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00031443994,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. MCLEMORE",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Florida",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Florida"
+      },
+      "salience": 0.00029799333,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Florida",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

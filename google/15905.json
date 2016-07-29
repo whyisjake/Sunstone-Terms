@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11475562,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.044113036,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH SUNSTONE",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Eugene Peck SUNSTONE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026302479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert Eugene Peck  SUNSTONE",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Elbert Eugene Peck",
+            "beginOffset": 225
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH Richard Ferre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026184855,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH Ferre",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "CHURCH Richard Ferre",
+            "beginOffset": 203
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

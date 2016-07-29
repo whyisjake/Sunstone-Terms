@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.30695584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rock and a Hard Place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1725671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock and a Hard Place",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Rock and a Hard Place",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Rock and a Hard Place",
+            "beginOffset": 557
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

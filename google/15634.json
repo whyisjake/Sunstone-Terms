@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26893556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Answers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086921096,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Answers",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Answers To History Questions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086921096,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Answers To History Questions",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.011796251,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008219243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Answers To History Questions D.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050061834,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Answers To History Questions D.",
+            "beginOffset": 556
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

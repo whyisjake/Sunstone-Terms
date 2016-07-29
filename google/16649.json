@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.097446151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039374448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connell",
+            "beginOffset": 945
+          }
+        },
+        {
+          "text": {
+            "content": "Connell",
+            "beginOffset": 1328
+          }
+        }
+      ]
+    },
+    {
+      "name": "PANEL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panel_painting"
+      },
+      "salience": 0.036749166,
+      "mentions": [
+        {
+          "text": {
+            "content": "PANEL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quiet Desperation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011285487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quiet Desperation",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Quiet Desperation",
+            "beginOffset": 1681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0085570328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter",
+            "beginOffset": 1413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.005370256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0048113428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035468338,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 1313
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035468338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025102359,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carol_Lynn_Pearson"
+      },
+      "salience": 0.0025102359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donovon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025102359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donovon",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025102359,
+      "mentions": [
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025102359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americano",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

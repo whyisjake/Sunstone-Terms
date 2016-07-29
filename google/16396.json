@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.38779283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1646
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.07981541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 789
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1852
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lost Inkling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055180714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lost Inkling",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.023536669,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baptism for the Dead SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018670674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baptism for the Dead SL03091",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0081791971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051890183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Williams",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Charles Williams",
+            "beginOffset": 1444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0037768865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0027739266,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020099683,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1555
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014992669,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014681581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044224181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 1350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Corcoran",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00023522064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corcoran",
+            "beginOffset": 1337
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

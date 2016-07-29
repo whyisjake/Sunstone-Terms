@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Culture Recruiting",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.088098876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture Recruiting",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missionary Mobilization",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.048111014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missionary Mobilization",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Missionary Mobilization",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Missionary Mobilization",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.016702376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 239
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.016702376,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thailand"
+      },
+      "salience": 0.0041014953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thailand",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

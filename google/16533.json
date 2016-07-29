@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "MOTHER EARTH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mat_Zemlya"
+      },
+      "salience": 0.03717145,
+      "mentions": [
+        {
+          "text": {
+            "content": "MOTHER EARTH",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HARMONY Deep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024398891,
+      "mentions": [
+        {
+          "text": {
+            "content": "HARMONY Deep",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0039377832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandler Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021814364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chandler Jones",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kerry",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kerry_GAA"
+      },
+      "salience": 0.0021814364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kerry",
+            "beginOffset": 769
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

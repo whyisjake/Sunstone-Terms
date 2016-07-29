@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.14348845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Follett",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Follett_discourse"
+      },
+      "salience": 0.14348845,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "King Follett",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "King Follett",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068200678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis",
+            "beginOffset": 186
+          }
+        }
+      ]
+    },
+    {
+      "name": "McGregor",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03195269,
+      "mentions": [
+        {
+          "text": {
+            "content": "McGregor",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.02227897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 235
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

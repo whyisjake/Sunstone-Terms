@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Revelatory",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation"
+      },
+      "salience": 0.17075332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelatory",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Revelatory",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Revelatory",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rational",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rational_choice_theory"
+      },
+      "salience": 0.13922545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rational",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Scott Card",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Scott_Card"
+      },
+      "salience": 0.1085188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cosmic Religion The Rational",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.038440697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cosmic Religion The Rational",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Cosmic Religion  The Rational",
+            "beginOffset": 250
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

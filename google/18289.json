@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "name": "Paul Reeve",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41821009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Reeve",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Reeve",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Reeve",
+            "beginOffset": 639
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Reeve",
+            "beginOffset": 1316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Struggle for Whiteness",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07647828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Struggle for Whiteness",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 473
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 725
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 806
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1025
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Struggle for Whiteness",
+            "beginOffset": 1285
+          }
+        }
+      ]
+    },
+    {
+      "name": "White The Historical Evolution Of A Mormon Race Drawing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.035288043,
+      "mentions": [
+        {
+          "text": {
+            "content": "White The Historical Evolution Of A Mormon Race Drawing",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01775912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003271356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Whig_Party_(United_States)"
+      },
+      "salience": 0.0016139575,
+      "mentions": [
+        {
+          "text": {
+            "content": "W.",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paiutes",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paiute"
+      },
+      "salience": 0.0013375261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paiutes",
+            "beginOffset": 834
+          }
+        }
+      ]
+    },
+    {
+      "name": "co",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.0013375261,
+      "mentions": [
+        {
+          "text": {
+            "content": "co",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0013375261,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.001050103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00048705935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.000415909,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

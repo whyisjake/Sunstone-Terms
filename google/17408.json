@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.31333357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Games Mormons Play Board",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03361756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Games Mormons Play Board",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_Newman"
+      },
+      "salience": 0.0040769083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newman",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celestial Pursuit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034635549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celestial Pursuit",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "3P2K",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034635549,
+      "mentions": [
+        {
+          "text": {
+            "content": "3P2K",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034635549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Board",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00095397746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Board",
+            "beginOffset": 774
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

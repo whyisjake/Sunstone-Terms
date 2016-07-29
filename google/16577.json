@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "COMMUNITY OF CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0768483,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMMUNITY OF CHRIST",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 966
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1528
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.070239119,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1406
+          }
+        }
+      ]
+    },
+    {
+      "name": "DELEGATES AGONIZE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022339717,
+      "mentions": [
+        {
+          "text": {
+            "content": "DELEGATES AGONIZE",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.0037425896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supreme Directional Control",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supreme_directional_control"
+      },
+      "salience": 0.0035039803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Supreme Directional Control",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0028173416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1374
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section 162",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024834063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Section 162",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024834063,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Smith",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019940047,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001653846,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1735
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00062001415,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1100
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

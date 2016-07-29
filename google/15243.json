@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Charisma",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charisma"
+      },
+      "salience": 0.069413945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charisma",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Charisma",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contested Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06341242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contested Authority",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Connecticut",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Connecticut"
+      },
+      "salience": 0.049679887,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Connecticut",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contested Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.043165658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contested Authority",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Contested Authority",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Charisma",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037782576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Charisma",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Georgia",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Georgia"
+      },
+      "salience": 0.016304722,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Georgia",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.013166551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 173
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

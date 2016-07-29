@@ -1,0 +1,255 @@
+{
+  "entities": [
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/V._S._Naipaul"
+      },
+      "salience": 0.18394414,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047162771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.035739686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twentieth Century",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/20th_century"
+      },
+      "salience": 0.028821705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twentieth Century",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Twentieth Century",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "Twentieth Century",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rochdale",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rochdale_A.F.C."
+      },
+      "salience": 0.028821705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rochdale",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Rochdale",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Rochdale",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grange",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025236189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grange",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Grange",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Grange",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Pioneers: Social Change Through Cooperation Cooperation VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013511797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Pioneers: Social Change Through Cooperation Cooperation VS",
+            "beginOffset": 116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cooperation VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0090660006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cooperation VS",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Pioneers: Social Change",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0084914751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Pioneers: Social Change",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Pioneers: Social Change",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caesar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Julius_Caesar"
+      },
+      "salience": 0.0069265119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caesar",
+            "beginOffset": 355
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0057417038,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kent Powell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017869967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kent Powell",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0017869967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 609
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.03886703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_D._Russell_(historian)"
+      },
+      "salience": 0.024152167,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016845541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0087685836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-Catholicism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Catholicism"
+      },
+      "salience": 0.0073392014,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-Catholicism",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Catholicism",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frances Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050643771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frances Lee Menlove",
+            "beginOffset": 428
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

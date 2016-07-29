@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.10991418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._Russell"
+      },
+      "salience": 0.027915427,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0076816706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0023416693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Kay Gillespie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022792651,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Kay Gillespie",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00058748981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 914
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROVS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00058748981,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROVS",
+            "beginOffset": 936
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Amy Shoemaker Grubbs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032509747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amy Shoemaker Grubbs",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0031773774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0031628227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tresa Edmunds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030448332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edmunds",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "Tresa Edmunds",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Grubbs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026949996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Grubbs",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristine Miller Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002302048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Miller Anderson",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amy Shoemaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018872591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amy Shoemaker",
+            "beginOffset": 822
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Jake Spurlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20356457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jake",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Jake",
+            "beginOffset": 730
+          }
+        },
+        {
+          "text": {
+            "content": "Jake",
+            "beginOffset": 894
+          }
+        },
+        {
+          "text": {
+            "content": "Jake Spurlock",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone Talks",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.045568828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Talks",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spurlock",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Morgan_Spurlock"
+      },
+      "salience": 0.027706882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spurlock",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.024450595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/WordPress"
+      },
+      "salience": 0.022435717,
+      "mentions": [
+        {
+          "text": {
+            "content": "WordPress",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "WordPress",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Studies",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_studies"
+      },
+      "salience": 0.0150059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Studies",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Studies",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Werner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011807138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Werner",
+            "beginOffset": 696
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

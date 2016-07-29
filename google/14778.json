@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.16096306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Billy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054439042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billy",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Octopus"
+      },
+      "salience": 0.053626653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Jesus Christ of latter day saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017309882,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter day saints",
+            "beginOffset": 254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graceland",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013598288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graceland",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "Graceland",
+            "beginOffset": 411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

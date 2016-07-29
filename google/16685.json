@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.2623885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.11324996,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 959
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.049583625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 940
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00496367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake T. Ostler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041082054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake T. Ostler",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037022484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037022484,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLachlan",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Hausam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035088575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Hausam",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0035088575,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley"
+      },
+      "salience": 0.0029080422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 690
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

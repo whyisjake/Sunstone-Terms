@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29022354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1867
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 530
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10393959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 822
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2073
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015455639,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zohar SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012240282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zohar SL03091",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0053433543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1842
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0049691945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 861
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035873619,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026664615,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1776
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023799657,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soviet",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Soviet_Union"
+      },
+      "salience": 0.0022771468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soviet",
+            "beginOffset": 1699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019386951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1046
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce B. Rognan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019152962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce B. Rognan",
+            "beginOffset": 1388
+          }
+        },
+        {
+          "text": {
+            "content": "Bruce",
+            "beginOffset": 1657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.00062828755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1420
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058661541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth Smith",
+            "beginOffset": 1370
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_University"
+      },
+      "salience": 0.00058661541,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York University",
+            "beginOffset": 1438
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

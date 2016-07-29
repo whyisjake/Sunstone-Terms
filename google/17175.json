@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.36956838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09123",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020521756,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09123",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moses"
+      },
+      "salience": 0.01867244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 949
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elijah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elijah"
+      },
+      "salience": 0.01867244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Elijah",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0091217542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033378738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alison Sweeney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018970809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alison Sweeney",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013499503,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

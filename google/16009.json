@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.054731093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Account of Child Sexual Abuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049696259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Account of Child Sexual Abuse",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Account of Child Sexual Abuse",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Account of Child Sexual Abuse",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Riptide",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026206098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Riptide",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.022434352,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Riptide",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Riptide_(novel)"
+      },
+      "salience": 0.020412559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Riptide",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "Riptide",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013459952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1329
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fictionalized",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fiction"
+      },
+      "salience": 0.009851614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fictionalized",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Fictionalized",
+            "beginOffset": 1134
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009851614,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Family",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Family",
+            "beginOffset": 1203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0020046697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019512299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Billy Riptide",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00077131583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billy Riptide",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Short Story",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Short_story"
+      },
+      "salience": 0.44224784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Short Story",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Short Story",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Short Story",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.020288248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harper,_Texas"
+      },
+      "salience": 0.020288248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harper",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheriton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020288248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheriton",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nebraska"
+      },
+      "salience": 0.020288248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nebraska",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cimarron",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cimarron_(novel)"
+      },
+      "salience": 0.020288248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cimarron",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.014139257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014139257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helen",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pullman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pullman,_Washington"
+      },
+      "salience": 0.014139257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pullman",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daryl Spencer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036503861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daryl Spencer",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

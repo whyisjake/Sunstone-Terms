@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_Nibley"
+      },
+      "salience": 0.19454797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 1121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha Beck&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12337696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha Beck&",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Martha Beck&",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Martha Beck&",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.10107095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013350263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints&",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0092835072,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gripkey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002577109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gripkey",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024990186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zina Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024424773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zina Petersen",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024424773,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Jess Groesbeck",
+            "beginOffset": 503
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

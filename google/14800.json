@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Alternate Voices God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47686917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alternate Voices God&",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alternate Voices",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027951727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alternate Voices",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.021439081,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palestine_national_football_team"
+      },
+      "salience": 0.015805228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestine",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soviet Union",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Soviet_Union"
+      },
+      "salience": 0.014987236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soviet Union",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014987236,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01244064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalia",
+            "beginOffset": 255
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.01244064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italian",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.01244064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 274
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

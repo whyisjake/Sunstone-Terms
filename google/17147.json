@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.31960219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 386
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 540
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 747
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1269
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014502417,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010592172,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "IR",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Infrared"
+      },
+      "salience": 0.0022588233,
+      "mentions": [
+        {
+          "text": {
+            "content": "IR",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "CASTLETON",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "CASTLETON",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "OMAR KADER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "OMAR KADER",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "KIMBERLY T. KONKEL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "KIMBERLY T. KONKEL",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "AARON SHERINIAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "AARON SHERINIAN",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "MEGAN PETERSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "MEGAN PETERSON",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018220682,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 883
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

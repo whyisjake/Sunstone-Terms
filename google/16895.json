@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.62477928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 771
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 830
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0097772731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0084593222,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041622166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "D&#038",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030759382,
+      "mentions": [
+        {
+          "text": {
+            "content": "D&#038",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberty Jail",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberty_Jail"
+      },
+      "salience": 0.0023492558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberty Jail",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "William W. Phelps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)"
+      },
+      "salience": 0.0022265455,
+      "mentions": [
+        {
+          "text": {
+            "content": "William W. Phelps",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017961232,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walt Whitman&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017961232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walt Whitman&",
+            "beginOffset": 632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Douglas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001666961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Douglas",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Poet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010237177,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Poet",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005470218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 666
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

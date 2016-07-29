@@ -1,0 +1,337 @@
+{
+  "entities": [
+    {
+      "name": "Los Angeles Times",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles_Times"
+      },
+      "salience": 0.20471488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles Times",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Los Angeles Times",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Los Angeles Times",
+            "beginOffset": 379
+          }
+        },
+        {
+          "text": {
+            "content": "Times",
+            "beginOffset": 481
+          }
+        },
+        {
+          "text": {
+            "content": "Los Angeles Times",
+            "beginOffset": 1535
+          }
+        },
+        {
+          "text": {
+            "content": "Los Angeles Times",
+            "beginOffset": 1722
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Lobdell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15533735,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Lobdell",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Lobdell",
+            "beginOffset": 1045
+          }
+        },
+        {
+          "text": {
+            "content": "William Lobdell",
+            "beginOffset": 1681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Jolley&",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1246034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Jolley&",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Chosen People Of The Americas The Indians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063392088,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Chosen People Of The Americas The Indians",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "The Chosen People Of The Americas",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "The Indians",
+            "beginOffset": 1501
+          }
+        },
+        {
+          "text": {
+            "content": "The Chosen People Of The Americas",
+            "beginOffset": 1625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.019936867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indians",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bedrock of a Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012316265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bedrock of a Faith",
+            "beginOffset": 431
+          }
+        },
+        {
+          "text": {
+            "content": "Bedrock of a Faith",
+            "beginOffset": 1774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00359749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 578
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035480359,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Jolley",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030690148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jolley",
+            "beginOffset": 848
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.0021050707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Americas"
+      },
+      "salience": 0.0021050707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americas",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0020068346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane England",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016872269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane England",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0016872269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 1415
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Reece",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016425434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Reece",
+            "beginOffset": 1398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0014431111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004347309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

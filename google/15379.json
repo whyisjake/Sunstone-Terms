@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Freedom of Religion Freedom of Religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24151258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom of Religion Freedom of Religion",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom of Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Freedom_of_religion"
+      },
+      "salience": 0.039035864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom of Religion",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "JD Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029301766,
+      "mentions": [
+        {
+          "text": {
+            "content": "JD Williams",
+            "beginOffset": 205
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "MORMON STYLE People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027985627,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON STYLE People",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0022252623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021874991,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Lambert",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021874991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 759
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

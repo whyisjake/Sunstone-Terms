@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Mental Health Association Navigating Sexuality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018472347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mental Health Association Navigating Sexuality",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011310345,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helfer Parker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002988596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helfer Parker",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristin Bennion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022859348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristin Bennion",
+            "beginOffset": 459
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

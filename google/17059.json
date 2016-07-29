@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "The Sugar Beet",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.17544581,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sugar Beet",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "The Sugar Beet",
+            "beginOffset": 517
+          }
+        },
+        {
+          "text": {
+            "content": "The Sugar Beet",
+            "beginOffset": 870
+          }
+        },
+        {
+          "text": {
+            "content": "The Sugar Beet",
+            "beginOffset": 2018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rameumptom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13400836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 1695
+          }
+        },
+        {
+          "text": {
+            "content": "Rameumptom",
+            "beginOffset": 1713
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.063041583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1290
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1414
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1955
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sugar Beet",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sugar_beet"
+      },
+      "salience": 0.010076286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sugar Beet",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Sugar Beet",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Sugar Beet",
+            "beginOffset": 1752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sigmund Freud",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sigmund_Freud"
+      },
+      "salience": 0.0033535112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sigmund Freud",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freud&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031386411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freud&",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "N. Schmalz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021751483,
+      "mentions": [
+        {
+          "text": {
+            "content": "N. Schmalz",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christopher Bigelow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021751483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher Bigelow",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jetsons",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Jetsons"
+      },
+      "salience": 0.00067624496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jetsons",
+            "beginOffset": 1403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.00067624496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 1426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.00067624496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 1538
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

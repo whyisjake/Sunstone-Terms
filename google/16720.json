@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02375588,
+      "mentions": [
+        {
+          "text": {
+            "content": "England Hansen",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "The World",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020127298,
+      "mentions": [
+        {
+          "text": {
+            "content": "The World",
+            "beginOffset": 83
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

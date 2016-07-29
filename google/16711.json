@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Exegesis Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20967385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exegesis Mormonism",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 636
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard C. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033473335,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Russell",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Richard C. Russell",
+            "beginOffset": 968
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.022700297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0060744844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian H. Stuy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049725841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian H. Stuy",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "Brian H. Stuy",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.0048567657,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 411
+          }
+        },
+        {
+          "text": {
+            "content": "Chinese",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woodrow",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037591432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woodrow",
+            "beginOffset": 616
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

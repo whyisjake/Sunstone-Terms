@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "LDS Latinos",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15031417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latinos",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Latinos",
+            "beginOffset": 576
+          }
+        },
+        {
+          "text": {
+            "content": "Latinos",
+            "beginOffset": 1339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latino",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans"
+      },
+      "salience": 0.10573574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latino",
+            "beginOffset": 1098
+          }
+        },
+        {
+          "text": {
+            "content": "Latino",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.031472661,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 596
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.024942916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Macy",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Macy's"
+      },
+      "salience": 0.018551586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Macy",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011663855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clara",
+            "beginOffset": 755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0039605158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intermountain West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intermountain_West"
+      },
+      "salience": 0.0033827941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermountain West",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celina Milner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025326761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celina Milner",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Juan Manuel Ruiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025326761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juan Manuel Ruiz",
+            "beginOffset": 777
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025326761,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Knowlton",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00092241791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1014
+          }
+        }
+      ]
+    },
+    {
+      "name": "Inkatha",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Inkatha_Freedom_Party"
+      },
+      "salience": 0.00078768015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Inkatha",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

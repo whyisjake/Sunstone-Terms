@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "LDS Perspective",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10053597,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Perspective",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hunter US",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.095355816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hunter US",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stem Cell Debate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022861205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stem Cell Debate",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Individuation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014601909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Individuation",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Individuation",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.0037080918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italy",
+            "beginOffset": 575
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

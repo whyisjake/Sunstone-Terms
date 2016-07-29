@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Bolivian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.060686924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivian",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Bolivian",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Bolivian",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred Mormon Myth: Missionary",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.053229377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred Mormon Myth: Missionary",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred Mormon Myth: Missionary",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred Mormon Myth: Missionary",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_plant"
+      },
+      "salience": 0.053229377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Native",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Native",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omaha Nebraska",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Omaha,_Nebraska"
+      },
+      "salience": 0.017494543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omaha Nebraska",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Whig_Party_(United_States)"
+      },
+      "salience": 0.017494543,
+      "mentions": [
+        {
+          "text": {
+            "content": "W.",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oxford England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014513319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oxford England",
+            "beginOffset": 335
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

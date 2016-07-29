@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.32189921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 475
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dilemma Of A Religious History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30403653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dilemma Of A Religious History",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Dilemma Of A Religious History",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Dilemma Of A Religious History",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alexander",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024521599,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alexander",
+            "beginOffset": 598
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

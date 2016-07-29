@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saints",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.13118501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1302
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0712027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1349
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Where Were You",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054963693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Where Were You",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0096436925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "BLAIR YOUNG",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043487586,
+      "mentions": [
+        {
+          "text": {
+            "content": "BLAIR YOUNG",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "DARIUS GRAY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Darius_Gray"
+      },
+      "salience": 0.0033700077,
+      "mentions": [
+        {
+          "text": {
+            "content": "DARIUS GRAY",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL J. STEVENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033700077,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL J. STEVENS",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nnamdi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011056936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nnamdi",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kaiser",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010478594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kaiser",
+            "beginOffset": 1049
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cleveland"
+      },
+      "salience": 0.0010478594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleveland Ohio",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

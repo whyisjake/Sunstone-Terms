@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Rocky Mountain Umpire",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13114376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rocky Mountain Umpire",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Rocky Mountain Umpire",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Taylor Rocky Mountain Umpire",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.095929459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Taylor Rocky Mountain Umpire",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076214552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Taylor",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Taylor",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samuel W. Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samuel_W._Taylor"
+      },
+      "salience": 0.024517134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samuel W. Taylor",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.019069778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

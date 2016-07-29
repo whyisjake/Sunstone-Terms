@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Saint Missionaries",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.15057443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Missionaries",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Saint Missionaries",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Missionary",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_(LDS_Church)"
+      },
+      "salience": 0.020069778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 1246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.018586697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "Self",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Self"
+      },
+      "salience": 0.012872783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Self",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Self",
+            "beginOffset": 1236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hammarberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011913667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hammarberg",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028631778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "south Lake City",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00241873,
+      "mentions": [
+        {
+          "text": {
+            "content": "south Lake City",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020336676,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0020336676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00062324939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

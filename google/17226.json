@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "Sonia Johnson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sonia_Johnson"
+      },
+      "salience": 0.3912715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia Johnson",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia Johnson",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia",
+            "beginOffset": 790
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia Johnson",
+            "beginOffset": 1459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.057219785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 578
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 595
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Feminist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026120652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Feminist",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09316 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022352677,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09316 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gaisford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012516381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gaisford",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010502154,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0089753848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonia Johnson&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007305956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia Johnson&",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia Johnson&",
+            "beginOffset": 1297
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonia&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037569448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia&",
+            "beginOffset": 437
+          }
+        },
+        {
+          "text": {
+            "content": "Sonia&",
+            "beginOffset": 1613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cape December",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028225698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cape December",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine R. Hansen Nadine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023392576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine R. Hansen Nadine",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Jose_State_University"
+      },
+      "salience": 0.0023392576,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose State University",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Clara",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Clara_County,_California"
+      },
+      "salience": 0.0019978124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Clara",
+            "beginOffset": 956
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

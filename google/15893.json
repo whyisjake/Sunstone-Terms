@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Paul Edwards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17877401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Edwards",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Edwards",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047546525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gentile",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gentile"
+      },
+      "salience": 0.047546525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gentile",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Josephite FELLOW TRAVELERS ALONG THE WAY Shipps",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022469677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Josephite FELLOW TRAVELERS ALONG THE WAY Shipps",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brussels",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brussels"
+      },
+      "salience": 0.012007187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brussels",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "FELLOW TRAVELERS ALONG THE WAY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0095820222,
+      "mentions": [
+        {
+          "text": {
+            "content": "FELLOW TRAVELERS ALONG THE WAY",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.008571079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 628
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

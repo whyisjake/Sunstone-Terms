@@ -1,0 +1,515 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.12699559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 906
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 3387
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 655
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1464
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 2000
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hendrickson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.094008833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hendrickson",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Bill Hendrickson",
+            "beginOffset": 3444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Love",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Big_Love"
+      },
+      "salience": 0.05620021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 2152
+          }
+        },
+        {
+          "text": {
+            "content": "BIG LOVE",
+            "beginOffset": 3267
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 3308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.025242319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 521
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1797
+          }
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/HBO"
+      },
+      "salience": 0.013202117,
+      "mentions": [
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 3296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nikki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010779141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nikki",
+            "beginOffset": 1048
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010211392,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1566
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1736
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1848
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 2038
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 2736
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.0074104411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 1427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bill_(law)"
+      },
+      "salience": 0.002172766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill",
+            "beginOffset": 592
+          }
+        },
+        {
+          "text": {
+            "content": "Bill",
+            "beginOffset": 1123
+          }
+        },
+        {
+          "text": {
+            "content": "Bill",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sopranos",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Sopranos"
+      },
+      "salience": 0.0013243845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sopranos",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Six Feet Under",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)"
+      },
+      "salience": 0.0013243845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Six Feet Under",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Young Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00099024479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Young Women&",
+            "beginOffset": 1443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont,_California"
+      },
+      "salience": 0.00094745093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 3044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00089227356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morbot&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00084561086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morbot&",
+            "beginOffset": 1535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cumorah Cougars.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00084561086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cumorah Cougars.",
+            "beginOffset": 1629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morg&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00084561086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morg&",
+            "beginOffset": 1512
+          }
+        }
+      ]
+    },
+    {
+      "name": "America&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00081398775,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 2800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilde",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oscar_Wilde"
+      },
+      "salience": 0.00080906443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilde",
+            "beginOffset": 2830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Batchelor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080906443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Batchelor",
+            "beginOffset": 2837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.00080906443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 2853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080906443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 2873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont graduate university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.00080906443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont graduate university",
+            "beginOffset": 2931
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seoul",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seoul"
+      },
+      "salience": 0.00049223786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seoul",
+            "beginOffset": 3180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hendricksons",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00027833559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hendricksons",
+            "beginOffset": 2538
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00024882704,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 2563
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

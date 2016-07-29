@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "The Prodigal Son Forgiveness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051889092,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prodigal Son Forgiveness",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Prodigal Son Berlin",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014516517,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prodigal Son Berlin",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01013587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlie",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Prodigal Son",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Prodigal_Son_(Britten)"
+      },
+      "salience": 0.0080905231,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prodigal Son",
+            "beginOffset": 446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

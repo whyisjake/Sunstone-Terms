@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "PBS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/PBS"
+      },
+      "salience": 0.071146362,
+      "mentions": [
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 256
+          }
+        }
+      ]
+    },
+    {
+      "name": "World&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045949165,
+      "mentions": [
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 312
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

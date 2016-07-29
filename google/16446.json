@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36375934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1651
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 495
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.068712652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 787
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1857
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020284221,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1696
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016092125,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church SL03091",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.013763122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0078827208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1626
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004369562,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032561924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 826
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023915493,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014822147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lahaina",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014799527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lahaina",
+            "beginOffset": 1493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anderson_County,_South_Carolina"
+      },
+      "salience": 0.0014799527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012926289,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 991
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington America",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00044653175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington America",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johns",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jasper_Johns"
+      },
+      "salience": 0.000381297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johns",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand L. Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.000381297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

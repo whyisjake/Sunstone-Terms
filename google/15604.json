@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Susan Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.353861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 411
+          }
+        },
+        {
+          "text": {
+            "content": "Susan Christensen",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Politics Of Mormon Political Cartoons Christensen",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.2364808,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Politics Of Mormon Political Cartoons Christensen",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Politics Of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041824609,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Politics Of Mormon",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "The Politics Of Mormon",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin Grondahl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022671856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin Grondahl",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Calvin Grondahl",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas"
+      },
+      "salience": 0.0072871512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco"
+      },
+      "salience": 0.0018881902,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 430
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

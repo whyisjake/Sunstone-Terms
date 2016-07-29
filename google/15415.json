@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027105669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Wives Polygamy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Wives Polygamy",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Wives",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097958725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Wives",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Plural Wives",
+            "beginOffset": 579
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

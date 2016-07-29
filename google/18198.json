@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Mind Through Art",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12301937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mind Through Art",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.06316942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 848
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hassell Pool",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0040627532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hassell Pool",
+            "beginOffset": 302
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Kirk Richards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032394095,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Kirk Richards",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "J. Kirk Richards",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Ross",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032394095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Ross",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Nancy Ross",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerilyn Hassell Pool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022344566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerilyn Hassell Pool",
+            "beginOffset": 998
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

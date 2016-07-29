@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Ritual Makes Sense Religious",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036918841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ritual Makes Sense Religious",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012572751,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032205696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salah Religious",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010873323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salah Religious",
+            "beginOffset": 909
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

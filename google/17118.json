@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.31494752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 613
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 748
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 949
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1088
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.13390425,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 843
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.10271717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marvin Hill",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marvin_S._Hill"
+      },
+      "salience": 0.10077622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marvin Hill",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Marvin Hill",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hill&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012529631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hill&",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Hill&",
+            "beginOffset": 913
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0030992106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0029394527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible&",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin Barney Dawnstar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021850376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin Barney Dawnstar",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00089024758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 708
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

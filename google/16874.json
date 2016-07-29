@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "New Wine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Wine_into_Old_Wineskins"
+      },
+      "salience": 0.083679713,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Wine",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "New Wine",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "New Wine",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "And Healing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032722719,
+      "mentions": [
+        {
+          "text": {
+            "content": "And Healing",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Bottles Annealing And Healing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030866543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Bottles Annealing And Healing",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kovalenko",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02797655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kovalenko",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Annealing And Healing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0093001034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Annealing And Healing",
+            "beginOffset": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryon Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027885926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryon Martin",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stabenow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023819387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stabenow",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stockholm Sweden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019742295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stockholm Sweden",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019742295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene,_Oregon"
+      },
+      "salience": 0.0019742295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007192042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Martin",
+            "beginOffset": 773
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

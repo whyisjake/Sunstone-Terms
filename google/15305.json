@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "The Purge",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.075619966,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Purge",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "The Purge",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "The Purge",
+            "beginOffset": 860
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.071991146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Mountain Meadows",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058921583,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Right",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "The Right",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "The Right",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "From Mountain Meadows",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022118511,
+      "mentions": [
+        {
+          "text": {
+            "content": "From Mountain Meadows",
+            "beginOffset": 834
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016913561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "CIA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+      },
+      "salience": 0.016913561,
+      "mentions": [
+        {
+          "text": {
+            "content": "CIA",
+            "beginOffset": 787
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kennedy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_F._Kennedy"
+      },
+      "salience": 0.014027232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kennedy",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cuban",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cuba"
+      },
+      "salience": 0.0043727956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cuban",
+            "beginOffset": 683
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

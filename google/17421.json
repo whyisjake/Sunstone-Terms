@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Joe Hill",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joe_Hill"
+      },
+      "salience": 0.38187224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 549
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 664
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 759
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Hill",
+            "beginOffset": 930
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.12711456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 823
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe Hill Case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0400687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Hill Case",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015032472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0038534449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "utah Supreme Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Supreme_Court"
+      },
+      "salience": 0.0033857883,
+      "mentions": [
+        {
+          "text": {
+            "content": "utah Supreme Court",
+            "beginOffset": 393
+          }
+        },
+        {
+          "text": {
+            "content": "utah Supreme Court",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heber C. kimball",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heber_C._Kimball"
+      },
+      "salience": 0.0030056795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heber C. kimball",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lougee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00073518528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lougee",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Sillito",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00073518528,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Sillito",
+            "beginOffset": 690
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

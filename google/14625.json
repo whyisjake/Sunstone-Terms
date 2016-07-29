@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "The Little Appreciated Literary Devices",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.61451989,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Little Appreciated Literary Devices",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "The Little Appreciated Literary Devices",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "The Little Appreciated Literary Devices",
+            "beginOffset": 252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Noah Nexus",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11651763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Noah Nexus",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Noah Nexus",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Noah Nexus",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benjamin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Benjamin"
+      },
+      "salience": 0.11098894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benjamin",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Benjamin",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Benjamin",
+            "beginOffset": 231
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076535657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 296
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

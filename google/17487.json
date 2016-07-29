@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Spin of Art: How Art Influences",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.068826176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spin of Art: How Art Influences",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073140543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Compton",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crabtree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072068847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crabtree",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.0068198028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0068198028,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055861739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 491
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

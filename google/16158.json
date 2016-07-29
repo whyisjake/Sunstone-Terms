@@ -1,0 +1,349 @@
+{
+  "entities": [
+    {
+      "name": "Muddy",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mud"
+      },
+      "salience": 0.47223213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muddy",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy",
+            "beginOffset": 1145
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015526488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nevada"
+      },
+      "salience": 0.014521591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 1293
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado_River"
+      },
+      "salience": 0.0122051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado River",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado River",
+            "beginOffset": 1405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_National_Park"
+      },
+      "salience": 0.010012436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muddy Mission",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0093129082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muddy Mission",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy Mission",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muddy River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muddy_River_(Nevada)"
+      },
+      "salience": 0.0081729135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muddy River",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Muddy River",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.006702418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nevada"
+      },
+      "salience": 0.0047911163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "F. Worlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045554955,
+      "mentions": [
+        {
+          "text": {
+            "content": "F. Worlton",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0036678393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Long Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Long_Valley_(Utah)"
+      },
+      "salience": 0.0033738231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Long Valley",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civil War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Civil_War"
+      },
+      "salience": 0.003172149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civil War",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0029864325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orderville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orderville,_Utah"
+      },
+      "salience": 0.0027960765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orderville",
+            "beginOffset": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "United Orders",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027960765,
+      "mentions": [
+        {
+          "text": {
+            "content": "United Orders",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack Worlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002773318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Worlton",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melvin T. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002368487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melvin T. Smith",
+            "beginOffset": 873
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

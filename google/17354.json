@@ -1,0 +1,437 @@
+{
+  "entities": [
+    {
+      "name": "Glenn Beck",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Glenn_Beck"
+      },
+      "salience": 0.41465724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Beck",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Beck",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 1045
+          }
+        },
+        {
+          "text": {
+            "content": "Beck",
+            "beginOffset": 1252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.096941747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 604
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_S._Monson"
+      },
+      "salience": 0.076809183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 1169
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.050315261,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 549
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 748
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1126
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10331",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022859233,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10331",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Steve_Young"
+      },
+      "salience": 0.0097626615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Young",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Steve Young",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.0094219111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1230
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry Reid",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harry_Reid"
+      },
+      "salience": 0.0084271319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Reid",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Harry Reid",
+            "beginOffset": 1216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beck&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004283838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beck&",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027114653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Birch Society",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Birch_Society"
+      },
+      "salience": 0.0026816172,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Birch Society",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tea Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tea_Party_movement"
+      },
+      "salience": 0.0026816172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tea Party",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleon Skousen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cleon_Skousen"
+      },
+      "salience": 0.0026816172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleon Skousen",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0024983373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020406479,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. REES",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "ERIC SAMUELSEN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eric_Samuelsen"
+      },
+      "salience": 0.0020406479,
+      "mentions": [
+        {
+          "text": {
+            "content": "ERIC SAMUELSEN",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOANNA BROOKS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joanna_Brooks"
+      },
+      "salience": 0.0020406479,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOANNA BROOKS",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAVID KING LANDRITH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020406479,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAVID KING LANDRITH",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "KATHRYN BOYCE HEMINGWAY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020406479,
+      "mentions": [
+        {
+          "text": {
+            "content": "KATHRYN BOYCE HEMINGWAY",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Erin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016021106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Erin",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00063452305,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diagne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063452305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diagne",
+            "beginOffset": 980
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

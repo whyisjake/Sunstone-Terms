@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Infinity Squared Universe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025358398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Infinity Squared Universe",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.009493798,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 479
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0023340357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.0023340357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022121086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012961178,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

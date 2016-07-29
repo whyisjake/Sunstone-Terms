@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.15128067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1128
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi_Anderson"
+      },
+      "salience": 0.018993994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi Anderson",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi Anderson",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0080089681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 410
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 463
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Littke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051548956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Littke",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0033112667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Hurley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033112667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Hurley",
+            "beginOffset": 872
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

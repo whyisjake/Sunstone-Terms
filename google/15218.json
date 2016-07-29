@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Workshop: Sharing Gospel Doctrine",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.15808901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Workshop: Sharing Gospel Doctrine",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Workshop: Sharing Gospel Doctrine",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Workshop: Sharing Gospel Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057327315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Workshop: Sharing Gospel Doctrine",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.057327315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greenwich Village",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greenwich_Village"
+      },
+      "salience": 0.03068749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greenwich Village",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lower East Side of Manhattan",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lower_East_Side"
+      },
+      "salience": 0.0079533095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lower East Side of Manhattan",
+            "beginOffset": 349
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

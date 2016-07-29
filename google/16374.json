@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.051562089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "UTAH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.039036751,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.033728596,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+      },
+      "salience": 0.033728596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgia",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Georgia",
+            "beginOffset": 637
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blount",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Blount_County,_Tennessee"
+      },
+      "salience": 0.013437413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blount",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Athens",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Athens"
+      },
+      "salience": 0.0079962518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Athens",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054875365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 753
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Boyd K. Packer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boyd_K._Packer"
+      },
+      "salience": 0.36855808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyd K. Packer",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Boyd K. Packer",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Editing",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Editing"
+      },
+      "salience": 0.10596379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Editing",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.03031216,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geisner At",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026756993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Geisner  At",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe Geisner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01973105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Geisner",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

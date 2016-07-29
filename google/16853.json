@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Schoolmarmery",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.44478789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schoolmarmery",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Schoolmarmery",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Schoolmarmery",
+            "beginOffset": 1265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.010696202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0092405751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 363
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 1507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.0092405751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 1516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Success-Mongery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008042003,
+      "mentions": [
+        {
+          "text": {
+            "content": "Success-Mongery",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Success-Mongery",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Success-Mongery",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013721702,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011068488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 865
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rita",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034418926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rita",
+            "beginOffset": 1188
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

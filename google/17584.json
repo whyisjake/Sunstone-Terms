@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17639883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 861
+          }
+        },
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Todd Christofferson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056421246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Todd Christofferson",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Christofferson",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Todd Christofferson",
+            "beginOffset": 1425
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.050730407,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1289
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "HOLY SHIFT",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.032293376,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOLY SHIFT",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Public Relations Department",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00805367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Public Relations Department",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Public Relations Department",
+            "beginOffset": 1300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0038666411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002923385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 910
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021159651,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1644
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

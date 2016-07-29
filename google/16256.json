@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Bryan Richards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14532825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Richards",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Bryan Richards",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle Eastern",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.10950713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Eastern",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 451
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Eastern",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Triopia",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.075168885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Triopia",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Triopia",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.033175856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Young Man&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033175856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Young Man&",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zen and the Art of Motorcycle Maintenance",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018948104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zen and the Art of Motorcycle Maintenance",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Pirsig&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00828322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Pirsig&",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Pirsig&",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richards",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Garrett_Richards"
+      },
+      "salience": 0.0054954449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richards",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zen and the Art of Motorcycle Maintenance",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0044139051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zen and the Art of Motorcycle Maintenance",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(CTA_Orange_Line_station)"
+      },
+      "salience": 0.0040865541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0038730488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037698136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestinian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Palestine"
+      },
+      "salience": 0.00097154116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestinian",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "PFLP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine"
+      },
+      "salience": 0.00097154116,
+      "mentions": [
+        {
+          "text": {
+            "content": "PFLP",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestine Sadia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00097154116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestine Sadia",
+            "beginOffset": 1065
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

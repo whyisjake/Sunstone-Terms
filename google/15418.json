@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Salt",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt"
+      },
+      "salience": 0.15806666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Salt",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Salt",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hometown Congregation Turning",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.099438384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hometown Congregation Turning",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hometown Congregation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.087529123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hometown Congregation",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Hometown Congregation",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.025196129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amelia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025196129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amelia",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Porter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Porter_(beer)"
+      },
+      "salience": 0.025196129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Porter",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.020905051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.015348324,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0065259309,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 461
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

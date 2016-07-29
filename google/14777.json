@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Being&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32529622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Being&",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Being&",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Being&",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.011350675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Metre"
+      },
+      "salience": 0.0028621005,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.",
+            "beginOffset": 397
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

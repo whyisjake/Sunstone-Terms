@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "IT&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064510077,
+      "mentions": [
+        {
+          "text": {
+            "content": "IT&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "IT&",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015180509,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1685
+          }
+        }
+      ]
+    },
+    {
+      "name": "ENGLUND",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099524939,
+      "mentions": [
+        {
+          "text": {
+            "content": "ENGLUND",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00746094,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 431
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050651059,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Godhood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divinity"
+      },
+      "salience": 0.0045545148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godhood",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032489451,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1712
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041422017,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Least_developed_country"
+      },
+      "salience": 0.02815883,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDC",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "LDC",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.015232107,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polly Sheffield",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015232107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polly Sheffield",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Polly Sheffield",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Walker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013685672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Walker",
+            "beginOffset": 363
+          }
+        },
+        {
+          "text": {
+            "content": "Brad Walker",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lorenzo Graycoa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013685672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lorenzo Graycoa",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Lorenzo Graycoa",
+            "beginOffset": 724
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

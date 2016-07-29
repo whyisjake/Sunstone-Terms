@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "SW08009",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051015489,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW08009",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.046468347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.024024855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEFF BURTON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.014385156,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEFF BURTON",
+            "beginOffset": 374
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0062673464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 355
+          }
+        }
+      ]
+    },
+    {
+      "name": "RUSS FRANDSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060336031,
+      "mentions": [
+        {
+          "text": {
+            "content": "RUSS FRANDSEN",
+            "beginOffset": 387
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHARLES SCHOFIELD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050018025,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHARLES SCHOFIELD",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "CLAUDIA BUSHMAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claudia_Lauper_Bushman"
+      },
+      "salience": 0.0050018025,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLAUDIA BUSHMAN",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORRIS A. THURSTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050018025,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORRIS A. THURSTON",
+            "beginOffset": 442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

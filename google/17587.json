@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.31080535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1510
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.061168838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 843
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Moment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.052497584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Moment",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Moment",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.014860626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 528
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1605
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.0047952551,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.0036618635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0036618635,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arben Fox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035237279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arben Fox",
+            "beginOffset": 775
+          }
+        }
+      ]
+    },
+    {
+      "name": "McKay Coppins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003165046,
+      "mentions": [
+        {
+          "text": {
+            "content": "McKay Coppins",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Christian Harrison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003165046,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Christian Harrison",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeremiah John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003165046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeremiah John",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081551343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

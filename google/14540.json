@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Melchizedek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34475535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melchizedek",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Political Commodity Melchizedek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1206997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Political Commodity Melchizedek",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literary&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.071996622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literary&",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Literary&",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Literary&",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Political Commodity",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021714812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Political Commodity",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.01164311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin"
+      },
+      "salience": 0.01164311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.01164311,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.01164311,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0030217951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

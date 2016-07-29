@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15762931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "TWENTY-FIRST CENTURY John Sillito",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017243721,
+      "mentions": [
+        {
+          "text": {
+            "content": "TWENTY-FIRST CENTURY Sillito",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "TWENTY-FIRST CENTURY John Sillito",
+            "beginOffset": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Jo Rench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017243721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Jo Rench",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Jo Rench",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jay Bell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017243721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay Bell",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Jay Bell",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden,_Utah"
+      },
+      "salience": 0.0055043483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 309
+          }
+        }
+      ]
+    },
+    {
+      "name": "Our Lady",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Veneration_of_Mary_in_Roman_Catholicism"
+      },
+      "salience": 0.0055043483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Our Lady",
+            "beginOffset": 342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinity",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trinity"
+      },
+      "salience": 0.0055043483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huntsville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Huntsville,_Utah"
+      },
+      "salience": 0.0055043483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huntsville",
+            "beginOffset": 374
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

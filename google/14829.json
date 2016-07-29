@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.069496647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Fantasy",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.061813854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Fantasy",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fantasy"
+      },
+      "salience": 0.0096274065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fantasy",
+            "beginOffset": 497
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "TRADITIONAL SACRED HARP SING",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030778354,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRADITIONAL SACRED HARP SING",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01991016,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Thorman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chris_Thorman"
+      },
+      "salience": 0.0054863887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thorman",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Chris Thorman",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Haitian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Haiti"
+      },
+      "salience": 0.00414888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Haitian",
+            "beginOffset": 390
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

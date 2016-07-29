@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.14730106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1465
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.09060926,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 685
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1256
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 1375
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. BRINGHURST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054366957,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. BRINGHURST",
+            "beginOffset": 860
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07111",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015912658,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07111",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "UNITED STATES",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011673282,
+      "mentions": [
+        {
+          "text": {
+            "content": "UNITED STATES",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "UNITED STATES",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "UNITED STATES",
+            "beginOffset": 1324
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087861354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt",
+            "beginOffset": 639
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0041364226,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1639
+          }
+        }
+      ]
+    },
+    {
+      "name": "George Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027953947,
+      "mentions": [
+        {
+          "text": {
+            "content": "George Romney&",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.0018055205,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN SILLITO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014652169,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN SILLITO",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cape Rudy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014652169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cape Rudy",
+            "beginOffset": 942
+          }
+        }
+      ]
+    },
+    {
+      "name": "St",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Forward_(association_football)"
+      },
+      "salience": 0.0014652169,
+      "mentions": [
+        {
+          "text": {
+            "content": "St",
+            "beginOffset": 960
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.16354318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1350
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.10935353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 405
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1263
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Les Gripkey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076600164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Les Gripkey",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Les Gripkey",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015691897,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Needle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00989293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 1225
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0066099428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0038552387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 592
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 964
+          }
+        }
+      ]
+    },
+    {
+      "name": "GRIPKEY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0024357389,
+      "mentions": [
+        {
+          "text": {
+            "content": "GRIPKEY",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0021251461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEFF NEEDLE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002018722,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEFF NEEDLE",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015414935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brody",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.00051264273,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 1076
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00047934841,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

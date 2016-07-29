@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.029923962,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Establishment Clause",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Establishment_Clause"
+      },
+      "salience": 0.0047646137,
+      "mentions": [
+        {
+          "text": {
+            "content": "Establishment Clause",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Exercise Clause",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Free_Exercise_Clause"
+      },
+      "salience": 0.0046384819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Free Exercise Clause",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Amendment",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution"
+      },
+      "salience": 0.0040692766,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0037366475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0030965991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030243397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kader",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094036217,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Scott",
+            "beginOffset": 1082
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Williams McCreary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094036217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Williams McCreary",
+            "beginOffset": 1095
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell Arben Fox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094036217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell Arben Fox",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Wayne Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027313296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Schow",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Writ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.00315393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Writ",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Stuy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030885206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Stuy",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.00079592154,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 840
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

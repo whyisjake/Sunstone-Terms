@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Humorous Look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36988941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humorous Look",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Humorous Look",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Humorous Look",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Worst Job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058948979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Worst Job",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Athletics",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039998718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Athletics",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Church Athletics",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Athletics The Worst Job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021523865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Athletics The Worst Job",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.011139661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.010561124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Virginia"
+      },
+      "salience": 0.0068861488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLean",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/McLean,_Virginia"
+      },
+      "salience": 0.0027339286,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLean",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

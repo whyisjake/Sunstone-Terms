@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Dan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28815818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "An Appreciation and New Vision Sunstone Magazine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057878062,
+      "mentions": [
+        {
+          "text": {
+            "content": "An Appreciation and New Vision Sunstone Magazine",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone Magazine",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037263859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Magazine",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone Magazine",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029837357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 918
+          }
+        }
+      ]
+    },
+    {
+      "name": "An Appreciation and New Vision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023249755,
+      "mentions": [
+        {
+          "text": {
+            "content": "An Appreciation and New Vision",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "An Appreciation and New Vision",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IGN"
+      },
+      "salience": 0.0056413068,
+      "mentions": [
+        {
+          "text": {
+            "content": "IGN",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053467476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 422
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

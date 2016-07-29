@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Paul on Faith Reconsidering Paul on Faith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1331639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul on Faith Reconsidering Paul on Faith",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gareth Blake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027852185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gareth Blake",
+            "beginOffset": 150
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.027852185,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tomball",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021927904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tomball",
+            "beginOffset": 272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reconsidering Paul on Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021098249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reconsidering Paul on Faith",
+            "beginOffset": 419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

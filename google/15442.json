@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "ZION",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion,_Illinois"
+      },
+      "salience": 0.051437475,
+      "mentions": [
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glen Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016986972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lambert",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Glen Lambert",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0053908792,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cynthia Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053097159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cynthia Taylor",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Cynthia Taylor",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Ferre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053097159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Ferre",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Ferre",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barbara Wheeler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053097159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbara Wheeler",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Barbara Wheeler",
+            "beginOffset": 764
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

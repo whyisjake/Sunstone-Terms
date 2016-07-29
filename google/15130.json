@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.037994612,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.012668571,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077285934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 548
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

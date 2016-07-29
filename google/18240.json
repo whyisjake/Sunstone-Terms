@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "name": "Wyoming",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wyoming"
+      },
+      "salience": 0.078453705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wyoming",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Wyoming",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Wyoming",
+            "beginOffset": 942
+          }
+        },
+        {
+          "text": {
+            "content": "Wyoming",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "Of Queer Activism",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.05640588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Of Queer Activism",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051412877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Sara",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_National_Park"
+      },
+      "salience": 0.017550215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burlingame",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016280975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burlingame",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.0067257513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evangelical",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evangelicalism"
+      },
+      "salience": 0.0067257513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evangelical",
+            "beginOffset": 299
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelical",
+            "beginOffset": 1136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Troy Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00216248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Troy Williams",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon Groves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020495041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon Groves",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim Dabakis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jim_Dabakis"
+      },
+      "salience": 0.0020495041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim Dabakis",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LGBT"
+      },
+      "salience": 0.0016985293,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0016985293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 712
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.00065271615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gallup",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gallup_(company)"
+      },
+      "salience": 0.00052822137,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gallup",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00052822137,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 832
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

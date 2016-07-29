@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "G. Pace",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.096453361,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Pace",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl Pace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068344183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl Pace",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Cheryl Pace",
+            "beginOffset": 830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Observed: Chapter II",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.038185995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Observed: Chapter II",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0043887058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "David G. Pace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036111944,
+      "mentions": [
+        {
+          "text": {
+            "content": "David G. Pace",
+            "beginOffset": 815
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

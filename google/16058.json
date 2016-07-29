@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "ACLU Lawyer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061817653,
+      "mentions": [
+        {
+          "text": {
+            "content": "ACLU Lawyer",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU Lawyer",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Civil_Liberties_Union"
+      },
+      "salience": 0.04509085,
+      "mentions": [
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "American Civil Liberties Union",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "American Civil Liberties Union",
+            "beginOffset": 1397
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 1459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific Northwest",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Northwest"
+      },
+      "salience": 0.041316859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific Northwest",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Pacific Northwest",
+            "beginOffset": 1055
+          }
+        },
+        {
+          "text": {
+            "content": "Pacific Northwest",
+            "beginOffset": 1482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Missionary",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_(LDS_Church)"
+      },
+      "salience": 0.014617144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Missionary",
+            "beginOffset": 1261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Korea",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Korea"
+      },
+      "salience": 0.00860286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 870
+          }
+        },
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 896
+          }
+        },
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.007819593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 1348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.007819593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 1431
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0021816497,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leishman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00093685352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leishman",
+            "beginOffset": 791
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

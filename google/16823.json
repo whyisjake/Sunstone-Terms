@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "name": "Michael Moore",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Moore"
+      },
+      "salience": 0.28411469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "Moore",
+            "beginOffset": 786
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 1492
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 1704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Speech 101",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036981106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Free Speech 101",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley State College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_University"
+      },
+      "salience": 0.020760544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 1625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_Wolverines"
+      },
+      "salience": 0.019384135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Valley",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Valley",
+            "beginOffset": 1468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Vogel"
+      },
+      "salience": 0.0088585457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Vogel",
+            "beginOffset": 684
+          }
+        },
+        {
+          "text": {
+            "content": "Vogel",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington Post",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Washington_Post"
+      },
+      "salience": 0.0081905974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington Post",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055701286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_County,_Utah"
+      },
+      "salience": 0.0045942347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah County",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chronicle of Higher Education",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Chronicle_of_Higher_Education"
+      },
+      "salience": 0.0032484296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chronicle of Higher Education",
+            "beginOffset": 551
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

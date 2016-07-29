@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Divine Inspiration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039577283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Inspiration",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0045210319,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0037471957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031022991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 1148
+          }
+        }
+      ]
+    },
+    {
+      "name": "Underwood",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011657296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Underwood",
+            "beginOffset": 767
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

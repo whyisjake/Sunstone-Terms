@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.2178157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon II",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.09763173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon II",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 435
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1039
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032919794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 463
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

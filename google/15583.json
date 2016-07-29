@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.10244961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 633
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Observer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038443238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Observer",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.01778733,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karin Anderson England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015143874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karin Anderson England",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Muldur",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013285504,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Muldur",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Observer Muldur",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0124337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Observer Muldur",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0086729731,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Home_run"
+      },
+      "salience": 0.0074119107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homer",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0074119107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scandinavia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scandinavia"
+      },
+      "salience": 0.0074119107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scandinavia",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karin Anderson England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0064471927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karin Anderson England",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0061463108,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0019152517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

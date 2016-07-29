@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Rick Santorum",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rick_Santorum"
+      },
+      "salience": 0.018721966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rick Santorum",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Rick Santorum",
+            "beginOffset": 985
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michelle Bachmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michele_Bachmann"
+      },
+      "salience": 0.018721966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michelle Bachmann",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Michelle Bachmann",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.009602543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 917
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055068112,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.004803325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0038986641,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028149989,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom wicker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012128486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom wicker",
+            "beginOffset": 866
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

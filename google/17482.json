@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.15442298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 579
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 712
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Beck&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12700637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Beck&",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Julie Beck&",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society Herstory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028606739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society Herstory",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.0027179397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 497
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

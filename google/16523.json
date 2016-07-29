@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Bc",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/British_Columbia"
+      },
+      "salience": 0.080635265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bc",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Bc",
+            "beginOffset": 1508
+          }
+        }
+      ]
+    },
+    {
+      "name": "NOAH&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027018584,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOAH&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Noah's Flood",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Flood_myth"
+      },
+      "salience": 0.012946151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Noah’s Flood",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Noah’s Flood",
+            "beginOffset": 1254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Noachian",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0079352539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Noachian",
+            "beginOffset": 345
+          }
+        },
+        {
+          "text": {
+            "content": "Noachian",
+            "beginOffset": 1526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00283117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Black Sea",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Black_Sea"
+      },
+      "salience": 0.0025513622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black Sea",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022913076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duane",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Jeffrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022607723,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Jeffrey",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016042949,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1562
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

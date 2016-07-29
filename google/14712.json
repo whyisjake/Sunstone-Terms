@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Nations",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nation"
+      },
+      "salience": 0.043042541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nations",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Nations",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Nations",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Groups",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039532669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Groups",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Family Groups",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Family Groups",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "World Similarities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026463764,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Similarities",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "World",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.019500889,
+      "mentions": [
+        {
+          "text": {
+            "content": "World",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013688102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.012976781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 313
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehigh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehigh_River"
+      },
+      "salience": 0.012976781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehigh",
+            "beginOffset": 527
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

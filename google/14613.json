@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.15037064,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 153
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.099471934,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 168
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

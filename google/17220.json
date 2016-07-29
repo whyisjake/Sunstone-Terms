@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "SL09301 Devotional",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025724351,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09301 Devotional",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emily Dickinson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emily_Dickinson"
+      },
+      "salience": 0.0036173149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily Dickinson",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Emily Dickinson",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021905273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017436945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam",
+            "beginOffset": 676
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

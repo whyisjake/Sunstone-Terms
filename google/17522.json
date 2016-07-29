@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.44772202,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1821
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 2052
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.050079882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 2002
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Hume",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Hume"
+      },
+      "salience": 0.03703481,
+      "mentions": [
+        {
+          "text": {
+            "content": "HUME",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "David Hume",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Hume",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "David Hume",
+            "beginOffset": 1866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037249937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 1366
+          }
+        },
+        {
+          "text": {
+            "content": "Parker",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part II",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+      },
+      "salience": 0.0012189182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part II",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Yorker",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_New_Yorker"
+      },
+      "salience": 0.0010823553,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Yorker",
+            "beginOffset": 1667
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0010725271,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1193
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00064740912,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 2102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mabey Whipple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00027881682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mabey Whipple",
+            "beginOffset": 1351
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "S LEGACY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24455911,
+      "mentions": [
+        {
+          "text": {
+            "content": "S LEGACY",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.073972329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "EMMA SMITH&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029091734,
+      "mentions": [
+        {
+          "text": {
+            "content": "EMMA SMITH&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.025280327,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 645
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1004
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003634444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "D&#038",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035028914,
+      "mentions": [
+        {
+          "text": {
+            "content": "D&#038",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "D&#038",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eighteenth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025755886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eighteenth",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Eighteenth",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rands",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_African_rand"
+      },
+      "salience": 0.0007396951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rands",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham Rands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007396951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham Rands",
+            "beginOffset": 858
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

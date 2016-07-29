@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Smith_County,_Texas"
+      },
+      "salience": 0.010356032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "On",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ontario"
+      },
+      "salience": 0.0059947795,
+      "mentions": [
+        {
+          "text": {
+            "content": "On",
+            "beginOffset": 579
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

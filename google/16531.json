@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "name": "Korihor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Korihor"
+      },
+      "salience": 0.21726872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Korihor",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Korihor",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.039263237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 386
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 645
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016362242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon&",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehi_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.0080775386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 1592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0064790915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon&#8217",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0037518416,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon&#8217",
+            "beginOffset": 1268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abinadi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Abinadi"
+      },
+      "salience": 0.003670227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abinadi",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019616007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019096402,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pingree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019096402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pingree",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019096402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby",
+            "beginOffset": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019096402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lambert",
+            "beginOffset": 845
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0019096402,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 914
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00084836531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.00059373025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

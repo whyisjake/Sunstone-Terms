@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "RLDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.15755376,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sixties",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/1960s"
+      },
+      "salience": 0.01109242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sixties",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Sixties",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Sixties",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS Shift",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01109242,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS Shift",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Shift",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Shift",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._Russell"
+      },
+      "salience": 0.010712091,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter Day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0057089408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Day Saint",
+            "beginOffset": 531
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 971
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Wickman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017129303,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Wickman",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0012558585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 750
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "ODS",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)"
+      },
+      "salience": 0.00053279178,
+      "mentions": [
+        {
+          "text": {
+            "content": "ODS",
+            "beginOffset": 978
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

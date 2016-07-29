@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.038230859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 204
+          }
+        }
+      ]
+    },
+    {
+      "name": "North America Heavenly Mothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031680122,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America Heavenly Mothers",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_America"
+      },
+      "salience": 0.031680122,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Community",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019900212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 1400
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.019071072,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Feminine",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Goddess"
+      },
+      "salience": 0.016596884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0048628002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "North America Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004318676,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America Mormons",
+            "beginOffset": 1420
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

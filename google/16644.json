@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "REVELATION",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation_(Latter_Day_Saints)"
+      },
+      "salience": 0.067138225,
+      "mentions": [
+        {
+          "text": {
+            "content": "REVELATION",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.037142985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1014
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1088
+          }
+        }
+      ]
+    },
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036275692,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "INSPIRATION",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Biblical_inspiration"
+      },
+      "salience": 0.017715989,
+      "mentions": [
+        {
+          "text": {
+            "content": "INSPIRATION",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.013905091,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 1502
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0043520723,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Giliam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037846174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Giliam",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037846174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022642675,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1616
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

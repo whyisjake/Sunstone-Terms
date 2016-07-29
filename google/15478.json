@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Michael P. Walton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34615728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael P. Walton",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Michael P. Walton",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE GARDEN IN EDEN",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10174307,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE GARDEN IN EDEN",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GENESIS 2",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Genesis"
+      },
+      "salience": 0.0881288,
+      "mentions": [
+        {
+          "text": {
+            "content": "GENESIS 2",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "GENESIS 2",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "GENESIS 2",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lew W. Wallace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.079349175,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Wallace",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Lew W. Wallace",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE GARDEN IN EDEN",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045397028,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE GARDEN IN EDEN",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "THE GARDEN IN EDEN",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.019896304,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skyler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016508581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Skyler",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "SO",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sophomore"
+      },
+      "salience": 0.0088082589,
+      "mentions": [
+        {
+          "text": {
+            "content": "SO",
+            "beginOffset": 212
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

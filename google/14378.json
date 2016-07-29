@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Profuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25985897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Profuse",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacred"
+      },
+      "salience": 0.14101404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Profuse The Sacred",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14101404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Profuse The Sacred",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ezekiel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Ezekiel"
+      },
+      "salience": 0.028259039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ezekiel",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Profuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024611054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Profuse",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Gosselin"
+      },
+      "salience": 0.023471467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sacred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02258523,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sacred",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073535154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johns",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Daniel"
+      },
+      "salience": 0.0073535154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": 289
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

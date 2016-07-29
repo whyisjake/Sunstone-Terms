@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.44426671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 488
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 651
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Moment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022318034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Moment",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Moment",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0098928763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044330903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Johns",
+            "beginOffset": 584
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

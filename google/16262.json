@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.014289523,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00956876,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002075816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002075816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018698275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley"
+      },
+      "salience": 0.00053498294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "UPSC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00053498294,
+      "mentions": [
+        {
+          "text": {
+            "content": "UPSC",
+            "beginOffset": 883
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

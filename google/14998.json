@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Beyond Zion",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.16592838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyond Zion",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.099466413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Life On Beyond Zion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.061554391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life On Beyond Zion",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "On Beyond Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043144144,
+      "mentions": [
+        {
+          "text": {
+            "content": "On Beyond Zion",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Poland"
+      },
+      "salience": 0.033065721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poland",
+            "beginOffset": 272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dick Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025016936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dick Paul",
+            "beginOffset": 195
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

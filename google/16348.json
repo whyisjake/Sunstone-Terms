@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.23305941,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.1219607,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 562
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040394314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 983
+          }
+        },
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham Rands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01360888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham Rands",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part III: The Case Against Automaticity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01296676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part III: The Case Against Automaticity",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.011788079,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1268
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010834972,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0061753285,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Urantia Book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Urantia_Book"
+      },
+      "salience": 0.00532398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Urantia Book",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0037545906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.00076139526,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 944
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37740302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1832
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 530
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.069208369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 822
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2038
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020333111,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heal SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016124256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heal SL03091",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ann Luke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015747759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ann Luke",
+            "beginOffset": 1370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Story of Excommunication",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014542036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Story of Excommunication",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070587918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Scheid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050237607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Scheid",
+            "beginOffset": 1380
+          }
+        },
+        {
+          "text": {
+            "content": "Lisa",
+            "beginOffset": 1668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032585762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 861
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023930967,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beth Luke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020653335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beth Luke",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    },
+    {
+      "name": "John SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017339344,
+      "mentions": [
+        {
+          "text": {
+            "content": "John SL03091",
+            "beginOffset": 1736
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015607229,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marion",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marion,_Alabama"
+      },
+      "salience": 0.0014807774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marion",
+            "beginOffset": 1654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012664872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1046
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0003814683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

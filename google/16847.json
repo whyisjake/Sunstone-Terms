@@ -1,0 +1,361 @@
+{
+  "entities": [
+    {
+      "name": "Big Love",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Big_Love"
+      },
+      "salience": 0.10709909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 981
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 2224
+          }
+        },
+        {
+          "text": {
+            "content": "Big Love",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hendrickson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.090617187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hendrickson",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Bill Hendrickson",
+            "beginOffset": 2360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Issues Big Love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026587455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Issues Big Love",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026081875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1531
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 669
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/HBO"
+      },
+      "salience": 0.018472727,
+      "mentions": [
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "HBO",
+            "beginOffset": 2212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016383644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 2303
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Issues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010225852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Issues",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Big Issues",
+            "beginOffset": 2193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tribune Big Love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027223178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tribune Big Love",
+            "beginOffset": 2175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Six Feet Under",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)"
+      },
+      "salience": 0.0026630647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Six Feet Under",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sopranos",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Sopranos"
+      },
+      "salience": 0.0026630647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sopranos",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0024657231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hendricksons",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018640998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hendricksons",
+            "beginOffset": 1339
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0016665848,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "America&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00043413331,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 1603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swensen",
+            "beginOffset": 1633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 1642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Batchelor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Batchelor",
+            "beginOffset": 1654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.00043059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 1670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043059589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 1687
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

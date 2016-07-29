@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church Members Three",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11071128,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Members Three",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church Members",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church Members",
+            "beginOffset": 1062
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literalism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012313785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literalism",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Literalism",
+            "beginOffset": 1234
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005729943,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Russell",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Savior",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0022276347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Savior",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002181431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert Peck",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vaclav",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017127221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaclav",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015328733,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1453
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

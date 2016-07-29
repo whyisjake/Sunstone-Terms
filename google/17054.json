@@ -1,0 +1,287 @@
+{
+  "entities": [
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.12151945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 1381
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.060625803,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 429
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 783
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1472
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1627
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.021196939,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 865
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Luis Shrine Missionary Desecration",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017447468,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Luis Shrine Missionary Desecration",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "San Luis Shrine Missionary Desecration",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "San Luis Shrine Missionary Desecration",
+            "beginOffset": 1286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013504969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olaiz",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Luis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Luis,_Colorado"
+      },
+      "salience": 0.0087471455,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Luis",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "San Luis",
+            "beginOffset": 1394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.0066831852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thai",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thailand"
+      },
+      "salience": 0.0033336454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thai",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddha",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "salience": 0.0033336454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddha",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030939477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Carter",
+            "beginOffset": 820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Troy Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030022862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Troy Williams",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jody Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030022862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jody Williams",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Kirby_(humor_columnist)"
+      },
+      "salience": 0.0025640652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "KRS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00079734228,
+      "mentions": [
+        {
+          "text": {
+            "content": "KRS",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00079734228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1073
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

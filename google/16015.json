@@ -1,0 +1,291 @@
+{
+  "entities": [
+    {
+      "name": "Decalogue The Decalogue",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13544534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Decalogue The Decalogue",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Decalogue",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "Decalogue The Decalogue",
+            "beginOffset": 1017
+          }
+        },
+        {
+          "text": {
+            "content": "Decalogue",
+            "beginOffset": 1268
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Wallace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.042726506,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Wallace",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Decalogue Perusing",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032072116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Decalogue Perusing",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pentateuch",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Torah"
+      },
+      "salience": 0.014076957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pentateuch",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Pentateuch",
+            "beginOffset": 1100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moses"
+      },
+      "salience": 0.014076957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.012177473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.012177473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exodus",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Exodus"
+      },
+      "salience": 0.010120724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exodus",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Exodus",
+            "beginOffset": 1314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0063612941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "King James Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_James_Version"
+      },
+      "salience": 0.0039389492,
+      "mentions": [
+        {
+          "text": {
+            "content": "King James Bible",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sinai",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sinai_Peninsula"
+      },
+      "salience": 0.0033793258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sinai",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deuteronomy&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031544811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deuteronomy&",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Deuteronomy&",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.0030527394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024869363,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.000773331,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 950
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.35689825,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neo-Orthodox Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neo-Orthodox Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Neo-Orthodox Mormonism",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Progressive Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040771008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Progressive Mormonism",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Progressive Mormonism",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Progressive Mormonism",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "God Neo-Orthodox Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025155567,
+      "mentions": [
+        {
+          "text": {
+            "content": "God Neo-Orthodox Mormonism",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0090138419,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl",
+            "beginOffset": 274
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

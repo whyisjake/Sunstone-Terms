@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Robert Frost",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Frost"
+      },
+      "salience": 0.28554979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 303
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Frost And My Spiritual Understanding And Life Eugene Elbert Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055661552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Frost And My Spiritual Understanding And Life",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost And My Spiritual Understanding And Life Elbert Peck",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost And My Spiritual Understanding And Life Eugene Elbert Peck",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "Refn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015209695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Refn",
+            "beginOffset": 368
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

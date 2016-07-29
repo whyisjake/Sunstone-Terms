@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.36078608,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 270
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 914
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush Administration",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presidency_of_George_W._Bush"
+      },
+      "salience": 0.0020898832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush Administration",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0015301198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092707854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kader",
+            "beginOffset": 729
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

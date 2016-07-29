@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Mary Poppins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4796465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Poppins",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Poppins",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Return Of God",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07960394,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Return Of God",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "The Return Of God",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother Mary Poppins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.070918605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother Mary Poppins",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027859395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Return Of God The Mother Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026093112,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Return Of God The Mother Lynn Pearson",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015166601,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolyn Pearson",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rome",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rome"
+      },
+      "salience": 0.0036285277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rome",
+            "beginOffset": 313
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

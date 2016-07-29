@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "LDS Community",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.17846037,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Community",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Community Child Sexual Abuse",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.071108758,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Community Child Sexual Abuse",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Child Sexual Abuse",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Child_sexual_abuse"
+      },
+      "salience": 0.021317311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Child Sexual Abuse",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01995671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 84
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

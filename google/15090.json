@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Word Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12806121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word Family",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Word Family",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Word Family",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.10098349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celestial Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10002705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celestial Family",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Celestial Family",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Celestial Family",
+            "beginOffset": 816
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patriarchy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Patriarchy"
+      },
+      "salience": 0.0838099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriarchy",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Patriarchy",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Patriarchy",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Randall Starr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068279065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Randall Starr",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.047766156,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 267
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

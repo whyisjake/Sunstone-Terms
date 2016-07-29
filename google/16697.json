@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.22930166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grand Fundamental Principles&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044167448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grand Fundamental Principles&",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.030820312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019591577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradley",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037781871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenney",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seoul",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seoul"
+      },
+      "salience": 0.0031312793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seoul",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.0025604158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 616
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

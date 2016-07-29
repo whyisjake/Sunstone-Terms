@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "David Clark Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27228448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark Knowlton",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "David Clark Knowlton",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "LATIN AMERICAN",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin_America"
+      },
+      "salience": 0.10528688,
+      "mentions": [
+        {
+          "text": {
+            "content": "LATIN AMERICAN",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LATIN AMERICAN",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "LATIN AMERICAN",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "LATTER-DAY SAINTS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.07194715,
+      "mentions": [
+        {
+          "text": {
+            "content": "LATTER-DAY SAINTS",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "LATTER-DAY SAINTS",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "LATTER-DAY SAINTS",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Majority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.07194715,
+      "mentions": [
+        {
+          "text": {
+            "content": "The New Majority",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "The New Majority",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "The New Majority",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church: Who Are They",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07194715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church: Who Are They",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Church: Who Are They",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Church: Who Are They",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.012107202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marillion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011475614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marillion",
+            "beginOffset": 591
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

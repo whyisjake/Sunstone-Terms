@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.27643543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Ryan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060598265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Ryan",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Egyptian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egyptian_language"
+      },
+      "salience": 0.036059178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017021883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyrum Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hyrum_Smith"
+      },
+      "salience": 0.016925627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyrum Smith",
+            "beginOffset": 215
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Jeff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17353298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Universe&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.060819734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Universe&",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Universe&",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041145027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Universe&",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Universe&",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035954878,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU&",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "BYU&",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "BYU&",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Student Newspaper Masters Of The",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.030147707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Student Newspaper Masters Of The",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Masters Of The",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021078594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Masters Of The",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Student Newspaper Kagel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01454824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Student Newspaper Kagel",
+            "beginOffset": 168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Associated Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Associated_Press"
+      },
+      "salience": 0.0097788051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Associated Press",
+            "beginOffset": 408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Kagel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084141614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Kagel",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0030494297,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jackson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jackson,_Mississippi"
+      },
+      "salience": 0.0028901226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jackson",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

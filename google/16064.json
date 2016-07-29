@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Compass",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compass_(drawing_tool)"
+      },
+      "salience": 0.27628091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compass",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "Square",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Square"
+      },
+      "salience": 0.11607365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11607365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 435
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Masons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Freemasonry"
+      },
+      "salience": 0.11607365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Masons",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Masons",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Masons",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Chinese Compass",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.071654133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Chinese Compass",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Chinese Terry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040516634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Chinese Terry",
+            "beginOffset": 106
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Chinese",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_China"
+      },
+      "salience": 0.030683942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Chinese",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099712629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tong",
+            "beginOffset": 297
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

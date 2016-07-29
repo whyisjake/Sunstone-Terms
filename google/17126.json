@@ -1,0 +1,381 @@
+{
+  "entities": [
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.7411465,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 612
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 907
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 1513
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 1567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072192773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1492
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029786082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 553
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 725
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054050414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0029641504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lucy Mack Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lucy_Mack_Smith"
+      },
+      "salience": 0.0020487225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucy Mack Smith",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angel Moroni",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angel_Moroni"
+      },
+      "salience": 0.0010381554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angel Moroni",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "John P. Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00083195325,
+      "mentions": [
+        {
+          "text": {
+            "content": "John P. Hatch",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "K. Behrens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064464536,
+      "mentions": [
+        {
+          "text": {
+            "content": "K. Behrens",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israeli",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israeli",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dartmouth",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dartmouth_College"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dartmouth",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indians",
+            "beginOffset": 1195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connecticut River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Connecticut_River"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connecticut River",
+            "beginOffset": 1251
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 1287
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 1339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio Missouri Illinois Iowa",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio Missouri Illinois Iowa",
+            "beginOffset": 1311
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Basin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Basin"
+      },
+      "salience": 0.0002586575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Basin",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

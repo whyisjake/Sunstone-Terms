@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "Word Keith E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.55704957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word E. Norman",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Word Keith E. Norman",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Harvard Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014214328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Harvard Divinity School",
+            "beginOffset": 369
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

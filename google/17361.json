@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.050531488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10353",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026404781,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10353",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0030927749,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0030461727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "SKOOR",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024949983,
+      "mentions": [
+        {
+          "text": {
+            "content": "SKOOR",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017640201,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1049
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene,_Oregon"
+      },
+      "salience": 0.00077606639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene",
+            "beginOffset": 673
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

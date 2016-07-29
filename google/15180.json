@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Sexual Politics of Salvation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036044192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexual Politics of Salvation",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Sexual Politics of Salvation",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Sexual Politics of Salvation",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Northern Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_Ireland"
+      },
+      "salience": 0.02806521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Northern Ireland",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Northern Ireland",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Northern Ireland",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015075805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Gender",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0088555338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 899
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.10628887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 668
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 805
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1318
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mel Gibson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mel_Gibson"
+      },
+      "salience": 0.070783123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mel Gibson",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Gibson",
+            "beginOffset": 837
+          }
+        },
+        {
+          "text": {
+            "content": "Mel Gibson",
+            "beginOffset": 1286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mel Gibson&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022721503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mel Gibson&",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0021773083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0020631498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0020382074,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018631957,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tony",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tony_Award"
+      },
+      "salience": 0.0017422746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tony",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Samuelson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017422746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samuelson",
+            "beginOffset": 1260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0016206991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wade Major",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014438056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wade Major",
+            "beginOffset": 967
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010450043,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miles Romney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044889475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miles Romney",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.00044889475,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 1129
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

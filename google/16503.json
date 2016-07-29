@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "LDS CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12539887,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 535
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 641
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1026
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1233
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1352
+          }
+        }
+      ]
+    },
+    {
+      "name": "LESSONS OF ABRAHAM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017026959,
+      "mentions": [
+        {
+          "text": {
+            "content": "LESSONS OF ABRAHAM",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abrahamic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Abrahamic_religions"
+      },
+      "salience": 0.0030849776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abrahamic",
+            "beginOffset": 477
+          }
+        },
+        {
+          "text": {
+            "content": "Abrahamic",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019321826,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Remy",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.0016012295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona State University",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.0016012295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0016012295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012917644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 665
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.24083902,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 546
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 600
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10101",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034794416,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10101",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Call",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.034794416,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Call",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0051163873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "SKOOR",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032954379,
+      "mentions": [
+        {
+          "text": {
+            "content": "SKOOR",
+            "beginOffset": 436
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

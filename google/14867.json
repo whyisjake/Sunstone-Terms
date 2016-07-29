@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.04884525,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Popular Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026440257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Popular Mormon Theology",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Popular Mormon Theology",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044597797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

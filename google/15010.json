@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Millenarianism",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.064837605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Millenarianism",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Millenarianism",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Millenarianism",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.043623164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.03369347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Fundamentalism",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01907392,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Fundamentalism",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "American Fundamentalism",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "American Fundamentalism",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alternative Origins",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01345622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alternative Origins",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Alternative Origins",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "Alternative Origins",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0034950022,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Bible",
+            "beginOffset": 497
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "SL09133 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025054475,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09133 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eve&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0085292775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eve&",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Eve&",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Garden_of_Eden"
+      },
+      "salience": 0.007363596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eden",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "Eden",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaron Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027691377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron Taylor",
+            "beginOffset": 628
+          }
+        },
+        {
+          "text": {
+            "content": "Aaron Taylor",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kynthia Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025857659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kynthia Taylor",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheila Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025857659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheila Taylor",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snyder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023360513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snyder",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.002296281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 331
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1093
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.002296281,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.002296281,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 435
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "OneNote",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00056303747,
+      "mentions": [
+        {
+          "text": {
+            "content": "OneNote",
+            "beginOffset": 747
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

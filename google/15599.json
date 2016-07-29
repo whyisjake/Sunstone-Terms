@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Lew Wallace",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lew_Wallace"
+      },
+      "salience": 0.13522935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Lew Wallace",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Slide Tour",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.089133896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Slide Tour",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Testament Library Slide Tour",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.069972053,
+      "mentions": [
+        {
+          "text": {
+            "content": "The New Testament Library Slide Tour",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Testament Library Wallace",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027909277,
+      "mentions": [
+        {
+          "text": {
+            "content": "The New Testament Library Wallace",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Slide Tour",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01095071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Slide Tour",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.01095071,
+      "mentions": [
+        {
+          "text": {
+            "content": "The New Testament",
+            "beginOffset": 466
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

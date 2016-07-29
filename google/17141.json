@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10219236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1034
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1156
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Directions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022418154,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Directions",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012597178,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.012597178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. PRINCE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013066904,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. PRINCE",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "GEORGE D. SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0013066904,
+      "mentions": [
+        {
+          "text": {
+            "content": "GEORGE D. SMITH",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "MATTHEW BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013066904,
+      "mentions": [
+        {
+          "text": {
+            "content": "MATTHEW BOWMAN",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "VAL HEMMING",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013066904,
+      "mentions": [
+        {
+          "text": {
+            "content": "VAL HEMMING",
+            "beginOffset": 636
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

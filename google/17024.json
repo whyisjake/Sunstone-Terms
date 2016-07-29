@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "SW07013: Is Green",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.049002416,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW07013: Is Green",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Green",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Green"
+      },
+      "salience": 0.029720176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Green",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walmart"
+      },
+      "salience": 0.02101763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walmart",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.020002756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "COMPTON Barry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042698886,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPTON Barry",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0042698886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Al Gore",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Al_Gore"
+      },
+      "salience": 0.0040467717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Al Gore",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Is Green True-Blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013660189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Is Green True-Blue",
+            "beginOffset": 832
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

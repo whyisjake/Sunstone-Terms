@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12555991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 780
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 872
+          }
+        },
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09253 Oh My Heck",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.046885204,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09253 Oh My Heck",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036701906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journal of Mormon History",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_History_Association"
+      },
+      "salience": 0.019542087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journal of Mormon History",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Journal of Mormon History",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Signature Books",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.017145891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Signature Books",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Signature Books",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Blair Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Blair_Young"
+      },
+      "salience": 0.0050704987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Atha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050704987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Atha",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0042023421,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.0042023421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 714
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

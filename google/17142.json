@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.1839653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 883
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 971
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09008",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020792058,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09008",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Art: Definitions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018646063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Art: Definitions",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.010884228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.0097393617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "LISA FRASER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018041261,
+      "mentions": [
+        {
+          "text": {
+            "content": "LISA FRASER",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "GREG ALLEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018041261,
+      "mentions": [
+        {
+          "text": {
+            "content": "GREG ALLEN",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "ERIN THOMAS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018041261,
+      "mentions": [
+        {
+          "text": {
+            "content": "ERIN THOMAS",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "JONATHAN LINTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018041261,
+      "mentions": [
+        {
+          "text": {
+            "content": "JONATHAN LINTON",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "WECKER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013795008,
+      "mentions": [
+        {
+          "text": {
+            "content": "WECKER",
+            "beginOffset": 583
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

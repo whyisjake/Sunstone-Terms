@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.14647992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 991
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi_Anderson"
+      },
+      "salience": 0.020690951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi Anderson",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi Anderson",
+            "beginOffset": 931
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00876342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 468
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

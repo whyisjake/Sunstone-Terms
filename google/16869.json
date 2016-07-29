@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.1098029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 509
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 600
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yoga Of Christ The Yoga Of Christ",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040200103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yoga Of Christ The Yoga Of Christ",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.012248754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 780
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.010345788,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1279
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anglicanism"
+      },
+      "salience": 0.0077233207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 1409
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Yoga Of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0042165178,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Yoga Of Christ",
+            "beginOffset": 1228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032883072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(genre)"
+      },
+      "salience": 0.0022912659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. McLemore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022457,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. McLemore",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015875811,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1526
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

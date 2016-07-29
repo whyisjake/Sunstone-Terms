@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "Book of Abraham&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.66277975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham&",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Abraham&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.29211715,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Abraham&",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Abraham&",
+            "beginOffset": 107
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

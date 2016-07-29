@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.26806712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 445
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harmonia",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012748195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harmonia",
+            "beginOffset": 282
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

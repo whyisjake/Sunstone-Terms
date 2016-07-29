@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Onanism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Onan"
+      },
+      "salience": 0.30555511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Onanism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Onanism",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.054716446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Attitudes Toward Masturbation Onanism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044637404,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Attitudes Toward Masturbation Onanism",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.030277565,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 595
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Final Passage George Richard Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52189755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Final Passage George Richard Compton",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "George Richard Compton",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051388882,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.046338484,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frances Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040588286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frances Lee Menlove",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Frances Lee Menlove",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032531369,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013768173,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 159
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.013054256,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.013054256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "LA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.0033832854,
+      "mentions": [
+        {
+          "text": {
+            "content": "LA",
+            "beginOffset": 390
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

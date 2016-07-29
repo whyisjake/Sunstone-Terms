@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.27930671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1877
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 567
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1986
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10052624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 859
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2083
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0310086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.024663346,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part III: Is the Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020812184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part III: Is the Book of Mormon",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011867302,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.008895454,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0051814886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1852
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0048187114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 898
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "robbery SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025858714,
+      "mentions": [
+        {
+          "text": {
+            "content": "robbery SL03091",
+            "beginOffset": 1778
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025550765,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002208346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Lee",
+            "beginOffset": 1766
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0019126271,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018801372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1083
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056891737,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 1407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056891737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 1419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Church Finances Parting The Corporate Veil",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.045666635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Finances Parting The Corporate Veil",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Finances",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018478606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Finances",
+            "beginOffset": 154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Val",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010409559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Val",
+            "beginOffset": 209
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Poitras",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0098683294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Poitras",
+            "beginOffset": 239
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

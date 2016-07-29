@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.10237337,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.00796087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 213
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

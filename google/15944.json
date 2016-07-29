@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Uncle Golden Discovering Uncle Golden N. Kimball",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14410481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uncle Golden Discovering Uncle Golden N. Kimball",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Campbell_Soup_Company"
+      },
+      "salience": 0.09419734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Campbell",
+            "beginOffset": 297
+          }
+        }
+      ]
+    },
+    {
+      "name": "Uncle Golden James N. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031925131,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uncle Golden James N. Kimball",
+            "beginOffset": 510
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Lori",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19862695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lori",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ordeal of Church Management The Ordeal of Church Management",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.095369793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ordeal of Church Management The Ordeal of Church Management",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Albany,_New_York"
+      },
+      "salience": 0.083717875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albany",
+            "beginOffset": 385
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Ordeal of Church Management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028451608,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Ordeal of Church Management",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.026632121,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Padova",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Padua"
+      },
+      "salience": 0.015423844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Padova",
+            "beginOffset": 296
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "The Arts",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_arts"
+      },
+      "salience": 0.12787382,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Arts",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "The Arts",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "The Arts",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Look&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031002773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Look&",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Look&",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Look&",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Stop&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00810863,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Stop&",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

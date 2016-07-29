@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Humor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21538316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Humor",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Peter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Peter"
+      },
+      "salience": 0.017235681,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Peter",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reno Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reno,_Nevada"
+      },
+      "salience": 0.01431078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reno Nevada",
+            "beginOffset": 255
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

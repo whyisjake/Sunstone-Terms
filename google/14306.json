@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Finitist Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18367286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finitist Theology",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Problem of Evil Finitist Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18367286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Problem of Evil Finitist Theology",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Problem of Evil",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Problem_of_evil"
+      },
+      "salience": 0.12674125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Problem of Evil",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Problem of Evil",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.034369744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 159
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finitist Theology",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021047285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finitist Theology",
+            "beginOffset": 262
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

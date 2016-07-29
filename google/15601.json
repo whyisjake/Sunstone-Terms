@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.057838887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irksome",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022317998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irksome",
+            "beginOffset": 95
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand L. Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.017574975,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Mauss",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 724
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Freeman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056100879,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Freeman",
+            "beginOffset": 321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Will Bagley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Will_Bagley"
+      },
+      "salience": 0.00552585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Will Bagley",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Will Bagley",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.00552585,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 754
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

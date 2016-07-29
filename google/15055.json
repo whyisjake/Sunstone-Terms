@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Us Twenty-Two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036253188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Us Twenty-Two",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Us Twenty-Two",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Us Twenty-Two",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "We&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036253188,
+      "mentions": [
+        {
+          "text": {
+            "content": "We&",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "We&",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "We&",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Original Missionary Poetry as Folk Expression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020076232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Original Missionary Poetry as Folk Expression",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Original Missionary Poetry as Folk Expression",
+            "beginOffset": 324
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indiana_University"
+      },
+      "salience": 0.0091242334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana University",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Original Missionary Poetry",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0072794426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Original Missionary Poetry",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folk Expression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072794426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folk Expression",
+            "beginOffset": 937
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elaine Thatcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026975952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elaine Thatcher",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0023589595,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.0023589595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": 723
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

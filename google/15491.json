@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53702176,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Anderson",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wesley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.083303057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wesley",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Wesely Johnson Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06064634,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Wesely Johnson Johnson",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Johnson",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "G. Wesely Johnson",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.014340084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard MA",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01359587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard MA",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Columbia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Columbia_University"
+      },
+      "salience": 0.01359587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Columbia",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran Eugene England",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01359587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran Eugene England",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriott",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marriott_School_of_Management"
+      },
+      "salience": 0.011280397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriott",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097082816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0035214024,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035214024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashley",
+            "beginOffset": 386
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

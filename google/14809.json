@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.24558984,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Decline Of The Hebrew Goddess",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.097648695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Decline Of The Hebrew Goddess",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Decline Of The Hebrew Goddess",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Man In The Holy Order Of God",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.041297849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man In The Holy Order Of God",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Man In The Holy Order Of God",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Man In The Holy Order Of God",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Hebrew Goddess",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.036634766,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Hebrew Goddess",
+            "beginOffset": 11
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

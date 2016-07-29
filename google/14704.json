@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Baptist",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.35547829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baptist",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Baptist",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Baptist",
+            "beginOffset": 138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Coping With Religious Diversity Mormons",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13678883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coping With Religious Diversity Mormons",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Coping With Religious Diversity  Mormons",
+            "beginOffset": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "Coping With Religious Diversity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049985975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coping With Religious Diversity",
+            "beginOffset": 161
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.47697628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 508
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 710
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1030
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1165
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1187
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1302
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1501
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010980149,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Persecution Perceptions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025684505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persecution Perceptions",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Osmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021957029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Osmond",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greeks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greece"
+      },
+      "salience": 0.0019421095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greeks",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Papers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Joseph_Smith_Papers"
+      },
+      "salience": 0.00081521925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Papers",
+            "beginOffset": 999
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

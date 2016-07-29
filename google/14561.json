@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Bruce",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15937412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philosophy&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041044906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philosophy&",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Philosophy&",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Philosophy&",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History Faithful Vs. Fair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024804063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History Faithful Vs. Fair",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denver Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Denver"
+      },
+      "salience": 0.012391963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denver Colorado",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012391963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montgomery",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Montgomery,_Alabama"
+      },
+      "salience": 0.012391963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montgomery",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.012206254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faithful Vs. Fair",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0098899147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faithful Vs. Fair",
+            "beginOffset": 539
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

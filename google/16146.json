@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.1032256,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 658
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1736
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.016277827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1637
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Death",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Death"
+      },
+      "salience": 0.015523827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 1572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom from Sin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012941519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom from Sin",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom from Sin",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom from Sin",
+            "beginOffset": 1554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devil",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Devil"
+      },
+      "salience": 0.012941519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devil",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Devil",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Devil",
+            "beginOffset": 1587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.010059165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 755
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0024371033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023275875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001909845,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018774046,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00063849567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 1240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katherine Shirts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00049468054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katherine Shirts",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

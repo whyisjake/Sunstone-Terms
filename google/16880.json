@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Part II That&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.332372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part II That&",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033701893,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Russell",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.030530948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part II Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017248841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part II Mormonism",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Part II Mormonism",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0056414888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Allah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050119637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Allah",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 901
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

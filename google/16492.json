@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "CITY OF ANGELS",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.087764308,
+      "mentions": [
+        {
+          "text": {
+            "content": "CITY OF ANGELS",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon trail",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Trail"
+      },
+      "salience": 0.040553361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon trail",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon trail",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "CALIFORNIA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.039913174,
+      "mentions": [
+        {
+          "text": {
+            "content": "CALIFORNIA",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "OVERLAND JOURNEY",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.034943156,
+      "mentions": [
+        {
+          "text": {
+            "content": "OVERLAND JOURNEY",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southern California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_California"
+      },
+      "salience": 0.031116273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southern California",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Southern California",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "UTAH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.030622553,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "WAGON TRAVEL",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030622553,
+      "mentions": [
+        {
+          "text": {
+            "content": "WAGON TRAVEL",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.016025707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Battalion",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Battalion"
+      },
+      "salience": 0.015154669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Battalion",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Battalion",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Bernardino",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Bernardino_County,_California"
+      },
+      "salience": 0.0035336469,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Bernardino",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "San Bernardino",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.0034921195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Las_Vegas"
+      },
+      "salience": 0.0028342716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Las Vegas",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russ Frandsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00278616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russ Frandsen",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022478886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "leann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00086661323,
+      "mentions": [
+        {
+          "text": {
+            "content": "leann",
+            "beginOffset": 814
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

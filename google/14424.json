@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.2491648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Life Saints",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037956752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Life Saints",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Religious Life",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Religious Life",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "William James",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033286493,
+      "mentions": [
+        {
+          "text": {
+            "content": "William James",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "William James",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "William James",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IGN"
+      },
+      "salience": 0.011529788,
+      "mentions": [
+        {
+          "text": {
+            "content": "IGN",
+            "beginOffset": 244
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clinton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bill_Clinton"
+      },
+      "salience": 0.008595584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clinton",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0028287368,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California"
+      },
+      "salience": 0.0023761056,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California",
+            "beginOffset": 442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

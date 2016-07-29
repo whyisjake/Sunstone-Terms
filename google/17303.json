@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.12484413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1088
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newtonian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Classical_mechanics"
+      },
+      "salience": 0.070222035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newtonian",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Newtonian",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Newtonian",
+            "beginOffset": 989
+          }
+        },
+        {
+          "text": {
+            "content": "Newtonian",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newtonian Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033695657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newtonian Mormonism",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10155",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025826354,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10155",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crisis of Faith",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.023225764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crisis of Faith",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.014815042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0037016594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "FARNWORTH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0023090618,
+      "mentions": [
+        {
+          "text": {
+            "content": "FARNWORTH",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023090618,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Michael",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cindy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023090618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cindy",
+            "beginOffset": 709
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

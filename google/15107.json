@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Native American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+      },
+      "salience": 0.051766489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049267355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aztec",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aztec"
+      },
+      "salience": 0.045254711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aztec",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Aztec",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Aztec",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native American Pre-Existence Traditions The Auto",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027816607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native American Pre-Existence Traditions The Auto",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddha",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "salience": 0.025184071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddha",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ruth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014867065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ruth",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spanish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.012333136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spanish",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Auto",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011864759,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Auto",
+            "beginOffset": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clapton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eric_Clapton"
+      },
+      "salience": 0.0039525833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clapton",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Perry",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Perry_(village),_New_York"
+      },
+      "salience": 0.0038479851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perry",
+            "beginOffset": 517
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

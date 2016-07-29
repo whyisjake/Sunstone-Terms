@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.56333679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 609
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 765
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 836
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1002
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1087
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible Lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021663342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible Lovers",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "word of God",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Authorship_of_the_Bible"
+      },
+      "salience": 0.012446325,
+      "mentions": [
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.0095393276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012225719,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack) Worlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00052531593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack) Worlton",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "J.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palatal_approximant"
+      },
+      "salience": 0.00052531593,
+      "mentions": [
+        {
+          "text": {
+            "content": "J.",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00052531593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg",
+            "beginOffset": 900
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

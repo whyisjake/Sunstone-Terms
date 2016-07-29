@@ -1,0 +1,327 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.21693376,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 723
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1297
+          }
+        }
+      ]
+    },
+    {
+      "name": "US Conference of Catholic Bishops",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Conference_of_Catholic_Bishops"
+      },
+      "salience": 0.19531354,
+      "mentions": [
+        {
+          "text": {
+            "content": "US Conference of Catholic Bishops",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "US Conference of Catholic Bishops",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social And Economic Teachings Of Mormonism: Social Justice Is Alive And Well",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046005372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social And Economic Teachings Of Mormonism: Social Justice Is Alive And Well",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.020226117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fourth Mission",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015109274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fourth Mission",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Fourth Mission",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell Pearce",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russell_Pearce"
+      },
+      "salience": 0.011297625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell Pearce",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0070929215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 511
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinduism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hinduism"
+      },
+      "salience": 0.0048603108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinduism",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buddhism"
+      },
+      "salience": 0.0048603108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0048603108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0048603108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0045370227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.0044836923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Beck",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Glenn_Beck"
+      },
+      "salience": 0.0044836923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0044836923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0044836923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036389092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woodworth",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011317431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenberg",
+            "beginOffset": 962
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "BIRTH NARRATIVE McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31821403,
+      "mentions": [
+        {
+          "text": {
+            "content": "BIRTH NARRATIVE McCall",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEBREWS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epistle_to_the_Hebrews"
+      },
+      "salience": 0.068342037,
+      "mentions": [
+        {
+          "text": {
+            "content": "HEBREWS",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "HEBREWS",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "HEBREWS",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAUL",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pauline_epistles"
+      },
+      "salience": 0.023364669,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "PAUL",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "PAUL",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01395497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 838
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

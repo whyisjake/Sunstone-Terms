@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "S EPISTEMOLOGY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033420607,
+      "mentions": [
+        {
+          "text": {
+            "content": "S EPISTEMOLOGY",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "S EPISTEMOLOGY",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "LOWELL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lowell,_Massachusetts"
+      },
+      "salience": 0.030386267,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOWELL",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "LOWELL",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "LOWELL",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago_Divinity_School"
+      },
+      "salience": 0.0160896,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago Divinity School",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ariel Clark Silver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058557396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ariel Clark Silver",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Ariel",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Ariel Clark Silver",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "S EPISTEMOLOGY U. Carlisle Hunsaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047843615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carlisle Hunsaker",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "S EPISTEMOLOGY U. Carlisle Hunsaker",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0012536881,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Waterford",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Waterford"
+      },
+      "salience": 0.0012536881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waterford",
+            "beginOffset": 463
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

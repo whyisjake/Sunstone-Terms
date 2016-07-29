@@ -1,0 +1,423 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.076964073,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 753
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.056907214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 722
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Progress Report Mormon Cinema At Six",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.032684498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Progress Report Mormon Cinema At Six",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LDS_cinema"
+      },
+      "salience": 0.022010669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Cinema",
+            "beginOffset": 1710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020907054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Dutcher&",
+            "beginOffset": 620
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher&",
+            "beginOffset": 1588
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015080313,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015080313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 1630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City_(film)"
+      },
+      "salience": 0.015080313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 1646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema At Six",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.007376499,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema At Six",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Cinema At Six",
+            "beginOffset": 1401
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Singles Ward",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Singles_Ward"
+      },
+      "salience": 0.0058605135,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Singles Ward",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.005049366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.005049366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin J. Foxe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044583417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin J. Foxe",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cinema&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0038370453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cinema&",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.0025248944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Other Side of Heaven",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Other_Side_of_Heaven"
+      },
+      "salience": 0.0024528294,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Other Side of Heaven",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.M.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Midfielder"
+      },
+      "salience": 0.0023246629,
+      "mentions": [
+        {
+          "text": {
+            "content": "R.M.",
+            "beginOffset": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dean C. Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020697596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dean C. Hale",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Halestorm Entertainment",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Halestorm_Entertainment"
+      },
+      "salience": 0.0020697596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Halestorm Entertainment",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017676101,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samuelsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016978502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samuelsen",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "States of Grace",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/States_of_Grace"
+      },
+      "salience": 0.0013229606,
+      "mentions": [
+        {
+          "text": {
+            "content": "States of Grace",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001298083,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1752
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

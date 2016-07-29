@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "Roman Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0683518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 1279
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic Church",
+            "beginOffset": 601
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic Church",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.027704204,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Silva",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Silva"
+      },
+      "salience": 0.024440955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Silva",
+            "beginOffset": 984
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON AND CATHOLIC MARRIAGE STRUCTURES",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024290724,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON AND CATHOLIC MARRIAGE STRUCTURES",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07122",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017083257,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07122",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.015538899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    },
+    {
+      "name": "CATHOLIC MARRIAGE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marriage_(Catholic_Church)"
+      },
+      "salience": 0.012159321,
+      "mentions": [
+        {
+          "text": {
+            "content": "CATHOLIC MARRIAGE",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "CATHOLIC MARRIAGE",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00408414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholicism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.00253244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholicism",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAVID KNOWLTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018823291,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAVID KNOWLTON",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAMES SILVA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016907292,
+      "mentions": [
+        {
+          "text": {
+            "content": "JAMES SILVA",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.001482752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 778
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 939
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_(Bickertonite)"
+      },
+      "salience": 0.0013824312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "name": "ELLA PEACOCK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24349904,
+      "mentions": [
+        {
+          "text": {
+            "content": "ELLA PEACOCK",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Peacock",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 1135
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 1255
+          }
+        },
+        {
+          "text": {
+            "content": "Peacock",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abajian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089753084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abajian",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTI TEMPLE First Sight of the Desert: Discovering the Art",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.032956615,
+      "mentions": [
+        {
+          "text": {
+            "content": "MANTI TEMPLE First Sight of the Desert: Discovering the Art",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021726323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ella",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Sight of the Desert: Discovering the Art",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013713899,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Sight of the Desert: Discovering the Art",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "First Sight of the Desert: Discovering the Art",
+            "beginOffset": 1085
+          }
+        },
+        {
+          "text": {
+            "content": "First Sight of the Desert: Discovering the Art",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0082695149,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 1346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0082695149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1387
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peacock&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047574667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peacock&",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0041397503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 838
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0039140643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "East",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002760594,
+      "mentions": [
+        {
+          "text": {
+            "content": "East",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0026574456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pleasanton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pleasanton,_California"
+      },
+      "salience": 0.0024005859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pleasanton",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Allah"
+      },
+      "salience": 0.00061857112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allah",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah_Press"
+      },
+      "salience": 0.00061857112,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah press",
+            "beginOffset": 985
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

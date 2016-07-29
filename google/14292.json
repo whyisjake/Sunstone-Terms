@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Gifts of the Spirit",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spiritual_gift"
+      },
+      "salience": 0.35794896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gifts of the Spirit",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013443446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armen",
+            "beginOffset": 90
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

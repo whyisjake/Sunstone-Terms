@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.3814919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1458
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.080911964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1664
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ethics of War",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016289977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ethics of War",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016289977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon SL03091",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.0093350941,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0083507774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0038578098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0020814338,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "mtn SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0020533954,
+      "mentions": [
+        {
+          "text": {
+            "content": "mtn SL03091",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017536819,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Toscano",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017536819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001531738,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00149996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 999
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

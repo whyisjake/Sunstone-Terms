@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "True Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1035528,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parable of the Good Samaritan",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan"
+      },
+      "salience": 0.053982437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parable of the Good Samaritan",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Parable of the Good Samaritan",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Parable of the Good Samaritan",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.017240282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 188
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

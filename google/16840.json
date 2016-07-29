@@ -1,0 +1,361 @@
+{
+  "entities": [
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.25149307,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 2068
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 2210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Evenson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brian_Evenson"
+      },
+      "salience": 0.030329689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Evenson",
+            "beginOffset": 1068
+          }
+        },
+        {
+          "text": {
+            "content": "Evenson",
+            "beginOffset": 1662
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 1889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dilemma For Mormon Artists",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017579535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dilemma For Mormon Artists",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Dilemma For Mormon Artists",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Dilemma For Mormon Artists",
+            "beginOffset": 2084
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013832477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 2162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whom&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012771334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whom&",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Whom&",
+            "beginOffset": 2050
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0051127747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 806
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1057
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.00355196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altmann&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027123513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altmann&",
+            "beginOffset": 1148
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0025642582,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson F. Whitney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_F._Whitney"
+      },
+      "salience": 0.0024958674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson F. Whitney",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miltons",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0024958674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miltons",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shakespeares",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Shakespeare"
+      },
+      "salience": 0.0024958674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakespeares",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Mormon Novel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0023653798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Mormon Novel",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tongue",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tongue"
+      },
+      "salience": 0.0023162949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tongue",
+            "beginOffset": 1164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0019193895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 1192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Altman"
+      },
+      "salience": 0.00068171555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altman",
+            "beginOffset": 1716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.00058211497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 1671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presenter Brooks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058211497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presenter Brooks",
+            "beginOffset": 1678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058211497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry",
+            "beginOffset": 1740
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

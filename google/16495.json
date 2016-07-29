@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.18713018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1507
+          }
+        }
+      ]
+    },
+    {
+      "name": "PANEL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panel_painting"
+      },
+      "salience": 0.03461045,
+      "mentions": [
+        {
+          "text": {
+            "content": "PANEL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH ACTIVITY IMPACT PERSONAL RELATIONSHIPS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023444334,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH ACTIVITY IMPACT PERSONAL RELATIONSHIPS",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012639687,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033568013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curtis",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carol_Lynn_Pearson"
+      },
+      "salience": 0.0033568013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jared Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033568013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jared Christensen",
+            "beginOffset": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Rands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033568013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Rands",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirsten Wald Stoneley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033568013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirsten Wald Stoneley",
+            "beginOffset": 832
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

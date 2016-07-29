@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.066938408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "UMP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Union_for_a_Popular_Movement"
+      },
+      "salience": 0.024337126,
+      "mentions": [
+        {
+          "text": {
+            "content": "UMP",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Decision-Making",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017713655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Decision-Making",
+            "beginOffset": 358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0057578147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 249
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

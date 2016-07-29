@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Orthodox Religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085504293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orthodox Religion",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberal Agenda Do You Teach the Orthodox Religion",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.042221278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberal Agenda Do You Teach the Orthodox Religion",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberal",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberal_Party_of_Canada"
+      },
+      "salience": 0.02736502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Do You Teach the Orthodox Religion",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0062031816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Do You Teach the Orthodox Religion",
+            "beginOffset": 669
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

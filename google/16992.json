@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "George Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19167615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "George Romney&",
+            "beginOffset": 564
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 1320
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROMNEYS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.15047634,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROMNEYS",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "ROMNEYS",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "ROMNEYS",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.059786659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 930
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1083
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 1479
+          }
+        }
+      ]
+    },
+    {
+      "name": "George",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025826704,
+      "mentions": [
+        {
+          "text": {
+            "content": "George",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "DENNIS L. LYTHGOE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022469413,
+      "mentions": [
+        {
+          "text": {
+            "content": "DENNIS L. LYTHGOE",
+            "beginOffset": 787
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011052448,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1433
+          }
+        }
+      ]
+    },
+    {
+      "name": "WHITE HOUSE",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.00882251,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHITE HOUSE",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "WHITE HOUSE",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "WHITE HOUSE",
+            "beginOffset": 1275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0053849062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 1579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romneys&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034198547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romneys&",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00275604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt&",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. BRINGHURST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021162587,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. BRINGHURST",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN P. HATCH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001640095,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN P. HATCH",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. BONNER RITCHIE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013591801,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. BONNER RITCHIE",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graham Murray",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00099638675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Murray",
+            "beginOffset": 850
+          }
+        },
+        {
+          "text": {
+            "content": "Graham Murray",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00042263512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

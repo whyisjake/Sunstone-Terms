@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Exaltation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Exaltation_(Mormonism)"
+      },
+      "salience": 0.033786796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exaltation",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Exaltation",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Exaltation",
+            "beginOffset": 857
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Grosbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027152069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Grosbeck",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.021606866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Allen Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005535339,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Allen Lambert",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.004587525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ithaca",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ithaca,_New_York"
+      },
+      "salience": 0.004587525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ithaca",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "United",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_and_uniting_churches"
+      },
+      "salience": 0.0036019117,
+      "mentions": [
+        {
+          "text": {
+            "content": "United",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York"
+      },
+      "salience": 0.001426772,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 749
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

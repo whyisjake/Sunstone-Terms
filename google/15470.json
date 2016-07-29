@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "S LEGACY Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27135172,
+      "mentions": [
+        {
+          "text": {
+            "content": "S LEGACY Lythgoe Bradford",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lowell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lowell,_Massachusetts"
+      },
+      "salience": 0.052446079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lowell",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Lowell",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023355344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 493
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

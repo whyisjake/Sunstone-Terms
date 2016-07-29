@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013000342,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Primary",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Primary_(LDS_Church)"
+      },
+      "salience": 0.011220596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Primary",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Primary",
+            "beginOffset": 1413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exile",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Exile"
+      },
+      "salience": 0.0092590833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exile",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Exile",
+            "beginOffset": 1224
+          }
+        }
+      ]
+    },
+    {
+      "name": "Voices",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Human_voice"
+      },
+      "salience": 0.008490148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Voices",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Voices",
+            "beginOffset": 1214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.008490148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.0068510124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laughlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068510124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laughlin",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boise State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boise_State_University"
+      },
+      "salience": 0.0043542152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boise State University",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0033247839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "McDonald",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scott_McDonald"
+      },
+      "salience": 0.0032769807,
+      "mentions": [
+        {
+          "text": {
+            "content": "McDonald",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan Randall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027155834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Randall",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027155834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Jones",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan Landauer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027155834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Landauer",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ambrose",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027155834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ambrose",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boise",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boise,_Idaho"
+      },
+      "salience": 0.00098873151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boise",
+            "beginOffset": 1090
+          }
+        }
+      ]
+    },
+    {
+      "name": "bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      "salience": 0.00084428571,
+      "mentions": [
+        {
+          "text": {
+            "content": "bush",
+            "beginOffset": 998
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "The Brain Combining New Science With Ancient Wisdom Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.088326626,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Brain Combining New Science With Ancient Wisdom Jesus",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 795
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030407557,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Long",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shane_Long"
+      },
+      "salience": 0.0094972234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Long",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Long",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

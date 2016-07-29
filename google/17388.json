@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Patrick McKenzie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58278394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patrick",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Patrick McKenzie",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Loving Mercy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10570041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loving Mercy",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.10570041,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045857452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint McKenzie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033939656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint  McKenzie",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.022923496,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 260
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

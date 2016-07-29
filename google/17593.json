@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26000842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 649
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 913
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.022810891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1266
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01445776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0034727107,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0033674869,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Horn",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/French_horn"
+      },
+      "salience": 0.003203582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Horn",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ellen Koester",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003203582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen Koester",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_John,_New_Brunswick"
+      },
+      "salience": 0.00096693489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint John",
+            "beginOffset": 952
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00096693489,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 966
+          }
+        }
+      ]
+    },
+    {
+      "name": "Korean",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Korean_language"
+      },
+      "salience": 0.0008256922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Korean",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

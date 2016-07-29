@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Magic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Magic_(paranormal)"
+      },
+      "salience": 0.087215737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Generation Is Losing Faith",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.046603203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generation Is Losing Faith",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Generation Is Losing Faith Do You",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0262672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generation Is Losing Faith Do You",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "America II",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014221739,
+      "mentions": [
+        {
+          "text": {
+            "content": "America I I",
+            "beginOffset": 163
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013480652,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 259
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.011177028,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0081987064,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 360
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

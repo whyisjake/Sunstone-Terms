@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Hope My Daughters Don&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071122967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope My Daughters Don&",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Hope My Daughters Don&",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Hope My Daughters Don&",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Perverting Pride",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055523328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perverting Pride",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Perverting Pride",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Perverting Pride",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greed",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greed"
+      },
+      "salience": 0.055523328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greed",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Greed",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Greed",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacramento",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacramento,_California"
+      },
+      "salience": 0.0041464381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacramento",
+            "beginOffset": 317
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

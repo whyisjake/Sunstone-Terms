@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.050785523,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1276
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.012517001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0083655911,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.0029540535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0029540535,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0025229298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 736
+          }
+        }
+      ]
+    },
+    {
+      "name": "MILES",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mile"
+      },
+      "salience": 0.0020552964,
+      "mentions": [
+        {
+          "text": {
+            "content": "MILES",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hitler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adolf_Hitler"
+      },
+      "salience": 0.0020552964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hitler",
+            "beginOffset": 911
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

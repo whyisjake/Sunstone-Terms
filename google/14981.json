@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Song of Songs",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Song_of_Songs"
+      },
+      "salience": 0.15225583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Song of Songs",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Song of Songs",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Song of Songs",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCarthy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_McCarthy"
+      },
+      "salience": 0.021641785,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCarthy",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0052600275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

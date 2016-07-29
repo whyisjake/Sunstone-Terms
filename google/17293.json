@@ -1,0 +1,339 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.20731777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 379
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 971
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew Philip Gill",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18858629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Philip Gill",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew Philip Gill",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew Philip Gill",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gill",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.095623314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gill",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Gill",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "Gill",
+            "beginOffset": 592
+          }
+        },
+        {
+          "text": {
+            "content": "Gill",
+            "beginOffset": 653
+          }
+        },
+        {
+          "text": {
+            "content": "Gill",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.025949333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 535
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 580
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 788
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10126",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016815735,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10126",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Schism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016815735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Schism",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter Day Church of Jesus Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.011972298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Day Church of Jesus Christ",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Latter Day Church of Jesus Christ",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Derbyshire",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Derbyshire"
+      },
+      "salience": 0.0086279931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Derbyshire",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Derbyshire",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0086279931,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Jeraneck",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0078541422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Jeraneck",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Jeraneck",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052221585,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOWMAN",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0029585026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gill&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029005974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gill&",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010898098,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.00068912096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 992
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeraneck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063176587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeraneck",
+            "beginOffset": 957
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

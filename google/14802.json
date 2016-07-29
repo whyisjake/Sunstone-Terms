@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Liberal",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberal_Party_of_Canada"
+      },
+      "salience": 0.59552145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04340262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas Testimony",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042885274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas Testimony",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Auto-Biography Of Elbert B Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035375975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auto-Biography Of Elbert",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Auto-Biography Of Elbert B Thomas",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "John stilleto John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013557262,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "John stilleto John",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha Hughes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00837709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha Hughes",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Auto-Biography Of Elbert B Thomas",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0066866521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auto-Biography Of Elbert B Thomas",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0021697108,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunstone",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Agnes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021697108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agnes",
+            "beginOffset": 468
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

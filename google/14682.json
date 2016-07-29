@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Rainer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1896859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rainer",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars Of My Faith Pillars Of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.078209095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith Pillars Of My Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.05381823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.01261647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars Of My Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009547296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholicism Chauncey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030975193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholicism Chauncey",
+            "beginOffset": 360
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

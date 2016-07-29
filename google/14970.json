@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "First Presidency: New Plural Marriages",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15294883,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency: New Plural Marriages",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.091287427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Presidency: New Plural Marriages",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.056353193,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency: New Plural Marriages",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Presidency: New Plural Marriages",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02413173,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency: New Plural Marriages",
+            "beginOffset": 516
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

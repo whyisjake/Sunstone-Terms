@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19591299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.15224594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel of Mark",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Mark"
+      },
+      "salience": 0.020133452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel of Mark",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel of Mark",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel of Mark",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0098506445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Far",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00831018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Translator New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0023605442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Translator New Testament",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0019564596,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Far",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018316921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Far",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mr",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mr."
+      },
+      "salience": 0.0015362117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": 799
+          }
+        }
+      ]
+    },
+    {
+      "name": "Herald",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00060859584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Herald",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.00060859584,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dutch",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Netherlands"
+      },
+      "salience": 0.00060859584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dutch",
+            "beginOffset": 922
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

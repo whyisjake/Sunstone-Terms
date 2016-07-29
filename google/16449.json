@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32978058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1607
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12036692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1813
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.017780883,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1652
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01408384,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anti-Mormon&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01250054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Mormon&",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0061500608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0058405446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "nnj SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003153479,
+      "mentions": [
+        {
+          "text": {
+            "content": "nnj SL03091",
+            "beginOffset": 1512
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0030665917,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paris",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paris"
+      },
+      "salience": 0.0026931174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paris",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023184021,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0022850621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009577517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mayfield",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grant H. Palmer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grant_H._Palmer"
+      },
+      "salience": 0.00069384044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grant H. Palmer",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Van Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069384044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Van Hale",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake T. Ostler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069384044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake T. Ostler",
+            "beginOffset": 1373
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Mantras",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034848958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mantras",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.010346812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "MCLEMORE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00324006,
+      "mentions": [
+        {
+          "text": {
+            "content": "MCLEMORE",
+            "beginOffset": 444
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

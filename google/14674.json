@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.058186993,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Anthropology Make Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025999215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Anthropology Make Way",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Anthropology",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Make Way",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_theology"
+      },
+      "salience": 0.0045342976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 621
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

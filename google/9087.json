@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Rock",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_music"
+      },
+      "salience": 0.36731535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Rock",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Rock",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exercise in Social/Religious Imagination James Smithson",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057714965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exercise in Social/Religious Imagination James Smithson",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044538129,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01193271,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Smithson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010273619,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Smithson",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Antarctica Ivon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029322528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Antarctica Ivon",
+            "beginOffset": 424
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

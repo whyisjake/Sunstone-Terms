@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Michael Adam Ferguson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31550649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Adam Ferguson",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Ferguson",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Adam Ferguson",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Adam Ferguson",
+            "beginOffset": 813
+          }
+        },
+        {
+          "text": {
+            "content": "Ferguson",
+            "beginOffset": 943
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Adam Ferguson",
+            "beginOffset": 1111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Brain Project",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021676756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Brain Project",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0026897644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walter_Scott"
+      },
+      "salience": 0.0026897644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 408
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

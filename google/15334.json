@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.069209762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "History Nauvoo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.064774826,
+      "mentions": [
+        {
+          "text": {
+            "content": "History Nauvoo",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_Latter_Day_Saint_movement"
+      },
+      "salience": 0.054291625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crossroads of Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.038320333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crossroads of Faith",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Crossroads of Faith",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Crossroads of Faith",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lonnie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033152316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lonnie",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rogers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rogers,_Arkansas"
+      },
+      "salience": 0.015358862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rogers",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Galesburg Illinois",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01257413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Galesburg Illinois",
+            "beginOffset": 248
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Carolina"
+      },
+      "salience": 0.01257413,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Carolina",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greenville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greenville,_South_Carolina"
+      },
+      "salience": 0.01257413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greenville",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Louisiana State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Louisiana_State_University"
+      },
+      "salience": 0.01257413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Louisiana State University",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.01257413,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graceland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Graceland"
+      },
+      "salience": 0.010429981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graceland",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "mon III",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010429981,
+      "mentions": [
+        {
+          "text": {
+            "content": "mon I I I",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master's_degree"
+      },
+      "salience": 0.0032531216,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 421
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith III",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith_III"
+      },
+      "salience": 0.16029929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith III",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith III",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.024714895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10213",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021949906,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10213",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith III: From Reorganization",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021949906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith III: From Reorganization",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "MACKAY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015819797,
+      "mentions": [
+        {
+          "text": {
+            "content": "MACKAY",
+            "beginOffset": 602
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

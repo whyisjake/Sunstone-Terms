@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.089947537,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 1256
+          }
+        }
+      ]
+    },
+    {
+      "name": "Talmadge",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06371025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Talmadge",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Talmage&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060563721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Talmage&",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Talmage&",
+            "beginOffset": 1119
+          }
+        }
+      ]
+    },
+    {
+      "name": "Understanding Talmage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047006831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Understanding Talmage",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.02761852,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1310
+          }
+        }
+      ]
+    },
+    {
+      "name": "P. Harris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023355585,
+      "mentions": [
+        {
+          "text": {
+            "content": "P. Harris",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Original Apostle James E. Talmage",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020711731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Original Apostle James E. Talmage",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "James E. Talmage",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Talmage&",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008246542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Talmage&",
+            "beginOffset": 192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.003535185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.003350493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.003350493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Heath",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032253163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Heath",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apostle_(Latter_Day_Saints)"
+      },
+      "salience": 0.0010888227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle",
+            "beginOffset": 991
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Otter Creek",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035472464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Otter Creek",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Otter Creek",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Otter Creek",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02116547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Peter",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Danzig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010501115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Danzig",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Danzig",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intermountain West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intermountain_West"
+      },
+      "salience": 0.0041772849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermountain West",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.004114382,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hunters Moon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040660584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hunters Moon",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folk Music Charts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033703179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folk Music Charts",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intermountain",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intermountain_West"
+      },
+      "salience": 0.0027904345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermountain",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Danzig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001373594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Danzig",
+            "beginOffset": 508
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

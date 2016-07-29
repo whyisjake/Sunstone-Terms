@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Kirby_(humor_columnist)"
+      },
+      "salience": 0.54134285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 187
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Age Insights From An Oxymormon New Age Insights From An Oxymormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079397835,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Age Insights From An Oxymormon New Age Insights From An Oxymormon",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Salt_Lake_Tribune"
+      },
+      "salience": 0.015657531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake Tribune",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Living Dead",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Living_Dead"
+      },
+      "salience": 0.015657531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Living Dead",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Age Insights From An Oxymormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012503803,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Age Insights From An Oxymormon",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aston",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aston_Township,_Delaware_County,_Pennsylvania"
+      },
+      "salience": 0.009563366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aston",
+            "beginOffset": 506
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

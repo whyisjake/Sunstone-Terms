@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Right Questions Salvation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21996607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Right Questions Salvation",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salvation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salvation"
+      },
+      "salience": 0.17137888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salvation",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.08423996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.014163037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Luis Obispo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Luis_Obispo,_California"
+      },
+      "salience": 0.014163037,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Luis Obispo",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin_America"
+      },
+      "salience": 0.013608142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin America",
+            "beginOffset": 292
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013428011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.013428011,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.013226919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011141126,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 327
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

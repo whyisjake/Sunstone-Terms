@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "A. Frost Jake Frost",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.62118208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jake Frost",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Jake",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "A. Frost  Jake Frost",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Jake Frost",
+            "beginOffset": 354
+          }
+        }
+      ]
+    },
+    {
+      "name": "You Tube",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/YouTube"
+      },
+      "salience": 0.053974025,
+      "mentions": [
+        {
+          "text": {
+            "content": "You Tube",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brother Jake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017675841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brother Jake",
+            "beginOffset": 221
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

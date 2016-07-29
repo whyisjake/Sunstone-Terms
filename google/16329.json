@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Nauvoo Sunstones",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017348858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo Sunstones",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo Sunstones",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo Sunstones",
+            "beginOffset": 1299
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo_Temple"
+      },
+      "salience": 0.013556862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "European",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0024211193,
+      "mentions": [
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.0024211193,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roman_Empire"
+      },
+      "salience": 0.0024211193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freemasonry",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Freemasonry"
+      },
+      "salience": 0.0024211193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freemasonry",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.002247005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whittle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018372937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whittle",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allan Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001830494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allan Roberts",
+            "beginOffset": 954
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

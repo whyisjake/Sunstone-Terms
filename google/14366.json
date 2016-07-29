@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Robert Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39956275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Campbell",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Responsibility",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_responsibility"
+      },
+      "salience": 0.05615532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Responsibility",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Social Responsibility",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.05615532,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Ethics Social Responsibility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04993977,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Ethics Social Responsibility",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ethics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ethics"
+      },
+      "salience": 0.04993977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ethics",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lowe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Derek_Lowe"
+      },
+      "salience": 0.020207457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lowe",
+            "beginOffset": 324
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.010268426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 166
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0097352574,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0059396187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 506
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

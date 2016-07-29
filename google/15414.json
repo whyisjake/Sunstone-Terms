@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "university of Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.01112724,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028853067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 313
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

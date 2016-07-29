@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.30554816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Science",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_science"
+      },
+      "salience": 0.12276069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Science",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Social Science",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Empirical Directions Social Science",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04054299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Empirical Directions Social Science",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harmon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027266052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harmon",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021767415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenfinnan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056558568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenfinnan",
+            "beginOffset": 358
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

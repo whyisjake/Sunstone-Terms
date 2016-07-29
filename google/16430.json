@@ -1,0 +1,359 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32275471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2000
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 514
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.070478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 806
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2206
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.023515154,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018643919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social SL03091",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ted Whiters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016651362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ted Whiters",
+            "beginOffset": 1375
+          }
+        },
+        {
+          "text": {
+            "content": "Ted",
+            "beginOffset": 1736
+          }
+        },
+        {
+          "text": {
+            "content": "Ted",
+            "beginOffset": 1755
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Black Experience Panel II: The Leap of Faith: Personal, Cultural",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015940178,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Black Experience Panel II: The Leap of Faith: Personal, Cultural",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013618349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 1354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0081583392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0037654876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 845
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002765259,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Auburn Alabama SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020035247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auburn Alabama SL03091",
+            "beginOffset": 1894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlanta",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.0020035247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 1813
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0018033677,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017659485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1030
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlanta Georgia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.0017109867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlanta Georgia",
+            "beginOffset": 1830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Renee Olson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001417816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Renee Olson",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie Palmer Sheppard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001417816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie Palmer Sheppard",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rasheedah Corbitt Europe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001417816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rasheedah Corbitt Europe",
+            "beginOffset": 1416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00044075045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1509
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

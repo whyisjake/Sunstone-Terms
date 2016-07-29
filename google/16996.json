@@ -1,0 +1,173 @@
+{
+  "entities": [
+    {
+      "name": "CORNETT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032447822,
+      "mentions": [
+        {
+          "text": {
+            "content": "CORNETT",
+            "beginOffset": 861
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN ECCLESIASTICAL TRENDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020775655,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMERICAN ECCLESIASTICAL TRENDS",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "AMERICAN ECCLESIASTICAL TRENDS",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "AMERICAN ECCLESIASTICAL TRENDS",
+            "beginOffset": 1309
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.019502848,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 569
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 707
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1634
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1709
+          }
+        }
+      ]
+    },
+    {
+      "name": "America&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058250776,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0048430879,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0037628363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patriot Act",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Patriot_Act"
+      },
+      "salience": 0.0036632158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriot Act",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. BONNER RITCHIE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030018955,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. BONNER RITCHIE",
+            "beginOffset": 873
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

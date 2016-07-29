@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Chile Violence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25630319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chile Violence",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Growth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19051838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Growth",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Growth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077761784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Growth",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chile"
+      },
+      "salience": 0.067858852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin_America"
+      },
+      "salience": 0.015334895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin America",
+            "beginOffset": 183
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015334895,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 228
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

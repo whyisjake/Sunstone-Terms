@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Edde Feerman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.087037437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edde Feerman",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Edde",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Edde",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Edde Feerman",
+            "beginOffset": 1278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0097919926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marguerite Moloney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021680614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marguerite Moloney",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton H. Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021680614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton H. Jolley",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gotland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gotland"
+      },
+      "salience": 0.0017967309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gotland",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lupron",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0017967309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lupron",
+            "beginOffset": 695
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

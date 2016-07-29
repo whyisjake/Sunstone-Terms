@@ -1,0 +1,371 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.77705193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 875
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 990
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 1067
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1478
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.035722267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1501
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 555
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 820
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1570
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1734
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW07007",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00876248,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW07007",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.00604115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 452
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 913
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "George Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Romney"
+      },
+      "salience": 0.0035290555,
+      "mentions": [
+        {
+          "text": {
+            "content": "George",
+            "beginOffset": 1249
+          }
+        },
+        {
+          "text": {
+            "content": "George Romney",
+            "beginOffset": 1438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romney&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018844063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romney&",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092535245,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. REES",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Christian Coalition",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00092007755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Christian Coalition",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Mainstream",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00092007755,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Mainstream",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goldwater",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barry_Goldwater"
+      },
+      "salience": 0.00088883209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goldwater",
+            "beginOffset": 1387
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.00077388703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican Party",
+            "beginOffset": 722
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 1397
+          }
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.00075493666,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronnie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061013974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronnie",
+            "beginOffset": 1310
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN HATCH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00022898646,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN HATCH",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    },
+    {
+      "name": "NEWELL BRINGHURST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00022898646,
+      "mentions": [
+        {
+          "text": {
+            "content": "NEWELL BRINGHURST",
+            "beginOffset": 1156
+          }
+        }
+      ]
+    },
+    {
+      "name": "GLENN CORNETT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00022898646,
+      "mentions": [
+        {
+          "text": {
+            "content": "GLENN CORNETT",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "KRYS CORBETT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00022898646,
+      "mentions": [
+        {
+          "text": {
+            "content": "KRYS CORBETT",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

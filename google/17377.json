@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "SL10376: Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032413725,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10376: Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0081063295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAYLOR",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036139018,
+      "mentions": [
+        {
+          "text": {
+            "content": "TAYLOR",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "SARA BURLINGAME",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036139018,
+      "mentions": [
+        {
+          "text": {
+            "content": "SARA BURLINGAME",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOANNA BROOKS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036139018,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOANNA BROOKS",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "KIMBERLY LEWIS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036139018,
+      "mentions": [
+        {
+          "text": {
+            "content": "KIMBERLY LEWIS",
+            "beginOffset": 614
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

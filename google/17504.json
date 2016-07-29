@@ -1,0 +1,379 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.22688973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt",
+            "beginOffset": 479
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1218
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLURAL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Plural"
+      },
+      "salience": 0.0969126,
+      "mentions": [
+        {
+          "text": {
+            "content": "PLURAL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MTT ROMNEY&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066688471,
+      "mentions": [
+        {
+          "text": {
+            "content": "MTT ROMNEY&",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.021646865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1202
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.021291832,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "us",
+            "beginOffset": 960
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1293
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.017973823,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.00992658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0080733886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 449
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 886
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hannah Hood Hill Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Miles_Park_Romney"
+      },
+      "salience": 0.0039626528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hannah Hood Hill Romney",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Wood Pratt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034278606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Wood Pratt",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archibald Newell Hill",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034278606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archibald Newell Hill",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eliza Christine Wilcken",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032488443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eliza Christine Wilcken",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dora Wilcken Pratt",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032488443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dora Wilcken Pratt",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Henry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029277923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Henry",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parley P.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029277923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parley P.",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miles Park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027748495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miles Park",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helaman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027748495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helaman",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Principle",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Principle"
+      },
+      "salience": 0.00267119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Principle",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.0022137689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0022137689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0022137689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cefn",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00086487486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cefn",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Syracuse University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Syracuse_University"
+      },
+      "salience": 0.065593004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syracuse University",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Christian Women Recurring Tendencies",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06419275,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Christian Women Recurring Tendencies",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Christian Women for university",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033600207,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Christian Women for university",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "American Christian Women",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015789704,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.012618787,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.012618787,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 423
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

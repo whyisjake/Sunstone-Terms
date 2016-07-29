@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Greek",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ancient_Greek_religion"
+      },
+      "salience": 0.018369352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_Nibley"
+      },
+      "salience": 0.0094459327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marsyas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marsyas"
+      },
+      "salience": 0.0023620231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marsyas",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aesop",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aesop"
+      },
+      "salience": 0.0023620231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aesop",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Socrates",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Socrates"
+      },
+      "salience": 0.0023620231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Socrates",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "WWW.HUP.HARVARD.EDU/CATALOG/COMVIC.HTML",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020029331,
+      "mentions": [
+        {
+          "text": {
+            "content": "WWW.HUP.HARVARD.EDU/CATALOG/COMVIC.HTML",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "WWW.HUP.HARVARD.EDU/CATALOG/COMVIC.HTML",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0005926321,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058033009,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Compton",
+            "beginOffset": 800
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

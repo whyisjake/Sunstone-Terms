@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Paul Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.074530162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Murphy",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Polygamy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06153468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Polygamy",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yesterday and Today",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.052678816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yesterday and Today",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.052678816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0064700656,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1280
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Humboldt",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Humboldt_County,_California"
+      },
+      "salience": 0.0014888595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humboldt",
+            "beginOffset": 842
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keita California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014888595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keita California",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Pete",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/St._Petersburg,_Florida"
+      },
+      "salience": 0.0014888595,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Pete",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinity",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trinity_County,_California"
+      },
+      "salience": 0.0014888595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City,_Utah"
+      },
+      "salience": 0.0014888595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

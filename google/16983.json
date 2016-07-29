@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "HENRY JAMES",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henry_James"
+      },
+      "salience": 0.020639095,
+      "mentions": [
+        {
+          "text": {
+            "content": "HENRY JAMES",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "HENRY JAMES",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "HENRY JAMES",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034616168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "JENSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002840423,
+      "mentions": [
+        {
+          "text": {
+            "content": "JENSEN",
+            "beginOffset": 842
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

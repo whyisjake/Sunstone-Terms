@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.18739289,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 401
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bowman MATT BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bowman  MATT BOWMAN",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacrament MATT BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044330422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacrament MATT BOWMAN",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hampden Sydney College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hampden%E2%80%93Sydney_College"
+      },
+      "salience": 0.01855945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hampden Sydney College",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Hampden Sydney College",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Georgetown University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georgetown_University"
+      },
+      "salience": 0.0047235894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgetown University",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Georgetown University",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dialogue: a Journal of Mormon Thought",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dialogue_(journal)"
+      },
+      "salience": 0.004086012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dialogue: a Journal of Mormon Thought",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Dialogue: a Journal of Mormon Thought",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matt Bowman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029938777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matt Bowman",
+            "beginOffset": 564
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

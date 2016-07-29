@@ -1,0 +1,369 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29698208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1918
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083588183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 759
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2124
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014124115,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Legitimacy SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011185032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Legitimacy SL03091",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestinian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Palestine"
+      },
+      "salience": 0.0095567117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestinian",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00488201,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0045401207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 798
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1115
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Flynn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043504033,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Flynn",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0032775125,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024361068,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1827
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0024361068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 1732
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021743488,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021374149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Jews",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020490272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Jews",
+            "beginOffset": 1538
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00172394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bonner Ritchie",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frances Remillard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00172394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frances Remillard",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Widdison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00172394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Widdison",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00062760885,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Barrani",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005359152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolyn Barrani",
+            "beginOffset": 1382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.0005359152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 1555
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

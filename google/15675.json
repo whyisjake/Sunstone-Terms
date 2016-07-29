@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "John Dart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07491865,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dart",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dart Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014723633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dart  Mormons",
+            "beginOffset": 100
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "IRAQ",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.03018198,
+      "mentions": [
+        {
+          "text": {
+            "content": "IRAQ",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.013574031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053177015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christensen",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Stan Christensen",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Montclair",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036198096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Montclair",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033789736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Benac",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033789736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Benac",
+            "beginOffset": 393
+          }
+        },
+        {
+          "text": {
+            "content": "Bill Benac",
+            "beginOffset": 1202
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0028431695,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020099967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul &hellip",
+            "beginOffset": 1214
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,173 @@
+{
+  "entities": [
+    {
+      "name": "EE Erickson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.55102909,
+      "mentions": [
+        {
+          "text": {
+            "content": "E E Erickson",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "E E Erickson",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "E E Erickson",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "E E Erickson",
+            "beginOffset": 526
+          }
+        },
+        {
+          "text": {
+            "content": "E E Erickson",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "EE Erickson The Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17952743,
+      "mentions": [
+        {
+          "text": {
+            "content": "E E Erickson The Life",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "The Life",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pragmatic Philosophy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057428442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pragmatic Philosophy",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pragmatic Philosophy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013950122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pragmatic Philosophy",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Pragmatic Philosophy",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011243653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott G. Kennedy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010912905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott G. Kennedy",
+            "beginOffset": 302
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Erickson Scott Kenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010912905,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Erickson Scott Kenny",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029133684,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0029133684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

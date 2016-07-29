@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.11359467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1010889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace Mormonism",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intel"
+      },
+      "salience": 0.094710343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intel",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace Ralph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028338751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace Ralph",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.019495506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.015799679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.012080166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.0051282812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 298
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

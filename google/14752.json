@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "No Kingdom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12860903,
+      "mentions": [
+        {
+          "text": {
+            "content": "No Kingdom",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Nelson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02371721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Nelson",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.0083058057,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083058057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

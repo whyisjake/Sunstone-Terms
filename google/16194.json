@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.093841314,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032289408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Elbert",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Elbert Peck",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.030588187,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046413252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peck",
+            "beginOffset": 318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0036462231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Turkey"
+      },
+      "salience": 0.0031142707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turkey",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "King James Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_James_Version"
+      },
+      "salience": 0.0011344587,
+      "mentions": [
+        {
+          "text": {
+            "content": "King James Bible",
+            "beginOffset": 716
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

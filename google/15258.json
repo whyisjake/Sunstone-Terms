@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Mary Beth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25705609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Beth",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sexual Addition&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06790182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexual Addition&",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.040297434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014904954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 180
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

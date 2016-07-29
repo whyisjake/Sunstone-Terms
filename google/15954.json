@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "David I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14249259,
+      "mentions": [
+        {
+          "text": {
+            "content": "David I",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Play Howard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056575716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Play Howard",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Play Adam Alone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038452636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Play Adam Alone",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Adam Alone",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda Bon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038404293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Bon",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Linda Bon",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Enos",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038404293,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Enos",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "John Enos",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Howard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022079632,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Howard",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "DreamWorks",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/DreamWorks"
+      },
+      "salience": 0.0032042228,
+      "mentions": [
+        {
+          "text": {
+            "content": "DreamWorks",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032042228,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 358
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

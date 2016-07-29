@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Pious Heretic",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.043539952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pious Heretic",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Pious Heretic",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Pious Heretic",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sterling M McMurrin Confessions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026965119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling M McMurrin Confessions",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "McMann Confessions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018907163,
+      "mentions": [
+        {
+          "text": {
+            "content": "McMann Confessions",
+            "beginOffset": 327
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sterling M McMurrin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015945619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling M McMurrin",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Sterling M McMurrin",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York"
+      },
+      "salience": 0.015282111,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Albany,_New_York"
+      },
+      "salience": 0.015282111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albany",
+            "beginOffset": 156
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

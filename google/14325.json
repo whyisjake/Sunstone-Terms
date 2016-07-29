@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Can Nations",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.21714954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Can Nations",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Poland"
+      },
+      "salience": 0.0010791422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poland",
+            "beginOffset": 319
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

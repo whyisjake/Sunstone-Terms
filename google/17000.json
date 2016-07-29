@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.20894378,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 874
+          }
+        },
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 1269
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1452
+          }
+        }
+      ]
+    },
+    {
+      "name": "FLDS CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints"
+      },
+      "salience": 0.18747872,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLDS CHURCH",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS CHURCH",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS CHURCH",
+            "beginOffset": 1241
+          }
+        }
+      ]
+    },
+    {
+      "name": "HALES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018319868,
+      "mentions": [
+        {
+          "text": {
+            "content": "HALES",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warren Jeffs",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warren_Jeffs"
+      },
+      "salience": 0.0076491642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warren Jeffs",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Warren Jeffs",
+            "beginOffset": 1286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0076491642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034808712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "PAULINE MORTENSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3176184,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAULINE MORTENSEN",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Pauline Mortensen",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Pauline Mortensen",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "NICE",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nice"
+      },
+      "salience": 0.030413277,
+      "mentions": [
+        {
+          "text": {
+            "content": "NICE",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "NICE",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "NICE",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bellah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024217026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bellah",
+            "beginOffset": 345
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEALING PARADOX",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020797277,
+      "mentions": [
+        {
+          "text": {
+            "content": "HEALING PARADOX",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "HEALING PARADOX",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "HEALING PARADOX",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Arizona",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Arizona"
+      },
+      "salience": 0.017547011,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Arizona",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Massachusetts",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Massachusetts"
+      },
+      "salience": 0.0089217955,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Massachusetts",
+            "beginOffset": 675
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAULINE MORTENSEN Elouise M. Bell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081904177,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAULINE MORTENSEN M. Bell",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "PAULINE MORTENSEN Elouise M. Bell",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0068242531,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 312
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

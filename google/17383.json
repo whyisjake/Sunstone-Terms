@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.49316195,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 786
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.034337804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 994
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Media",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_media"
+      },
+      "salience": 0.033227291,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Media",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "NW10005",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023415754,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10005",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "California&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01041587,
+      "mentions": [
+        {
+          "text": {
+            "content": "California&",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "California&",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prop 8",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.01041587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prop 8",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Prop 8",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0044641239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034449289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evans",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amazing Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Amazing_Grace"
+      },
+      "salience": 0.0027749606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amazing Grace",
+            "beginOffset": 560
+          }
+        },
+        {
+          "text": {
+            "content": "Amazing Grace",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026702739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0022131365,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 687
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

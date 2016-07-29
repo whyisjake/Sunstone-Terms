@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.090216011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ireland"
+      },
+      "salience": 0.072106972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": 306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.063883275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Mormons of Northern Ireland",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.063424781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Mormons of Northern Ireland",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Mormons of Northern Ireland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057947811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Mormons of Northern Ireland",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Mormons of Northern Ireland",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warfront",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03463643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warfront",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Warfront",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Warfront",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "salience": 0.016327644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irish",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.015710965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Protestant Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013454055,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Protestant Mormons",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "salience": 0.011400455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irish",
+            "beginOffset": 592
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

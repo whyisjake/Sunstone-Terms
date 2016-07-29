@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.15840359,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 752
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1009
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 803
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1079
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.0016850921,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 397
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 1334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taysom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014260552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taysom",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Krista Mecham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013515471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Krista Mecham",
+            "beginOffset": 830
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

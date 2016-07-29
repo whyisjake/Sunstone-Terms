@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "name": "Roman Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.059442915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 900
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City Dialogue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.038574036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City Dialogue",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10316",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02959778,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10316",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic-Mormon Dialogue: Bridges",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02959778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic-Mormon Dialogue: Bridges",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rome",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rome"
+      },
+      "salience": 0.02959778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rome",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "extra-Biblical",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026934549,
+      "mentions": [
+        {
+          "text": {
+            "content": "extra-Biblical",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "extra-Biblical",
+            "beginOffset": 987
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013861866,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 892
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAXINE HANKS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004775397,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAXINE HANKS",
+            "beginOffset": 539
+          }
+        },
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "WESTBROOK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00337614,
+      "mentions": [
+        {
+          "text": {
+            "content": "WESTBROOK",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEACON SCOTT DODGE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00337614,
+      "mentions": [
+        {
+          "text": {
+            "content": "DEACON SCOTT DODGE",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.002798178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italian",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden,_Utah"
+      },
+      "salience": 0.002798178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden Utah",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Cross",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/College_of_the_Holy_Cross"
+      },
+      "salience": 0.00087040308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Cross",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00087040308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon",
+            "beginOffset": 842
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

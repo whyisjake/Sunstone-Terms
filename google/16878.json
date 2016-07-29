@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.12746027,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.10347662,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1215
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1426
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Gospel",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_gospel"
+      },
+      "salience": 0.019707479,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Gospel",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "The Gospel",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "The Gospel",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.017440118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 1297
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0029216022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 706
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020649338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012152534,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.00053208449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 970
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

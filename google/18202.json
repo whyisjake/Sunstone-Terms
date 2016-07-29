@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.10677294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 699
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.037254967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013433069,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006727187,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Roberts Lehrer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033660356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Roberts Lehrer",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patricia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027900552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patricia",
+            "beginOffset": 567
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

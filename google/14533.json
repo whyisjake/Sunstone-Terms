@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.14837012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utahans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066728681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utahans",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Utahans",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Utahans",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl Wright Patterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.064285457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl Wright Patterson",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connolly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016857058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connolly",
+            "beginOffset": 271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0089961011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 458
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

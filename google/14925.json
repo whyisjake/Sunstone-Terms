@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Ecclesiology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ecclesiology"
+      },
+      "salience": 0.39880082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ecclesiology",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Ecclesiology",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.38654527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Authority",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism  Authority",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.022026338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

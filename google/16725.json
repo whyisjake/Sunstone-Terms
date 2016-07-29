@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Pioneer Diaries For Mormons",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05114501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Pioneer Diaries For Mormons",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 460
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Posterity&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049191434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Posterity&",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Chains Of Events",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049191434,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Chains Of Events",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012179608,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 369
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0090239951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Spencer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068947729,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Spencer",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.0059240237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pace_(speed)"
+      },
+      "salience": 0.0014934595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pace",
+            "beginOffset": 585
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Apotheosis of Eve",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.30950615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apotheosis of Eve",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.089554325,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Garden of Eden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Garden_of_Eden"
+      },
+      "salience": 0.089554325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Garden of Eden",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Psychological",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Psychology"
+      },
+      "salience": 0.070902579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psychological",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vinson Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061224774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vinson  Michael Vinson",
+            "beginOffset": 137
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

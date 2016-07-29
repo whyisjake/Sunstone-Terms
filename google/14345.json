@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Moonmen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08396998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moonmen",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Painesville Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025385208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Painesville Mormons",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02377045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tara",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B.o.B"
+      },
+      "salience": 0.017527057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043150792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Hale",
+            "beginOffset": 262
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

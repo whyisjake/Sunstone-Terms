@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Ages Past",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.040319752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ages Past",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_Nibley"
+      },
+      "salience": 0.023775429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Egyptian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egypt"
+      },
+      "salience": 0.020552721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alma 13",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010018338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alma 13",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Alma 13",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abraham 3",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010018338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abraham 3",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "Abraham 3",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.010018338,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim M. Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052246577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim M. Clark",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Kim M. Clark",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Fillerup",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004693856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Fillerup",
+            "beginOffset": 366
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Fillerup",
+            "beginOffset": 701
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

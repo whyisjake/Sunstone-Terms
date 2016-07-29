@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Stephens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11849875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephens",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Townsend-Murphy Saga Buck Don Buck",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.032142438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Townsend-Murphy Saga  Buck  Don Buck",
+            "beginOffset": 48
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

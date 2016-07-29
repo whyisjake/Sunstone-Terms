@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "SW07001",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06277772,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW07001",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH-STATE PROXIMITY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026552737,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH-STATE PROXIMITY",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMERICA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.01384472,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMERICA",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0029934566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patriot Act",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Patriot_Act"
+      },
+      "salience": 0.0024810757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriot Act",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "TODD COMPTON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.0011522775,
+      "mentions": [
+        {
+          "text": {
+            "content": "TODD COMPTON",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.00077183713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "CORNET",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00075124548,
+      "mentions": [
+        {
+          "text": {
+            "content": "CORNET",
+            "beginOffset": 807
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

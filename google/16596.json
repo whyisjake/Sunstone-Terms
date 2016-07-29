@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Clifton Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40117037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 1198
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014371089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00987391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0018431508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dallas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dallas"
+      },
+      "salience": 0.0018257255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dallas",
+            "beginOffset": 847
+          }
+        },
+        {
+          "text": {
+            "content": "Dallas",
+            "beginOffset": 896
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jolley Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014559084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jolley Alan",
+            "beginOffset": 818
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

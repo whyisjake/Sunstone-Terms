@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.095465273,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "MITT",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "MITT",
+            "beginOffset": 2068
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 2147
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.027558368,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 2213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City Winter Olympics",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.027558368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City Winter Olympics",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City Winter Olympics",
+            "beginOffset": 2111
+          }
+        }
+      ]
+    },
+    {
+      "name": "KDVR",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.019641018,
+      "mentions": [
+        {
+          "text": {
+            "content": "KDVR",
+            "beginOffset": 1970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016166542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1013
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1447
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015623186,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM&",
+            "beginOffset": 2043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0093106395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 487
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1309
+          }
+        }
+      ]
+    },
+    {
+      "name": "FABRIZIO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064858492,
+      "mentions": [
+        {
+          "text": {
+            "content": "FABRIZIO",
+            "beginOffset": 1591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042717624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 910
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.0036194541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt moment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033719034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt moment",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0028525533,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 885
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0023114076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 1049
+          }
+        }
+      ]
+    },
+    {
+      "name": "RONALD B. SCOTT",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ronald_B._Scott"
+      },
+      "salience": 0.00054836448,
+      "mentions": [
+        {
+          "text": {
+            "content": "RONALD B. SCOTT",
+            "beginOffset": 1601
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN DEHLIN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.00054836448,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN DEHLIN",
+            "beginOffset": 1618
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROD DECKER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054836448,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROD DECKER",
+            "beginOffset": 1635
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

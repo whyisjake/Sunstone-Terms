@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.22972128,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York City",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rick van Wagner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17769311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rick van Wagner",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Rick",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.16713814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany"
+      },
+      "salience": 0.059052784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.058839791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fermanagh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/County_Fermanagh"
+      },
+      "salience": 0.019487945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fermanagh",
+            "beginOffset": 298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christiansen Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009388621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christiansen Martin",
+            "beginOffset": 256
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.009388621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Steve",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0091121588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Steve",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0024308132,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 404
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

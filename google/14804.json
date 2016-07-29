@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Crossing The Line",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16903625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crossing The Line",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Crossing The Line",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Crossing The Line",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kryptonians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025437888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kryptonians",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom Of Speech In The Household Of Faith SL89013.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022656757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom Of Speech In The Household Of Faith SL89013.",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom Of Speech In The Household Of Faith",
+            "beginOffset": 259
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL89013.5",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012066155,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL89013.5",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom Of Speech In The Household Of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00823243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom Of Speech In The Household Of Faith",
+            "beginOffset": 824
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

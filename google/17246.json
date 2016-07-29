@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.12309006,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 955
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Hemming Savage",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026679337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Hemming Savage",
+            "beginOffset": 500
+          }
+        },
+        {
+          "text": {
+            "content": "Hemming Savage",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09364 Women Making America: Finding Ourselves",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.021311145,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09364 Women Making America: Finding Ourselves",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women Making America",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0028386123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women Making America",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harlem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harlem"
+      },
+      "salience": 0.00061191851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harlem",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maryland"
+      },
+      "salience": 0.00061191851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maryland",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "Silver Spring",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Silver_Spring,_Maryland"
+      },
+      "salience": 0.00061191851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Silver Spring",
+            "beginOffset": 818
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

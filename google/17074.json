@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(genre)"
+      },
+      "salience": 0.011106042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 1438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0076274024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0056961551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0040011145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0021522106,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 599
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura L. Bush",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011046918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura L. Bush",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0011046918,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricks",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0011046918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ricks",
+            "beginOffset": 969
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University%E2%80%93Idaho"
+      },
+      "salience": 0.0011046918,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Idaho",
+            "beginOffset": 987
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.00034347025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona State University",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    },
+    {
+      "name": "American west",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_United_States"
+      },
+      "salience": 0.00034347025,
+      "mentions": [
+        {
+          "text": {
+            "content": "American west",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

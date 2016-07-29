@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28558889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18446283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Egyptian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egypt"
+      },
+      "salience": 0.042305525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arab",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabs"
+      },
+      "salience": 0.026001442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arab",
+            "beginOffset": 82
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

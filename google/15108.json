@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Voice",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14608681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Voice",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Voice",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Voice",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nuclear Weapons Testing",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nuclear_weapons_testing"
+      },
+      "salience": 0.053632084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nuclear Weapons Testing",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Nuclear Weapons Testing",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Nuclear Weapons Testing",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada Desert Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030803267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada Desert Faith",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith Based",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019758321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith Based",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada Desert",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016642714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada Desert",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Nevada Desert",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012542077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

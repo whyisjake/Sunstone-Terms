@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.48141465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Reuben Clark&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16366683,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Reuben Clark&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "J. Reuben Clark&",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Personal Ministry And Counseling Among The Mormons J. Reuben Clark&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053667307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personal Ministry And Counseling Among The Mormons J. Reuben Clark&",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Personal Ministry And Counseling Among The Mormons",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049278956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personal Ministry And Counseling Among The Mormons",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clarke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048373286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clarke",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Personal Ministry And Counseling Among The Mormons D. Michael Quinn",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013316802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personal Ministry And Counseling Among The Mormons D. Michael Quinn",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012866548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010669027,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 355
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010669027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "John I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35843298,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "John I",
+            "beginOffset": 291
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devotional Devotional",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.097136363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devotional Devotional",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devotional TBA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011722718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devotional TBA",
+            "beginOffset": 432
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

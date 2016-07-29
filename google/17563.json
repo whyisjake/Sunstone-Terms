@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Los Alamos National Laboratory",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory"
+      },
+      "salience": 0.23608114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Alamos National Laboratory",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "LANL",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Los Alamos National Laboratory",
+            "beginOffset": 902
+          }
+        },
+        {
+          "text": {
+            "content": "LANL",
+            "beginOffset": 934
+          }
+        },
+        {
+          "text": {
+            "content": "Los Alamos",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Los Alamos",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manhattan Project",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manhattan_Project"
+      },
+      "salience": 0.020532113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manhattan Project",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Manhattan Project",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "WWII",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.020532113,
+      "mentions": [
+        {
+          "text": {
+            "content": "WWII",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "WWII",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "NATIVE AMERICAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+      },
+      "salience": 0.019472342,
+      "mentions": [
+        {
+          "text": {
+            "content": "NATIVE AMERICAN",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028537754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0027872722,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kovalenko Gennaro",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021310842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kovalenko Gennaro",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066284783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 794
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

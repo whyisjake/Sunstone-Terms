@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "John Willard Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Willard_Young"
+      },
+      "salience": 0.18750162,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Willard Young",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "John Willard Young",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "John Willard Young",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039370649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.025720548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.022577954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History Compton",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021136239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History Compton",
+            "beginOffset": 121
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

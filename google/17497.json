@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "CANDLEMAS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presentation_of_Jesus_at_the_Temple"
+      },
+      "salience": 0.0787409,
+      "mentions": [
+        {
+          "text": {
+            "content": "CANDLEMAS",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Candlemas",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Candlemas",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "END",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07376498,
+      "mentions": [
+        {
+          "text": {
+            "content": "END",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.010587923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0083762519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069307205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 626
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

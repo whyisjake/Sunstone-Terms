@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "The Power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15089269,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Power",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1376339,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Power",
+            "beginOffset": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085808136,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Power",
+            "beginOffset": 476
+          }
+        },
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pain&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030816609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pain&",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Pain&",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Pain&",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love Love",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021587551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love Love",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.009319393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 221
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

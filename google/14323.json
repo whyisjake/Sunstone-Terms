@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Use",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19860464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Use",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion The Use",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.076345317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion The Use",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion NQA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.043648697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion NQA",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "NDA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Democratic_Alliance_(India)"
+      },
+      "salience": 0.010860396,
+      "mentions": [
+        {
+          "text": {
+            "content": "NDA",
+            "beginOffset": 109
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

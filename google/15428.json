@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Ventana Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32680783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ventana Mormonism",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Current Anti-Mormon Activities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19106118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Current Anti-Mormon Activities",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.069827244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anti-Mormon Activities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06217834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Mormon Activities",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe Melton",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.055876072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe Melton",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon Melton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._Gordon_Melton"
+      },
+      "salience": 0.0087316716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon Melton",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_war"
+      },
+      "salience": 0.0031693869,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War",
+            "beginOffset": 383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

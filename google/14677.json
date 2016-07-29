@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.39581367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.076878279,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Biblical_canon"
+      },
+      "salience": 0.076878279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canon",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Canon",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church: Canon and Community The Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.068349756,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church: Canon and Community The Bible",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Whitaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019055678,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Whitaker",
+            "beginOffset": 106
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.019055678,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011033059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 327
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.010614055,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Bible",
+            "beginOffset": 580
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

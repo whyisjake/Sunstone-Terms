@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.051450256,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1019
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lds Sexual Abuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031586885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lds Sexual Abuse",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Healing Process",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.028295059,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Healing Process",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0080222972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whiteley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029096254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whiteley",
+            "beginOffset": 406
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

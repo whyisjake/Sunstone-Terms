@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Doctrine of Deity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075776853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Doctrine of Deity",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Doctrine of Deity",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067492083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Doctrine",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clara Smith Marlon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063260995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clara Smith Marlon",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.019014867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 108
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ Presbyterian church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015800228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ Presbyterian church",
+            "beginOffset": 309
+          }
+        }
+      ]
+    },
+    {
+      "name": "Westminster",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Westminster_College_(Utah)"
+      },
+      "salience": 0.013287747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westminster",
+            "beginOffset": 372
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

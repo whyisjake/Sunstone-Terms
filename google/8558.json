@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.082697749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moroni 10",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.058272492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moroni 10",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.056665782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone Institute",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0055476837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Institute",
+            "beginOffset": 426
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

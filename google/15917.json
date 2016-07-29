@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Sheldon Greaves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23917362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheldon Greaves",
+            "beginOffset": 517
+          }
+        },
+        {
+          "text": {
+            "content": "Sheldon Greaves",
+            "beginOffset": 117
+          }
+        }
+      ]
+    },
+    {
+      "name": "SCRIPTURES E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022586202,
+      "mentions": [
+        {
+          "text": {
+            "content": "SCRIPTURES E. Norman",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Norman",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0057427655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0057427655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duke University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duke_University"
+      },
+      "salience": 0.0057427655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke University",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055246362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith E. Norman",
+            "beginOffset": 500
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

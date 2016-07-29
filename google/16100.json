@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Articles of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Articles_of_Faith_(Latter_Day_Saints)"
+      },
+      "salience": 0.30666479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Articles of Faith",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Articles of Faith Wallace Catherine",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.12403669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Articles of Faith Wallace Catherine",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.040724687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Fourteen Articles of Faith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03722775,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Fourteen Articles of Faith",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.024347769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 207
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020205267,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lew Wallace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017391713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lew Wallace",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pocatello",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pocatello,_Idaho"
+      },
+      "salience": 0.0063117673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pocatello",
+            "beginOffset": 322
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

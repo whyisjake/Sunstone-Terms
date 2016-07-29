@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.077629551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.057097148,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 458
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 575
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 721
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1054
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013921404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0017359589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015859469,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 952
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0014825941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014179819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pace_(speed)"
+      },
+      "salience": 0.0014003066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pace",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0012109793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl Pace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043545358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl Pace",
+            "beginOffset": 1072
+          }
+        }
+      ]
+    },
+    {
+      "name": "mtn",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/MTN_Group"
+      },
+      "salience": 0.00037184,
+      "mentions": [
+        {
+          "text": {
+            "content": "mtn",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

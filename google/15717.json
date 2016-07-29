@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "John Sillito",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47751278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sillito",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "John Sillito",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Merton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_Merton"
+      },
+      "salience": 0.06687016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Merton",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Merton",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Continuing Relevance Thirty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.059590276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Continuing Relevance Thirty",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meditations On Merton",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059590276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meditations On Merton",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Continuing Relevance Thirty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.04061906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Continuing Relevance Thirty",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Continuing Relevance Thirty",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bangkok Thailand Britain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0097719636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bangkok Thailand Britain",
+            "beginOffset": 323
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

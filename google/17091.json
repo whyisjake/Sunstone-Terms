@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Joe Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21891266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Smith",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Joe Smith",
+            "beginOffset": 1651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph H. Jackson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.084708966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph H. Jackson",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph H. Jackson",
+            "beginOffset": 1589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.06295488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 570
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sexuality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Human_sexuality"
+      },
+      "salience": 0.028174713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexuality",
+            "beginOffset": 1521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026263768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1816
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018773666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1534
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.010765072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 1629
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087637743,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Hales",
+            "beginOffset": 998
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ascania",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018997401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ascania",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

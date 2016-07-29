@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12681721,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 835
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1655
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM AND RELIGIOUS DIVERSITY Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014891853,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM AND RELIGIOUS DIVERSITY Mormonism",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM AND RELIGIOUS DIVERSITY Mormonism",
+            "beginOffset": 1400
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.007267578,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.007267578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1686
+          }
+        }
+      ]
+    },
+    {
+      "name": "BIRCH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Birch"
+      },
+      "salience": 0.0059833722,
+      "mentions": [
+        {
+          "text": {
+            "content": "BIRCH",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHARLES RANDALL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001718468,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHARLES RANDALL",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.001718468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

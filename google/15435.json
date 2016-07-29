@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Belief",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039178263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Belief",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Belief",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Belief",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carlan Bradshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035925619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradshaw",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Carlan Bradshaw",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017710166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brenda Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011600976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brenda Hansen",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Brenda Hansen",
+            "beginOffset": 904
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave Rodriguez",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011600976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave Rodriguez",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Dave Rodriguez",
+            "beginOffset": 919
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

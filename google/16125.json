@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1461129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1150
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph F. Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019172471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph F. Smith&",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restoration&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018985178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restoration&",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Restoration&",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Restoration&",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manifesto",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/1890_Manifesto"
+      },
+      "salience": 0.017240902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manifesto",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Manifesto",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0051967576,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027613393,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Rex Sears",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nashville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee"
+      },
+      "salience": 0.0027613393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nashville",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "western Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_Carolina_University"
+      },
+      "salience": 0.0027613393,
+      "mentions": [
+        {
+          "text": {
+            "content": "western Carolina",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Flake"
+      },
+      "salience": 0.0027245281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flake",
+            "beginOffset": 767
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

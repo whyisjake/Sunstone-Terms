@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Exercise Pastoral Power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042073406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exercise Pastoral Power",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Exercise Pastoral Power",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Exercise Pastoral Power",
+            "beginOffset": 750
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038648911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.007165791,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0061848667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 664
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

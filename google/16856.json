@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "May Swenson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/May_Swenson"
+      },
+      "salience": 0.17285506,
+      "mentions": [
+        {
+          "text": {
+            "content": "May Swenson",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Swenson",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "May Swenson",
+            "beginOffset": 1373
+          }
+        }
+      ]
+    },
+    {
+      "name": "Man As An Animal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02857187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man As An Animal",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.02465946,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Man As An Animal Firstborn",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024125829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man As An Animal Firstborn",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Man As An Animal Firstborn",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.02225223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swedish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sweden"
+      },
+      "salience": 0.019920729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swedish",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Swedish",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Logan,_Utah"
+      },
+      "salience": 0.019920729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017211957,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "The Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1324
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0026568971,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015567193,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley"
+      },
+      "salience": 0.00065919483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

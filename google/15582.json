@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Jeff Needle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26430854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 398
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Look At",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.056401953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Look At",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evangelical In Conversation&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037987012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evangelical In Conversation&",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelical In Conversation&",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Evangelical In Conversation&",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Look At",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02042455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Look At",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Look At",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014255838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Look At",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ventura county",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ventura_County,_California"
+      },
+      "salience": 0.012754091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ventura county",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0109007,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave Combe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010737042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Combe",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Dave Combe",
+            "beginOffset": 846
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

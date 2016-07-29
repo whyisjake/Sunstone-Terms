@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Berkeley California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.010716503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley California",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Detroit Michigan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Detroit"
+      },
+      "salience": 0.010340514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Detroit Michigan",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California Berkeley",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.0090343356,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California Berkeley",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "university of California Berkeley",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0076090656,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Cambridge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007213322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Cambridge",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doubleday",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doubleday_(publisher)"
+      },
+      "salience": 0.007213322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doubleday",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0043980959,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0026638347,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 505
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

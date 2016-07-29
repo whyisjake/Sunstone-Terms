@@ -1,0 +1,279 @@
+{
+  "entities": [
+    {
+      "name": "Marcus J. Borg",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marcus_Borg"
+      },
+      "salience": 0.15952098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marcus J. Borg",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Borg",
+            "beginOffset": 721
+          }
+        },
+        {
+          "text": {
+            "content": "Marcus J. Borg",
+            "beginOffset": 1585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus of Nazareth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.078398384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 455
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus of Nazareth",
+            "beginOffset": 764
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poor Our Hands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022425191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poor Our Hands",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meeting Jesus Again for the First Time",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013484706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meeting Jesus Again for the First Time",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Meeting Jesus Again for the First Time",
+            "beginOffset": 1528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shakespeare",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Shakespeare"
+      },
+      "salience": 0.00690424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakespeare",
+            "beginOffset": 1234
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0065661725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.002109363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0019991198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Bell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016661243,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Bell",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0016124831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathryn Shirts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001579026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathryn Shirts",
+            "beginOffset": 966
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0012396518,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00049093476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.00049093476,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 1198
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.00049093476,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

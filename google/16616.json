@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.13946591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 922
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0804775,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 884
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00072465389,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall",
+            "beginOffset": 792
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

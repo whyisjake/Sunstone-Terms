@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Preparedniess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26024657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Preparedniess",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion-Building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.099645942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion-Building",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Zion-Building",
+            "beginOffset": 292
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion-Building Preparedness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0541632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion-Building Preparedness",
+            "beginOffset": 36
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

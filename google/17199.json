@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "SL09224 Violent Grammar",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.12976423,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09224 Violent Grammar",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037625547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madson",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.021621646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 251
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joshua Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01861525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joshua Madson",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0067620841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 294
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

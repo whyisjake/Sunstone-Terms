@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.21751961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 587
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.042104471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 717
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.031069649,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finger of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019525539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finger of God",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Finger of God",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Finger of God",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon Translation Debate A",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015971446,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon Translation Debate A",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon Translation Debate A",
+            "beginOffset": 942
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085580669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradley",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark D. Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085580669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark D. Thomas",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085580669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mar",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00085580669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mar",
+            "beginOffset": 856
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

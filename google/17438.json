@@ -1,0 +1,279 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.11363985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Dead",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077650629,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Dead",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.025403276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evangelicals",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evangelicalism"
+      },
+      "salience": 0.022550367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evangelicals",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.022550367,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Herod Agrippa",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Herod_Agrippa"
+      },
+      "salience": 0.017715963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Herod Agrippa",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Herod Agrippa",
+            "beginOffset": 1456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bowman Gil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011698985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bowman Gil",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.011559323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 1410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.011559323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 1425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.011144202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0086305458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0083089145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sean",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005604005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sean",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.0026994371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hampden Sydney",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00064554694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hampden Sydney",
+            "beginOffset": 1188
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

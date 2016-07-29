@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "LDS Veterans A Time To Kill",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31270164,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Veterans A Time To Kill",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059568614,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Veterans",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Time To Kill",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05246444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Time To Kill",
+            "beginOffset": 2
+          }
+        },
+        {
+          "text": {
+            "content": "Time To Kill",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dominican Republic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dominican_Republic"
+      },
+      "salience": 0.0075293477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dominican Republic",
+            "beginOffset": 263
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0072434046,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 511
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

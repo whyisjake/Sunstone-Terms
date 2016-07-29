@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.25036857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 461
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 911
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.056726292,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Ascension Text",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040882058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Ascension Text",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ascension of Isaiah",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ascension_of_Isaiah"
+      },
+      "salience": 0.0062312735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ascension of Isaiah",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation_(Latter_Day_Saints)"
+      },
+      "salience": 0.0018987126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0010163374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 614
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

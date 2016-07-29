@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.27224356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 804
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 966
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis Nelson Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011620312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nelson Henderson",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Henderson",
+            "beginOffset": 599
+          }
+        },
+        {
+          "text": {
+            "content": "Francis Nelson Henderson",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037335926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "St nd",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034340729,
+      "mentions": [
+        {
+          "text": {
+            "content": "St nd",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020539958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja &hellip",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

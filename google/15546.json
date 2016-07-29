@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Fonda Alamode",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.43083948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fonda Alamode",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Fonda Alamode",
+            "beginOffset": 204
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laurie Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03720554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laurie Johnson",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Laurie Johnson",
+            "beginOffset": 219
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.031429783,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

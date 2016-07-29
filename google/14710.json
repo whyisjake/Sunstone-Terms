@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Cain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_(play)"
+      },
+      "salience": 0.13532966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lucifer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Characters_of_Supernatural"
+      },
+      "salience": 0.052269816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucifer",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Alamain",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020948062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lawrence Alamain",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "National Gallery of art Washington DC",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01687819,
+      "mentions": [
+        {
+          "text": {
+            "content": "National Gallery of art Washington DC",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christie's"
+      },
+      "salience": 0.010058183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christie",
+            "beginOffset": 237
+          }
+        }
+      ]
+    },
+    {
+      "name": "London",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/London"
+      },
+      "salience": 0.010058183,
+      "mentions": [
+        {
+          "text": {
+            "content": "London",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0083400682,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 277
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Hassell Pool",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.47079575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hassell Pool",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Food 2 Electric Boogaloo Encore Presentation This",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.087528147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Food 2 Electric Boogaloo Encore Presentation This",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rio_de_Janeiro"
+      },
+      "salience": 0.01771256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rio",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Heim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085062338,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Heim",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerilyn Hassell Pool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058416971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerilyn Hassell Pool",
+            "beginOffset": 405
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,269 @@
+{
+  "entities": [
+    {
+      "name": "Brian Evenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053463928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Evenson",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 1885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.034824651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 2304
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1225
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Happy Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_College,_Pennsylvania"
+      },
+      "salience": 0.018358968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Happy Valley",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Happy Valley",
+            "beginOffset": 2036
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Dark Side Of Happy Valley",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016262574,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Dark Side Of Happy Valley",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.0075145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 1096
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 1600
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Dark Side",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0071155592,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Dark Side",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "The Dark Side",
+            "beginOffset": 2019
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0041608806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neil LaBute",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Neil_LaBute"
+      },
+      "salience": 0.0033131244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neil LaBute",
+            "beginOffset": 523
+          }
+        },
+        {
+          "text": {
+            "content": "Neil Labute",
+            "beginOffset": 1583
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018644088,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1131
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Nevinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012681928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Nevinson",
+            "beginOffset": 1866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Altman"
+      },
+      "salience": 0.0012681928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altman",
+            "beginOffset": 1953
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00076053437,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 2331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brain Evenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038254535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brain Evenson",
+            "beginOffset": 1568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00027802296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene Peck",
+            "beginOffset": 1555
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

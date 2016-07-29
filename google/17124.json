@@ -1,0 +1,355 @@
+{
+  "entities": [
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.13703102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 555
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 974
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 1203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Peacemaker Teams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Peacemaker_Teams"
+      },
+      "salience": 0.06889499,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Peacemaker Teams",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1049
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1098
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Peacemaker Teams",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.064773656,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 429
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1282
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.053652965,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 529
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1389
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031236248,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq War Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023581911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq War Mormons",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq War Drawing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0085078171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq War Drawing",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq War Drawing",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraqis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0063579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraqis",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Iraqis",
+            "beginOffset": 1456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.002354203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0020106821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Van Wagenen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016663428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Van Wagenen",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0016663428,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0016663428,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_Divinity_School"
+      },
+      "salience": 0.0016663428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Divinity School",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.000740409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frankfurt Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Frankfurt"
+      },
+      "salience": 0.00051819853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frankfurt Germany",
+            "beginOffset": 926
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

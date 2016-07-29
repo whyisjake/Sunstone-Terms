@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Peter Rock&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059418004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter Rock&",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Peter Rock&",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Peter Rock&",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058941744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormons",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Place&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049352806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Place&",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Place&",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Place&",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Vs. Non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01498016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Vs. Non-Mormons",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter Rock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01475605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Peter Rock",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012558805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel Day Caitlyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011459596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Day Caitlyn",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01128779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Jones",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Eric Jones",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "John L. Needham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01128779,
+      "mentions": [
+        {
+          "text": {
+            "content": "John L. Needham",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "John L. Needham",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0095061054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel Day",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081801927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Day",
+            "beginOffset": 585
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

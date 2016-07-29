@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Mormons Celebrate Holy Week",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35446376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Celebrate Holy Week",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons Celebrate Holy Week",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons Celebrate Holy Week",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.023076462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 871
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1097
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "salience": 0.021747401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 786
+          }
+        },
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017155876,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097492635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Week",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Week"
+      },
+      "salience": 0.0085148681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Week",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0077232271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0056177746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Easter",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Easter"
+      },
+      "salience": 0.0048857527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 1201
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristin Rands-Stangl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004746425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristin Rands-Stangl",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.004746425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 616
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Samuel W. Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samuel_W._Taylor"
+      },
+      "salience": 0.25546813,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Taylor",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel W. Taylor",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "MYSTERY OF BRIGHAM YOUNG&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030745253,
+      "mentions": [
+        {
+          "text": {
+            "content": "MYSTERY OF BRIGHAM YOUNG&",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "MYSTERY OF BRIGHAM YOUNG&",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "MYSTERY OF BRIGHAM YOUNG&",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.014540422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.010193045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo Utah",
+            "beginOffset": 167
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

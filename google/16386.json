@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39242762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1512
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 523
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.082834914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 815
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1718
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.024541777,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Voices SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019475892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Voices SL03091",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0085394215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0039446773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 854
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0021282423,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020995724,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frederick nnj pn dnmt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017931105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frederick nnj pn dnmt",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015661709,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1019
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0015336779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1039
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

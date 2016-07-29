@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "Steve Epperson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26253948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Epperson",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Steve Epperson",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.16648802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0554065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.054467376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leslie G. Kelen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02959423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leslie G. Kelen",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Leslie G. Kelen",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.009997529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple University Stephen",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009997529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple University Stephen",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.0094780922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 274
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0094780922,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake temple",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_Temple"
+      },
+      "salience": 0.002871694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake temple",
+            "beginOffset": 432
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

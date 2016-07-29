@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.532577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Power",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Power_(physics)"
+      },
+      "salience": 0.084170073,
+      "mentions": [
+        {
+          "text": {
+            "content": "Power",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0054108081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 220
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

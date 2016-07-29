@@ -1,0 +1,333 @@
+{
+  "entities": [
+    {
+      "name": "James Dale",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America_v._Dale"
+      },
+      "salience": 0.14142312,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Dale",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "James Dale",
+            "beginOffset": 1423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America"
+      },
+      "salience": 0.12625526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "BSA",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "BSA",
+            "beginOffset": 662
+          }
+        },
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 1335
+          }
+        },
+        {
+          "text": {
+            "content": "BSA",
+            "beginOffset": 1622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale Mormon Scouting",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.040553838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale Mormon Scouting",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.021869972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 644
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale The Boy Scouts of America",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017872907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale The Boy Scouts of America",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Dale The Boy Scouts of America",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Jersey Supreme Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supreme_Court_of_New_Jersey"
+      },
+      "salience": 0.012485682,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Jersey Supreme Court",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Supreme Court",
+            "beginOffset": 730
+          }
+        },
+        {
+          "text": {
+            "content": "New Jersey Supreme Court",
+            "beginOffset": 1518
+          }
+        }
+      ]
+    },
+    {
+      "name": "BSA&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011634778,
+      "mentions": [
+        {
+          "text": {
+            "content": "BSA&",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "BSA&",
+            "beginOffset": 821
+          }
+        },
+        {
+          "text": {
+            "content": "BSA&",
+            "beginOffset": 1554
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Jersey"
+      },
+      "salience": 0.010213516,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scouters",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scout_Leader"
+      },
+      "salience": 0.0049011726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scouters",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+      },
+      "salience": 0.0041284873,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S. Supreme Court",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Court&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0040185209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Court&",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "BSA&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038459648,
+      "mentions": [
+        {
+          "text": {
+            "content": "BSA&",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maryland"
+      },
+      "salience": 0.0023569798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maryland",
+            "beginOffset": 1246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.001981758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hess_Corporation"
+      },
+      "salience": 0.0019532645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hess",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001400949,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1640
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

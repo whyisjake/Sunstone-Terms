@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Romania",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Romania"
+      },
+      "salience": 0.18510394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romania",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "Romania",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love-Trust",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.07644283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love-Trust",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Love-Trust",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Doctrine For Counselors And Teachers The Love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067027032,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Doctrine For Counselors And Teachers The Love",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Doctrine For Counselors And Teachers",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kay Allen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018536272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kay Allen",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Bright",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01478978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Bright",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Charles Bright",
+            "beginOffset": 697
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Doctrine For Counselors And Teachers C. Kay Allen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010710874,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Doctrine For Counselors And Teachers C. Kay Allen",
+            "beginOffset": 642
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

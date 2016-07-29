@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Riten&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.61444479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Riten&",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Riten&",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Riten&",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Temple Rite",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03172572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Temple Rite",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Temple Rite",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Temple Rite",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oral Canon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025748583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oral Canon",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Oral Canon",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.024280988,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oral Canon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010194453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oral Canon",
+            "beginOffset": 177
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0019139827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 491
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

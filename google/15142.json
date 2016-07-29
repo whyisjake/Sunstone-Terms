@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Tricia Griffith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46234232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tricia Griffith",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Z.",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029932611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Z.",
+            "beginOffset": 103
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim Wright",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024867851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim Wright",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.022349108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.020910604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 225
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.020910604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brighton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brighton_Ski_Resort"
+      },
+      "salience": 0.017352898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brighton",
+            "beginOffset": 273
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 495
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

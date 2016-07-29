@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Speakers Bureau",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041177966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Speakers Bureau",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Speakers Bureau",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Speakers Bureau",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Center for Family Development",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041177966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Center for Family Development",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Center for Family Development",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Center for Family Development",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.010386894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 269
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

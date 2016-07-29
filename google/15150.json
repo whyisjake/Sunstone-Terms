@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Sex",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sex"
+      },
+      "salience": 0.072319873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sex",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Sex",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Literature Love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057719946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Literature Love",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Literature",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.023428448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joshua",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01252407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joshua",
+            "beginOffset": 480
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

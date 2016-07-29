@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39780369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1911
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 299
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.072698615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2117
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021346889,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1956
+          }
+        }
+      ]
+    },
+    {
+      "name": "Self-Destructive Behavior SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016927391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Self-Destructive Behavior SL03091",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evil",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evil"
+      },
+      "salience": 0.014473804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evil",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bad Acts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014473804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bad Acts",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Choose for Thyself: An LDS Reflection",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014473804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choose for Thyself: An LDS Reflection",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0074096355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1886
+          }
+        }
+      ]
+    },
+    {
+      "name": "San",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_people"
+      },
+      "salience": 0.0065288264,
+      "mentions": [
+        {
+          "text": {
+            "content": "San",
+            "beginOffset": 1796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034203925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 867
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025119102,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0019182547,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018200082,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013293496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1052
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040039863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040039863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hansen",
+            "beginOffset": 1387
+          }
+        }
+      ]
+    },
+    {
+      "name": "McMorran",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040039863,
+      "mentions": [
+        {
+          "text": {
+            "content": "McMorran",
+            "beginOffset": 1533
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

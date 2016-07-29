@@ -1,0 +1,359 @@
+{
+  "entities": [
+    {
+      "name": "Ick Flicks",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036902379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ick Flicks",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sick Flicks",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036902379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sick Flicks",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chick Flicks",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chick_flick"
+      },
+      "salience": 0.036902379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chick Flicks",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dick rex",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0094647184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dick",
+            "beginOffset": 538
+          }
+        },
+        {
+          "text": {
+            "content": "Dick rex",
+            "beginOffset": 1716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Top Gun",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Top_Gun"
+      },
+      "salience": 0.0088103721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Top Gun",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.008392198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 2087
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reagan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ronald_Reagan"
+      },
+      "salience": 0.0026693102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reagan",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "America&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026693102,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kate Davis&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024868362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kate Davis&",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southern Comfort",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024868362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southern Comfort",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Good Day to Die",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0020608164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Good Day to Die",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utahan Paul Larsen&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020608164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utahan Paul Larsen&",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ocean&",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020311815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ocean&",
+            "beginOffset": 1204
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sweetest Thing",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Sweetest_Thing"
+      },
+      "salience": 0.0020311815,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sweetest Thing",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Secrets of the Ya-Ya Sisterhood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_Secrets_of_the_Ya-Ya_Sisterhood_(film)"
+      },
+      "salience": 0.0020311815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Secrets of the Ya-Ya Sisterhood",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Importance of Being Earnest",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest"
+      },
+      "salience": 0.0020311815,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Importance of Being Earnest",
+            "beginOffset": 1282
+          }
+        }
+      ]
+    },
+    {
+      "name": "What Women Want",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/What_Women_Want"
+      },
+      "salience": 0.0019773755,
+      "mentions": [
+        {
+          "text": {
+            "content": "What Women Want",
+            "beginOffset": 1187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068511034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swenson",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "My First Mister",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00063151069,
+      "mentions": [
+        {
+          "text": {
+            "content": "My First Mister",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Am Sam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Am_Sam"
+      },
+      "salience": 0.00063151069,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Am Sam",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kissing Jessica Stein",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kissing_Jessica_Stein"
+      },
+      "salience": 0.00063151069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kissing Jessica Stein",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Son&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00063151069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Son&",
+            "beginOffset": 1373
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geoff Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00062363176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Geoff Pingree",
+            "beginOffset": 1400
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.16255799,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1212
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harry_Potter"
+      },
+      "salience": 0.11558507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": 672
+          }
+        },
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": 1136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Dallin H. Oaks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026521232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Dallin H. Oaks",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Dallin H. Oaks",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilford Woodruff: Using Popular Culture In Teaching",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018306207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilford Woodruff: Using Popular Culture In Teaching",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff: Using Popular Culture In Teaching",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff: Using Popular Culture In Teaching",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003409592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana Jones&",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York Times",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_New_York_Times"
+      },
+      "salience": 0.0028258087,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York Times",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Bruno",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027504847,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Bruno",
+            "beginOffset": 834
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

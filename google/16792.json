@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Angels in America",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angels_in_America:_A_Gay_Fantasia_on_National_Themes"
+      },
+      "salience": 0.12249086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angels in America",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Angels",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Angels",
+            "beginOffset": 455
+          }
+        },
+        {
+          "text": {
+            "content": "Angels in America",
+            "beginOffset": 1277
+          }
+        },
+        {
+          "text": {
+            "content": "Angels",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052744865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleworth",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth McNeil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022563582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth McNeil",
+            "beginOffset": 682
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tony Kushner&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017220112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tony Kushner&",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Tony Kushner&",
+            "beginOffset": 1256
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0097078122,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002559803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neil",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "MFA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Fine_Arts"
+      },
+      "salience": 0.00055382343,
+      "mentions": [
+        {
+          "text": {
+            "content": "MFA",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Patriarchal Obsession",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30496302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriarchal Obsession",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paso",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17959821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paso",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.024420356,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 95
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indianapolis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indianapolis"
+      },
+      "salience": 0.018017603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indianapolis",
+            "beginOffset": 137
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.017087113,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Butler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011163076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Butler",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

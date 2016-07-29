@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Richard R. Lyman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_R._Lyman"
+      },
+      "salience": 0.33089119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard R Lyman",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Richard R Lyman",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Richard R. Lyman",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "Richard R Lyman",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.017391525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0045255912,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 276
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

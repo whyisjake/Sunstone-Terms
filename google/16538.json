@@ -1,0 +1,337 @@
+{
+  "entities": [
+    {
+      "name": "Zed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33265287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zed",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Zed",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Zed",
+            "beginOffset": 740
+          }
+        },
+        {
+          "text": {
+            "content": "Zed",
+            "beginOffset": 1434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zedekiah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zedekiah"
+      },
+      "salience": 0.0864683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zedekiah",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Zedekiah",
+            "beginOffset": 1459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephite God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071948357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephite God",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Nephite God",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0711025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 1483
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN TRINITY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024491189,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMERICAN TRINITY",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Frederickson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019166671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Frederickson",
+            "beginOffset": 1158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084040882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0044516423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1418
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0040069362,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0025063178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1504
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Pace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022004279,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Pace",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zarahemla",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zarahemla"
+      },
+      "salience": 0.0019495913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zarahemla",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sierra Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sierra_Nevada_(U.S.)"
+      },
+      "salience": 0.0016156102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sierra Nevada",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0016156102,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York City",
+            "beginOffset": 964
+          }
+        }
+      ]
+    },
+    {
+      "name": "Triangle Fire",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire"
+      },
+      "salience": 0.0016156102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Triangle Fire",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Territory",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Territory"
+      },
+      "salience": 0.0016156102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Territory",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zed&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015923778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zed&",
+            "beginOffset": 1019
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011207225,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1645
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

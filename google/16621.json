@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "REVELATION",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation_(Latter_Day_Saints)"
+      },
+      "salience": 0.083865315,
+      "mentions": [
+        {
+          "text": {
+            "content": "REVELATION",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049607467,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.022125367,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 860
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0055956519,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 991
+          }
+        }
+      ]
+    },
+    {
+      "name": "Giliam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013809166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Giliam",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001344326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 677
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

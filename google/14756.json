@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Third World Sisters: Issue of LDS Women in Development Third World",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.10710771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Third World Sisters: Issue of LDS Women in Development Third World",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.062543742,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Third World Sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015677916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Third World Sisters",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0046671364,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 325
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

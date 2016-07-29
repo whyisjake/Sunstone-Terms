@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.1155322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 805
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jung",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carl_Jung"
+      },
+      "salience": 0.060080934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jung",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Jung",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shaman&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017437095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaman&",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Prophet",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/President_of_the_Church"
+      },
+      "salience": 0.017437095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Prophet",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01356909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "C.G.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Computer_graphics"
+      },
+      "salience": 0.0066763917,
+      "mentions": [
+        {
+          "text": {
+            "content": "C.G.",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "C.G.",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mircea Eliade",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mircea_Eliade"
+      },
+      "salience": 0.0064276485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mircea Eliade",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Mircea Eliade",
+            "beginOffset": 1371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032897193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Clark Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023919628,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Clark Knowlton",
+            "beginOffset": 588
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023252305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0016404218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0016404218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011596599,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1485
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

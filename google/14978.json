@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Earthly",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25582695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earthly",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Earthly",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Earthly",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Nichols Sheila",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030032551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Nichols Sheila",
+            "beginOffset": 350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nurturer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023379972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nurturer",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Nurturer",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Nurturer",
+            "beginOffset": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woman&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017955035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woman&",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Woman&",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Woman&",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fullerton California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0058718752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fullerton California",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.00486924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip Schneider Phillips",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017765823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philip Schneider Phillips",
+            "beginOffset": 521
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

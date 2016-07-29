@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "David O. McKay",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._McKay"
+      },
+      "salience": 0.46699548,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "McKay",
+            "beginOffset": 1100
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 1681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tolerance David O. McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032722641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tolerance David O. McKay",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Tolerance David O. McKay",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Tolerance David O. McKay",
+            "beginOffset": 1748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Communism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Communism"
+      },
+      "salience": 0.015064106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Communism",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Agency",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014057579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Free Agency",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Free Agency",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Free Agency",
+            "beginOffset": 1732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twin Sisters&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010272169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twin Sisters&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Twin Sisters&",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Twin Sisters&",
+            "beginOffset": 1711
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Prince",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016500585,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Prince",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014603041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Larson",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

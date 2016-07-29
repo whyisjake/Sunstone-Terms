@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Vernon Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29952666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vernon Smith",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lambada",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lambada"
+      },
+      "salience": 0.27790484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lambada",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Lambada",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Lambada",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Babylon Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041678037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Babylon Mormons",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Babylon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Babylon"
+      },
+      "salience": 0.028307943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Babylon",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Babylon",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081599532,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.006514064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 443
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

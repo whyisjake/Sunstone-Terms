@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Valerie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37964284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Valerie",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Valerie",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10223",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030582393,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10223",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CLARK",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Clark_County,_Nevada"
+      },
+      "salience": 0.0051990948,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLARK",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

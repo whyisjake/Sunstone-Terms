@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_H._Bailey"
+      },
+      "salience": 0.13554993,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.047165167,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.033448182,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 883
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.033448182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wrong With Intelligent Design",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029790523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wrong With Intelligent Design",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.029012727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.027556714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford University",
+            "beginOffset": 586
+          }
+        },
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0043168319,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hong_Kong"
+      },
+      "salience": 0.0043168319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hong Kong",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Sanders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042518107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Sanders",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton Sanders",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.001113235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 734
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

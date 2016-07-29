@@ -1,0 +1,275 @@
+{
+  "entities": [
+    {
+      "name": "IMAGINATION Judith Freeman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21784331,
+      "mentions": [
+        {
+          "text": {
+            "content": "IMAGINATION Judith Freeman",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Freeman",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "Freeman",
+            "beginOffset": 689
+          }
+        },
+        {
+          "text": {
+            "content": "Freeman",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    },
+    {
+      "name": "Will Bagley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Will_Bagley"
+      },
+      "salience": 0.066503443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Will Bagley",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Will Bagley",
+            "beginOffset": 698
+          }
+        },
+        {
+          "text": {
+            "content": "Will Bagley",
+            "beginOffset": 1199
+          }
+        },
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 1449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.013277163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0068115788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1432
+          }
+        }
+      ]
+    },
+    {
+      "name": "John D. Lee",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_D._Lee"
+      },
+      "salience": 0.0055873855,
+      "mentions": [
+        {
+          "text": {
+            "content": "John D. Lee",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "John D. Lee",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Redwater",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0055873855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Redwater",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Redwater",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophets",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prophet"
+      },
+      "salience": 0.005379173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophets",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "Prophets",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judith Freeman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judith_Freeman_(novelist)"
+      },
+      "salience": 0.0023000611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judith Freeman",
+            "beginOffset": 819
+          }
+        },
+        {
+          "text": {
+            "content": "Judith Freeman",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Juanita Brooks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juanita_Brooks"
+      },
+      "salience": 0.0016760469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juanita Brooks",
+            "beginOffset": 393
+          }
+        },
+        {
+          "text": {
+            "content": "Juanita Brooks",
+            "beginOffset": 1496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arthur H. Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015944396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arthur H. Clark",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.0013213229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0013213229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 936
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

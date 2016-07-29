@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "World",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Universe"
+      },
+      "salience": 0.10076138,
+      "mentions": [
+        {
+          "text": {
+            "content": "World",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0320642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.01112061,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane England",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0027297444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane England",
+            "beginOffset": 367
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

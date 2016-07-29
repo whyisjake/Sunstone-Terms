@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.33806568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americanism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Americanism_(ideology)"
+      },
+      "salience": 0.21712455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Persecutors Patriotism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079016723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persecutors Patriotism",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Persecutors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050919551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persecutors",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019754001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenny",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019754001,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 456
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

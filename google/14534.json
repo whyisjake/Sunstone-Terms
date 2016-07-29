@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Public Schools",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_school"
+      },
+      "salience": 0.26385796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0472254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.032803621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

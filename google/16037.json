@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Matthew Workman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0658279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Workman",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cult Films",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014583231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cult Films",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olaiz",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011219219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olaiz",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Cult Films",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010916704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Cult Films",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Cult Films",
+            "beginOffset": 1243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0024055028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0018872618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0018872618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0013888389,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego"
+      },
+      "salience": 0.0013888389,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 877
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

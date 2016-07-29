@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.046705805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1078
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10162",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024455156,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10162",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014328674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "ALLRED",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099477572,
+      "mentions": [
+        {
+          "text": {
+            "content": "ALLRED",
+            "beginOffset": 717
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

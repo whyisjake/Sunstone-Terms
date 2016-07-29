@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.41019544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1549
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 538
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026688574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 398
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 830
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illicit Intercourse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017317498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illicit Intercourse",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Marriage",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism_and_polygamy"
+      },
+      "salience": 0.017317498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Marriage",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo Stake High Council",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017317498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo Stake High Council",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015202702,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0088753356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0040995697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 869
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Bergera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022485745,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Bergera",
+            "beginOffset": 1378
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022117507,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016276112,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0015938426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

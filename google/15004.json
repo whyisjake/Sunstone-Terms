@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Morality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Morality"
+      },
+      "salience": 0.086799681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morality",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Banning Nuclear Weapons",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.058043763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Banning Nuclear Weapons",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Banning Nuclear Weapons",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Banning Nuclear Weapons",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Our World Morality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024392119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Our World Morality",
+            "beginOffset": 120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

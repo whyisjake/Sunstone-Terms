@@ -1,0 +1,305 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.3428227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1814
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 528
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Follett Mortensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12917146,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Follett Mortensen",
+            "beginOffset": 1368
+          }
+        },
+        {
+          "text": {
+            "content": "Follett",
+            "beginOffset": 1426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.063753277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 820
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Those Who Bore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012717258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Those Who Bore",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burden&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012717258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burden&",
+            "beginOffset": 77
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.011161765,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1859
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074436036,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0065119187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00300639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 859
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1176
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0016216511,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollister California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001366235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollister California",
+            "beginOffset": 1541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.001366235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 1653
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0011932882,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1024
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011685266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mel Tungate Conan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00035196973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mel Tungate Conan",
+            "beginOffset": 1390
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

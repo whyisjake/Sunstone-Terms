@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Evidential Case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11943994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evidential Case",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Evidential Case",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Evidential Case",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.11943994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 588
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

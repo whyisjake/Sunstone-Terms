@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.048247933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10365",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041319914,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10365",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.005722933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Facebook",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "CANNON",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cannon"
+      },
+      "salience": 0.0046181036,
+      "mentions": [
+        {
+          "text": {
+            "content": "CANNON",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. MARK OLSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038275491,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. MARK OLSEN",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Alaska",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038275491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Alaska",
+            "beginOffset": 625
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

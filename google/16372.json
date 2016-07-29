@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.17753369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 545
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.078001782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1105
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn Brodie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fawn_M._Brodie"
+      },
+      "salience": 0.050928503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 1082
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Emergent Digital Identity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035865892,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Emergent Digital Identity",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jinelle Monk",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031339447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jinelle Monk",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janelle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031339447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janelle",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028916213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hales",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alexandria Virginia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alexandria,_Virginia"
+      },
+      "salience": 0.0025973739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alexandria Virginia",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington metropolitan area",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_metropolitan_area"
+      },
+      "salience": 0.0025973739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington metropolitan area",
+            "beginOffset": 812
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

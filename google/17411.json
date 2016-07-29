@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "S. Pendleton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021575984,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Pendleton",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0055666561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 668
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.0036748976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

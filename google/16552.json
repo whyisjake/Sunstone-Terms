@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.45653549,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 643
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "PART II",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+      },
+      "salience": 0.023465015,
+      "mentions": [
+        {
+          "text": {
+            "content": "PART II",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02209745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Johnson",
+            "beginOffset": 931
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.012055872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl Jung",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carl_Jung"
+      },
+      "salience": 0.00900681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl Jung",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Carl Jung",
+            "beginOffset": 1398
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Weir Perry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00900681,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Weir Perry",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "John Weir Perry",
+            "beginOffset": 1412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026733088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Jorgensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026733088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Jorgensen",
+            "beginOffset": 745
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

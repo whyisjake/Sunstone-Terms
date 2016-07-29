@@ -1,0 +1,225 @@
+{
+  "entities": [
+    {
+      "name": "Steven D. Rick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27017015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven D. Rick",
+            "beginOffset": 366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Magic World View&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22002777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magic World View&",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Magic World View&",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Magic World View&",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.10579803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sticks and Stones",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.036314648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sticks and Stones",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alvin&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031390835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alvin&",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Alvin&",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Alvin&",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sticks and Stones",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sticks_and_Stones_(nursery_rhyme)"
+      },
+      "salience": 0.028353678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sticks and Stones",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Sticks and Stones",
+            "beginOffset": 723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027893035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn&",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn&",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn&",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0058174469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0058174469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.001813243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "UC Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.001813243,
+      "mentions": [
+        {
+          "text": {
+            "content": "UC Berkeley",
+            "beginOffset": 609
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

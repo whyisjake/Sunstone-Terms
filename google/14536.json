@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Burden",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082898349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burden",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Burden",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polygamist Husbands Burden",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063278332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polygamist Husbands Burden",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polygamist Husbands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.042939678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polygamist Husbands",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Polygamist Husbands",
+            "beginOffset": 601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah state Historical Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_Historical_Society"
+      },
+      "salience": 0.017702777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah state Historical Society",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017438591,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha S. Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012360614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha S. Bradley",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0032014644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0032014644,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 450
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

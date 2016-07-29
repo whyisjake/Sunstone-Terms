@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Place A New View",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18022683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Place A New View",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033401858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women&",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Women&",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Women&",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ben Lucas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02890401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben Lucas",
+            "beginOffset": 219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020531042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Place",
+            "beginOffset": 108
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

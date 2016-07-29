@@ -1,0 +1,371 @@
+{
+  "entities": [
+    {
+      "name": "Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18283409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swenson",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      "salience": 0.050420534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 455
+          }
+        },
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 1275
+          }
+        },
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jay Bybee",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jay_Bybee"
+      },
+      "salience": 0.025784815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay Bybee",
+            "beginOffset": 502
+          }
+        },
+        {
+          "text": {
+            "content": "Bybee",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "S FAHRENHEIT 9",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025346341,
+      "mentions": [
+        {
+          "text": {
+            "content": "S FAHRENHEIT 9",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL MOORE&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025346341,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL MOORE&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orrin Hatch",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orrin_Hatch"
+      },
+      "salience": 0.02062442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orrin Hatch",
+            "beginOffset": 527
+          }
+        },
+        {
+          "text": {
+            "content": "Hatch",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017665306,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hatch",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "World Trade Center",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/September_11_attacks"
+      },
+      "salience": 0.011242526,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Trade Center",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "World Trade Center",
+            "beginOffset": 1319
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0097047184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 1394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patriot Act",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Patriot_Act"
+      },
+      "salience": 0.0080467584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriot Act",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Patriot Act",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0031191027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abu Ghraib",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse"
+      },
+      "salience": 0.0030245681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abu Ghraib",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "Abu Ghraib",
+            "beginOffset": 1429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0029115535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Guantanamo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Guant%C3%A1namo"
+      },
+      "salience": 0.0028773169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guantanamo",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cuba",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cuba"
+      },
+      "salience": 0.0028773169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cuba",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marv Hamilton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028176391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marv Hamilton",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leanna Rae Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028176391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leanna Rae Scott",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manny Garcia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028176391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manny Garcia",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canadian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.0023350292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canadian",
+            "beginOffset": 855
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0023350292,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 893
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

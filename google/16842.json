@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "name": "Mainstreaming Of Mormon Studies",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.17691705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mainstreaming Of Mormon Studies",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Mainstreaming Of Mormon Studies",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Mainstreaming Of Mormon Studies",
+            "beginOffset": 1416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.01721845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 1546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont Graduate University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.014881196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont Graduate University",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "Claremont Graduate University",
+            "beginOffset": 1569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley State College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_University"
+      },
+      "salience": 0.01414633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 1519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faithful Scholarship&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013630235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faithful Scholarship&",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Faithful Scholarship&",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085827522,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0075882794,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 724
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.0066088075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 953
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0028417099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014340857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duffy",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.A.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.0014340857,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.A.",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presenter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014340857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presenter",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Respondent"
+      },
+      "salience": 0.0014340857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00068407494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian birch Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058415742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian birch  Brian",
+            "beginOffset": 1295
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

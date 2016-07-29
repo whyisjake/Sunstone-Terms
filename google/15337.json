@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Susan Tabor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049155537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Tabor",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.047700107,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Relief Society",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "The Relief Society",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "The Relief Society",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0032246008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 450
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

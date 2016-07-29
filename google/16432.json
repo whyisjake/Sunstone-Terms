@@ -1,0 +1,387 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.34504765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1866
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.030042307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 793
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2072
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1737
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01844441,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1911
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Origins SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014625157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Origins SL03091",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Insider&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014625157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Insider&",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.006401252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0029547876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 832
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0021699534,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015722316,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1775
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Home_run"
+      },
+      "salience": 0.0015722316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homer",
+            "beginOffset": 1644
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014151682,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013426761,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1674
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0013426761,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1696
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0013426761,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011483657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Smith",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mel Tungate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mel Tungate",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hansen",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grant H. Palmer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grant_H._Palmer"
+      },
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grant H. Palmer",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00034588319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

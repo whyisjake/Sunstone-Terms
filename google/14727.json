@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.23274177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Seekers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02600323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Seekers",
+            "beginOffset": 73
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

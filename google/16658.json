@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.025054459,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Hunter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008396836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hunter",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "David Hunter",
+            "beginOffset": 930
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

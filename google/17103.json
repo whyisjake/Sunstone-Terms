@@ -1,0 +1,347 @@
+{
+  "entities": [
+    {
+      "name": "Word of God",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.16584817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of God",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 763
+          }
+        },
+        {
+          "text": {
+            "content": "Word of God",
+            "beginOffset": 1260
+          }
+        },
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 1545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bart Ehrman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bart_D._Ehrman"
+      },
+      "salience": 0.10719904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bart Ehrman",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Bart Ehrman",
+            "beginOffset": 1409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0691371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1394
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Authority The Word of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027073592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority The Word of God",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018225061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 881
+          }
+        }
+      ]
+    },
+    {
+      "name": "Misquoting Jesus: The Story Behind Who",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013925818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Misquoting Jesus: The Story Behind Who",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Misquoting Jesus: The Story Behind Who",
+            "beginOffset": 1343
+          }
+        }
+      ]
+    },
+    {
+      "name": "Why",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013143208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Why",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Why",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.013143208,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Authority",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Authority"
+      },
+      "salience": 0.01253499,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 1300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Revelation"
+      },
+      "salience": 0.012272285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0034733245,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0032768827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible&",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0021373862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0019257918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014923429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": 910
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Johns Myers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014923429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Johns Myers",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.000543391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1015
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Holy Ghost Understanding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075931467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost Understanding",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Ghost",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Spirit_(Christianity)"
+      },
+      "salience": 0.062387973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.013656966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 280
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stransky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042610248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stransky",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

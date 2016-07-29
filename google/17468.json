@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King, Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.1950811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King, Jr.",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King, Jr.",
+            "beginOffset": 1227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther King For The Saints",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016323321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King For The Saints",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.01396,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1291
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.001786378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.001786378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.001629791,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013506686,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul school of theology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Paul_School_of_Theology"
+      },
+      "salience": 0.0013506686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Paul school of theology",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Methodist Semin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00049186841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Methodist Semin",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Iowa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Iowa"
+      },
+      "salience": 0.00049186841,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Iowa",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graceland university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Graceland_University"
+      },
+      "salience": 0.00049186841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graceland university",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.00049186841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "JD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juris_Doctor"
+      },
+      "salience": 0.00042001723,
+      "mentions": [
+        {
+          "text": {
+            "content": "JD",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+      },
+      "salience": 0.00042001723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.00042001723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

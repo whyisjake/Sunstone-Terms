@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.22124609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tarjan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037044459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tarjan",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020544268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 547
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

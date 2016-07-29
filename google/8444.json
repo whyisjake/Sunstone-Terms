@@ -1,0 +1,247 @@
+{
+  "entities": [
+    {
+      "name": "Sunstone Institute",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.27361292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Institute",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 413
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone Institute",
+            "beginOffset": 856
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1070
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone Institute",
+            "beginOffset": 1212
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19052519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 1283
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon_(Mormon's_record)"
+      },
+      "salience": 0.015259667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 817
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi,_son_of_Lehi"
+      },
+      "salience": 0.012641712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0073887841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0033444422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Savior&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032876686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Savior&",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "&nbsp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031336746,
+      "mentions": [
+        {
+          "text": {
+            "content": "&nbsp",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ether",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ether_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.0030711053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ether",
+            "beginOffset": 966
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Starwood_Hotels_and_Resorts_Worldwide"
+      },
+      "salience": 0.00081562414,
+      "mentions": [
+        {
+          "text": {
+            "content": "W.",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.00081562414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "UT 84103",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00081562414,
+      "mentions": [
+        {
+          "text": {
+            "content": "UT 84103",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.096845187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015018852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewistown",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lewistown,_Pennsylvania"
+      },
+      "salience": 0.014239622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewistown",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pennsylvania"
+      },
+      "salience": 0.014239622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pennsylvania",
+            "beginOffset": 462
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

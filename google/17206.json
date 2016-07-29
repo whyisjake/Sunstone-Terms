@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.12366172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09251 Mapping Mormon Issues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031919993,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09251 Mapping Mormon Issues",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Witnesses",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon_witnesses"
+      },
+      "salience": 0.017444106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Witnesses",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011575703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradley",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0076318979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mapping Mormon Issues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036945646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mapping Mormon Issues",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0031555109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 485
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

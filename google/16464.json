@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.34029144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1966
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 516
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2075
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.038460989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 808
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2172
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1566
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.017900614,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014191322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism SL03091",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Authority: Abraham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012132763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority: Abraham",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00620888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1941
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038459981,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1875
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0028655084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 847
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1164
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0021043075,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0013723058,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013438301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00033538969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00033538969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 1370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews Muslims",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00033538969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews Muslims",
+            "beginOffset": 1475
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

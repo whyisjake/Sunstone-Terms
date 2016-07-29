@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Memorial MP3 Click",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.24360774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Memorial MP3 Click",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21024661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Swenson&",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Swenson&",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "jnj",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Johnson_%26_Johnson"
+      },
+      "salience": 0.0069351117,
+      "mentions": [
+        {
+          "text": {
+            "content": "jnj",
+            "beginOffset": 182
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

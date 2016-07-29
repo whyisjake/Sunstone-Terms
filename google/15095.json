@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Journey",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.63320726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey",
+            "beginOffset": 107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heroine&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2485439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heroine&",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Heroine&",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Heroine&",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey Workshop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.094233252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey Workshop",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey Workshop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024015566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey  Workshop",
+            "beginOffset": 68
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

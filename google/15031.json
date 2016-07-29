@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Hand of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10791146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hand of God",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Hand of God",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hand of God Wilderness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.096113376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hand of God Wilderness",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frank",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066939585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frank",
+            "beginOffset": 129
+          }
+        }
+      ]
+    },
+    {
+      "name": "Owens",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Terrell_Owens"
+      },
+      "salience": 0.058025587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owens",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Senate",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Senate"
+      },
+      "salience": 0.02212316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Senate",
+            "beginOffset": 231
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jake Garn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019956369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jake Garn",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montreal Canada",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015705127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montreal Canada",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilderness",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wilderness"
+      },
+      "salience": 0.015110048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilderness",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_House_of_Representatives"
+      },
+      "salience": 0.0070059891,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 458
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "II",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.0776746,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Religiosity The Dimensions of Mormon Religiosity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05520973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Religiosity The Dimensions of Mormon Religiosity",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Athens",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Athens"
+      },
+      "salience": 0.010837387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Athens",
+            "beginOffset": 280
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Religiosity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0086525567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Religiosity",
+            "beginOffset": 547
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

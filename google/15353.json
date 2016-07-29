@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Literature",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.080669113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067128845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059132691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tongue&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05448826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tongue&",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Tongue&",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Tongue&",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altmann&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041862648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altmann&",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Altmann&",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Altmann&",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "Killing Cats",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0313857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Killing Cats",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Killing Cats",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Killing Cats",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025678368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Killing Cats",
+            "beginOffset": 123
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0044414867,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 500
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vanderbilt University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vanderbilt_University"
+      },
+      "salience": 0.0035421192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vanderbilt University",
+            "beginOffset": 541
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

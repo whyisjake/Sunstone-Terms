@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.1763937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.017783539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017783539,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019449304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vinson",
+            "beginOffset": 494
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

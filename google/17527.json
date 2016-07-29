@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.022597844,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 855
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shaw",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Bernard_Shaw"
+      },
+      "salience": 0.013361119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaw",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0028662339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Renee Shaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026460192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Renee Shaw",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0022599439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryxi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022599439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryxi",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Torgersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016569231,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Torgersen",
+            "beginOffset": 625
+          }
+        },
+        {
+          "text": {
+            "content": "James Torgersen",
+            "beginOffset": 704
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

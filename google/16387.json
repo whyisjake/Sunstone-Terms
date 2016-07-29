@@ -1,0 +1,333 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32663831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1583
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 537
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.13204803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rene Girard SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01587465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rene Girard SL03091",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Violence",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Violence"
+      },
+      "salience": 0.013577362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Violence",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred: An Overview",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013577362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred: An Overview",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thought",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thought"
+      },
+      "salience": 0.013577362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.011918318,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0069561861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0066573313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 397
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 829
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032125018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 868
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1185
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0017330422,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diagne SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017096935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diagne SL03091",
+            "beginOffset": 1485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mack Stirling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014601148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mack Stirling",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014601148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 1400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014601148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenberg",
+            "beginOffset": 1429
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012753039,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001248843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bailie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037618913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bailie",
+            "beginOffset": 1377
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

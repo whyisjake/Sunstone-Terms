@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Male/Female God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30972642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male/Female God",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.098788239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Practical Mysticism Mormonism",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069296524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Practical Mysticism Mormonism",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Male/Female God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063643038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male/Female God",
+            "beginOffset": 95
+          }
+        }
+      ]
+    },
+    {
+      "name": "Male/Female God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027253408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male/Female God",
+            "beginOffset": 447
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Easter Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23548293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter Experience",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belief Gene",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072096795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belief Gene",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Easter",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Easter"
+      },
+      "salience": 0.047620736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "What/How/Who of Religious Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026220338,
+      "mentions": [
+        {
+          "text": {
+            "content": "What/How/Who of Religious Experience",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russ Osmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084630148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Osmond",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Russ Osmond",
+            "beginOffset": 589
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Henry Eyring",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henry_Eyring_(chemist)"
+      },
+      "salience": 0.39309025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henry Eyring",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Henry Eyring",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Henry",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Henry",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Henry Eyring",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Science and Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059352204,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Science and Life",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "The Science and Life",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Science and Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019281467,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Science and Life",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010878243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.010878243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hillary",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hillary_Clinton"
+      },
+      "salience": 0.010313689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hillary",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0085571948,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 324
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ted Irene",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ted Irene",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

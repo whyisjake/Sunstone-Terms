@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Only Way Out",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.080035418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Only Way Out",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hezekiah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043541338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hezekiah&",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Hezekiah&",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "salience": 0.043541338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "Forbes",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Forbes"
+      },
+      "salience": 0.03228768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forbes",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Light",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Light"
+      },
+      "salience": 0.030064963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Light",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Light",
+            "beginOffset": 896
+          }
+        },
+        {
+          "text": {
+            "content": "Light",
+            "beginOffset": 62
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

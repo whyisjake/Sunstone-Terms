@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Paul Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010035554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Mormons",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0080934437,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 137
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

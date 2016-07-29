@@ -1,0 +1,509 @@
+{
+  "entities": [
+    {
+      "name": "Leo Tolstoy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Leo_Tolstoy"
+      },
+      "salience": 0.13676706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Tolstoy",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Leo Tolstoy",
+            "beginOffset": 2782
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tolstoyans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tolstoyan_movement"
+      },
+      "salience": 0.077893749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 2688
+          }
+        },
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 2736
+          }
+        },
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 409
+          }
+        },
+        {
+          "text": {
+            "content": "Tolstoyans",
+            "beginOffset": 3039
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10335",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04436104,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10335",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.030583143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 2716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.026682727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 623
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plotino Constantino Rhodakanaty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024388954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plotino Constantino Rhodakanaty",
+            "beginOffset": 1864
+          }
+        },
+        {
+          "text": {
+            "content": "Plotino Constantino Rhodakanaty",
+            "beginOffset": 1964
+          }
+        },
+        {
+          "text": {
+            "content": "Rhodakanaty",
+            "beginOffset": 2315
+          }
+        },
+        {
+          "text": {
+            "content": "Rhodakanaty",
+            "beginOffset": 2495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Radical Politics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Political_radicalism"
+      },
+      "salience": 0.017709011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Radical Politics",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014336064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 760
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1274
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1556
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011623712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2991
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.011391942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 2758
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Mother and Subsistence Eco-feminism",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0028734508,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Mother and Subsistence Eco-feminism",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kinship Structures",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001897314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kinship Structures",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alternative Civil Society",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0018736501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alternative Civil Society",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nefi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nefi",
+            "beginOffset": 2351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meltion Gonzalez Trejo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meltion Gonzalez Trejo",
+            "beginOffset": 2390
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 2414
+          }
+        }
+      ]
+    },
+    {
+      "name": "L.A. Bertand",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. A. Bertand",
+            "beginOffset": 2431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paris",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paris"
+      },
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paris",
+            "beginOffset": 2448
+          }
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.0017776436,
+      "mentions": [
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 2455
+          }
+        }
+      ]
+    },
+    {
+      "name": "FERNANDO R. GOMEZ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001766153,
+      "mentions": [
+        {
+          "text": {
+            "content": "FERNANDO R. GOMEZ",
+            "beginOffset": 2555
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRISTAN CALL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001766153,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRISTAN CALL",
+            "beginOffset": 2541
+          }
+        }
+      ]
+    },
+    {
+      "name": "KATY SAVAGE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001766153,
+      "mentions": [
+        {
+          "text": {
+            "content": "KATY SAVAGE",
+            "beginOffset": 2528
+          }
+        }
+      ]
+    },
+    {
+      "name": "BUSHMAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Bushman"
+      },
+      "salience": 0.001766153,
+      "mentions": [
+        {
+          "text": {
+            "content": "BUSHMAN",
+            "beginOffset": 2519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Little",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014944854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 1938
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexican",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0012092559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexican",
+            "beginOffset": 1918
+          }
+        },
+        {
+          "text": {
+            "content": "Mexican",
+            "beginOffset": 2110
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 2256
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church of Jesus Christ of Latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00070728705,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church of Jesus Christ of Latter",
+            "beginOffset": 2205
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

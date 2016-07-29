@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.073163047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literalmindedness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033995289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literalmindedness",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Literalmindedness",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Literalmindedness",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Life&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033995289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life&",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Life&",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Life&",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shadow Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033995289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shadow Authority",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Shadow Authority",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Shadow Authority",
+            "beginOffset": 825
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

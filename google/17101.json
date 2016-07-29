@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.069404855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1763
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.054784544,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1523
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.01214396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Junior_(education)"
+      },
+      "salience": 0.0096072443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jr.",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091846716,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0061365627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph West",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016589989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph West",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christopher Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016589989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher Bradford",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cannon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cannon"
+      },
+      "salience": 0.0012854905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cannon",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

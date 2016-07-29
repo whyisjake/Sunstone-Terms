@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.24538305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mystery Religion Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10079245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mystery Religion Mormonism",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.021630002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 274
+          }
+        }
+      ]
+    },
+    {
+      "name": "co",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.017992463,
+      "mentions": [
+        {
+          "text": {
+            "content": "co",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "LV",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liverpool_Victoria"
+      },
+      "salience": 0.017060136,
+      "mentions": [
+        {
+          "text": {
+            "content": "LV",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Esperanto",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017060136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Esperanto",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

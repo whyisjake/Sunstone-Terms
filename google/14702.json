@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Juanita Brooks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Juanita_Brooks"
+      },
+      "salience": 0.24066132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juanita Brooks",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Juanita Brooks",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Juanita Brooks",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Metre"
+      },
+      "salience": 0.1939241,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.016818661,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 196
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.013257771,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "NBA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Basketball_Association"
+      },
+      "salience": 0.012266111,
+      "mentions": [
+        {
+          "text": {
+            "content": "NBA",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.009037436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

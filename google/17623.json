@@ -1,0 +1,373 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.17883164,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 449
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 603
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 873
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 630
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 736
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1070
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1115
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1272
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBTQ Relations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021582002,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBTQ Relations",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBT Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019685579,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBT Mormons",
+            "beginOffset": 799
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONSANDGAYS.ORG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019624464,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONSANDGAYS.ORG",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONSANDGAYS.ORG",
+            "beginOffset": 1091
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LGBT"
+      },
+      "salience": 0.016701881,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 607
+          }
+        },
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 699
+          }
+        },
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 868
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.015006087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 1147
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012954487,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Building Bridges",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons_Building_Bridges"
+      },
+      "salience": 0.012954487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Building Bridges",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons Building Bridges",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boy Scout",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America"
+      },
+      "salience": 0.0054248422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy Scout",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "BSA",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Legislature",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_Legislature"
+      },
+      "salience": 0.0043265894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Legislature",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0025656198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.00092773046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Carmack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092773046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Carmack",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitch Mayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092773046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitch Mayne",
+            "beginOffset": 930
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carol_Lynn_Pearson"
+      },
+      "salience": 0.00092773046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.00092773046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wendy Montgomery",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054944638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wendy Montgomery",
+            "beginOffset": 979
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

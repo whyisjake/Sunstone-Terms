@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Andy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031213751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Andy",
+            "beginOffset": 803
+          }
+        },
+        {
+          "text": {
+            "content": "Andy",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Bradshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029622631,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Bradshaw",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Embracing Our Homosexual Children",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0079154931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Embracing Our Homosexual Children",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Embracing Our Homosexual Children",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Horstmanshoff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075690662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Horstmanshoff",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Horstmanshoff",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0075690662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ilse",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007286814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ilse",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Ilse",
+            "beginOffset": 1119
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069067525,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0033166991,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0033166991,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hong_Kong"
+      },
+      "salience": 0.0033166991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hong Kong",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Bradshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031721946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Bradshaw",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Green",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027092115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Green",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ernie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027092115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ernie",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024663082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schow",
+            "beginOffset": 724
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.000842526,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 904
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nevada"
+      },
+      "salience": 0.000842526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 929
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

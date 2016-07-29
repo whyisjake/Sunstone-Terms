@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.51192808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 642
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 868
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 945
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.094399862,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Shelby Spong",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Shelby_Spong"
+      },
+      "salience": 0.07849101,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Shelby Spong",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Spong",
+            "beginOffset": 445
+          }
+        },
+        {
+          "text": {
+            "content": "Spong",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "John Shelby Spong",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN SHELBY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019715898,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN SHELBY",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "S BORN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01512403,
+      "mentions": [
+        {
+          "text": {
+            "content": "S BORN",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.013762096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0017238475,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nelson Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014511582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nelson Henderson",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spong &hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00098319282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spong &hellip",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Tinker dnmt Natalie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00042777375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Tinker  dnmt Natalie",
+            "beginOffset": 698
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

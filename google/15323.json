@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Historical Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072142735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical Jesus",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Historical Jesus",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historical Jesus Three Views",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064255282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical Jesus Three Views",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob Three Views",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010101615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Three Views",
+            "beginOffset": 438
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

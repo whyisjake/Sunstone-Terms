@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "The Word Respite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23031652,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Word Respite",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "The Word",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Respite",
+            "beginOffset": 660
+          }
+        },
+        {
+          "text": {
+            "content": "The Word",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heretic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12562816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heretic",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Heretic",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.031938594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth hall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066455072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth hall",
+            "beginOffset": 496
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

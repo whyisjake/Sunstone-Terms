@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013998742,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Perez",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017517318,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Perez",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.0017517318,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 552
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

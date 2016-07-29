@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Chris Allen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chris_Cross"
+      },
+      "salience": 0.13372727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Allen",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Chris",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Awakening Educating",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.099249236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Awakening Educating",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Person: Physical and Spiritual Awakening",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036818452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Person: Physical and Spiritual Awakening",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Awakening",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015802629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Awakening",
+            "beginOffset": 526
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

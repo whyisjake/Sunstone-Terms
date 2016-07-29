@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.19462767,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 444
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 688
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1283
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Condie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021398442,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Condie",
+            "beginOffset": 713
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021398442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 724
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pappas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Father"
+      },
+      "salience": 0.0017733837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pappas",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00055148441,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1052
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

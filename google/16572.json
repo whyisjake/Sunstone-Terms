@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.012164093,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 730
+          }
+        },
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christensen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Clayton_M._Christensen"
+      },
+      "salience": 0.010809561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christensen",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0085645635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0020568671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Beckman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018974566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Beckman",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin Krauss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018974566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin Krauss",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harrisburg Pennsylvania",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018974566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harrisburg Pennsylvania",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015725204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Jose,_California"
+      },
+      "salience": 0.0015725204,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose California",
+            "beginOffset": 787
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011117146,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1295
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

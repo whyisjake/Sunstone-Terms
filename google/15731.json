@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "God McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0679616,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "God McCall",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019645698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 209
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019645698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred A Snake Set On",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0093745021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice Allred  A Snake Set On",
+            "beginOffset": 132
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

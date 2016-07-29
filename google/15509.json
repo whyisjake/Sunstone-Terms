@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Stan Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020602092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Christensen",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Stan Christensen",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry Clarkson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020602092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry Clarkson",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Larry Clarkson",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010701483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peterson",
+            "beginOffset": 110
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0065438575,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chase Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004491813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chase Peterson",
+            "beginOffset": 620
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

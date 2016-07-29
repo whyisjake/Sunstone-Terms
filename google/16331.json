@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Kingdom Dialogue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.070154078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingdom Dialogue",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kingdom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.042996936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 764
+          }
+        },
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.016865231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1347
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Mormonism"
+      },
+      "salience": 0.014019399,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 1430
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.10234037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.061647363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Kohlberg Perspective",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053892657,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Kohlberg Perspective",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "The Kohlberg Perspective",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "The Kohlberg Perspective",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.053892657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Behavior Forgiving the Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033126071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Behavior Forgiving the Church",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane England",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01468721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane England",
+            "beginOffset": 367
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

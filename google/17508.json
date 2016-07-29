@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.32815108,
+      "mentions": [
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 529
+          }
+        },
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.15274952,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "POLITICAL RESTORATION Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030516496,
+      "mentions": [
+        {
+          "text": {
+            "content": "POLITICAL RESTORATION Mormonism",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.016801959,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOP",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Republican Party",
+            "beginOffset": 582
+          }
+        },
+        {
+          "text": {
+            "content": "Republicans",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.007693117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.007693117,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1299
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0050148424,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.004965615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013185272,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

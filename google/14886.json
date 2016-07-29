@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.061540753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gerard van Norden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039003178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gerard van Norden",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.030876145,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Our Mother: A Search For Feminine Identity LDS",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.025968181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Our Mother: A Search For Feminine Identity LDS",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Our Mother: A Search For Feminine Identity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019144928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Our Mother: A Search For Feminine Identity",
+            "beginOffset": 177
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

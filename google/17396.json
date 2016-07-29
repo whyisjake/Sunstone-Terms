@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Smith-Pettit Lecture: Material Christianity: Creating A Religious",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.031819172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith-Pettit Lecture: Material Christianity: Creating A Religious",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.01269756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0076073804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civil Rights",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Civil_and_political_rights"
+      },
+      "salience": 0.0072361957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civil Rights",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Civil Rights",
+            "beginOffset": 1841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women's Liberation",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Feminism"
+      },
+      "salience": 0.0072361957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women’s Liberation",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Women’s Liberation",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Candace_Parker"
+      },
+      "salience": 0.00067804573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    },
+    {
+      "name": "McDannell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066809077,
+      "mentions": [
+        {
+          "text": {
+            "content": "McDannell",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

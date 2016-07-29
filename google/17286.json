@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12844092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1145
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.12844092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 1109
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Two Centuries",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029542344,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Two Centuries",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10113",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025277846,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10113",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.004922736,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0038113673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 504
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shi&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030298056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shi&",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Saints",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0030298056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Saints",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHAMBERLIN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ralph_Vary_Chamberlin"
+      },
+      "salience": 0.0029559992,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHAMBERLIN",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunni",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunni_Islam"
+      },
+      "salience": 0.0028282087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunni",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Sunni",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ottoman Empire",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ottoman_Empire"
+      },
+      "salience": 0.0027642059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ottoman Empire",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Turkey"
+      },
+      "salience": 0.0022907727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turkey",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jordan Damascus",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00071233243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jordan Damascus",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00071233243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alice",
+            "beginOffset": 938
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

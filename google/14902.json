@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Visionary Philo T Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.80540681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philo T Farnsworth",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Visionary Philo T Farnsworth",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Visionary  Philo T Farnsworth",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Visionary",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19459319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Visionary",
+            "beginOffset": 95
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

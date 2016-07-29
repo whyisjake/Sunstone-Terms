@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Jake Salinger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071295872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jake Salinger",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Blair Young",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0441776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAUL Michael Hicks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043097228,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "PAUL Hicks",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "PAUL Michael Hicks",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Hicks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015456103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Hicks",
+            "beginOffset": 253
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Reading",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reading_(process)"
+      },
+      "salience": 0.22212349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Women Reading",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.087484568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women Reading",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Women",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047482576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Women",
+            "beginOffset": 125
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

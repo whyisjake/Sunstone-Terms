@@ -1,0 +1,413 @@
+{
+  "entities": [
+    {
+      "name": "Egyptian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egypt"
+      },
+      "salience": 0.074282669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 591
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 745
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 1168
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 1744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Niagara Falls Museum",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Niagara_Falls_Museum"
+      },
+      "salience": 0.0651628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Niagara Falls Museum",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "Niagara Falls Museum",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "Niagara Falls Museum",
+            "beginOffset": 1827
+          }
+        },
+        {
+          "text": {
+            "content": "Niagara Falls Museum",
+            "beginOffset": 1961
+          }
+        }
+      ]
+    },
+    {
+      "name": "Metropolitan Museum of Art",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+      },
+      "salience": 0.030357217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Museum",
+            "beginOffset": 653
+          }
+        },
+        {
+          "text": {
+            "content": "Metropolitan Museum of Art",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Mummies",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020380605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Mummies",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael C. Carlos Museum",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_C._Carlos_Museum"
+      },
+      "salience": 0.018229112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael C. Carlos Museum",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Michael C. Carlos Museum",
+            "beginOffset": 1682
+          }
+        },
+        {
+          "text": {
+            "content": "Carlos Museum",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "Papyri",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Papyrus"
+      },
+      "salience": 0.014302173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Papyri",
+            "beginOffset": 117
+          }
+        }
+      ]
+    },
+    {
+      "name": "ATLANTA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.014058962,
+      "mentions": [
+        {
+          "text": {
+            "content": "ATLANTA",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 1710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wood&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012816179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wood&",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Wood&",
+            "beginOffset": 1193
+          }
+        },
+        {
+          "text": {
+            "content": "Wood&",
+            "beginOffset": 1991
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trail",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trail"
+      },
+      "salience": 0.010934398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trail",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010377116,
+      "mentions": [
+        {
+          "text": {
+            "content": "C.  Snow",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.0092354342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 470
+          }
+        },
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 2015
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daredevil Hall of Fame",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00857969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daredevil Hall of Fame",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Daredevil Hall of Fame",
+            "beginOffset": 1852
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph F. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_F._Smith"
+      },
+      "salience": 0.0048047947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 703
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph F. Smith",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wood",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wood"
+      },
+      "salience": 0.0045263804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wood",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "Wood",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago fire",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Chicago_Fire"
+      },
+      "salience": 0.003753182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago fire",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.0025430373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 781
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024479984,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Pratt"
+      },
+      "salience": 0.0019994827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 1076
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00061392103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1415
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

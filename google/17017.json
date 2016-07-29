@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "LDS RESPONSE Thirty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.17723675,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS RESPONSE Thirty",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 679
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 864
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW07005",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047598857,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW07005",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TETON DAM",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Teton_Dam"
+      },
+      "salience": 0.027294032,
+      "mentions": [
+        {
+          "text": {
+            "content": "TETON DAM",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Teton Dam",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Teton Dam",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.02233021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 781
+          }
+        }
+      ]
+    },
+    {
+      "name": "Upper Snake River Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Snake_River_Plain"
+      },
+      "salience": 0.021213938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Upper Snake River Valley",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Upper Snake River Valley",
+            "beginOffset": 886
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0055095134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 992
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0045129773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricks College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University%E2%80%93Idaho"
+      },
+      "salience": 0.0018009413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ricks College",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "MCDONALD Thirty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015827555,
+      "mentions": [
+        {
+          "text": {
+            "content": "MCDONALD  Thirty",
+            "beginOffset": 716
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

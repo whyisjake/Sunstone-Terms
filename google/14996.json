@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2497512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Clayton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Clayton_(Mormon)"
+      },
+      "salience": 0.1961064,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Clayton",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "William Clayton",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "William Clayton",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "William Clayton",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Private Clerk the Journal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.051846869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Private Clerk the Journal",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.018515702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Trail"
+      },
+      "salience": 0.0039492594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

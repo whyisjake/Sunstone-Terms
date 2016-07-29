@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Oath of Vengeance The Oath of Vengeance",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10967622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oath of Vengeance The Oath of Vengeance",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington Monument",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_Monument"
+      },
+      "salience": 0.028200159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington Monument",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conway",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Conway,_South_Carolina"
+      },
+      "salience": 0.017921325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conway",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oath of Vengeance",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017242271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oath of Vengeance",
+            "beginOffset": 533
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

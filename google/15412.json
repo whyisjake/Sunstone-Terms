@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Creeds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.44998133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Creeds",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Creeds",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Creeds",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peggy Fletcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peggy_Fletcher_Stack"
+      },
+      "salience": 0.047724914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peggy Fletcher",
+            "beginOffset": 319
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palmer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palmer,_Alaska"
+      },
+      "salience": 0.0032700377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palmer",
+            "beginOffset": 493
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

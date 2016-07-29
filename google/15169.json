@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Nuclear Weapons Christian",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.22573563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nuclear Weapons Christian",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.20786065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nuclear Weapons",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nuclear_weapon"
+      },
+      "salience": 0.089493461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nuclear Weapons",
+            "beginOffset": 44
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

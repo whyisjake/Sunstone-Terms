@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Young Persons&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028925819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Young Persons&",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0089338012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Mumford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078913523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Mumford",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julia Mumford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078913523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julia Mumford",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006740205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Campbell",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theresa Roth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006740205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theresa  Roth",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Downing",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13787037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Downing",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Downing",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abbas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mahmoud_Abbas"
+      },
+      "salience": 0.029203713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abbas",
+            "beginOffset": 320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ann Morgan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017338319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ann Morgan",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Ann Morgan",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "United Methodist Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Methodist_Church"
+      },
+      "salience": 0.0077172909,
+      "mentions": [
+        {
+          "text": {
+            "content": "United Methodist Church",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Presbyterian Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Presbyterian_Church_in_Jamaica"
+      },
+      "salience": 0.0077172909,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presbyterian Church",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.007232016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Syracuse",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Syracuse,_New_York"
+      },
+      "salience": 0.0071233911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syracuse",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Syracuse",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0053168121,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irving park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053168121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irving park",
+            "beginOffset": 160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.0050396193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 199
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

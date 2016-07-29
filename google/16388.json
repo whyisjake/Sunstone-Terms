@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36234251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1552
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 555
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0759635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 847
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reflections",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reflection_(mathematics)"
+      },
+      "salience": 0.017835446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reflections",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017835446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley SL03091",
+            "beginOffset": 106
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lowell Bennion",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lowell_L._Bennion"
+      },
+      "salience": 0.015255848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lowell Bennion",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sterling McMurrin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015255848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling McMurrin",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twentieth Century",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/20th_century"
+      },
+      "salience": 0.015255848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twentieth Century",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.013392624,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0078182714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0036111865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 886
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1203
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0019482388,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Mulder SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019219926,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Mulder  SL03091",
+            "beginOffset": 1445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffery",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016414399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffery",
+            "beginOffset": 1395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Lythgoe_Bradford"
+      },
+      "salience": 0.0016414399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boyd J. Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016414399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyd J. Petersen",
+            "beginOffset": 1427
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014336889,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014039434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

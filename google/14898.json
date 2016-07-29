@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Square",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Square"
+      },
+      "salience": 0.1633807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Square",
+            "beginOffset": 140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple Symbols of Ancient China Compass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061304186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple Symbols of Ancient China Compass",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Temple Symbols of Ancient China  Compass",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple Symbols of Ancient China",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022182858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple Symbols of Ancient China",
+            "beginOffset": 164
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

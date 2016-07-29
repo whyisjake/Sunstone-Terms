@@ -1,0 +1,305 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.38077652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1878
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 518
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1987
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.06913016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2084
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020278042,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Truth Hurts",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013747189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Truth Hurts",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blues",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Blues"
+      },
+      "salience": 0.013747189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blues",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poetry SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013747189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poetry SL03091",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070366538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048581008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032479577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 849
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023852317,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015555518,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1014
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012622789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00096009707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abd",
+            "beginOffset": 1517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.00056885125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038018989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "MFA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Fine_Arts"
+      },
+      "salience": 0.00038018989,
+      "mentions": [
+        {
+          "text": {
+            "content": "MFA",
+            "beginOffset": 1542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

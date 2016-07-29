@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.26375365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "The One",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.035784177,
+      "mentions": [
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carthage Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014920375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carthage Joseph",
+            "beginOffset": 414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Isaiah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Isaiah"
+      },
+      "salience": 0.011584694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isaiah",
+            "beginOffset": 448
+          }
+        },
+        {
+          "text": {
+            "content": "Isaiah",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0030445231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 504
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

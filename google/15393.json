@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Humanity&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50998616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humanity&",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Humanity&",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Humanity&",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Population Management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043296613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Population Management",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University Population Management",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.028447919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University Population Management",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.024938345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067802211,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 406
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,345 @@
+{
+  "entities": [
+    {
+      "name": "Carol Gnade&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22034203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Gnade&",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Carol",
+            "beginOffset": 1185
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Gnade&",
+            "beginOffset": 1726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.086790591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1137
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1866
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1936
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wendy Weaver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048820246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wendy Weaver",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda Sillitoe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Linda_Sillitoe"
+      },
+      "salience": 0.032050744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Sillitoe",
+            "beginOffset": 1348
+          }
+        },
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 1446
+          }
+        },
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 1700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Battling Church-State Issues",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.014834734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Battling Church-State Issues",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Not Angry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014834734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Not Angry",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011627175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 1805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnade",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0098081278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnade",
+            "beginOffset": 649
+          }
+        },
+        {
+          "text": {
+            "content": "Gnade",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Main Street",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Main_Street"
+      },
+      "salience": 0.0088542206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Main Street",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wisconsin"
+      },
+      "salience": 0.00759618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wisconsin",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Wisconsin",
+            "beginOffset": 1770
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACLU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Civil_Liberties_Union"
+      },
+      "salience": 0.0063191024,
+      "mentions": [
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 406
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 666
+          }
+        },
+        {
+          "text": {
+            "content": "ACLU",
+            "beginOffset": 2035
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gay/Straight Alliance",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gay%E2%80%93straight_alliance"
+      },
+      "salience": 0.0042370325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gay/Straight Alliance",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.002321199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.0020753697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0019669053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 865
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam Alan Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016169698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam Alan Roberts",
+            "beginOffset": 1634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hofmann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016169698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hofmann",
+            "beginOffset": 1675
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

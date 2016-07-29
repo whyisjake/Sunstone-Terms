@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Written Scripture Scholars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025511622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Written Scripture Scholars",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bridging the Gap",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019558573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridging the Gap",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10005",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016734796,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10005",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0046924329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Qumran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Qumran"
+      },
+      "salience": 0.0018613376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Qumran",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00047151439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

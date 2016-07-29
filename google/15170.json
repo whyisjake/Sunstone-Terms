@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "salience": 0.38509965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Faith Pillars of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.082172588,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith Pillars of My Faith",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Pillars of My Faith",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018206498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

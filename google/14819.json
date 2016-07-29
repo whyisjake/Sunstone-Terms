@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.16734065,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Worth Eight Cows Or Two",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.15665594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Worth Eight Cows Or Two",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Worth Eight Cows Or Two",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Worth Eight Cows Or Two",
+            "beginOffset": 346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert The Rising LDS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025980713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert The Rising LDS",
+            "beginOffset": 312
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

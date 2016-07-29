@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mother"
+      },
+      "salience": 0.42682207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": 995
+          }
+        },
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paradise"
+      },
+      "salience": 0.020340867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church Body",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014043127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church Body",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Feminine",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Goddess"
+      },
+      "salience": 0.012793735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Feminine",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011220582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042313752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother&",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0032777188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 495
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1241
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020670148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020670148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 698
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

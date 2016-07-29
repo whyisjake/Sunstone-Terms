@@ -1,0 +1,255 @@
+{
+  "entities": [
+    {
+      "name": "CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.21101211,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 1545
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ephesians 5",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.16249326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ephesians 5",
+            "beginOffset": 259
+          }
+        },
+        {
+          "text": {
+            "content": "Ephesians 5",
+            "beginOffset": 1626
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07126",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02980951,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07126",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.024068074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0056216409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0037222339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1717
+          }
+        }
+      ]
+    },
+    {
+      "name": "MILES",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mile"
+      },
+      "salience": 0.0020097417,
+      "mentions": [
+        {
+          "text": {
+            "content": "MILES",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "word of God",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00093454897,
+      "mentions": [
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America"
+      },
+      "salience": 0.0008183067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.00078494335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vieuxtemps",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00071521749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vieuxtemps",
+            "beginOffset": 1421
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00071521749,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1483
+          }
+        }
+      ]
+    },
+    {
+      "name": "RICHARD C. RUSSELL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059268432,
+      "mentions": [
+        {
+          "text": {
+            "content": "RICHARD C. RUSSELL",
+            "beginOffset": 971
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00059268432,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1072
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.26717928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1080
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1166
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12547208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olaiz",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Never",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040848657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Never",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith: Prophet of the Restoration",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith:_The_Prophet_of_the_Restoration"
+      },
+      "salience": 0.012368087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith: Prophet of the Restoration",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith: Prophet of the Restoration",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003764411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034855793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018757393,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary James Bergera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015222785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary James Bergera",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.0015222785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith Pettitte Eternal Families",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000850361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith Pettitte Eternal Families",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Jamesburg",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00055438356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Jamesburg",
+            "beginOffset": 983
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

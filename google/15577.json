@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35610431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Limits What&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047502227,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Limits What&",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marden Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032065142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marden Clark",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Marden Clark",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edwards Cannon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017168187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edwards Cannon",
+            "beginOffset": 108
+          }
+        }
+      ]
+    },
+    {
+      "name": "erma Bombeck",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Erma_Bombeck"
+      },
+      "salience": 0.01080016,
+      "mentions": [
+        {
+          "text": {
+            "content": "erma Bombeck",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010238217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary",
+            "beginOffset": 284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ann Edwards Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073053413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ann Edwards Cannon",
+            "beginOffset": 686
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

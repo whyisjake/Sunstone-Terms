@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32441559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1853
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.082259975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 786
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1430
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2059
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.017443238,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1898
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darron Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087193744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darron Smith",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0060550985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0027951777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 825
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1142
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002052767,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014873408,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1762
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0013387615,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013109844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001052555,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 1334
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

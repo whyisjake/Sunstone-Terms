@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Emma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.36363348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 932
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05175871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040401597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Window: Depicting The Tarring And Feathering",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.032104097,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Window: Depicting The Tarring And Feathering",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029215347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 855
+          }
+        }
+      ]
+    },
+    {
+      "name": "McClellan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031182277,
+      "mentions": [
+        {
+          "text": {
+            "content": "McClellan",
+            "beginOffset": 570
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

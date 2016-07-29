@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Moving Gayly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.52242291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moving Gayly",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Gayly",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Gayly",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Ocean"
+      },
+      "salience": 0.02592155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco"
+      },
+      "salience": 0.02592155,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jefferson community college",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jefferson_Community_College_(New_York)"
+      },
+      "salience": 0.02234328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jefferson community college",
+            "beginOffset": 123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Mary's college",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Mary's_College_of_California"
+      },
+      "salience": 0.021191135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Mary's college",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moraga California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01813277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moraga California",
+            "beginOffset": 236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jones",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kenwyne_Jones"
+      },
+      "salience": 0.015055633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jones",
+            "beginOffset": 269
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

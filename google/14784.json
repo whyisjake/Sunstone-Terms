@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.12238511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon New",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10922211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon New",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.028426662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 269
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

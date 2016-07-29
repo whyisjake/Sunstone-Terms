@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism Early Christian History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.369772,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Early Christian History",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12506515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.11232815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 557
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

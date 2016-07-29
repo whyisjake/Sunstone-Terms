@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "name": "Bonner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066956416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bonner",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East Prospects",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038385347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East Prospects",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestinian Liberation Organization",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palestine_Liberation_Organization"
+      },
+      "salience": 0.023130665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestinian Liberation Organization",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Palestinian Liberation Organization",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.019744586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 1100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yassar Arafat",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yasser_Arafat"
+      },
+      "salience": 0.019103615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yassar Arafat",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East J. Bonner Ritchie",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01510429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East J. Bonner Ritchie",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East J. Bonner Ritchie",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.011281584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 1287
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Bank",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/West_Bank"
+      },
+      "salience": 0.0037687756,
+      "mentions": [
+        {
+          "text": {
+            "content": "West Bank",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gaza Strip",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gaza_Strip"
+      },
+      "salience": 0.0037687756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gaza Strip",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0032774427,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/West"
+      },
+      "salience": 0.0022349523,
+      "mentions": [
+        {
+          "text": {
+            "content": "West",
+            "beginOffset": 1325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prospects",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015612866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prospects",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008184074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vera",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enron",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Enron"
+      },
+      "salience": 0.0008184074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enron",
+            "beginOffset": 923
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

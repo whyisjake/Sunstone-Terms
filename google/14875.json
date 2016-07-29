@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "In Home Teaching",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063512862,
+      "mentions": [
+        {
+          "text": {
+            "content": "In Home Teaching",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Corum",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01635032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corum",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crisis In Home Teaching",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00993443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crisis In Home Teaching",
+            "beginOffset": 499
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

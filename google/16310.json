@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.10260227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Authorities Today",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.035557918,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Authorities Today",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.01355921,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 852
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Stuy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033157379,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Stuy",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028228594,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 604
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

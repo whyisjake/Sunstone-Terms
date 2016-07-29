@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.032738227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 576
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 998
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085519329,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mabey Whipple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029289294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mabey Whipple",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0028468973,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 524
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Kland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019585893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonathan Kland",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019585893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "BSN",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0016231264,
+      "mentions": [
+        {
+          "text": {
+            "content": "BSN",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emily",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016231264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0016231264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abu Dhabi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Abu_Dhabi"
+      },
+      "salience": 0.00050471275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abu Dhabi",
+            "beginOffset": 933
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00050471275,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 963
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

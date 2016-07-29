@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.20022884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 688
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Columbus",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Columbus,_Ohio"
+      },
+      "salience": 0.04648339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Columbus",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Columbus",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Columbus",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gentiles Latinos",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044379767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gentiles Latinos",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Gentiles",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Gentiles",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latinos",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans"
+      },
+      "salience": 0.014054545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latinos",
+            "beginOffset": 521
+          }
+        },
+        {
+          "text": {
+            "content": "Latinos",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin_America"
+      },
+      "salience": 0.011708728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin American",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.0097110774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 375
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Richard Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38507149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Paul",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dynamic Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.21074659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dynamic Church",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Dynamic Church",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pol",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082038343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pol",
+            "beginOffset": 209
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adaptation Our Dynamic Church",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.045170587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adaptation Our Dynamic Church",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California Berkeley",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.032225639,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California Berkeley",
+            "beginOffset": 398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.0088142613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0073128138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas Christian University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas_Christian_University"
+      },
+      "salience": 0.0029883122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas Christian University",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

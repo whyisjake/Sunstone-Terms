@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.39629346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hula Dirty Dancing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039012805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hula Dirty Dancing",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.024922229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hula",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hula"
+      },
+      "salience": 0.024335502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hula",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Hula",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "RPG",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Role-playing_video_game"
+      },
+      "salience": 0.0018115095,
+      "mentions": [
+        {
+          "text": {
+            "content": "RPG",
+            "beginOffset": 312
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

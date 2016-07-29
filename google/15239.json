@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Frontier",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.34839338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Frontier",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Frontier",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Frontier",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morehouse",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Morehouse_College"
+      },
+      "salience": 0.026469495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morehouse",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Plains",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Plains"
+      },
+      "salience": 0.013134873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Plains",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Wellhausen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012454787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Wellhausen",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010337732,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 310
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prussian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+      },
+      "salience": 0.0099461535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prussian",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Lakes",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Lakes"
+      },
+      "salience": 0.0032314092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Lakes",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.0032314092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 439
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.02147954,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 597
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1021
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Generation X",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Generation_X"
+      },
+      "salience": 0.0045706504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generation X",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Generation X",
+            "beginOffset": 1505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0020772235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015525713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curtis",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0013762214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jared Oates",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012695248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jared Oates",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sherri Pendleton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012695248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sherri Pendleton",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Warnich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012695248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Warnich",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline Adler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012695248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Adler",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pamela Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012695248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pamela Bradford",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007640855,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1616
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

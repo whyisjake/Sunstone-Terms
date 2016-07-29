@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Lisa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21459419,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa",
+            "beginOffset": 235
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theatre",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1204562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theatre",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theatre",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exit Stage Left Mormon Theatre",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10871378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exit Stage Left Mormon Theatre",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exit Stage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039549828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exit Stage",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Duncan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030334871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Duncan",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.021205939,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Harrington",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017602677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Harrington",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exit Stage Left",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015154273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exit Stage Left",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

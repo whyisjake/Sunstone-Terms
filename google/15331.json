@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "University: An Historical Overview",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.28723472,
+      "mentions": [
+        {
+          "text": {
+            "content": "University: An Historical Overview",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "University: An Historical Overview",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lord&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04315751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord&",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Lord&",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Lord&",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "University: An Historical Overview Women and Feminism",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028984256,
+      "mentions": [
+        {
+          "text": {
+            "content": "University: An Historical Overview Women and Feminism",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Preston",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Preston_North_End_F.C."
+      },
+      "salience": 0.017581707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Preston",
+            "beginOffset": 168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlantic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlantic_Ocean"
+      },
+      "salience": 0.014260598,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlantic",
+            "beginOffset": 204
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

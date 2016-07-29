@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.11338232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09288688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century Mormons",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century L. Mauss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024805771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century L. Mauss",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.014830443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twenty-First Century",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011840607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twenty-First Century",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand L. Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.010593448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 495
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

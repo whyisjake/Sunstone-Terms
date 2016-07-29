@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.066141985,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1041
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apollo And Dionysus The Reconciliation Of Our Heavenly",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024428995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apollo And Dionysus The Reconciliation Of Our Heavenly",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.021459756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0048041455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030175736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jones",
+            "beginOffset": 520
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

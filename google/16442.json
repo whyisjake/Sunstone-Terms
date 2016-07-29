@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.35160202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1671
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.065576151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1877
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019318208,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knowing: Spiritual Autobiography SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015323009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowing: Spiritual Autobiography SL03091",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lou Thayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012129799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lou Thayne",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0067114015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1646
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041586356,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0030988627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022759126,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012300696,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012045457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "FAA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Federal_Aviation_Administration"
+      },
+      "salience": 0.00036282925,
+      "mentions": [
+        {
+          "text": {
+            "content": "FAA",
+            "beginOffset": 1409
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

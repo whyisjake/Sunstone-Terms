@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.16749555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRISTIAN",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.10979179,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRISTIAN",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1152
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1232
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "RECLAIMING MAGDALENE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025999406,
+      "mentions": [
+        {
+          "text": {
+            "content": "RECLAIMING MAGDALENE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      "salience": 0.02025458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 1097
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred Union",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020162836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred Union",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred Union",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.018134313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1087
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Starbird Uruguay",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011765411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Starbird Uruguay",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Starbird",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Starbird"
+      },
+      "salience": 0.011437975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Starbird",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Margaret Starbird",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith-Pettit",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010233899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith-Pettit",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Smith-Pettit",
+            "beginOffset": 1015
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.0022680264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 603
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

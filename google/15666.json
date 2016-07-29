@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "RLDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27999023,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Statistical Trends",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10615585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Statistical Trends",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goeorge Walton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056245409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goeorge Walton",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walton Statistical Trends",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02705407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walton  Statistical Trends",
+            "beginOffset": 84
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

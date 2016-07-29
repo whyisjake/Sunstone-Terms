@@ -1,0 +1,295 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.3685216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1872
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 484
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.060067788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 776
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2078
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020109445,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1917
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Ether SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013638986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Ether SL03091",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0069844774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1847
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032247107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 815
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023682995,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017160082,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1781
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015445971,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.0014654818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 1632
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014654818,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0010276943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1000
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Columbian America",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00049456232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Columbian America",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037754286,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Anderson",
+            "beginOffset": 1324
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allen Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037754286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allen Roberts",
+            "beginOffset": 1340
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

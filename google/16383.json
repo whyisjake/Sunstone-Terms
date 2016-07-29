@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.35259476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1918
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 504
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dead Lee Scroll",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10713674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dead Lee Scroll",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.018920893,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1963
+          }
+        }
+      ]
+    },
+    {
+      "name": "John D. Lee Scroll SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015003656,
+      "mentions": [
+        {
+          "text": {
+            "content": "John D. Lee Scroll SL03091",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0073429248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0054977606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 796
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steven Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046575773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven Mayfield",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0030316773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 835
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022264407,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016131708,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1827
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014520203,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001421893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mars",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mars"
+      },
+      "salience": 0.0013776417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mars",
+            "beginOffset": 1738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington state",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_(state)"
+      },
+      "salience": 0.00041561545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington state",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Throckmorton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00035489479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Throckmorton",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grumman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00035489479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grumman",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

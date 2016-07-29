@@ -1,0 +1,345 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.20346557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2015
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 527
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.080873966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 819
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardy Redd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023524262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardy Redd",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Who&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022143621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Who&",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Who&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022143621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Who&",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Fat Temple",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022143621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Fat Temple",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.013620839,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2060
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010784991,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0047060065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0043763723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 858
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0031591151,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olympics",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Olympic_Games"
+      },
+      "salience": 0.0027533087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olympic",
+            "beginOffset": 1740
+          }
+        },
+        {
+          "text": {
+            "content": "Olympic",
+            "beginOffset": 1777
+          }
+        },
+        {
+          "text": {
+            "content": "Olympics",
+            "beginOffset": 1856
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023480116,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1924
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Pace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021443593,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Pace",
+            "beginOffset": 1367
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0020956935,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0020600921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.0020051424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 1708
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00051648915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1452
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

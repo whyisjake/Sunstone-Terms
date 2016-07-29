@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Theological",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Theology"
+      },
+      "salience": 0.039809827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Theological",
+            "beginOffset": 597
+          }
+        },
+        {
+          "text": {
+            "content": "Theological",
+            "beginOffset": 109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historical",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History"
+      },
+      "salience": 0.039809827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Historical",
+            "beginOffset": 610
+          }
+        },
+        {
+          "text": {
+            "content": "Historical",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marilyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013096474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marilyn",
+            "beginOffset": 503
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

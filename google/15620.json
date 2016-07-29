@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Reading",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reading_(process)"
+      },
+      "salience": 0.1372935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055616688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi McCall",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi Kim McCall",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.055070546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 25
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

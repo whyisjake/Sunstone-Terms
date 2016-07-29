@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Parables Of The Kingdom Embodiment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.064661361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parables Of The Kingdom Embodiment",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.05602809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 527
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0335959,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 801
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017349906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041086492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 653
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

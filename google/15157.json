@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Jacob",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24346265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reading Jacob 7 Against the Grain Jacob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1284636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading Jacob 7 Against the Grain Jacob",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reading Jacob 7 Against the Grain",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.087397948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading Jacob 7 Against the Grain",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Reading Jacob 7 Against the Grain",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Prototype&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058792941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Prototype&",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Prototype&",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Prototype&",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carla Jacob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032987874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carla Jacob",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Merrimack",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028808987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Merrimack",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.027526092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 553
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

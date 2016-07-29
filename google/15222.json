@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Brian bart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06120535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian bart",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043045375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ye Hear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041382298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ye Hear",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Ye Hear",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Ye Hear",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025472207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015001842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lynn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013628324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lynn",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.013628324,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 379
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Joe Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29262519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Smith",
+            "beginOffset": 184
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision: Doctrinal Development and Analysis The First Vision: Doctrinal Development",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11851698,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision: Doctrinal Development and Analysis The First Vision: Doctrinal Development",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.058602363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019666595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 230
+          }
+        }
+      ]
+    },
+    {
+      "name": "The First Vision: Doctrinal Development",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018923586,
+      "mentions": [
+        {
+          "text": {
+            "content": "The First Vision: Doctrinal Development",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0061588832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 284
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

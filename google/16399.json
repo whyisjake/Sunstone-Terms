@@ -1,0 +1,315 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29269511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1817
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 484
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1926
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.040872782,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1660
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 776
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2023
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014008084,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0048429025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0045037861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 815
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0032513742,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024167241,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1726
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021570614,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021204229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0020638721,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1607
+          }
+        }
+      ]
+    },
+    {
+      "name": "LV",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latvia"
+      },
+      "salience": 0.0020638721,
+      "mentions": [
+        {
+          "text": {
+            "content": "LV",
+            "beginOffset": 1709
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Martindale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069647015,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Martindale",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lyn Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053167378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lyn Henderson",
+            "beginOffset": 1324
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053167378,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 1339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arianna Chen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053167378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arianna Chen",
+            "beginOffset": 1396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Samelsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053167378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samelsen",
+            "beginOffset": 1382
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

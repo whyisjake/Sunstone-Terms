@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Thought",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thought"
+      },
+      "salience": 0.09336216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.060483493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.029585013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "Have Changed My Religious Life",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029585013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Have Changed My Religious Life",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Have Changed My Religious Life",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Have Changed My Religious Life",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marnie Marty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015028586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marnie Marty",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marty a Lutheran",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0097152349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marty a Lutheran",
+            "beginOffset": 306
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0080591012,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 369
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

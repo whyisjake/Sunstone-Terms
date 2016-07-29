@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Koresh",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cyrus_Teed"
+      },
+      "salience": 0.12276889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Koresh",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Koresh",
+            "beginOffset": 419
+          }
+        },
+        {
+          "text": {
+            "content": "Koresh",
+            "beginOffset": 1060
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollow World Of Cyrus Teed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036431529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollow World Of Cyrus Teed",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.021774169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.014615889,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012291275,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Koreshanity",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Koreshanity"
+      },
+      "salience": 0.0037456951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Koreshanity",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Richardson Xander",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033355083,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Richardson Xander",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0026229296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021425511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheraton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sheraton_Hotels_and_Resorts"
+      },
+      "salience": 0.0021425511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheraton",
+            "beginOffset": 781
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

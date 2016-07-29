@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "Peter McAuslan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20837942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.068991557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 367
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1039
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1316
+          }
+        }
+      ]
+    },
+    {
+      "name": "NW10003",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024715781,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10003",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aird",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013665433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aird",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scotland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scotland"
+      },
+      "salience": 0.011545767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scotland",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Scotland",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "McAuslan&#8217",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091142086,
+      "mentions": [
+        {
+          "text": {
+            "content": "McAuslan&#8217",
+            "beginOffset": 273
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan&#8217",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.00616864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035387732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0035130857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Stapley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027023538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonathan Stapley",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0022395074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.00069638412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 903
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

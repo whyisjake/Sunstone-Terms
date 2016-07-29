@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34839568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independent Mormon Sector",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0701187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independent Mormon Sector",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Independent Mormon Sector",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independent Mormon Sector Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0623486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independent Mormon Sector Sunstone",
+            "beginOffset": 17
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

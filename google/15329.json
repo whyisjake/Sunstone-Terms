@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Excommunication An Alternative",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032912567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Excommunication An Alternative",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0078213662,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0054547479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004523688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonya",
+            "beginOffset": 443
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

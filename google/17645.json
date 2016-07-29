@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.058065355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhists",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buddhism"
+      },
+      "salience": 0.03773056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhists",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhists",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01797588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016162029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trace A. Lamb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063610538,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Lamb",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Trace A. Lamb",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

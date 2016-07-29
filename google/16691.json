@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "Romantic Eschatology Drawing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.023723915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romantic Eschatology Drawing",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.018476054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 911
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010154085,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wizard of Oz",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)"
+      },
+      "salience": 0.0094988411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wizard of Oz",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Wizard of Oz",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "Groundhog Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Groundhog_Day_(film)"
+      },
+      "salience": 0.0094988411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Groundhog Day",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Groundhog Day",
+            "beginOffset": 823
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islamic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0053558936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islamic",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0053558936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0053558936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaic",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLachlan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sarah_McLachlan"
+      },
+      "salience": 0.0039312169,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLachlan",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLaughlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003486122,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLaughlin",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scot Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024670104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scot Denhalter",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dillon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020446274,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dillon",
+            "beginOffset": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015016935,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1119
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

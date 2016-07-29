@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Modern Times",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Modern_history"
+      },
+      "salience": 0.075748019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Times",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Times",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Times",
+            "beginOffset": 181
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

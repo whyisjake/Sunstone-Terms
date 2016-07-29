@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Freedom and Diversity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015494538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom and Diversity",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom and Diversity",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom and Diversity",
+            "beginOffset": 1484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Higher Education",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011857191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Higher Education",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Higher Education",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Higher Education",
+            "beginOffset": 1509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0031388497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walter Lippmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walter_Lippmann"
+      },
+      "salience": 0.0023758514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walter Lippmann",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0020038325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1005
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0018400433,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 1160
+          }
+        },
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 1445
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0015979441,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0015979441,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley State College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_University"
+      },
+      "salience": 0.0015979441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.29042935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 761
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1294
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1396
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0023612527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0018270029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Troy Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001361474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Troy Williams",
+            "beginOffset": 901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0011626964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011626964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Derek Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011626964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Derek Larsen",
+            "beginOffset": 930
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Dobbs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011626964,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Dobbs",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011626964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 959
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

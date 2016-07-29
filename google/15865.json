@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.274398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Ellen Robertson",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism Mary Ellen Robertson",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jet Propulsion Laboratory",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory"
+      },
+      "salience": 0.011088178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jet Propulsion Laboratory",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0081617925,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0081617925,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont,_California"
+      },
+      "salience": 0.0077376529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020021209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristin",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

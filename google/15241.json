@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Community",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.082688585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Scott Card Insights Into Mormon Community",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061441094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Scott Card Insights Into Mormon Community",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.013928242,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 293
+          }
+        }
+      ]
+    },
+    {
+      "name": "Insights Into Mormon Community",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013006344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Insights Into Mormon Community",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marxist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01155726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marxist",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

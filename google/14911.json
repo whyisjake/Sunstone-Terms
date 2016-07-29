@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Metaphor",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Metaphor"
+      },
+      "salience": 0.34795955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metaphor",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Metaphor",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Metaphor for the Contemporary Church",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13905966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metaphor for the Contemporary Church",
+            "beginOffset": 103
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.071335055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Advisory Council",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Order_of_Canada"
+      },
+      "salience": 0.05286447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Advisory Council",
+            "beginOffset": 282
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Church Warehousing the Saints",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023312759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Church Warehousing the Saints",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0099700959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Church",
+            "beginOffset": 509
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

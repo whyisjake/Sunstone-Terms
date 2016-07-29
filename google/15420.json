@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.19494537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon World View The Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12772468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon World View The Church",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon World View",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.12644669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11624929,
+      "mentions": [
+        {
+          "text": {
+            "content": "History",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "History",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "History",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.050201222,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Casey PW",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031909242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Casey PW",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon World View",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030700564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon World View",
+            "beginOffset": 495
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Arnold Toynbee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33640826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arnold Toynbee",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Arnold Toynbee",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Arnold Toynbee",
+            "beginOffset": 648
+          }
+        },
+        {
+          "text": {
+            "content": "Arnold Toynbee",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1268912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin Taylor",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Calvin Taylor",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.069227904,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 987
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.018782007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Role of Creativity in History",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014768835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Role of Creativity in History",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Role of Creativity in History",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0096475063,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "America Neglecting Her Creative Talents",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004626377,
+      "mentions": [
+        {
+          "text": {
+            "content": "America Neglecting Her Creative Talents",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "America Neglecting Her Creative Talents",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0023847583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kovalenko",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023184982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kovalenko",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018211751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013019071,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1265
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

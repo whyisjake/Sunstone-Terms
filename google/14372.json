@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Goodness A Radical View",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12166683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goodness A Radical View",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "IBM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IBM"
+      },
+      "salience": 0.024245409,
+      "mentions": [
+        {
+          "text": {
+            "content": "IBM",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.020133033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fabian Clendenin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063025556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fabian Clendenin",
+            "beginOffset": 295
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

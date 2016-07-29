@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14201482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 496
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 610
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 798
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01690322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert V. Remini",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_V._Remini"
+      },
+      "salience": 0.005044769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert V. Remini",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Illinois at Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago"
+      },
+      "salience": 0.0020023203,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Illinois at Chicago",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Viking",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Viking_Press"
+      },
+      "salience": 0.00062290853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Viking",
+            "beginOffset": 824
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

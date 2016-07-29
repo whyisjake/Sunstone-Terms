@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.43518811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 284
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

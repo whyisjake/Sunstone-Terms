@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "John Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46719515,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Hamer",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland Telmple",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.079508051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland Telmple",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.079508051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.026365846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.020214111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland Temple",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland_Temple"
+      },
+      "salience": 0.020214111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland Temple",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland Temple",
+            "beginOffset": 326
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

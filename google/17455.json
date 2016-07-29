@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.21256983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.14775532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 610
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1251
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Secular Views United",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14314568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Secular Views United",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Psychobiography",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029417289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psychobiography",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.016288875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0029285816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026006897,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Anderson",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Morain",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026006897,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Morain",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celtic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Celtic_F.C."
+      },
+      "salience": 0.0021553182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celtic",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0021553182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 781
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jules",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021553182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jules",
+            "beginOffset": 864
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Campbell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006702696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Campbell",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

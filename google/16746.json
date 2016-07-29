@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "John Paul II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_John_Paul_II"
+      },
+      "salience": 0.22318093,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Paul II",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "John Paul II",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Poland"
+      },
+      "salience": 0.031361636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polish",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Poland",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "Polish",
+            "beginOffset": 1138
+          }
+        },
+        {
+          "text": {
+            "content": "Poland",
+            "beginOffset": 1246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028546568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022200961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berlin Wall",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berlin_Wall"
+      },
+      "salience": 0.021881079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berlin Wall",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dad",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Father"
+      },
+      "salience": 0.0083883936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dad",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Dad",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Solidarity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)"
+      },
+      "salience": 0.0083883936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solidarity",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Solidarity",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024884017,
+      "mentions": [
+        {
+          "text": {
+            "content": "England Hansen",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024884017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jean",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020622748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jean",
+            "beginOffset": 717
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

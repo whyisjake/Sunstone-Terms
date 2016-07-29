@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Coming Attractions II",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.62395662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coming Attractions II",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Coming Attractions II",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Culture Coming Attractions II",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.086681619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture Coming Attractions II",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Culture",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Culture_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.06455034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Culture",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.020094385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014273735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennings",
+            "beginOffset": 338
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Little Children Joseph Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39136875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Little Children Joseph Smith",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Little Children  Joseph Smith",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "Little Children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060923368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little Children",
+            "beginOffset": 132
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Sandra",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22734697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandra",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Sandra",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.10507419,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion Wait Forever",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1024267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion Wait Forever",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Zion Wait Forever",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Zion Wait Forever",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirk",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052496407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirk",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clayton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015498217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clayton",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Clayton",
+            "beginOffset": 254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.011100507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 322
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

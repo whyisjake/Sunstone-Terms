@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Edward Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33519298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward Jones",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Edward Jones",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Ross",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15442026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Ross",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Nancy Ross",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041185934,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paradise"
+      },
+      "salience": 0.041185934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Smyth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032521475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Smyth",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Karen Smyth",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014967103,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 139
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Erik",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27121535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Erik",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Erik",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Erik",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.080551438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints Paul",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Saints Paul",
+            "beginOffset": 736
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ann Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023221187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ann Larsen",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Ann Larsen",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0041943407,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016672881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Larsen",
+            "beginOffset": 703
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

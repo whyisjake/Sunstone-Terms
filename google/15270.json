@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Church-Intellectual Rift",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.28798231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church-Intellectual Rift",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Church-Intellectual Rift",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church-Intellectual Rift",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04584093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church-Intellectual Rift",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chandler,_Arizona"
+      },
+      "salience": 0.0093865441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chandler",
+            "beginOffset": 252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0093865441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023022234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lula",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+      },
+      "salience": 0.0021242036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lula",
+            "beginOffset": 596
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

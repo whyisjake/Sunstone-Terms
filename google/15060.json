@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.16328076,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bernard",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012087364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bernard",
+            "beginOffset": 107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University_Press"
+      },
+      "salience": 0.012087364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University Press",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0095095234,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 254
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

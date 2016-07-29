@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Cain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_and_Abel"
+      },
+      "salience": 0.40846559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 667
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 935
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 1004
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kovalenko",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025203885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kovalenko",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Birgitta Kovalenko",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025203885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Birgitta Kovalenko",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Allen Kovalenko",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025203885,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Allen Kovalenko",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0024700593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 388
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.002292491,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie Palmer Sheppard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019248595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie Palmer Sheppard",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019248595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 587
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

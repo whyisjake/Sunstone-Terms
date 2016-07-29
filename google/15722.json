@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Emmanuel Swedenborg",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+      },
+      "salience": 0.51582068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emanuel Swedenborg",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Emmanuel Swedenborg",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Emmanuel Swedenborg",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Craig W. Miller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03994311,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Miller",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Craig W. Miller",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffery Needle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03994311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffery Needle",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Jeffery Needle",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-Day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.03895434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day Saint",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saint",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saint",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.018313363,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.011012471,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sweden"
+      },
+      "salience": 0.0047201044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweden",
+            "beginOffset": 439
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

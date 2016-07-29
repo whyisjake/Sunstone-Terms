@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.13172233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glen Leonard&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027654683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glen Leonard&",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Glen Leonard&",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Moore",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Moore"
+      },
+      "salience": 0.018433783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014084126,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Anderson",
+            "beginOffset": 404
+          }
+        },
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003751246,
+      "mentions": [
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0036375972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary James Bergera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035553095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary James Bergera",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Michael Marquardt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035553095,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Michael Marquardt",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029465768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooks",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leslie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029465768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leslie",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0029465768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stan_Smith"
+      },
+      "salience": 0.0029465768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_University"
+      },
+      "salience": 0.00091646175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton University",
+            "beginOffset": 800
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.356591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.0074268216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 932
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.Div.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Divinity"
+      },
+      "salience": 0.0019327189,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.Div.",
+            "beginOffset": 387
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.0018317575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0018317575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Michigan",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Michigan"
+      },
+      "salience": 0.0015180996,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Michigan",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Ocean"
+      },
+      "salience": 0.0015180996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.0015180996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley California",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085242669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 374
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.0004721391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 731
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

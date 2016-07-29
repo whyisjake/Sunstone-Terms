@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Dialogue Science",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12882185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dialogue Science",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.057105474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018261911,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0074978261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 311
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

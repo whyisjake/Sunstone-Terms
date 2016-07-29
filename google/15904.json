@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "SACRED GROUND",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacred"
+      },
+      "salience": 0.069074705,
+      "mentions": [
+        {
+          "text": {
+            "content": "SACRED GROUND",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "SACRED GROUND B. Stammer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0620622,
+      "mentions": [
+        {
+          "text": {
+            "content": "SACRED GROUND B. Stammer",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.042128585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Jones",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Eric Jones",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacramento",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacramento,_California"
+      },
+      "salience": 0.018677264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacramento",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles Times Larry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015854267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles Times Larry",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.014300276,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Jose,_California"
+      },
+      "salience": 0.014300276,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "London",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/London"
+      },
+      "salience": 0.013559011,
+      "mentions": [
+        {
+          "text": {
+            "content": "London",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montreal",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Montreal_Protocol"
+      },
+      "salience": 0.013559011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montreal",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ronald_Reagan"
+      },
+      "salience": 0.011252096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronald Reagan",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerry Brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jerry_Brown"
+      },
+      "salience": 0.011252096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerry Brown",
+            "beginOffset": 312
+          }
+        }
+      ]
+    },
+    {
+      "name": "SACRED GROUND Larry B. Stammer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096852574,
+      "mentions": [
+        {
+          "text": {
+            "content": "SACRED GROUND Larry B. Stammer",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exxon Valdez",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill"
+      },
+      "salience": 0.0035149553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exxon Valdez",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daimler",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Daimler_AG"
+      },
+      "salience": 0.0024804082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daimler",
+            "beginOffset": 377
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

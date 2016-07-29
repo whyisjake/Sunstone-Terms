@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "United",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Airlines"
+      },
+      "salience": 0.026439752,
+      "mentions": [
+        {
+          "text": {
+            "content": "United",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "John The Dilemma",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022853374,
+      "mentions": [
+        {
+          "text": {
+            "content": "John The Dilemma",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Andreas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015766356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Andreas",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Madison,_Wisconsin"
+      },
+      "salience": 0.012406651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madison",
+            "beginOffset": 282
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

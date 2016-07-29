@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061190754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041581929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel Recker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024862422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel Recker",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace Beyond",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017173218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace Beyond",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.014389875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012651338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 169
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

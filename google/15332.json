@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Linda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39555341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.22497249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACLU&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075926654,
+      "mentions": [
+        {
+          "text": {
+            "content": "ACLU&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Four Letter Word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075926654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Four Letter Word",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Four Letter Word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0516527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Four Letter Word",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Four Letter Word",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACLU&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01191726,
+      "mentions": [
+        {
+          "text": {
+            "content": "ACLU&",
+            "beginOffset": 440
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

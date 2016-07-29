@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.47097677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Young",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Young",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Young",
+            "beginOffset": 544
+          }
+        },
+        {
+          "text": {
+            "content": "Young",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.06177225,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Golden State",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.037059169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden State",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Golden State",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis and Clark",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+      },
+      "salience": 0.028060285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis and Clark",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Lewis and Clark",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claifornia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013725965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claifornia",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Claifornia",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Californic",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007166462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Californic",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Californic",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Brannan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samuel_Brannan"
+      },
+      "salience": 0.0057584397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Brannan",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Brannan",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0057584397,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco"
+      },
+      "salience": 0.0057584397,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046659471,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Smith",
+            "beginOffset": 373
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

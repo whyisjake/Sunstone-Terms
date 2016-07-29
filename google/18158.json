@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Lunchtime Presentation 4 Letters 4 Views Of Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026704906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lunchtime Presentation 4 Letters 4 Views Of Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WHO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_Health_Organization"
+      },
+      "salience": 0.02429786,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHO",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "WHO",
+            "beginOffset": 953
+          }
+        }
+      ]
+    },
+    {
+      "name": "WHAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013717157,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHAT",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "WHAT",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Osmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040301341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Osmond",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bertrand_Russell"
+      },
+      "salience": 0.0030410846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlanta Georgia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.0025203885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlanta Georgia",
+            "beginOffset": 748
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

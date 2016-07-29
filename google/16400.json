@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.26503563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2023
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 515
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.15374626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 807
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.098997414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.012540149,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2068
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0099301431,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0043337853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1998
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0041155862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 846
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0029417458,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023079673,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002221697,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1932
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019426394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1031
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0018972995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015722016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00057236286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 1402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00057236286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Hansen",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vickie Stewart Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048874028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vickie Stewart Eastman",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neal Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048874028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal Chandler",
+            "beginOffset": 1387
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

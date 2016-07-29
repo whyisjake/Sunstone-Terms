@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Purity Myth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044279069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Purity Myth",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.022667043,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benincosa",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020013871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benincosa",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "wifedom",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wife"
+      },
+      "salience": 0.0049653463,
+      "mentions": [
+        {
+          "text": {
+            "content": "wifedom",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "wifedom",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paris",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paris"
+      },
+      "salience": 0.0039147944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paris",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032431954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "salience": 0.0012174974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": 768
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

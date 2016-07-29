@@ -1,0 +1,305 @@
+{
+  "entities": [
+    {
+      "name": "Peter McAuslan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32856679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan",
+            "beginOffset": 611
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan",
+            "beginOffset": 851
+          }
+        },
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scottish Immigrant",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03641922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scottish Immigrant",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.025526002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 543
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1099
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Convert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025236771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Convert",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10009",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019341849,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10009",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "American West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_frontier"
+      },
+      "salience": 0.019341849,
+      "mentions": [
+        {
+          "text": {
+            "content": "American West",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.017595449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 1183
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016207526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015202862,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scotland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scotland"
+      },
+      "salience": 0.011094375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scotland",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Scotland",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    },
+    {
+      "name": "McAuslan&#8217",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028194331,
+      "mentions": [
+        {
+          "text": {
+            "content": "McAuslan&#8217",
+            "beginOffset": 444
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan&#8217",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0022590968,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012539498,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.00054551783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angela Breeland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054551783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angela Breeland",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polly Aird",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054551783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polly Aird",
+            "beginOffset": 951
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

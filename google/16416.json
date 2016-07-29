@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.25597033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2051
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.056334402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 793
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2257
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.018823674,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2096
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sister Missionary SL03091",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014926564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sister Missionary SL03091",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0065338118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 2026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sidni Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055304831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sidni Jones",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chandler,_Arizona"
+      },
+      "salience": 0.004968666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chandler",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0030160998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 832
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022150008,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016048821,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1960
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014445595,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001414587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grove",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grove_(nature)"
+      },
+      "salience": 0.0013705631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grove",
+            "beginOffset": 1831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oberman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013705631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oberman",
+            "beginOffset": 1814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim Talentino",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001135733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim Talentino",
+            "beginOffset": 1351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001135733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001135733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Johns",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

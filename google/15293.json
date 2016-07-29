@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Propaganda Means Never",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14424099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Propaganda Means Never",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Propaganda Means Never",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sorry Propaganda Means",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12850331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sorry Propaganda Means",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "IIII",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roman_numerals"
+      },
+      "salience": 0.029328644,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I I I",
+            "beginOffset": 291
+          }
+        }
+      ]
+    },
+    {
+      "name": "III",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/NCAA_Division_III"
+      },
+      "salience": 0.021033807,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I I",
+            "beginOffset": 252
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

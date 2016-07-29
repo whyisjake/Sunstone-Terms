@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moses"
+      },
+      "salience": 0.069219075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 1102
+          }
+        },
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 1148
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lunchtime Laughs Lunchtime",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049145978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lunchtime Laughs Lunchtime",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beyond Free Agency and Dignity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044027105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyond Free Agency and Dignity",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.F. Skinner&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019362472,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. F. Skinner&",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "B. F. Skinner&",
+            "beginOffset": 984
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matt Workman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066838064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matt Workman",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Hagen Glenn Corbett&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028476566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Hagen Glenn Corbett&",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Hagen",
+            "beginOffset": 423
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Hagen Glenn Corbett&",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lunchtime Laughs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017066778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lunchtime Laughs",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beyond Free Agency and Dignity",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0012474719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyond Free Agency and Dignity",
+            "beginOffset": 918
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,173 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Liturgy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.091254652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Liturgy",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04287485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women&",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exaltation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Exaltation_(Mormonism)"
+      },
+      "salience": 0.028160926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exaltation",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presiding",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01204711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presiding",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Presiding",
+            "beginOffset": 967
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0032436952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "liz Hammond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032055664,
+      "mentions": [
+        {
+          "text": {
+            "content": "liz Hammond",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008091114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kelly",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julia Hamilton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008091114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julia Hamilton",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amanda Klein Nokleby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008091114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amanda Klein Nokleby",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katie Langston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008091114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katie Langston",
+            "beginOffset": 833
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

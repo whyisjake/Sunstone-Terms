@@ -1,0 +1,269 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.098294295,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 710
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_Christ_(Latter_Day_Saints)"
+      },
+      "salience": 0.027458413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1285
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10322",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024806038,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10322",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Marquardt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012741791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Marquardt",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Marquardt",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. MICHAEL QUINN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.012482976,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. MICHAEL QUINN",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Sr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith,_Sr."
+      },
+      "salience": 0.0084879743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Sr.",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Sr.",
+            "beginOffset": 1456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyrum Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hyrum_Smith"
+      },
+      "salience": 0.0084879743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyrum Smith",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Hyrum Smith",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)"
+      },
+      "salience": 0.0084879743,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Smith",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "William Smith",
+            "beginOffset": 1491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0069072437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 946
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHEPHERD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shepherd"
+      },
+      "salience": 0.003307329,
+      "mentions": [
+        {
+          "text": {
+            "content": "SHEPHERD",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "GARY SHEPHERD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003307329,
+      "mentions": [
+        {
+          "text": {
+            "content": "GARY SHEPHERD",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0023411748,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stony Brook",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stony_Brook_University"
+      },
+      "salience": 0.0023411748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stony Brook",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Cooper",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023411748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Cooper",
+            "beginOffset": 836
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49118161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10112228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle Paul&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035894763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle Paul&",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.032407865,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029330449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026188023,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Encounter",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.022676758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Encounter",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.022676758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert M. Bowman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021184253,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Bowman",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Robert M. Bowman",
+            "beginOffset": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jr.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Junior_(education)"
+      },
+      "salience": 0.018120855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jr.",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Jr",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

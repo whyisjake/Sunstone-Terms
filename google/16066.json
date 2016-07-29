@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "What Is Truth",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.06463217,
+      "mentions": [
+        {
+          "text": {
+            "content": "What Is Truth",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "What Is Truth",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "What Is Truth",
+            "beginOffset": 335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Directed Oh Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03423446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Directed Oh Way",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Directed",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Film_director"
+      },
+      "salience": 0.025264597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Directed",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oh Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023960682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh Way",
+            "beginOffset": 327
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.019350935,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacramento",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacramento,_California"
+      },
+      "salience": 0.0047606695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacramento",
+            "beginOffset": 229
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

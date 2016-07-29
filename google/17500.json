@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "MORMON QUESTION VS THE MORMON",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.036746476,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON QUESTION VS THE MORMON",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "JON HUNTSMAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Huntsman,_Jr."
+      },
+      "salience": 0.035417207,
+      "mentions": [
+        {
+          "text": {
+            "content": "JON HUNTSMAN",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Jon Huntsman",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Jon Huntsman",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rocky Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rocky_Anderson"
+      },
+      "salience": 0.028631009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rocky Anderson",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Rocky Anderson",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.028631009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "MITT ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.022580974,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019093469,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.014731166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Question",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042168545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Question",
+            "beginOffset": 434
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Question",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

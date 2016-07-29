@@ -1,0 +1,219 @@
+{
+  "entities": [
+    {
+      "name": "IPP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Irish_Parliamentary_Party"
+      },
+      "salience": 0.1642804,
+      "mentions": [
+        {
+          "text": {
+            "content": "IPP",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "IPP",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "IPP",
+            "beginOffset": 521
+          }
+        },
+        {
+          "text": {
+            "content": "IPP",
+            "beginOffset": 986
+          }
+        },
+        {
+          "text": {
+            "content": "IPP",
+            "beginOffset": 1087
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restored Gospel",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Restorationism"
+      },
+      "salience": 0.022859938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restored Gospel",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Restored Gospel",
+            "beginOffset": 592
+          }
+        },
+        {
+          "text": {
+            "content": "Restored Gospel",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013083571,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 845
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 936
+          }
+        }
+      ]
+    },
+    {
+      "name": "Integral",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)"
+      },
+      "salience": 0.01069796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Integral",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Integral",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099355485,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Kesler",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0098076863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "East",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026746634,
+      "mentions": [
+        {
+          "text": {
+            "content": "East",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(genre)"
+      },
+      "salience": 0.0026746634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Wilber",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ken_Wilber"
+      },
+      "salience": 0.0021576136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Wilber",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.0006710462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 831
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

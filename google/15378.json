@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Grand Inquisitor Right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28209811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grand Inquisitor Right",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Grand Inquisitor Right",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Grand Inquisitor Right",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.055139672,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.039041415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.039041415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.039041415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.023800023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 368
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

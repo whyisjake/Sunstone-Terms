@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2401873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Kirby",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "MERRY OLD LAND",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.049378436,
+      "mentions": [
+        {
+          "text": {
+            "content": "MERRY OLD LAND",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oz",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Land_of_Oz"
+      },
+      "salience": 0.044299208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oz",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Oz",
+            "beginOffset": 942
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas"
+      },
+      "salience": 0.034456573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Kansas",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dorothy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dorothy_Gale"
+      },
+      "salience": 0.034456573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dorothy",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Dorothy",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toto",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Toto_(Oz)"
+      },
+      "salience": 0.034456573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toto",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Toto",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027797205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonland",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonland",
+            "beginOffset": 898
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00553027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Odds",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Odds"
+      },
+      "salience": 0.005070704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Odds",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Odds",
+            "beginOffset": 1090
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego"
+      },
+      "salience": 0.0044314559,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 521
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

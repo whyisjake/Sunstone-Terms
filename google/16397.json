@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.40756649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1810
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 489
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.065685593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 781
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2016
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.02195821,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1855
+          }
+        }
+      ]
+    },
+    {
+      "name": "Murder of Ann Pulitzer SL03091",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.014889385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Murder of Ann Pulitzer SL03091",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Hooper Young",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014889385,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Hooper Young",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0076229568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Davis_County,_Utah"
+      },
+      "salience": 0.0057154908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davis",
+            "beginOffset": 1648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0035190138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 820
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025843619,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0018725168,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1719
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016854617,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 985
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0016504915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0015991267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 1680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sony"
+      },
+      "salience": 0.00062268897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sony",
+            "beginOffset": 1553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth Sonya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048243997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth Sonya",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Parshall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00041195669,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Parshall",
+            "beginOffset": 1329
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00041195669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

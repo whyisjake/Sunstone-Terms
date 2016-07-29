@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Origen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Origen"
+      },
+      "salience": 0.07854487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Origen",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Origen",
+            "beginOffset": 1224
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vicky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043519209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vicky",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0032411104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Peter"
+      },
+      "salience": 0.0032411104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sea of Tiberias",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sea_of_Galilee"
+      },
+      "salience": 0.0032411104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sea of Tiberias",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stewart Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031547649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stewart Eastman",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "John 21",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_21"
+      },
+      "salience": 0.003025563,
+      "mentions": [
+        {
+          "text": {
+            "content": "John 21",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "John 21",
+            "beginOffset": 1288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bartlesville Oklahoma",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0029900053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bartlesville Oklahoma",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029900053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.0029900053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 623
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37978142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Memory Of Hillman",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19031322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Memory Of Hillman",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thea Hillman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010690374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thea Hillman",
+            "beginOffset": 393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

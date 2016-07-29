@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.29244646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "ART THOU",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035643522,
+      "mentions": [
+        {
+          "text": {
+            "content": "ART THOU",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "ART THOU",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "ART THOU",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "O GOD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0339362,
+      "mentions": [
+        {
+          "text": {
+            "content": "O GOD",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "O GOD",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014298263,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Anderson",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Psalms Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013383276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Psalms Anderson",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "O GOD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010439763,
+      "mentions": [
+        {
+          "text": {
+            "content": "O GOD",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie K. Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078643207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie K. Curtis",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Julie K. Curtis",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078643207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0066221058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 282
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

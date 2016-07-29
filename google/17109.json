@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019322488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011880064,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Family",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "The Family",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "God.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.010321352,
+      "mentions": [
+        {
+          "text": {
+            "content": "God.",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "God.",
+            "beginOffset": 1247
+          }
+        }
+      ]
+    },
+    {
+      "name": "World&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058057541,
+      "mentions": [
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 1187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0025638374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021581273,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby) Pingree Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021581273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree Jesus",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pingry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00078589562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pingry",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jamie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006710919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jamie",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

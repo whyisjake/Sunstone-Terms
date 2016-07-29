@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "World Whether",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.094026841,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Whether",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Today&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036643364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Today&",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.0026558025,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nelson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nelson,_New_Zealand"
+      },
+      "salience": 0.0023584354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nelson",
+            "beginOffset": 658
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

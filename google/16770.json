@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "name": "Alfred Hitchcock",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_Hitchcock"
+      },
+      "salience": 0.1957441,
+      "mentions": [
+        {
+          "text": {
+            "content": "HITCHCOCK",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Alfred Hitchcock",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 1138
+          }
+        },
+        {
+          "text": {
+            "content": "Alfred Hitchcock",
+            "beginOffset": 1359
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 1305
+          }
+        },
+        {
+          "text": {
+            "content": "HITCHCOCK",
+            "beginOffset": 1329
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 1507
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM HITCHCOCK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056427874,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM HITCHCOCK",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hitchcock&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013238052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hitchcock&",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock&",
+            "beginOffset": 1594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0098696882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.009432219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 1291
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.008340667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 434
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alfred Hitchcock Presents",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents"
+      },
+      "salience": 0.0036727348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alfred Hitchcock Presents",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0033407861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1152
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1254
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Williams_(actor)"
+      },
+      "salience": 0.0025701942,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Williams",
+            "beginOffset": 802
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

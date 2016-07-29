@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.10001049,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012695236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Bush",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035095559,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Bush",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eduardo Obregon Pagan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023471955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eduardo Obregon Pagan",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023471955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022245697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ann wertman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022245697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ann wertman",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Woodward",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022245697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Woodward",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.0018436159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona State University",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

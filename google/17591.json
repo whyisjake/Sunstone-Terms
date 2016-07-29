@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "B)",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032505315,
+      "mentions": [
+        {
+          "text": {
+            "content": "B)",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "EX-MORMON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ex-Mormon"
+      },
+      "salience": 0.031301044,
+      "mentions": [
+        {
+          "text": {
+            "content": "EX-MORMON",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.031301044,
+      "mentions": [
+        {
+          "text": {
+            "content": "C",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0074754353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fisher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060560247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fisher",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060560247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043298365,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 931
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

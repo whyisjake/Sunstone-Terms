@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.25711361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH AND STATE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Separation_of_church_and_state"
+      },
+      "salience": 0.0359248,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH AND STATE",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRIGHAM YOUNG&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027580325,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRIGHAM YOUNG&",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "S TELESTIAL KINGDOM",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027580325,
+      "mentions": [
+        {
+          "text": {
+            "content": "S TELESTIAL KINGDOM",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.015857795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0078088124,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas Alexander",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_G._Alexander"
+      },
+      "salience": 0.0054646065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas Alexander",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0039036751,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 637
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1204
+          }
+        }
+      ]
+    },
+    {
+      "name": "Telestial Kingdom",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Degrees_of_glory"
+      },
+      "salience": 0.0033247108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Telestial Kingdom",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0019531128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Snuffer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019199519,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Snuffer",
+            "beginOffset": 741
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

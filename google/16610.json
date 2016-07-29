@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0279272,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDCs",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Least_developed_country"
+      },
+      "salience": 0.014044167,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDCs",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "LDCs",
+            "beginOffset": 1311
+          }
+        },
+        {
+          "text": {
+            "content": "LDCs",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.010087313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032697173,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Walker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032697173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Walker",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polly Sheffield",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032697173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polly Sheffield",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warner P. Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027097121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warner P. Woodworth",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sandra Hernandez",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027097121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandra Hernandez",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Teresa Fuentes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027097121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teresa Fuentes",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gladys Guerrero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027097121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gladys Guerrero",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00084261346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philippine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philippines"
+      },
+      "salience": 0.00084261346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philippine",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.00084261346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

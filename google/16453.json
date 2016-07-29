@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.41485709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1439
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 466
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.087569393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 758
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1645
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Blessing SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03075259,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Blessing SL03091",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1348
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.010091738,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0090274978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0041701379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0022498833,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.0018955969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 1306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018955969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 1319
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016556864,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0016213362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 982
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

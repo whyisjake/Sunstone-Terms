@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Alan Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18140991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan Eastman",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Alan Eastman",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.074061885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel Mabey Whipple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.074061885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Mabey Whipple",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Rachel Mabey Whipple",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072877117,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Allred",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "David Allred",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium/ Session 173: Climate Change",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0634949,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium/ Session 173: Climate Change",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael seventy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035244372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael seventy",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021848097,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_University"
+      },
+      "salience": 0.01719543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton University",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jean genet",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jean_Genet"
+      },
+      "salience": 0.01719543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jean genet",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

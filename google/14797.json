@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Symbiosis",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Symbiosis"
+      },
+      "salience": 0.26528472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Symbiosis",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "St biosis",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0071108737,
+      "mentions": [
+        {
+          "text": {
+            "content": "St biosis",
+            "beginOffset": 259
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

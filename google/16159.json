@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Wake More",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028057572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wake More",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Wake",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Wake",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "May&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023341473,
+      "mentions": [
+        {
+          "text": {
+            "content": "May&",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "May&",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "May&",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "May Swenson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/May_Swenson"
+      },
+      "salience": 0.019480448,
+      "mentions": [
+        {
+          "text": {
+            "content": "May Swenson",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Swenson",
+            "beginOffset": 573
+          }
+        },
+        {
+          "text": {
+            "content": "May Swenson",
+            "beginOffset": 871
+          }
+        }
+      ]
+    },
+    {
+      "name": "Corwin Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050082691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corwin Swenson",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roy Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050082691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roy Swenson",
+            "beginOffset": 598
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

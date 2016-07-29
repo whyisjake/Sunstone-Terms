@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Culture",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Culture_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.46496353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Culture",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Culture Feminist",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.066867463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Culture Feminist",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Feminist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048571665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feminist",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Feminist",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014914258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011263298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonya Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073472485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonya Johnson",
+            "beginOffset": 403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

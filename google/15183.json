@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Hugh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52133685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "What&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030246018,
+      "mentions": [
+        {
+          "text": {
+            "content": "What&",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "What&",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "What&",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.011688005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brodie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046481453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brodie",
+            "beginOffset": 255
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

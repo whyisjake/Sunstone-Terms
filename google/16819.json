@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.08173231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1331
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Political Action My Call",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03015231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Political Action My Call",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._Russell"
+      },
+      "salience": 0.029044518,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan D. Skoor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027205534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan D. Skoor",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.016658336,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Political Action",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01324792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Political Action",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Political Action",
+            "beginOffset": 1164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.003334211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 674
+          }
+        },
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0025391961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.A.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mother"
+      },
+      "salience": 0.0023565961,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.A.",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Respondent"
+      },
+      "salience": 0.0023565961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 621
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

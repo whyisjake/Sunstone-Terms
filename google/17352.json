@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Women",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.086849347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10325",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046980124,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10325",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claims",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Proposition"
+      },
+      "salience": 0.046980124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claims",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.045076411,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0066174851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0056360513,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "GILLON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005361849,
+      "mentions": [
+        {
+          "text": {
+            "content": "GILLON",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAXINE HANKS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005361849,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAXINE HANKS",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_University"
+      },
+      "salience": 0.0044440068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

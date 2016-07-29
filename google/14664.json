@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Little",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Little_Cottonwood_Canyon"
+      },
+      "salience": 0.041692033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History More Parallels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025680631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History More Parallels",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.011407401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035628045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rick",
+            "beginOffset": 415
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

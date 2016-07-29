@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Benson&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2320438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benson&",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Benson&",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Benson&",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011189489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saad",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ayatollah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ayatollah"
+      },
+      "salience": 0.0010049981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ayatollah",
+            "beginOffset": 421
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

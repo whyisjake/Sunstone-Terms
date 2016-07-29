@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "California Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.042938452,
+      "mentions": [
+        {
+          "text": {
+            "content": "California Mormons",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "California Mormons",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "California Mormons",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Their Fellow Citizens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036793787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Their Fellow Citizens",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Their Fellow Citizens",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Their Fellow Citizens",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01959346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon California",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.016506638,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012739771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.012739771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.01207773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Sandra Dino doctor Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031251179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Sandra Dino doctor Lyman",
+            "beginOffset": 478
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

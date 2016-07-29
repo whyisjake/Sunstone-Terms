@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "JOSEPH F. SMITH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41689214,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH F. SMITH",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH F. SMITH",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH F. SMITH",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Formative Years",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.35352802,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Formative Years",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "The Formative Years",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "The Formative Years",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Flake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027299305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jason_Kenney"
+      },
+      "salience": 0.014703457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenney",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frederic",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00879272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frederic",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062813051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenney",
+            "beginOffset": 581
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.21731031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.049271107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Beyond The Mainstream Practicing Celestial Marriage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047195841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Beyond The Mainstream Practicing Celestial Marriage",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 405
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0066443416,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046857866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne Wilde",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin Kraut",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046857866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin Kraut",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christine Mackley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046857866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christine Mackley",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan Shepp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046857866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Shepp",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huss Basquiat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038320834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huss Basquiat",
+            "beginOffset": 465
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

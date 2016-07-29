@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.093400113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054385461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth",
+            "beginOffset": 346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lewis_University"
+      },
+      "salience": 0.014909348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012370748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron",
+            "beginOffset": 298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ecclesiastical",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ecclesiology"
+      },
+      "salience": 0.011901394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ecclesiastical",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0090991119,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Huntington",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038623724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Huntington",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

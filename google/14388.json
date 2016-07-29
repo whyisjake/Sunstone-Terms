@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Pilate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24681407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pilate",
+            "beginOffset": 137
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baton: Can You Raise Thinking",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.091381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baton: Can You Raise Thinking",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Baton: Can You Raise Thinking",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Baton: Can You Raise Thinking",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012597885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 270
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 308
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

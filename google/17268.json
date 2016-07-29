@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Early Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_Latter_Day_Saint_movement"
+      },
+      "salience": 0.03786736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormonism",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 847
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10007",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0336703,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10007",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Us",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0336703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Us",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017365869,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-LDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017365869,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 775
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johann Gottlieb Fichte American",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082817115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johann Gottlieb Fichte American",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0040604291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0039089187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0032897352,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ralph Waldo Emerson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+      },
+      "salience": 0.0032897352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ralph Waldo Emerson",
+            "beginOffset": 630
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

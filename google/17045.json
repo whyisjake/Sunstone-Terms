@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.08373028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 273
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 749
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cross Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036311213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cross Mormons",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christendom",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christendom"
+      },
+      "salience": 0.015974483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christendom",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Christendom",
+            "beginOffset": 1271
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013319337,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011490815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 1492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0067397263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 532
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 971
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1189
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0049511245,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0034547858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons non-Christian",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026220889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons non-Christian",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025330146,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0024188147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019629123,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Antarctic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Antarctica"
+      },
+      "salience": 0.0019629123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Antarctic",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeannie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061033363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeannie",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

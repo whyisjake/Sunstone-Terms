@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Sarah Barringer Gordon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sarah_Barringer_Gordon"
+      },
+      "salience": 0.13583149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah Barringer Gordon",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah Barringer Gordon",
+            "beginOffset": 549
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah Barringer Gordon",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.037332013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.019866014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024907324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rex Sears",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Tinker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020643556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Tinker",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020643556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Driggs",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

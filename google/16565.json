@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.1188591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 831
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "ABANDONMENT OF PLURAL MARRIAGE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060334478,
+      "mentions": [
+        {
+          "text": {
+            "content": "ABANDONMENT OF PLURAL MARRIAGE",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.048294708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 549
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Flake&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028954236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Flake&",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Kathleen Flake&",
+            "beginOffset": 864
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Flake"
+      },
+      "salience": 0.008857985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flake",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S. Senate",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Senate"
+      },
+      "salience": 0.0074896272,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S. Senate",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reed Smoot",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reed_Smoot"
+      },
+      "salience": 0.0069918283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reed Smoot",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Reed Smoot",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Eugene Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00560863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert Eugene Peck",
+            "beginOffset": 567
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.014188629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1119
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.014188629,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ezra Taft Benson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ezra_Taft_Benson"
+      },
+      "salience": 0.012751528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 1057
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039043583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cornett",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0030782691,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030260126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 666
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

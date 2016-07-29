@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Mark Hofmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Hofmann"
+      },
+      "salience": 0.10472541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Manuscript Bombings: Fraud and Deceit",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.1023894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Manuscript Bombings: Fraud and Deceit",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Manuscript Bombings: Fraud and Deceit",
+            "beginOffset": 110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tolbert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025728347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tolbert",
+            "beginOffset": 183
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose mercury press",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024395669,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose mercury press",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newsweek",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Newsweek"
+      },
+      "salience": 0.023678981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newsweek",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Manuscript Bombings: Fraud and Deceit",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.021234343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Manuscript Bombings: Fraud and Deceit",
+            "beginOffset": 551
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

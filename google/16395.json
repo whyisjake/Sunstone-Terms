@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37759623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1854
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 513
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0616349,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 805
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2060
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020385101,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.019683648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Closer Friends SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016165875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Closer Friends SL03091",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070773787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032672274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 844
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002399462,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Andersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022217154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Andersen",
+            "beginOffset": 1529
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015648818,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001269864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038248737,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grossman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038248737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grossman",
+            "beginOffset": 1422
+          }
+        }
+      ]
+    },
+    {
+      "name": "nt",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.00038248737,
+      "mentions": [
+        {
+          "text": {
+            "content": "nt",
+            "beginOffset": 1493
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

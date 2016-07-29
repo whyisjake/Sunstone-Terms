@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1341041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 735
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marylee Mitcham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045812145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marylee Mitcham",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Commandment",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Commandment"
+      },
+      "salience": 0.024598401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Commandment",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "First Commandment",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "First Commandment",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0036926284,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "N. Blanchard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034048986,
+      "mentions": [
+        {
+          "text": {
+            "content": "N. Blanchard",
+            "beginOffset": 358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0026744578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholicism",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.0026744578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholicism",
+            "beginOffset": 588
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

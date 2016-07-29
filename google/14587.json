@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.11204952,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "World View",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_view"
+      },
+      "salience": 0.096365,
+      "mentions": [
+        {
+          "text": {
+            "content": "World View",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independent Mormon Fundamentalists The World View",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.096365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independent Mormon Fundamentalists The World View",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independent",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Independent_politician"
+      },
+      "salience": 0.096365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independent",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "The World View",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.015204132,
+      "mentions": [
+        {
+          "text": {
+            "content": "The World View",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independent Mormon Fundamentalists",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.015204132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independent Mormon Fundamentalists",
+            "beginOffset": 489
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

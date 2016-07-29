@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "SL09122 The Spiritual Director",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.042025913,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09122 The Spiritual Director",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Good Red Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018764954,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Good Red Road",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "The Good Red Road",
+            "beginOffset": 886
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014567585,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1141
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.010472679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eucharist",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eucharist"
+      },
+      "salience": 0.0028484089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eucharist",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blount",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Blount_County,_Tennessee"
+      },
+      "salience": 0.0027419827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blount",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Candace_Parker"
+      },
+      "salience": 0.0018831111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker",
+            "beginOffset": 605
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

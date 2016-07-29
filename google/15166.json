@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.066248558,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Student Review&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058135323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Student Review&",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Student Review&",
+            "beginOffset": 377
+          }
+        }
+      ]
+    },
+    {
+      "name": "Communities in Conflict",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024353271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Communities in Conflict",
+            "beginOffset": 99
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

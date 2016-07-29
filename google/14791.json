@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Alternate Voices In The Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11876009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alternate Voices In The Church",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.088251591,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052176632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyrum",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hyrum_Smith"
+      },
+      "salience": 0.015461195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyrum",
+            "beginOffset": 389
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

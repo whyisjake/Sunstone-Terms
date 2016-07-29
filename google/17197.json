@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12594453,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1276
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09215 Church Historical Sites",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043874741,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09215 Church Historical Sites",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vermont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vermont"
+      },
+      "salience": 0.023477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vermont",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Vermont",
+            "beginOffset": 1159
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.023477,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.023477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.01731482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01469976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

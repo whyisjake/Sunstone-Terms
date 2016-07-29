@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.19746308,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 858
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09008",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032273531,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09008",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposition 8",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_Proposition_8_(2008)"
+      },
+      "salience": 0.016595148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Proposition 8",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0041463752,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "United states",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0036711243,
+      "mentions": [
+        {
+          "text": {
+            "content": "United states",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Communist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031355491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Communist",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0021535966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "O&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00094937219,
+      "mentions": [
+        {
+          "text": {
+            "content": "O&",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donovan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Landon_Donovan"
+      },
+      "salience": 0.00094937219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donovan",
+            "beginOffset": 776
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

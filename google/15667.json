@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Bioethics Do Clones",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049113944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bioethics Do Clones",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bioethics Stowe Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04235338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bioethics Stowe Kader",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Stowe Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01579397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Stowe Kader",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "Do Clones",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0072048013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Do Clones",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0023311093,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 487
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

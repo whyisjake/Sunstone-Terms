@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation_(Latter_Day_Saints)"
+      },
+      "salience": 0.025331356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.02531936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 444
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.015850257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.013011624,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012994095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Driggs",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0035634448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "African-American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0030436483,
+      "mentions": [
+        {
+          "text": {
+            "content": "African-American",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029805514,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darron T. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028248618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darron T. Smith",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.0028248618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Illinois",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+      },
+      "salience": 0.0023411731,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Illinois",
+            "beginOffset": 761
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

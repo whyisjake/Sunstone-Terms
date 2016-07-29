@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "EDMUNDS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Edmunds.com"
+      },
+      "salience": 0.020304771,
+      "mentions": [
+        {
+          "text": {
+            "content": "EDMUNDS",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10172",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018609252,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10172",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Fiction",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018609252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pleasant Fiction",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0086979438,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRACY MCKAY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017169327,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRACY MCKAY",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "KATHRYN LYNARD SOPER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017169327,
+      "mentions": [
+        {
+          "text": {
+            "content": "KATHRYN LYNARD SOPER",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "WILLIS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bruce_Willis"
+      },
+      "salience": 0.0017169327,
+      "mentions": [
+        {
+          "text": {
+            "content": "WILLIS",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "JANET GARRARD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017169327,
+      "mentions": [
+        {
+          "text": {
+            "content": "JANET GARRARD",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "STEPHEN MARSH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017169327,
+      "mentions": [
+        {
+          "text": {
+            "content": "STEPHEN MARSH",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Schumacher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Schumacher"
+      },
+      "salience": 0.00053392933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Schumacher",
+            "beginOffset": 849
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

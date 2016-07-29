@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "LIBERAL MORMON",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0181447,
+      "mentions": [
+        {
+          "text": {
+            "content": "LIBERAL MORMON",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "LIBERAL",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRADFORD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bradford"
+      },
+      "salience": 0.00306358,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRADFORD",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "BILL HANSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00306358,
+      "mentions": [
+        {
+          "text": {
+            "content": "BILL HANSEN",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0012861495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 822
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

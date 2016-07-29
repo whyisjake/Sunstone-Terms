@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Autotelic Intentionality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055423308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Autotelic Intentionality",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Autotelic Intentionality",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Autotelic Intentionality",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mature Spirituality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046975918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mature Spirituality",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Mature Spirituality",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert Schweitzer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Albert_Schweitzer"
+      },
+      "salience": 0.014113656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert Schweitzer",
+            "beginOffset": 286
+          }
+        }
+      ]
+    },
+    {
+      "name": "Henry Miller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henry_Miller"
+      },
+      "salience": 0.013030321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henry Miller",
+            "beginOffset": 236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whitehead",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_North_Whitehead"
+      },
+      "salience": 0.011713073,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitehead",
+            "beginOffset": 382
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

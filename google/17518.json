@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.065323286,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.027860576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 393
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1023
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1160
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.020111341,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014695659,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Brown",
+            "beginOffset": 712
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katrina Barker Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067037428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katrina Barker Anderson",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University%E2%80%93Idaho"
+      },
+      "salience": 0.0028829572,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Idaho",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katrina",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hurricane_Katrina"
+      },
+      "salience": 0.0023817355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katrina",
+            "beginOffset": 1122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0013419011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 795
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

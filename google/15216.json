@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Lewis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47726434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bateman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jason_Bateman"
+      },
+      "salience": 0.049417008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bateman",
+            "beginOffset": 248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Singapore"
+      },
+      "salience": 0.020605197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Singapore",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Singapore",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.019070799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0133405,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 176
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thailand"
+      },
+      "salience": 0.010208915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thailand",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Thailand",
+            "beginOffset": 310
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

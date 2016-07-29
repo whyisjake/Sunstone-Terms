@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Reflections Of A",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052192889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reflections Of A",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Octopus"
+      },
+      "salience": 0.021134594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL89083.5",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020827519,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL89083.5",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "SL89083.5",
+            "beginOffset": 452
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.14980648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 580
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 981
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1044
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.02549069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.022174468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church: From Early Christianity",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021822155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church: From Early Christianity",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.002641604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian church",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.002641604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of  Jesus Christ of Latter-day Saints",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0024855875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061675883,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Hanks",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leslie Hayes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061675883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leslie Hayes",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.00061675883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061675883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 771
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "SL07161",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28939766,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07161",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE MORMON Screening",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021855598,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE MORMON Screening",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marlins",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Miami_Marlins"
+      },
+      "salience": 0.010721514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marlins",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON HELEN WHITNEY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010560805,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON WHITNEY",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "MORMON HELEN WHITNEY",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashok",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027750081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashok",
+            "beginOffset": 472
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

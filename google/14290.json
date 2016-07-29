@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Unna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23677468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moral Tension Abortion Politics and Policy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18889195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moral Tension Abortion Politics and Policy",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Moral Tension",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Abortion Politics and Policy",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "Moral Tension",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abortion Politics and Policy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07531555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abortion Politics and Policy",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lake City",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06106969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lake City",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.021875242,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 302
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.014112573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cydia",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010018449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cydia",
+            "beginOffset": 276
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Medicine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medicine"
+      },
+      "salience": 0.22153029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medicine",
+            "beginOffset": 314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Ethics Medicine and Religious Ethics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.093023583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Ethics Medicine and Religious Ethics",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "WNED",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026626272,
+      "mentions": [
+        {
+          "text": {
+            "content": "WNED",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marc",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018641811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marc",
+            "beginOffset": 290
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Old Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.21261317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Mormon",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Old Mormon",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Old Mormon",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "New SL89",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.070895053,
+      "mentions": [
+        {
+          "text": {
+            "content": "New SL89",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Whig_Party_(United_States)"
+      },
+      "salience": 0.04816509,
+      "mentions": [
+        {
+          "text": {
+            "content": "W.",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL89",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017834872,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL89",
+            "beginOffset": 137
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

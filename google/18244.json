@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Glory Glory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17575549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glory Glory",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Glory",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01134006,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0087915109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 906
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053327447,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freetown",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Freetown"
+      },
+      "salience": 0.0050541172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freetown",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0044857874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 741
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 759
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

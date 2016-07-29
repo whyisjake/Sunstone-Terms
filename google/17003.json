@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "DARFUR A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15496585,
+      "mentions": [
+        {
+          "text": {
+            "content": "DARFUR A. REES",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.010059338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.006412019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "SCOTT ABBOTT Armonk",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0051037529,
+      "mentions": [
+        {
+          "text": {
+            "content": "SCOTT ABBOTT Armonk",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Princeton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Princeton_University"
+      },
+      "salience": 0.0051037529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princeton",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034528936,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT A. REES",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "SCOTT ABBOTT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034528936,
+      "mentions": [
+        {
+          "text": {
+            "content": "SCOTT ABBOTT",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yugoslavia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yugoslavia"
+      },
+      "salience": 0.0012512956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yugoslavia",
+            "beginOffset": 453
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

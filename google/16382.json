@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39814478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1864
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 522
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.073271789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2070
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021539079,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Prophetic Tradition SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017081425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Prophetic Tradition SL03091",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian David Mitchell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brian_David_Mitchell"
+      },
+      "salience": 0.014606286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian David Mitchell",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Argentina dnmt SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012037566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Argentina dnmt SL03091",
+            "beginOffset": 1758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0074785994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.003452525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025355581,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016536489,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013418987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040418655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duffy",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugo Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040418655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugo Olaiz",
+            "beginOffset": 1369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod Decker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040418655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Decker",
+            "beginOffset": 1381
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.00040418655,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 1455
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

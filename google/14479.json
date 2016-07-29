@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Critique",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Critique"
+      },
+      "salience": 0.057295524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Critique",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Critique",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Critique",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Codex_Vaticanus"
+      },
+      "salience": 0.013034628,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011224128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.0023552615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 427
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

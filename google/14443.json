@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.36061963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.20607369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 551
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon The Prophecies",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021606427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon The Prophecies",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fabian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0093423538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fabian",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clendenin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00885727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clendenin",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.00885727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 234
+          }
+        }
+      ]
+    },
+    {
+      "name": "IBM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IBM"
+      },
+      "salience": 0.00885727,
+      "mentions": [
+        {
+          "text": {
+            "content": "IBM",
+            "beginOffset": 308
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0073481966,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0073481966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 330
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

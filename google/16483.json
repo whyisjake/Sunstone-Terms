@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Clifton Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54868084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Jolley",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 766
+          }
+        },
+        {
+          "text": {
+            "content": "Jolley",
+            "beginOffset": 658
+          }
+        },
+        {
+          "text": {
+            "content": "Jolley",
+            "beginOffset": 930
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple: My Journey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029923189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple: My Journey",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028386308,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Way",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.016683336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.016266508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.014459079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judism",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 564
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

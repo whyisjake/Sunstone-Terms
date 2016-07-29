@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "PAUL, AND MARY Music",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.035837725,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL, AND MARY Music",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "PANEL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panel_painting"
+      },
+      "salience": 0.035634112,
+      "mentions": [
+        {
+          "text": {
+            "content": "PANEL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett Music",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02436783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 656
+          }
+        },
+        {
+          "text": {
+            "content": "Cornett",
+            "beginOffset": 690
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Cornett  Music",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0203674,
+      "mentions": [
+        {
+          "text": {
+            "content": "PETER",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter, Paul, and Mary",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peter,_Paul_and_Mary"
+      },
+      "salience": 0.0048781331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter, Paul, and Mary",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Broadway",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Broadway_theatre"
+      },
+      "salience": 0.0043961043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Broadway",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(genre)"
+      },
+      "salience": 0.0041036778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 1134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011783337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Compton",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.00066139456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 817
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

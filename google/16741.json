@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Ken",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08310055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Fundamentalism",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.037183169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Fundamentalism",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.029011065,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 795
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 861
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025898682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hales",
+            "beginOffset": 276
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostolic United Brethren",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apostolic_United_Brethren"
+      },
+      "salience": 0.0035971142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostolic United Brethren",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Apostolic United Brethren",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Hayles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034614187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Hayles",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Davis_County,_Utah"
+      },
+      "salience": 0.0030269923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davis",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medical Center",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0030269923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medical Center",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024813467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Hales",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rep.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0024813467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rep.",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

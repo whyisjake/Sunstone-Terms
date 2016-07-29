@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Don Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15695825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradley",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Don Bradley",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.031533271,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066564693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 751
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

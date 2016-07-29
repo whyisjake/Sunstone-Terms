@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Segullah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_blogosphere"
+      },
+      "salience": 0.1029071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Segullah",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Segullah",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Segullah",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Segullah",
+            "beginOffset": 925
+          }
+        },
+        {
+          "text": {
+            "content": "Segullah",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09004",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056690134,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09004",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010216254,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.00261838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.00261838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021700913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roger",
+            "beginOffset": 620
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

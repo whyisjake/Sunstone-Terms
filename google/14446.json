@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Every Kingdom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07561408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Every Kingdom",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Every Kingdom",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miracles Unto Every Kingdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067289628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miracles Unto Every Kingdom",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miracles World War",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.018863635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miracles World War",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paula Corbin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013174331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paula Corbin",
+            "beginOffset": 419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

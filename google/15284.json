@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.06981416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Third Nephi",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.056954045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Third Nephi",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Third Nephi",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038631946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Third Nephi",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Third Nephi",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.018606983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011722103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Myron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011722103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myron",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0079352139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 519
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

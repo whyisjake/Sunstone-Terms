@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "SL09154",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036097586,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09154",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Font Of",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036097586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Font Of",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.026783181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.018503066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Darden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032750338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Darden",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woodstock",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Woodstock"
+      },
+      "salience": 0.0010184755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woodstock",
+            "beginOffset": 873
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

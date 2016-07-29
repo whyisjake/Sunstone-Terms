@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.053591833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society Presidents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036309026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society Presidents",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society Presidents",
+            "beginOffset": 713
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.1498872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emmaus",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emmaus"
+      },
+      "salience": 0.14520627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emmaus",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Emmaus",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Emmaus",
+            "beginOffset": 912
+          }
+        },
+        {
+          "text": {
+            "content": "Emmaus",
+            "beginOffset": 1122
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Road",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Road"
+      },
+      "salience": 0.061025918,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Road",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emmaus Luke 24",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040170856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emmaus Luke 24",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019614309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.011763209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040505528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Symposium",
+            "beginOffset": 375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037196225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California"
+      },
+      "salience": 0.0037196225,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.003082759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021700091,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luke 24",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Luke_24"
+      },
+      "salience": 0.0008026142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luke 24",
+            "beginOffset": 797
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

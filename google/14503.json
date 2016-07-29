@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism Charity",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.18971096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Charity",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.053788774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Khan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Khan_(title)"
+      },
+      "salience": 0.013253221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Khan",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charity",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charitable_organization"
+      },
+      "salience": 0.0073756692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charity",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

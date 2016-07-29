@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.079060979,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tony award",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tony_Award"
+      },
+      "salience": 0.013648301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tony award",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Tony award",
+            "beginOffset": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.010869758,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0070121004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006683799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055395295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana Riess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.0055395295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana Riess",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055395295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0043495405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017230581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santo",
+            "beginOffset": 702
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

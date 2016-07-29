@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.056656253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 298
+          }
+        }
+      ]
+    },
+    {
+      "name": "Search for Truth",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046941735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Search for Truth",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Search for Truth",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046941735,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Search for Truth",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "DeMoss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011877798,
+      "mentions": [
+        {
+          "text": {
+            "content": "DeMoss",
+            "beginOffset": 154
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Search for Truth",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0073678582,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Search for Truth",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Jamal",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005634381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Jamal",
+            "beginOffset": 361
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

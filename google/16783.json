@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Phil McLemore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16402082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phil McLemore",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Phil",
+            "beginOffset": 503
+          }
+        },
+        {
+          "text": {
+            "content": "Phil",
+            "beginOffset": 983
+          }
+        },
+        {
+          "text": {
+            "content": "Phil McLemore",
+            "beginOffset": 1419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mantras Mormon Mantras",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.079606973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mantras Mormon Mantras",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLemore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038620889,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLemore",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.022106746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.017610529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 884
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Mantras",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011459483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mantras",
+            "beginOffset": 1305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.0086779231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 1410
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

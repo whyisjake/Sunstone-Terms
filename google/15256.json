@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Sieve View",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15870833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sieve View",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Sieve",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Sieve",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_University_in_St._Louis"
+      },
+      "salience": 0.025728686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington university",
+            "beginOffset": 342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066798297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand",
+            "beginOffset": 307
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

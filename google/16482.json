@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.088603,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "VS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027282497,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0042895703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tongling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032081739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tongling",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Featherstone",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Featherstone_Rovers"
+      },
+      "salience": 0.0032081739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Featherstone",
+            "beginOffset": 418
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

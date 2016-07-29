@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.18653247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.094653077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Schism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078768738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Schism",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cupertino California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0082419878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cupertino California",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068377443,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cupertino",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cupertino,_California"
+      },
+      "salience": 0.003222652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cupertino",
+            "beginOffset": 391
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

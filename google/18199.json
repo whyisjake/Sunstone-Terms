@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Flady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10542678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flady",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.024960643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tonya Reiter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012155557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reiter",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Tonya Reiter",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

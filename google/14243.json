@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Doctrine of Man Thoughts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13015775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine of Man Thoughts",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine of Man",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.088939972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine of Man",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Doctrine of Man",
+            "beginOffset": 310
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thoughts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thought"
+      },
+      "salience": 0.020670708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thoughts",
+            "beginOffset": 294
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

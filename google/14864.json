@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "The Psycho-Social Development Of Mormon Women The Result",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22979498,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Psycho-Social Development Of Mormon Women The Result",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "The Psycho-Social Development Of Mormon Women",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "The Psycho-Social Development Of Mormon Women",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01478553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.012268013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane Levinger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012268013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane Levinger",
+            "beginOffset": 445
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

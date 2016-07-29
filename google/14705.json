@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation"
+      },
+      "salience": 0.1160632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.092232779,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ten Years After",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.084594935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ten Years After",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Ten Years After",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation Blacks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.075243041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation Blacks",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ten Years After",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02990865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ten Years After",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blacks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.01171898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blacks",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manitoba",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manitoba"
+      },
+      "salience": 0.0044656694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manitoba",
+            "beginOffset": 435
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Ward",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ward_(electoral_subdivision)"
+      },
+      "salience": 0.21599539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+      },
+      "salience": 0.083823055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnson",
+            "beginOffset": 385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hell Postimoinies",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.055309329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hell Postimoinies",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041754764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hell",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Hell",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tarzana",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01199175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tarzana",
+            "beginOffset": 231
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

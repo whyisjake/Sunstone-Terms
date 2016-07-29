@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Karl Sandberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15297526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karl Sandberg",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Karl Sandberg",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "CANONIZATION CANONIZATION Greaves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13649088,
+      "mentions": [
+        {
+          "text": {
+            "content": "CANONIZATION CANONIZATION Greaves",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.030364465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheldon Greaves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021721153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheldon Greaves",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheldon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sheldon_Cooper"
+      },
+      "salience": 0.0092477147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheldon",
+            "beginOffset": 229
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

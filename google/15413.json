@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Beit",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0060067573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beit",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "VH Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003659314,
+      "mentions": [
+        {
+          "text": {
+            "content": "VH Roberts",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Lear",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015507875,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Lear",
+            "beginOffset": 426
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

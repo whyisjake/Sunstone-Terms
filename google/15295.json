@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.09849982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "Isabel Briggs Myers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Isabel_Briggs_Myers"
+      },
+      "salience": 0.0099403635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isabel Briggs Myers",
+            "beginOffset": 316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catherine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084698135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catherine",
+            "beginOffset": 295
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl jung",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carl_Jung"
+      },
+      "salience": 0.0070253275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl jung",
+            "beginOffset": 442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

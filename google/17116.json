@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "NPR",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/NPR"
+      },
+      "salience": 0.041542456,
+      "mentions": [
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 589
+          }
+        },
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jimmy_Carter"
+      },
+      "salience": 0.0049983272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carter",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molly Bennion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049983272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly Bennion",
+            "beginOffset": 377
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Pace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049983272,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Pace",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jody England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049983272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jody England Hansen",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Samuelsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049983272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samuelsen",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047372784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Callister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047372784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Callister",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristine Haglund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047372784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Haglund",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Nakamura Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047372784,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Nakamura Remy",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027759171,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

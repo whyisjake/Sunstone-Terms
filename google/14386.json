@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Luther",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther"
+      },
+      "salience": 0.064188093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luther",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Why",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053264242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Why",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Why",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Why",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luther&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031489637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luther&",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion Lutheran church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_Lutheran_Church_(Cleveland,_Ohio)"
+      },
+      "salience": 0.0082059084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion Lutheran church",
+            "beginOffset": 218
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021180206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 397
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

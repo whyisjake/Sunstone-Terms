@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Nepali",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nepal"
+      },
+      "salience": 0.017359689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nepali",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sydney",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sydney"
+      },
+      "salience": 0.017359689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sydney",
+            "beginOffset": 327
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.01441238,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 241
+          }
+        }
+      ]
+    },
+    {
+      "name": "cigna",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cigna"
+      },
+      "salience": 0.010608877,
+      "mentions": [
+        {
+          "text": {
+            "content": "cigna",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0045087314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 256
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

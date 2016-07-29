@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "US Supreme Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+      },
+      "salience": 0.18778777,
+      "mentions": [
+        {
+          "text": {
+            "content": "US Supreme Court",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "US Supreme Court",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brown V. Herbert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025818516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown V. Herbert",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 535
+          }
+        },
+        {
+          "text": {
+            "content": "Brown V. Herbert",
+            "beginOffset": 1410
+          }
+        },
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 1479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sister Wives Go To Court",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022101676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sister Wives Go To Court",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wenger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger"
+      },
+      "salience": 0.0018525863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wenger",
+            "beginOffset": 664
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl L. Bruno",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018525863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl L. Bruno",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ben Winslow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018525863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben Winslow",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dewayne Hafen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018525863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dewayne Hafen",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004774222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mara",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

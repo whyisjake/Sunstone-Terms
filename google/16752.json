@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "Michael Moore",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Moore"
+      },
+      "salience": 0.11456665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 553
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Moore",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phil Gordon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11050072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon",
+            "beginOffset": 694
+          }
+        },
+        {
+          "text": {
+            "content": "Phil Gordon",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utahans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019909864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utahans",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.017340291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1173
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush Country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013263441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush Country",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Bush Country",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley State College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_University"
+      },
+      "salience": 0.011074083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 1272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steven Greenstreet",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Steven_Greenstreet"
+      },
+      "salience": 0.0027528813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven Greenstreet",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027528813,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Dennis Potter",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Kennedy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_F._Kennedy"
+      },
+      "salience": 0.0027528813,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Kennedy",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alex Caldiero",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alex_Caldiero"
+      },
+      "salience": 0.0022814025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alex Caldiero",
+            "beginOffset": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00047415262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen",
+            "beginOffset": 924
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

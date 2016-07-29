@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.219754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18808402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Mayfield",
+            "beginOffset": 207
+          }
+        }
+      ]
+    },
+    {
+      "name": "Radio&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078455813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Radio&",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suns",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phoenix_Suns"
+      },
+      "salience": 0.017308604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suns",
+            "beginOffset": 133
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

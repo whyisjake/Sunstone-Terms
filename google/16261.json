@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.038394518,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.029434662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 580
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1173
+          }
+        }
+      ]
+    },
+    {
+      "name": "Written Accounts",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Document"
+      },
+      "salience": 0.027031343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Written Accounts",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081783636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blount",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "James W. Ure Jamie Europe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030763771,
+      "mentions": [
+        {
+          "text": {
+            "content": "James W. Ure Jamie Europe",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025496036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 697
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

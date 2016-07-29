@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "The Worst Spiritual Threat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.57141477,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Worst Spiritual Threat",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "Worst Spiritual Threat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13374577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Worst Spiritual Threat",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saddam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saddam_Hussein"
+      },
+      "salience": 0.038515747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saddam",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manhattan"
+      },
+      "salience": 0.0070311008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manhattan",
+            "beginOffset": 184
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      "salience": 0.087545104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 1298
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09365",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030448729,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09365",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celestial Kingdom",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Degrees_of_glory"
+      },
+      "salience": 0.030448729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celestial Kingdom",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archetypal Journey for Women Seeking Their Life's Quest",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.030448729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archetypal Journey for Women Seeking Their Life’s Quest",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016838504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Sarah"
+      },
+      "salience": 0.013013737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 259
+          }
+        },
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abraham&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013013737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abraham&",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Abraham&",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004757659,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary the Mother of Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_(mother_of_Jesus)"
+      },
+      "salience": 0.0047395057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary the Mother of Jesus",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Mary the Mother of Jesus",
+            "beginOffset": 1272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne B. Wilde",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032428901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne B. Wilde",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0025429793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1370
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

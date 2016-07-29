@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.1767582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam Ford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080738133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam Ford",
+            "beginOffset": 408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004241134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vinson",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Pinborough",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004241134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Pinborough",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth Pinborough",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0039577233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038682683,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Kesler",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan McDonald",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032064088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan McDonald",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "John &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022450679,
+      "mentions": [
+        {
+          "text": {
+            "content": "John &hellip",
+            "beginOffset": 752
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

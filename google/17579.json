@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "PART II This",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.099168681,
+      "mentions": [
+        {
+          "text": {
+            "content": "PART II This",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013679457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.013679457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0021930232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0020206491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019667798,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Holt Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019667798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Holt Jolley",
+            "beginOffset": 680
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

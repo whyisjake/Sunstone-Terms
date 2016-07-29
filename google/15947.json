@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "My Literary Affair",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.16359732,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Literary Affair",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.073389746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roy",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn McKay Brodie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fawn_M._Brodie"
+      },
+      "salience": 0.068196341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051412966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marie",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Biography My Literary Affair",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.038492754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biography My Literary Affair",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029306797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brody",
+            "beginOffset": 605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacramento California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacramento,_California"
+      },
+      "salience": 0.020569485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacramento California",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Biography Newell Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0202611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biography Bringhurst",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Biography Newell Bringhurst",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0202611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriott",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marriott_International"
+      },
+      "salience": 0.0053231213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriott",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0053231213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 503
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

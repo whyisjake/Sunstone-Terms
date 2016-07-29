@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Eric",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.62839365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Eric",
+            "beginOffset": 256
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision: The Epistemological Quest Of Joseph Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077769354,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision: The Epistemological Quest Of Joseph Smith",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Jose California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Jose,_California"
+      },
+      "salience": 0.071199216,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Jose California",
+            "beginOffset": 176
+          }
+        }
+      ]
+    },
+    {
+      "name": "The First Vision: The Epistemological Quest Of Joseph Smith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.028743727,
+      "mentions": [
+        {
+          "text": {
+            "content": "The First Vision: The Epistemological Quest Of Joseph Smith",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Paul Freeman Eric",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021227216,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Paul Freeman Eric",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.016725793,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 293
+          }
+        }
+      ]
+    },
+    {
+      "name": "The First Vision: The Epistemological Quest Of Joseph Smith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012321635,
+      "mentions": [
+        {
+          "text": {
+            "content": "The First Vision: The Epistemological Quest Of Joseph Smith",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0094099417,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 373
+          }
+        }
+      ]
+    },
+    {
+      "name": "California State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_State_University"
+      },
+      "salience": 0.004006247,
+      "mentions": [
+        {
+          "text": {
+            "content": "California State University",
+            "beginOffset": 317
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

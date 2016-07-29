@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.31267175,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 680
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Can Abide Gay Marriage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047167487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Can Abide Gay Marriage",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.042944446,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proclamation on the Family",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Family:_A_Proclamation_to_the_World"
+      },
+      "salience": 0.025302812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alaska",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alaska"
+      },
+      "salience": 0.024314657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alaska",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Alaska",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hawaii"
+      },
+      "salience": 0.022154884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hawaii",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Hawaii",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Carmack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054707057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carmack",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Brad Carmack",
+            "beginOffset": 986
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

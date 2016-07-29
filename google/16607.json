@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.027102865,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "S JOURNEY People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027102865,
+      "mentions": [
+        {
+          "text": {
+            "content": "S JOURNEY People",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013308507,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Moran Martin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024646204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Moran Martin",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Towne Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024646204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Towne Mormonism",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Kokol",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002104908,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Kokol",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston"
+      },
+      "salience": 0.002104908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.00065459596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miami",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Miami_Heat"
+      },
+      "salience": 0.00065459596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miami",
+            "beginOffset": 834
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.00065459596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 930
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

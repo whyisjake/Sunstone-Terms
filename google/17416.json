@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.1918346,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.11086129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 899
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.089258321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037191272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larsen",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Prosperity Gospel The Prosperity Gospel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0317427,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prosperity Gospel The Prosperity Gospel",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0040196171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1204
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prosperity Gospel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prosperity_theology"
+      },
+      "salience": 0.0009356779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prosperity Gospel",
+            "beginOffset": 874
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

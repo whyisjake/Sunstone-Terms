@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Opposite",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Opposite_(semantics)"
+      },
+      "salience": 0.18160973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Opposite",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Opposite",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Opposite",
+            "beginOffset": 377
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cindy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031312674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cindy",
+            "beginOffset": 170
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

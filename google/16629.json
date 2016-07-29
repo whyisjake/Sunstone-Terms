@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.28466111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 614
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 682
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 449
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "MISSOURI",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.17190829,
+      "mentions": [
+        {
+          "text": {
+            "content": "MISSOURI",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 534
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 640
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 701
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "ETHNIC CLEANSING",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ethnic_cleansing"
+      },
+      "salience": 0.036409166,
+      "mentions": [
+        {
+          "text": {
+            "content": "ETHNIC CLEANSING",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "BATTLE OF CROOKED RIVER",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Battle_of_Crooked_River"
+      },
+      "salience": 0.027974756,
+      "mentions": [
+        {
+          "text": {
+            "content": "BATTLE OF CROOKED RIVER",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crooked River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Crooked_River_(Missouri)"
+      },
+      "salience": 0.018320138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crooked River",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daviess County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Daviess_County,_Missouri"
+      },
+      "salience": 0.0037658075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daviess County",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Daviess County",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ray County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ray_County,_Missouri"
+      },
+      "salience": 0.0037102557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ray County",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033675248,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tungate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00082627794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tungate",
+            "beginOffset": 650
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

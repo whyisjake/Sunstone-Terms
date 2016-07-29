@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Authority",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Authority"
+      },
+      "salience": 0.078391343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Agency",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Government_agency"
+      },
+      "salience": 0.036882494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agency",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Agency",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Agency",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Leadership and Intellectuals Authority",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036882494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Leadership and Intellectuals Authority",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Church Leadership",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Church Leadership",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intellectuals Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012811099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intellectuals Peterson",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.010078258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 357
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

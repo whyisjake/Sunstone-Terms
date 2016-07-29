@@ -1,0 +1,351 @@
+{
+  "entities": [
+    {
+      "name": "Michael Servetus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Servetus"
+      },
+      "salience": 0.3600142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Servetus",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Servetus",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Miguel Serveto",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Serveto",
+            "beginOffset": 445
+          }
+        },
+        {
+          "text": {
+            "content": "Servetus",
+            "beginOffset": 546
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Servetus",
+            "beginOffset": 841
+          }
+        },
+        {
+          "text": {
+            "content": "Miguel Serveto",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.2294119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 756
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "Underappreciated Forerunner To The Restoration Q.",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02242518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Underappreciated Forerunner To The Restoration Q.",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luther",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther"
+      },
+      "salience": 0.013404907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luther",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "Luther",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "A.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Away_goals_rule"
+      },
+      "salience": 0.0099840052,
+      "mentions": [
+        {
+          "text": {
+            "content": "A.",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "A.",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spaniard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.0099840052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spaniard",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "Spaniard",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restoration",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Restorationism"
+      },
+      "salience": 0.0034444558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restoration",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Radical Reformation",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Radical_Reformation"
+      },
+      "salience": 0.0034444558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Radical Reformation",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aragon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aragon"
+      },
+      "salience": 0.0026918519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aragon",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Aragon",
+            "beginOffset": 902
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestants",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.0026918519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestants",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Protestants",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0026309825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Calvin"
+      },
+      "salience": 0.0025913473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wycliffe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Wycliffe"
+      },
+      "salience": 0.0025913473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wycliffe",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Wycliffe",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Montclair Q.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023922797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Montclair  Q.",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0020432679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benson Whittle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020432679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benson Whittle",
+            "beginOffset": 636
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

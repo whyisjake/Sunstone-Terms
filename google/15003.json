@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Primary Hazardous",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028396821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Primary Hazardous",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Primary Cody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010275596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Primary Cody",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070636924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 477
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Conflicts of Faith and Study Drinking Deep",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.060667545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conflicts of Faith and Study Drinking Deep",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conflicts of Faith",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.041053373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conflicts of Faith",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Conflicts of Faith",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pierian",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035877392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pierian",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Pierian",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Pierian",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017995534,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 678
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011458291,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drinking Deep",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0093903784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drinking Deep",
+            "beginOffset": 716
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

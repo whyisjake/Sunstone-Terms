@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21119547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whitehead",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_North_Whitehead"
+      },
+      "salience": 0.20665401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitehead",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Whitehead",
+            "beginOffset": 366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology Whitehead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16277421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology Whitehead",
+            "beginOffset": 14
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

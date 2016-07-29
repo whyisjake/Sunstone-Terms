@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.25979277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 588
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1580
+          }
+        }
+      ]
+    },
+    {
+      "name": "No Man Knows My History",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/No_Man_Knows_My_History"
+      },
+      "salience": 0.01814929,
+      "mentions": [
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 1696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn Brodie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fawn_M._Brodie"
+      },
+      "salience": 0.016238842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 1677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.0096446341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 1766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0049404628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton Hardenbergh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026001993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton Hardenbergh",
+            "beginOffset": 1444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kyle nndb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026001993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kyle nndb",
+            "beginOffset": 1484
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066998461,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Hales",
+            "beginOffset": 1420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lorie Winder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066998461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lorie Winder",
+            "beginOffset": 1430
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

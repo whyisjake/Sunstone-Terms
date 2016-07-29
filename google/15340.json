@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Old",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.11553938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Old",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Old",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Reconciling",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.094182089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Reconciling",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.063812017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 605
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

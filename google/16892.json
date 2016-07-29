@@ -1,0 +1,309 @@
+{
+  "entities": [
+    {
+      "name": "LDS Faith Homosexuality",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.042550266,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Faith Homosexuality",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.030408138,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 578
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.025399525,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Spirit"
+      },
+      "salience": 0.021944774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Spirit",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Spirit",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.014326212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0046659857,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Gustav-Wrathall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036784594,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Gustav-Wrathall",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minneapolis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Minneapolis"
+      },
+      "salience": 0.0035381813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minneapolis",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Minnesota"
+      },
+      "salience": 0.0035381813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minnesota",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Bradshaw Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034398458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Bradshaw Norman",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swiss Geneva",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032601319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swiss Geneva",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032601319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0032601319,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rochester",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rochester,_Minnesota"
+      },
+      "salience": 0.0032601319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rochester",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0032601319,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.002701829,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minnesota John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002701829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minnesota John",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "men's Christian association",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.000840225,
+      "mentions": [
+        {
+          "text": {
+            "content": "men's Christian association",
+            "beginOffset": 954
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

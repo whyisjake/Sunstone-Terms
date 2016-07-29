@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36750507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1721
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.075498164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1927
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mesoamerican",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mesoamerica"
+      },
+      "salience": 0.015098104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mesoamerican",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Setting for Book of Mormon Events SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015098104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Setting for Book of Mormon Events SL03091",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01325242,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0077334135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0035709429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024944388,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Murphy",
+            "beginOffset": 1401
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0019263037,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenny SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019003496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenny SL03091",
+            "beginOffset": 1624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0016229242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 1601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.0016229242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 1588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nonnus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016229242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nonnus",
+            "beginOffset": 1617
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014174962,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1057
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013880838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rochester",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rochester,_New_York"
+      },
+      "salience": 0.00041811905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rochester",
+            "beginOffset": 1429
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

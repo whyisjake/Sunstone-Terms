@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52564138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farnsworth",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "Real Mormon Family Please Stand Up",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.065912969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Real Mormon Family Please Stand Up",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Real Mormon Family Please Stand Up",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Real Mormon Family Please Stand Up",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manifesto To Proclamation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.065912969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manifesto To Proclamation",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Manifesto To Proclamation",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Manifesto To Proclamation",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinckley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022022134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010567253,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010567253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072554043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 767
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

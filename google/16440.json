@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37351084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2007
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 558
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.059483118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 418
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 850
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2213
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019854654,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2052
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logotherapy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015742358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logotherapy",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hidden Logos of Our Daily Lives SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015534148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hidden Logos of Our Daily Lives SL03091",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tensmeyer Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010617773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tensmeyer Hansen",
+            "beginOffset": 1398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0068892711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031798678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 889
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023352178,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016919561,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1916
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015229282,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014913285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037221421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 1419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

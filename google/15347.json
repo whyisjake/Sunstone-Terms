@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Reading Between the Lines Evenson&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.063119031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading Between the Lines Evenson&",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reading Between the Lines",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Inference"
+      },
+      "salience": 0.042870782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading Between the Lines",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Reading Between the Lines",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013033834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 149
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

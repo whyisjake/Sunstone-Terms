@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.33743712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Psychopathology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Psychopathology"
+      },
+      "salience": 0.10248225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psychopathology",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Psychopathology Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08832892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psychopathology Mormonism",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Pennsylvania",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Pennsylvania"
+      },
+      "salience": 0.044569615,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Pennsylvania",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.018402101,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014484696,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 228
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

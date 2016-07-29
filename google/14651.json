@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "Francis Manion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38497615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis Manion",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.064271733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.057126254,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Reverend"
+      },
+      "salience": 0.0074920794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madeline",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0071013262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madeline",
+            "beginOffset": 251
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0071013262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.0068913088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "EC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emergency_contraception"
+      },
+      "salience": 0.0058869352,
+      "mentions": [
+        {
+          "text": {
+            "content": "EC",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.0043174117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic University of America",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_University_of_America"
+      },
+      "salience": 0.0018325298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic University of America",
+            "beginOffset": 458
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Rich Ferre Richard Ferre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028667569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rich Ferre",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Rich Ferre Ferre",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Rich Ferre Richard Ferre",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024572719,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Box",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "The Box",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "The Box",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "children's Medical Center",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Children's_Medical_Center_Dallas"
+      },
+      "salience": 0.0080761509,
+      "mentions": [
+        {
+          "text": {
+            "content": "children's Medical Center",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Eugne Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00795512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert Eugne Peck",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Elbert Eugne Peck",
+            "beginOffset": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0020906506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 384
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

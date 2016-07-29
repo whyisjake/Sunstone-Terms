@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "name": "Arthur Kane&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16955183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arthur Kane&",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Arthur Kane&",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "NEW YORK DOLL",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_Doll"
+      },
+      "salience": 0.090773553,
+      "mentions": [
+        {
+          "text": {
+            "content": "NEW YORK DOLL",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "NEW YORK DOLL",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "New York Doll",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "NEW YORK DOLL",
+            "beginOffset": 1328
+          }
+        },
+        {
+          "text": {
+            "content": "New York Doll",
+            "beginOffset": 1495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kane",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kane_(wrestler)"
+      },
+      "salience": 0.023605064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kane",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "Kane",
+            "beginOffset": 1559
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07123",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016852811,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07123",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016844805,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 771
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.013242641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 272
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1411
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York Dolls",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_Dolls"
+      },
+      "salience": 0.0035075762,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York Dolls",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morrissey Meltdown",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0020423529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morrissey Meltdown",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL J. STEVENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000467866,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL J. STEVENS",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    },
+    {
+      "name": "DENNIS POTTER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dennis_Potter"
+      },
+      "salience": 0.00026259472,
+      "mentions": [
+        {
+          "text": {
+            "content": "DENNIS POTTER",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

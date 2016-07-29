@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.086095273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 623
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 897
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Marriage Revelations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035424083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Marriage Revelations",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.0091994321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091994321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo&",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo&",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Topics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0083797481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Topics",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Topics",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.007378276,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC",
+            "beginOffset": 1056
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029694629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barrus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002040124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barrus",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.00052591454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 982
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

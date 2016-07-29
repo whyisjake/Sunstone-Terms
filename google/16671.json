@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.17978328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beckstead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053973515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beckstead",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047368832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gae Lyn Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043809735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gae Lyn Henderson",
+            "beginOffset": 488
+          }
+        },
+        {
+          "text": {
+            "content": "Gae Lyn Henderson",
+            "beginOffset": 1113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.0039955806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Beckstead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027146093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Beckstead",
+            "beginOffset": 1095
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baxter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Baxter_International"
+      },
+      "salience": 0.00088866329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baxter",
+            "beginOffset": 712
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

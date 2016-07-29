@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Expression in Modern American Political Discourse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045056555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Expression in Modern American Political Discourse",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09014",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038614951,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09014",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.022726251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.022726251,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076500191,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.005200285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. PAYNE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036671674,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. PAYNE",
+            "beginOffset": 592
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

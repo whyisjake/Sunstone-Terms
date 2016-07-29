@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "San Bernardino Mormon Colony",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.63191295,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Bernardino Mormon Colony",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "San Bernardino Mormon Colony",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "San Bernardino Mormon Colony",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.012411235,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 213
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

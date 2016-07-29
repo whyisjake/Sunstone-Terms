@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Bob Kleasen M.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34872755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Kleasen M.",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvest of Anguish: The Bitter Odyssey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.24966711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvest of Anguish: The Bitter Odyssey",
+            "beginOffset": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob Kleasen A Harvest of Anguish: The Bitter Odyssey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.060741972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Kleasen A Harvest of Anguish: The Bitter Odyssey",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "A Harvest of Anguish: The Bitter Odyssey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.023103172,
+      "mentions": [
+        {
+          "text": {
+            "content": "A Harvest of Anguish: The Bitter Odyssey",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wisconsin"
+      },
+      "salience": 0.018669937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wisconsin",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Wisconsin",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.01206489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob Kleasen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096319569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Kleasen",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "church and state",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Separation_of_church_and_state"
+      },
+      "salience": 0.0073648551,
+      "mentions": [
+        {
+          "text": {
+            "content": "church and state",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.0031268704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0031268704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0031268704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 454
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

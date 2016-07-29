@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Jeff Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Christensen",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christiansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christiansen",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0036392843,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 868
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036392843,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Wilbon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011318824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Wilbon",
+            "beginOffset": 1015
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

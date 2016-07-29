@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.25990936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Young",
+            "beginOffset": 500
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 836
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nineteenth Century Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017598363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nineteenth Century Mormon",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Nineteenth Century Mormon",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014394894,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 579
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0053062509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011638844,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Platts",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Platts"
+      },
+      "salience": 0.0011638844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Platts",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+      },
+      "salience": 0.0011638844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgia",
+            "beginOffset": 738
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

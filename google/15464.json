@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "MORMONESE Rev. H. Jeffery Silliman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19728415,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Jeffery Silliman",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONESE Rev. H. Jeffery Silliman",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONESE VAULTING",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.043971036,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONESE VAULTING",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "VAULTING",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vault_(architecture)"
+      },
+      "salience": 0.040675841,
+      "mentions": [
+        {
+          "text": {
+            "content": "VAULTING",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacoby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021134142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacoby",
+            "beginOffset": 637
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONESE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017420145,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONESE",
+            "beginOffset": 116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Austin Presbyterian theological seminary",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Austin_Presbyterian_Theological_Seminary"
+      },
+      "salience": 0.0043866527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austin Presbyterian theological seminary",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Assembly",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presbyterian_polity"
+      },
+      "salience": 0.0041578929,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Assembly",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presbyterian church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presbyterian_Church_(USA)"
+      },
+      "salience": 0.0034469287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presbyterian church",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presbyterian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presbyterian_Church_(USA)"
+      },
+      "salience": 0.0015328904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presbyterian",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015328904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormon",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0010730618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.15761034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 518
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1560
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "REVISITED Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.078434654,
+      "mentions": [
+        {
+          "text": {
+            "content": "REVISITED Mormons",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1156
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.004368722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0033664068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030065021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Smith",
+            "beginOffset": 1348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Razon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023613458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Razon",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.0023613458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00073425152,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

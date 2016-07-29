@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.14014722,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 1034
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1104
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.015582536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.015582536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.015582536,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.010796971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00759517,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1345
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027247258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0024414777,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Bush",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022055232,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Bush",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darron T. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022055232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darron T. Smith",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell Bringhurst St",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0018277786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell Bringhurst St",
+            "beginOffset": 793
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

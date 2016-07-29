@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Brick Church Hymnal The Brick Church Hymnal",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21995007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brick Church Hymnal The Brick Church Hymnal",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Packer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Green_Bay_Packers"
+      },
+      "salience": 0.043723784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Packer",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.043723784,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Brick Church Hymnal",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034930874,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Brick Church Hymnal",
+            "beginOffset": 377
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

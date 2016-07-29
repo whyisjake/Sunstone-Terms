@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 87
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

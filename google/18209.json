@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Let&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014610356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Let&",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Let&",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0033865212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.0033368818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frank Sulloway",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031743522,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frank Sulloway",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Haines",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024511348,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Haines",
+            "beginOffset": 655
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

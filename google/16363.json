@@ -1,0 +1,375 @@
+{
+  "entities": [
+    {
+      "name": "MIDDLE EAST",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.052678112,
+      "mentions": [
+        {
+          "text": {
+            "content": "MIDDLE EAST",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omar M. Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029431427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omar M. Kader",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Likud",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Likud"
+      },
+      "salience": 0.026778566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Likud",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Likud",
+            "beginOffset": 1237
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ariel_Sharon"
+      },
+      "salience": 0.026484752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Sharon",
+            "beginOffset": 1255
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arafat",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yasser_Arafat"
+      },
+      "salience": 0.026484752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arafat",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "Arafat",
+            "beginOffset": 1244
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Land",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Land"
+      },
+      "salience": 0.0212628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Land",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Land",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      "salience": 0.018721744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clinton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bill_Clinton"
+      },
+      "salience": 0.0163739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clinton",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.015733015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Palestine"
+      },
+      "salience": 0.015733015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestine",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Palestine",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jordan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jordan"
+      },
+      "salience": 0.01546617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jordan",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Jordan",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Egypt",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egypt"
+      },
+      "salience": 0.01546617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egypt",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Egypt",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "West Bank",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/West_Bank"
+      },
+      "salience": 0.015244082,
+      "mentions": [
+        {
+          "text": {
+            "content": "West Bank",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "West Bank",
+            "beginOffset": 1185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gaza",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gaza_Strip"
+      },
+      "salience": 0.015244082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gaza",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Gaza",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Labor",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israeli_Labor_Party"
+      },
+      "salience": 0.015054273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labor",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Labor",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palestine_Liberation_Organization"
+      },
+      "salience": 0.015054273,
+      "mentions": [
+        {
+          "text": {
+            "content": "PLO",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "PLO",
+            "beginOffset": 1221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0069831279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suns",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phoenix_Suns"
+      },
+      "salience": 0.0017866784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suns",
+            "beginOffset": 1039
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Elkton Ward&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.047637515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elkton Ward&",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Elkton Ward&",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Elkton Ward&",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ward",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ward_(LDS_Church)"
+      },
+      "salience": 0.041787431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Ward",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.039901525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Personal Beliefs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013128308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personal Beliefs",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lara",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brian_Lara"
+      },
+      "salience": 0.010038536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lara",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philly",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philadelphia"
+      },
+      "salience": 0.010038536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philly",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.010038536,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 671
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0025950894,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 609
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

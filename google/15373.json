@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Wayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46239257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.043752048,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sandra",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017232407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandra",
+            "beginOffset": 202
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0072571887,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0072571887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pocatello",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pocatello,_Idaho"
+      },
+      "salience": 0.0072571887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pocatello",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brad_Pitt"
+      },
+      "salience": 0.0068795905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044827997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Beth Raines",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017784617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Beth Raines",
+            "beginOffset": 339
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

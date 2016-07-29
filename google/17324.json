@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Same-Gender Marriage",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Same-sex_marriage"
+      },
+      "salience": 0.029993644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Same-Gender Marriage",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10225",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022996094,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10225",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Freedom: A Call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022996094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Freedom: A Call",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0034950832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0027931184,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith Olbermann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Keith_Olbermann"
+      },
+      "salience": 0.0026171342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith Olbermann",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. WELTON GADDY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026171342,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. WELTON GADDY",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maine"
+      },
+      "salience": 0.0021689979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maine",
+            "beginOffset": 695
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

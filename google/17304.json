@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_Christ_(Latter_Day_Saints)"
+      },
+      "salience": 0.05107142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seer Stone",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seer_stone_(Latter_Day_Saints)"
+      },
+      "salience": 0.043753434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seer Stone",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey With Scripture",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.039194927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey With Scripture",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10161",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033552747,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10161",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trifocals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033552747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trifocals",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "LINKHART",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019812392,
+      "mentions": [
+        {
+          "text": {
+            "content": "LINKHART",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0060989163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community"
+      },
+      "salience": 0.0047159917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Community",
+            "beginOffset": 1173
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022388354,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

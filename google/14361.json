@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "House of Israel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.41511026,
+      "mentions": [
+        {
+          "text": {
+            "content": "House of Israel",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology The House of Israel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1089055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology The House of Israel",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "The House of Israel",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology Union College",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027283998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology Union College",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cincinnati Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cincinnati"
+      },
+      "salience": 0.027283998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cincinnati Ohio",
+            "beginOffset": 95
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.019063193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015221105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.011639951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shalom",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shalom"
+      },
+      "salience": 0.0049431091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shalom",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.0049431091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "British Columbia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/British_Columbia"
+      },
+      "salience": 0.0049431091,
+      "mentions": [
+        {
+          "text": {
+            "content": "British Columbia",
+            "beginOffset": 362
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

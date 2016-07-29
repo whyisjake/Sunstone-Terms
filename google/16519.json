@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Heidi Hart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39900649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heidi Hart",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Heidi Hart",
+            "beginOffset": 1189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028269039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.019323785,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "QUAKER",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Quakers"
+      },
+      "salience": 0.016667588,
+      "mentions": [
+        {
+          "text": {
+            "content": "QUAKER",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Quaker",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hart Lawrence",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021496078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hart Lawrence",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021496078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anders",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0017814456,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0013059616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 915
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001267563,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1563
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

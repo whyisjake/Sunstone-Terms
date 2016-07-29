@@ -1,0 +1,363 @@
+{
+  "entities": [
+    {
+      "name": "Latter-Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10697199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Bockelson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_of_Leiden"
+      },
+      "salience": 0.10533622,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Bockelson",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "John Bockelson",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther"
+      },
+      "salience": 0.042674169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant Reformation",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestant_Reformation"
+      },
+      "salience": 0.022010304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant Reformation",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant Reformation",
+            "beginOffset": 1060
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sixteenth-Century",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/16th_century"
+      },
+      "salience": 0.015078773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sixteenth-Century",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sixteenth-Century",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Sixteenth-Century",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sexual Utopia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013832535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sexual Utopia",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Sexual Utopia",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Sexual Utopia",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muenster",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/M%C3%BCnster"
+      },
+      "salience": 0.010741598,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muenster",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Muenster",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dreamers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/DREAM_Act"
+      },
+      "salience": 0.0037859711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dreamers",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Dreamers",
+            "beginOffset": 1193
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0031438267,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 518
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Henry VIII",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henry_VIII_of_England"
+      },
+      "salience": 0.0028913431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henry VIII",
+            "beginOffset": 413
+          }
+        },
+        {
+          "text": {
+            "content": "Henry VIII",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Milton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Milton"
+      },
+      "salience": 0.0028913431,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Milton",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "John Milton",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0028913431,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 1185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.0028259242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "National Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Congress_of_Brazil"
+      },
+      "salience": 0.0028259242,
+      "mentions": [
+        {
+          "text": {
+            "content": "National Congress",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0028259242,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025383371,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Smith",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco"
+      },
+      "salience": 0.0023419971,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 697
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

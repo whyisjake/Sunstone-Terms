@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Elijah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elijah"
+      },
+      "salience": 0.098013178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormons Do Geneology For Fun",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035951503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormons Do Geneology For Fun",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018041665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Rands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011166786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Rands",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham Rands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0077910344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham Rands",
+            "beginOffset": 401
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Love",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Love"
+      },
+      "salience": 0.04658632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/War"
+      },
+      "salience": 0.04658632,
+      "mentions": [
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Politics"
+      },
+      "salience": 0.04658632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Politics",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.04658632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alex Caldiero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059829713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alex Caldiero",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Alex Caldiero",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laraine Wilkins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059829713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laraine Wilkins",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Laraine Wilkins",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pamela Ostermiller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059829713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pamela Ostermiller",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Pamela Ostermiller",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.0045224931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Senson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042216075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Senson",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Senson",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "OneNote",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001406757,
+      "mentions": [
+        {
+          "text": {
+            "content": "OneNote",
+            "beginOffset": 642
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

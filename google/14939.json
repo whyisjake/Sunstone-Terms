@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.15632349,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 177
+          }
+        }
+      ]
+    },
+    {
+      "name": "south Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Africa"
+      },
+      "salience": 0.15067375,
+      "mentions": [
+        {
+          "text": {
+            "content": "south Africa",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "south Africa",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "south Africa",
+            "beginOffset": 163
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

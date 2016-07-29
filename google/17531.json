@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.65719515,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 561
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.022026392,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEWISH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.01392475,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEWISH",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012227798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "B'nai B'rith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B'nai_B'rith"
+      },
+      "salience": 0.01145769,
+      "mentions": [
+        {
+          "text": {
+            "content": "B’nai B’rith",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "B’nai",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0088283746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0039063464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024644872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tea Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tea_party"
+      },
+      "salience": 0.0022342403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tea Party",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "Tea Party",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holt Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020079829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holt Jolley",
+            "beginOffset": 663
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

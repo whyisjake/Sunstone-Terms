@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.3854672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1942
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 506
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.069119774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026447535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 366
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 798
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2148
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020453211,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1987
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle Class SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018524576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle Class SL03091",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070964918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1917
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jimmy_Carter"
+      },
+      "salience": 0.0033672354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carter",
+            "beginOffset": 1488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032754524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 837
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0024054023,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "cobra SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017428019,
+      "mentions": [
+        {
+          "text": {
+            "content": "cobra SL03091",
+            "beginOffset": 1845
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015686931,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1002
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00038339722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Tinker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038339722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Tinker",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacobson Connecticut",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00038339722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacobson Connecticut",
+            "beginOffset": 1455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00038339722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 1533
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

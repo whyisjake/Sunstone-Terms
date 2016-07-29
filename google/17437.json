@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015319326,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 445
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terry miles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058208569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terry miles",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00516105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 463
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0049435454,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 490
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

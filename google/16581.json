@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.21269426,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 720
+          }
+        },
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 1234
+          }
+        },
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 1386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.10220385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN W.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072127119,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN W.",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "John W.",
+            "beginOffset": 593
+          }
+        },
+        {
+          "text": {
+            "content": "John W.",
+            "beginOffset": 838
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020259771,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.019929204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1183
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "LORIN C. WOOLLEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lorin_C._Woolley"
+      },
+      "salience": 0.016449617,
+      "mentions": [
+        {
+          "text": {
+            "content": "LORIN C. WOOLLEY",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Lorin C. Woolley",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.013421393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0042042872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 402
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lorin C. Woolley&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021094424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lorin C. Woolley&",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Watson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00049062719,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Watson",
+            "beginOffset": 962
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

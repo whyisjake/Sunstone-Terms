@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "The Rebel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18182878,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Rebel",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "The Rebel",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint: Individual and Community",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.072730757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint: Individual and Community",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Saint: Individual and Community",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Saint: Individual and Community",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Society The Rebel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.072730757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Society The Rebel",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Society",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Society",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Packer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Green_Bay_Packers"
+      },
+      "salience": 0.021981951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Packer",
+            "beginOffset": 499
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

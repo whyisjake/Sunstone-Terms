@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Platts",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032860361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Platts",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0033354426,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

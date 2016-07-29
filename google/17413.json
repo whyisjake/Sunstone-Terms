@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Scientologists",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scientology"
+      },
+      "salience": 0.14245215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scientology",
+            "beginOffset": 418
+          }
+        },
+        {
+          "text": {
+            "content": "Scientology",
+            "beginOffset": 1490
+          }
+        },
+        {
+          "text": {
+            "content": "Scientologists",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Scientology",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_Scientology"
+      },
+      "salience": 0.032667153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Scientology",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Scientology",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "lDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020006565,
+      "mentions": [
+        {
+          "text": {
+            "content": "lDS Church",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "lDS Church",
+            "beginOffset": 1234
+          }
+        }
+      ]
+    },
+    {
+      "name": "httP://www.SCientology.org/",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014261609,
+      "mentions": [
+        {
+          "text": {
+            "content": "httP://www.SCientology.org/",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.013806959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian church",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Christian church",
+            "beginOffset": 1423
+          }
+        }
+      ]
+    },
+    {
+      "name": "american",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012644559,
+      "mentions": [
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Westbrook",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010695247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westbrook",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010376493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0094436668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Hubbard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/L._Ron_Hubbard"
+      },
+      "salience": 0.0090920357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Hubbard",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Ron Hubbard",
+            "beginOffset": 1448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0040004328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "httP://mormon.org/PeoPle/",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032797153,
+      "mentions": [
+        {
+          "text": {
+            "content": "httP://mormon.org/PeoPle/",
+            "beginOffset": 730
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

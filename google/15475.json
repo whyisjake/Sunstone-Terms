@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "VISION F THE COWBOY JESUS Levi S. Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.45987138,
+      "mentions": [
+        {
+          "text": {
+            "content": "VISION F THE COWBOY JESUS S. Peterson",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Peterson",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "VISION F THE COWBOY JESUS Levi S. Peterson",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "VISION F THE COWBOY JESUS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033004094,
+      "mentions": [
+        {
+          "text": {
+            "content": "VISION F THE COWBOY JESUS",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.020654602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neal C. Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017398134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal C. Chandler",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Neal C. Chandler",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.014655838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.014655838,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

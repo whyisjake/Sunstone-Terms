@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "First Vision Matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31107944,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision Matter",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 726
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historicity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18519713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historicity",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017869275,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.017869275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0091721211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter Day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0023124858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Day Saints",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Latter Day Saints",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mackay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011232023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mackay",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen C. Taysom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011232023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen C. Taysom",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Vogel"
+      },
+      "salience": 0.0011232023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 662
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

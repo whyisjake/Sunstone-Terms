@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Welcome In Our Religious Communities Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019771809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welcome In Our Religious Communities Ellen Robertson",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Welcome In Our Religious Communities Mary Ellen Robertson",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.016475769,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016228806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna Rolapp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016228806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna Rolapp",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Anna Rolapp",
+            "beginOffset": 719
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

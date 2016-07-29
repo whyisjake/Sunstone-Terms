@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Borderlanders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15880042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlanders",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlanders",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Borderlands",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.052577186,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Borderlands",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Borderlands of the Church",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021146029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands of the Church",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands of the Church",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.0041562957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Carmack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041562957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Carmack",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041562957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041562957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 370
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. &hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023082786,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. &hellip",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

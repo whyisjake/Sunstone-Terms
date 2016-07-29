@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "William Blake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Blake"
+      },
+      "salience": 0.416355,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.058502488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Restorations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052019622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Restorations",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.045657586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/And_did_those_feet_in_ancient_time"
+      },
+      "salience": 0.027712727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.01013123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 420
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

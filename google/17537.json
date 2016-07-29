@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "LDS CHURCH MEMBERS Analysis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0263341,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS CHURCH MEMBERS Analysis",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBT LDS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020519279,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBT LDS",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "LGBT LDS",
+            "beginOffset": 1201
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0062341769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradshaw",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Terry_Bradshaw"
+      },
+      "salience": 0.0018658851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradshaw",
+            "beginOffset": 865
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dehlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018658851,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 875
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

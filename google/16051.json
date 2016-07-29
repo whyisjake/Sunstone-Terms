@@ -1,0 +1,265 @@
+{
+  "entities": [
+    {
+      "name": "Belgrade",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Belgrade"
+      },
+      "salience": 0.20147839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belgrade",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Belgrade",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Belgrade",
+            "beginOffset": 707
+          }
+        },
+        {
+          "text": {
+            "content": "Belgrade",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sandy",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sandy,_Utah"
+      },
+      "salience": 0.15378392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 1178
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 1263
+          }
+        },
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.025673302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 844
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Netherlands"
+      },
+      "salience": 0.02208242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Netherlands",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Dutch",
+            "beginOffset": 647
+          }
+        },
+        {
+          "text": {
+            "content": "Netherlands",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormania",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0094523486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormania",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Mormania",
+            "beginOffset": 1371
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0044346065,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 485
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 904
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eastern Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_Europe"
+      },
+      "salience": 0.0027445876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eastern Europe",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "mp3Dick Verkijk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026592058,
+      "mentions": [
+        {
+          "text": {
+            "content": "mp3Dick Verkijk",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.0026592058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yugoslavia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yugoslavia"
+      },
+      "salience": 0.002274503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yugoslavia",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015805973,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

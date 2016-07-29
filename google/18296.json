@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Calderwood Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18142888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Calderwood  Mormonism",
+            "beginOffset": 450
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.10019157,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 626
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "The Church Animals And The Church Jones",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.29055262,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church Animals And The Church Jones",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Mauer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050208315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Mauer",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Mauer",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democracy"
+      },
+      "salience": 0.016184187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republic",
+            "beginOffset": 222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Murom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016184187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Murom",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church Gerald Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011562832,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church Gerald Jones",
+            "beginOffset": 425
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

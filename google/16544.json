@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.091808878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 622
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1471
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.040855944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 705
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "TEACHING MORMONISM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03088838,
+      "mentions": [
+        {
+          "text": {
+            "content": "TEACHING MORMONISM",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "LOVE AND HATE IN THE DESERT SOUTHWEST",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018141352,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOVE AND HATE IN THE DESERT SOUTHWEST",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.0090860566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona State University",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona State University",
+            "beginOffset": 1763
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023683971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0022319085,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020588906,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Laura_Bush"
+      },
+      "salience": 0.0016708415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Bush",
+            "beginOffset": 983
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

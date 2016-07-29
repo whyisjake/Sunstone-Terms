@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058459494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Carney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04447988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Carney",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0207325,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 103
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elena",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elena_Gilbert"
+      },
+      "salience": 0.015275311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elena",
+            "beginOffset": 167
+          }
+        }
+      ]
+    },
+    {
+      "name": "co",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/.co"
+      },
+      "salience": 0.014483505,
+      "mentions": [
+        {
+          "text": {
+            "content": "co",
+            "beginOffset": 421
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

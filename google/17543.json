@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.21216336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1548
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1244
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.035492964,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 1050
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 1347
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 1476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.026286118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROUTINIZATION OF CHARISMA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018474175,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROUTINIZATION OF CHARISMA",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0079000313,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1787
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0022252798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1036
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022092341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burt",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_European_Summer_Time"
+      },
+      "salience": 0.0016702283,
+      "mentions": [
+        {
+          "text": {
+            "content": "West",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

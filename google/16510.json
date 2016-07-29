@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "name": "Steve Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3060171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Christensen",
+            "beginOffset": 554
+          }
+        },
+        {
+          "text": {
+            "content": "Christensen",
+            "beginOffset": 1623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.049154863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 383
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 965
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1277
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 2301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.018145466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 1639
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 1904
+          }
+        }
+      ]
+    },
+    {
+      "name": "CO-PAPERS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016149255,
+      "mentions": [
+        {
+          "text": {
+            "content": "CO-PAPERS",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.010391862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 2097
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Hofmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Hofmann"
+      },
+      "salience": 0.0026223136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Hofmann",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio Columbus Mission",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0018537691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio Columbus Mission",
+            "beginOffset": 855
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018355177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0016337076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 2011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00055995467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1532
+          }
+        }
+      ]
+    },
+    {
+      "name": "D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.00042079098,
+      "mentions": [
+        {
+          "text": {
+            "content": "D.",
+            "beginOffset": 1636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.00042079098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hoffman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trevor_Hoffman"
+      },
+      "salience": 0.00042079098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hoffman",
+            "beginOffset": 1775
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

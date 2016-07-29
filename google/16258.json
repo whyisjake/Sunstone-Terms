@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.19243403,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 663
+          }
+        },
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greatest Challenge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028609488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greatest Challenge",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church Today",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.028609488,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Today",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christof Latter-day Saints",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019244049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christof Latter-day Saints",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christof Latter-day Saints",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.0073430217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 440
+          }
+        },
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0073430217,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 455
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vickie Stewart Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027833867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vickie Stewart Eastman",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd M. Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.0026379584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd M. Compton",
+            "beginOffset": 713
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023067279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Petersen",
+            "beginOffset": 842
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0023067279,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Belgium"
+      },
+      "salience": 0.0007173557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belgium",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0007173557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1142
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

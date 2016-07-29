@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_National_Park"
+      },
+      "salience": 0.0490404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patriarchs",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Patriarchs_(Bible)"
+      },
+      "salience": 0.0490404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patriarchs",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Patriarchs",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Patriarchs",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "Odyssey house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036009913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Odyssey house",
+            "beginOffset": 305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036009913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021925012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00092869968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 521
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Native American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+      },
+      "salience": 0.30799305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Re-Emerging Indian",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.27402118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Re-Emerging Indian",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Re-Emerging Indian",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Re-Emerging Indian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045101568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Re-Emerging Indian",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Our Art",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.045101568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Our Art",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026370127,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 210
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

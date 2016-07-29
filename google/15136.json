@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10044146,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Part II",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+      },
+      "salience": 0.026022993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Part II",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Part II",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Part II",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mohawk",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mohawk_people"
+      },
+      "salience": 0.00851222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mohawk",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxwell",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maxwell_(film)"
+      },
+      "salience": 0.0070588691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxwell",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070588691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 410
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

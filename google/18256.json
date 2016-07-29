@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Immigration Mormon Humanitarian Perspectives",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021824175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Immigration Mormon Humanitarian Perspectives",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012470809,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "Torchlight Legal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0093181254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Torchlight Legal",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Torchlight Legal",
+            "beginOffset": 1265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Silicon Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Silicon_Valley"
+      },
+      "salience": 0.0093181254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Silicon Valley",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Silicon Valley",
+            "beginOffset": 1317
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029988524,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0029988524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carlos Saavedra",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002766524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carlos Saavedra",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Wheeler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002766524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Wheeler",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gonzalez",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gio_Gonzalez"
+      },
+      "salience": 0.002485072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gonzalez",
+            "beginOffset": 531
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

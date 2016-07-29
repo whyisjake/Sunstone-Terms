@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "The Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Truth"
+      },
+      "salience": 0.49475676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Truth",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 604
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Me God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031503346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Me God",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0090758055,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Me God Clay Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089398557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Me God Chandler",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Me God Clay Chandler",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.008704626,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 645
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Susan Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40710339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Russell",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Susan Russell",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09021",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023874097,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09021",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hunter Judy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041889925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hunter Judy",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0030784912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salem Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salem,_Oregon"
+      },
+      "salience": 0.0029178348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salem Oregon",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Douglas Hunter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020025054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Douglas Hunter",
+            "beginOffset": 830
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

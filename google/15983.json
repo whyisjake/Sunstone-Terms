@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059913006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1448
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.059076447,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 605
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1246
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.038895521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rest Of Mormonism: Past And Present",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020772785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rest Of Mormonism: Past And Present",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014867041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormonism",
+            "beginOffset": 668
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rest Of Mormonism",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010184998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rest Of Mormonism",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Rest Of Mormonism",
+            "beginOffset": 1293
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0082934257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 380
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028630069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026411528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Memory Lane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016089375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Memory Lane",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0015232177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Deak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054168626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Deak",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

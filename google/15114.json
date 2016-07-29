@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.4036631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Authority",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Authority"
+      },
+      "salience": 0.32222879,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Experience Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12217023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Experience Faith",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religious Experience Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031135371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religious Experience  Faith",
+            "beginOffset": 65
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Americanism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_exceptionalism"
+      },
+      "salience": 0.23767464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Americanism",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.072689041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Austria"
+      },
+      "salience": 0.072689041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austria",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Austria",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Austria",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.035146214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.016554818,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maytag",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012189525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maytag",
+            "beginOffset": 153
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.012189525,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 183
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molalla",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011556608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molalla",
+            "beginOffset": 382
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

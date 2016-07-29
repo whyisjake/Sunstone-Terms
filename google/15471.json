@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Robert Fox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14363238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Fox",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Fox",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOOD SAMARITAN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Good_Samaritan_law"
+      },
+      "salience": 0.11457854,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOOD SAMARITAN",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "GOOD SAMARITAN",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Foxworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012972488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Foxworth",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0096621616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carl Barton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075886305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carl Barton",
+            "beginOffset": 452
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

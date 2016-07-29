@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "THE FIELD",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11170564,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE FIELD",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE FIELD Kirby LETTERS",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.093721449,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE FIELD Kirby  LETTERS",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062829919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 76
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

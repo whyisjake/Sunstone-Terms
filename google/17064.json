@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11829185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1418
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Faithful History That Is Faithful",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038516004,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Faithful History That Is Faithful",
+            "beginOffset": 2
+          }
+        },
+        {
+          "text": {
+            "content": "New Faithful History That Is Faithful",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012296119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025130736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hamer",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Scherer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025130736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Scherer",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morris Thurston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025130736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morris Thurston",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Taysom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025130736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Taysom",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020826277,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 859
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

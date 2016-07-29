@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Lamar Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34630731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamar Christensen",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Lamar",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Lamar Christensen",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enid Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14057475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enid Christensen",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Enid Christensen",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roger Salazar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052257579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roger Salazar",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Roger Salazar",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Wightman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031519949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Wightman",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Wightman",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014506179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.014506179,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. USC",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010685324,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. USC",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dixie",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010685324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dixie",
+            "beginOffset": 224
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010131091,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 271
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

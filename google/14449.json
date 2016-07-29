@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Problem of Evil The Problem of Evil",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13659695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Problem of Evil The Problem of Evil",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLaren",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/McLaren"
+      },
+      "salience": 0.026193753,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLaren",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Problem of Evil",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Problem_of_evil"
+      },
+      "salience": 0.025202695,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Problem of Evil",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supreme",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0081943851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Supreme",
+            "beginOffset": 254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Messin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0081943851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Messin",
+            "beginOffset": 298
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

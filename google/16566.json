@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "GEORGE ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Romney"
+      },
+      "salience": 0.18730174,
+      "mentions": [
+        {
+          "text": {
+            "content": "GEORGE ROMNEY",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "George Romney",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 717
+          }
+        },
+        {
+          "text": {
+            "content": "George Romney",
+            "beginOffset": 1249
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 1378
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAVERICK MORMON ACTIVIST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0294873,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAVERICK MORMON ACTIVIST",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.026243411,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 871
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michigan"
+      },
+      "salience": 0.012943847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michigan",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Michigan",
+            "beginOffset": 1169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Secretary of Housing and Urban Development",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Secretary_of_Housing_and_Urban_Development"
+      },
+      "salience": 0.012943847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Secretary of Housing and Urban Development",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Secretary of Housing and Urban Development",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Summit",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Summit_(meeting)"
+      },
+      "salience": 0.0063625588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Summit",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presidents&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037875383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presidents&",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romney&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027249272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romney&",
+            "beginOffset": 903
+          }
+        },
+        {
+          "text": {
+            "content": "Romney&",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "America&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023264189,
+      "mentions": [
+        {
+          "text": {
+            "content": "America&",
+            "beginOffset": 815
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

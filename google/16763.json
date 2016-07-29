@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "TOM PIXTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18052308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pixton",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "PIXTON",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Pixton",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "TOM PIXTON",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Hymns",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053833678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Hymns",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "CD",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compact_disc"
+      },
+      "salience": 0.042479817,
+      "mentions": [
+        {
+          "text": {
+            "content": "CD",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "CD",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055036647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee",
+            "beginOffset": 314
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

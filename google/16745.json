@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Prophet",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prophet"
+      },
+      "salience": 0.35366502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophet",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "Prophet",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Prophet",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/President_of_the_Church"
+      },
+      "salience": 0.042630993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Prophet",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031573083,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.022252802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0033382417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Romig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028511549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Romig",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Reiss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023628995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Reiss",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0023628995,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont graduate university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont_Graduate_University"
+      },
+      "salience": 0.0023628995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont graduate university",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0018551954,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 892
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

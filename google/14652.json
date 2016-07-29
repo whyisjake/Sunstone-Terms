@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Call It Magic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.64925241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Call It Magic",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Call It Magic",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Call It Magic",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056169972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel Peterson",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.024785491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folk Religion Don&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011734379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folk Religion Don&",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0081999088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don&",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Folk Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Folk_religion"
+      },
+      "salience": 0.0075285286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Folk Religion",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Folk Religion",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islamic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0062740445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islamic",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "California Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.0052050925,
+      "mentions": [
+        {
+          "text": {
+            "content": "California Berkeley",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arabic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabic"
+      },
+      "salience": 0.0016244166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arabic",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0016244166,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 416
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

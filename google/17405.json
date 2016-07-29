@@ -1,0 +1,193 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.042398196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 444
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.026211616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Desire",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Desire"
+      },
+      "salience": 0.026211616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Desire",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Power Romantic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026211616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Power Romantic",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constructions Of Gender",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026211616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constructions Of Gender",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011503473,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parkin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032067534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parkin",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "America Romantic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028711508,
+      "mentions": [
+        {
+          "text": {
+            "content": "America Romantic",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caroline Kline",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024521381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Kline",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024521381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014525772,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Justin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006319047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Justin",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

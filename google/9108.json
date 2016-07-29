@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Bryan Horn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11308534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Horn",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Bryan Horn",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049973078,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.039011065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00884198,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Easter",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Easter"
+      },
+      "salience": 0.0065010521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 200
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "SL09351 Forgiveness: The Healing Gift",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.090615027,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09351 Forgiveness: The Healing Gift",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carson,_California"
+      },
+      "salience": 0.056128837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carson",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl Cheryl Carson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010226145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl Cheryl Carson",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Cheryl Carson",
+            "beginOffset": 898
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0069146403,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069146403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pat",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0069146403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 525
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

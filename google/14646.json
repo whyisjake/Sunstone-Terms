@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Zion After Conversion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03671091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion After Conversion",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022826605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thoth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065382132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thoth",
+            "beginOffset": 497
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

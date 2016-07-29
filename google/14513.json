@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "LDS Look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27586514,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Look",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Look",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029685419,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Look",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "KSL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/KSL-TV"
+      },
+      "salience": 0.01042085,
+      "mentions": [
+        {
+          "text": {
+            "content": "KSL",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "KSL",
+            "beginOffset": 337
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Young Joseph F Smith The Young Joseph F Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.71339822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Young Joseph F Smith The Young Joseph F Smith",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "The Young Joseph F Smith",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesse Embry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013072125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesse Embry",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0033938603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 297
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

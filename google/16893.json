@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Alfred Hitchcock",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_Hitchcock"
+      },
+      "salience": 0.2157888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alfred Hitchcock",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 369
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Alfred Hitchcock",
+            "beginOffset": 921
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 1062
+          }
+        },
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Plot",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Family_Plot"
+      },
+      "salience": 0.13469958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Plot",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Family Plot",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Family Plot",
+            "beginOffset": 952
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.011755742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patricia Hitchcock",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pat_Hitchcock"
+      },
+      "salience": 0.0073467307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patricia Hitchcock",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Williams"
+      },
+      "salience": 0.0040382259,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Williams",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hitchcock",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alfred_Hitchcock"
+      },
+      "salience": 0.0035234082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hitchcock",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0030169836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alfred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018473617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alfred",
+            "beginOffset": 671
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

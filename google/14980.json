@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Historic Preservation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039080441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Historic Preservation",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Historic Preservation",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Historic Preservation",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.011134615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montgomery",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Montgomery,_Alabama"
+      },
+      "salience": 0.0028919289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montgomery",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "National Trust for historic preservation",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Trust_for_Historic_Preservation"
+      },
+      "salience": 0.0028919289,
+      "mentions": [
+        {
+          "text": {
+            "content": "National Trust for historic preservation",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

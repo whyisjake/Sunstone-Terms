@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Making Waves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025360113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Making Waves",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "NW10004",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019458763,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10004",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenne Alderks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013640731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenne Alderks",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0047998736,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 379
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peyton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peyton_Manning"
+      },
+      "salience": 0.00240079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peyton",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wendy Reynolds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023688162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wendy Reynolds",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janeanne Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023688162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janeanne Peterson",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Garrard-Willis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023688162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Garrard-Willis",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0023061375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 453
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

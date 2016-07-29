@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "ELDER WALKER LEWIS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19201492,
+      "mentions": [
+        {
+          "text": {
+            "content": "ELDER WALKER LEWIS",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "LOWELL",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lowell,_Massachusetts"
+      },
+      "salience": 0.073394209,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOWELL",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "MASSACHUSETTS",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.073394209,
+      "mentions": [
+        {
+          "text": {
+            "content": "MASSACHUSETTS",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "STIRLING ADAMS CONNELL O&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060268518,
+      "mentions": [
+        {
+          "text": {
+            "content": "STIRLING ADAMS CONNELL O&",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "STIRLING ADAMS O&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050229132,
+      "mentions": [
+        {
+          "text": {
+            "content": "STIRLING ADAMS O&",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "DONOVAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037158307,
+      "mentions": [
+        {
+          "text": {
+            "content": "DONOVAN",
+            "beginOffset": 177
+          }
+        }
+      ]
+    },
+    {
+      "name": "DONOVAN RESPONDENT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015919827,
+      "mentions": [
+        {
+          "text": {
+            "content": "DONOVAN  RESPONDENT",
+            "beginOffset": 125
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

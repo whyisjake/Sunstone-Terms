@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Psychobiography",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053310521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Psychobiography",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017791191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1099
+          }
+        }
+      ]
+    },
+    {
+      "name": "Secular Views United",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016073929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Secular Views United",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.011806821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 949
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Morain Sir",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010847155,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Morain Sir",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058708377,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Anderson",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "cleo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047404934,
+      "mentions": [
+        {
+          "text": {
+            "content": "cleo",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025208672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0022273604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 733
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

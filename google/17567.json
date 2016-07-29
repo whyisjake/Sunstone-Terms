@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.025048899,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "In Heaven",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021672526,
+      "mentions": [
+        {
+          "text": {
+            "content": "In Heaven",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "In Heaven",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samuel Morris Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018252274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samuel Morris Brown",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel Morris Brown",
+            "beginOffset": 465
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel Morris Brown",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.0087012621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Mormon Conquest of Death",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0070282752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon Conquest of Death",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Early Mormon Conquest of Death",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0040028193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kufre Ekpenyong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024774396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kufre Ekpenyong",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arben Fox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002255494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arben Fox",
+            "beginOffset": 437
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

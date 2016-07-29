@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Them Tribalism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.080997817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Them Tribalism",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09261 Us",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.080997817,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09261 Us",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_Latter_Day_Saint_movement"
+      },
+      "salience": 0.080997817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormonism",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.073852383,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-LDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064010009,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "non-LDS",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0098989578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 552
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14031264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dreams",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dream"
+      },
+      "salience": 0.14031264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dreams",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Dreams",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Dreams",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Fletcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029808482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Fletcher",
+            "beginOffset": 265
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

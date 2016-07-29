@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Women Mormon History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027666582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women Mormon History",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012161523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Generations of Mormon Women The Four Zinas",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0099800443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generations of Mormon Women The Four Zinas",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Generations of Mormon Women The Four Zinas",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0074525038,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonntag Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020509185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonntag Bradley",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017933639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Korean",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Korean_language"
+      },
+      "salience": 0.0017933639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Korean",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yavne",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017933639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yavne",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_war"
+      },
+      "salience": 0.00055765564,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War",
+            "beginOffset": 1059
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

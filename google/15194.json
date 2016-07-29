@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Family&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0583865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Family&",
+            "beginOffset": 754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother and Son Sharing",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055558864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother and Son Sharing",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mother and Son Sharing",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Mother and Son Sharing",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.055441666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.044847868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Mother&#8217",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036774427,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Mother&#8217",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peterson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Levi_S._Peterson"
+      },
+      "salience": 0.036333494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Past My Mother&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024611196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Past My Mother&",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.014673253,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.004440181,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.0037922068,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0037922068,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 522
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

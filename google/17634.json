@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Sara Patterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40696862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara Patterson",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Patterson",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Sara Patterson",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019147813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051819184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormom",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0045293509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestand",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036301094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestand",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029288456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0029288456,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Patterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012749797,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Patterson",
+            "beginOffset": 670
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

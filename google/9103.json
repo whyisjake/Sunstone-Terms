@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.085944958,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0739192,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Believers&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0739192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Believers&",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amber Price",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047424838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amber Price",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Uncorrelated LDS Church History Amber Price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031549256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uncorrelated LDS Church History Amber Price",
+            "beginOffset": 92
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019912558,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 174
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

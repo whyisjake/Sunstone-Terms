@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.3255575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 744
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 842
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 881
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14507537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Partner In Doctrine and Covenants 25",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12842903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Partner In Doctrine and Covenants 25",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Partner In Doctrine and Covenants 25",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parkin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1206609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parkin",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Partner Devotional",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021005794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Partner Devotional",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophet&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010258096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophet&",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Prophet&",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Prophet&",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martha"
+      },
+      "salience": 0.0033467731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha",
+            "beginOffset": 585
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

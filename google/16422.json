@@ -1,0 +1,293 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31815866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1747
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10273264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 772
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1953
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._Russell"
+      },
+      "salience": 0.050269675,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 1320
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015296225,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1792
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012114611,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0052890354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0049187066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 811
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035509863,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0029521566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1571
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023558754,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Celtic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Celtic_F.C."
+      },
+      "salience": 0.0022541005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Celtic",
+            "beginOffset": 1522
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0022541005,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1587
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021009541,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019190838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molly Bennion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058069307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly Bennion",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

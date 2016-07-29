@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "D. Rust",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0027502421,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Rust",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027502421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0022792853,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016392318,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

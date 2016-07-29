@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Suffering The Ethics",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.060257509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suffering The Ethics",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University"
+      },
+      "salience": 0.028595278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Arts"
+      },
+      "salience": 0.027447084,
+      "mentions": [
+        {
+          "text": {
+            "content": "BA",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Virginia",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Virginia"
+      },
+      "salience": 0.021087887,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Virginia",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.016144266,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_County,_Utah"
+      },
+      "salience": 0.015307142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 345
+          }
+        }
+      ]
+    },
+    {
+      "name": "David green",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099861827,
+      "mentions": [
+        {
+          "text": {
+            "content": "David green",
+            "beginOffset": 298
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

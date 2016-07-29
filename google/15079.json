@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Gordon B Hinckley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gordon_B._Hinckley"
+      },
+      "salience": 0.42256749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon B Hinckley",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Gordon B Hinckley",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon B Hinckley Finding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020282025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon B Hinckley Finding",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hearts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016960375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hearts",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Hearts",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Hearts",
+            "beginOffset": 639
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

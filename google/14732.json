@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Amnesty International",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Amnesty_International"
+      },
+      "salience": 0.37080887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amnesty International",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Amnesty International",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Amnesty International",
+            "beginOffset": 314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human Rights",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Human_rights"
+      },
+      "salience": 0.050220594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Rights",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Human Rights",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Human Rights",
+            "beginOffset": 609
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

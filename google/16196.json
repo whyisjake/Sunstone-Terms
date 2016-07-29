@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Thought",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thought"
+      },
+      "salience": 0.077196456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Thought",
+            "beginOffset": 1697
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0666098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.022731226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bell"
+      },
+      "salience": 0.021262296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bell",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Bell",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Bell",
+            "beginOffset": 1625
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010486175,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1370
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1948
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave Sandberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087369857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave Sandberg",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038536666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wotherspoon",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

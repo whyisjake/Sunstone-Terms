@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Sacred",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacred"
+      },
+      "salience": 0.3072305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 709
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Secret",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.092001036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Secret",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Secret",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Secret",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074397981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "McNear",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062045306,
+      "mentions": [
+        {
+          "text": {
+            "content": "McNear",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Sacred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040203523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Sacred",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 248
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temple_University"
+      },
+      "salience": 0.0091048758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple University",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "Coralville",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0077776168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coralville",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.002348975,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 576
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

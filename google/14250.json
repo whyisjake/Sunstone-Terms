@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.073056512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Revelation",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.065122113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Revelation",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032008581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhist",
+            "beginOffset": 176
+          }
+        }
+      ]
+    },
+    {
+      "name": "New World",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_World"
+      },
+      "salience": 0.024823604,
+      "mentions": [
+        {
+          "text": {
+            "content": "New World",
+            "beginOffset": 113
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

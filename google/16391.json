@@ -1,0 +1,265 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37482527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1806
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 503
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1915
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.047585122,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 363
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 795
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2012
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020453423,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1851
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon: Eight Brief Examples SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013872285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon: Eight Brief Examples SL03091",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0071039489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1781
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032798701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 834
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.00240881,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015710179,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012748548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1019
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011057996,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samantha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00096968241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samantha",
+            "beginOffset": 1419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00044970002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1462
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Wunderli",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038400086,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Wunderli",
+            "beginOffset": 1343
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

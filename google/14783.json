@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Ensign",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ensign_(LDS_magazine)"
+      },
+      "salience": 0.047284909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 615
+          }
+        },
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dialogue Charting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026766364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dialogue Charting",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015111701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dialogue Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015111701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dialogue Levine",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "S.",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second"
+      },
+      "salience": 0.014328118,
+      "mentions": [
+        {
+          "text": {
+            "content": "S.",
+            "beginOffset": 278
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

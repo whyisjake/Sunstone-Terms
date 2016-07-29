@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "glennbeck.com",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Glenn_Beck"
+      },
+      "salience": 0.52423108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "glennbeck.com",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Beck",
+            "beginOffset": 449
+          }
+        },
+        {
+          "text": {
+            "content": "Beck",
+            "beginOffset": 635
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Beck",
+            "beginOffset": 1035
+          }
+        },
+        {
+          "text": {
+            "content": "glennbeck.com",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_S._Monson"
+      },
+      "salience": 0.053370032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 1125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.044463761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 440
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 727
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10006",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015290761,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10006",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe McCarthy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_McCarthy"
+      },
+      "salience": 0.015290761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe McCarthy",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Steve_Young"
+      },
+      "salience": 0.0067807296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Young",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Steve Young",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harry Reid",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harry_Reid"
+      },
+      "salience": 0.0067807296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Reid",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Harry Reid",
+            "beginOffset": 1169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.0067807296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 1183
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.006668671,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 676
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1088
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0064924564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fox",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fox_Broadcasting_Company"
+      },
+      "salience": 0.005634977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fox",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Fox",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001384209,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068843545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry",
+            "beginOffset": 854
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.14690113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09212 Women",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.139464,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09212 Women",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church Handbook of Instructions The Church Handbook of Instructions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.032562211,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Handbook of Instructions The Church Handbook of Instructions",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vol. 1",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026775116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vol. 1",
+            "beginOffset": 159
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church Handbook of Instructions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004620004,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church Handbook of Instructions",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vol. 1",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0029360326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vol. 1",
+            "beginOffset": 1219
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00183976,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00083409692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fielding Anderson",
+            "beginOffset": 925
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

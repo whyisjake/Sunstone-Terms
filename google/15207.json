@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Stan Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13122809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Larsen",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.020603862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marietta",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marietta,_Georgia"
+      },
+      "salience": 0.014389702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marietta",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "White",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White"
+      },
+      "salience": 0.010276764,
+      "mentions": [
+        {
+          "text": {
+            "content": "White",
+            "beginOffset": 475
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

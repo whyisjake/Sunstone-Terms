@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "BYU Casual Dating",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.25510958,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Casual Dating",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leonard Casual Dating",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00953609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leonard Casual Dating",
+            "beginOffset": 403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018562039,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.010908949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Durham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Durham,_North_Carolina"
+      },
+      "salience": 0.007428668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Durham",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030546105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan Eastman",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vickie Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030546105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vickie Eastman",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026416252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026416252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Toscano",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cal Grondahl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026416252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cal Grondahl",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chatham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chatham_County,_North_Carolina"
+      },
+      "salience": 0.0011814371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chatham",
+            "beginOffset": 934
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081114477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlie",
+            "beginOffset": 884
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00081114477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 925
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "The One",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Neoplatonism"
+      },
+      "salience": 0.062059015,
+      "mentions": [
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bucks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vault_(gymnastics)"
+      },
+      "salience": 0.0082620895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bucks",
+            "beginOffset": 231
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0060774349,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 391
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

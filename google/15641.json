@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.060917549,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Way",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.043767467,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Houston",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Houston_Cougars_football"
+      },
+      "salience": 0.017732326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Houston",
+            "beginOffset": 150
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shia",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shia_Islam"
+      },
+      "salience": 0.014372521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shia",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of New Mexico",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_New_Mexico"
+      },
+      "salience": 0.01192247,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of New Mexico",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Gail Houston",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010259523,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Gail Houston",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.P.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Up_(2009_film)"
+      },
+      "salience": 0.0037194258,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. P.",
+            "beginOffset": 403
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

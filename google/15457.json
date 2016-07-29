@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "THE WIZARD OF OZ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)"
+      },
+      "salience": 0.087558888,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE WIZARD OF OZ",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "THE WIZARD OF OZ",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "AUSTRALOPITHECUS MORMON THE WIZARD OF OZ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.068472423,
+      "mentions": [
+        {
+          "text": {
+            "content": "AUSTRALOPITHECUS MORMON THE WIZARD OF OZ",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "AUSTRALOPITHECUS",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Hagen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061423305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Hagen",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Hagen",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "AUSTRALOPITHECUS MORMON Edwards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054530565,
+      "mentions": [
+        {
+          "text": {
+            "content": "AUSTRALOPITHECUS MORMON Edwards",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Randall Edwards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021057134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Randall Edwards",
+            "beginOffset": 686
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

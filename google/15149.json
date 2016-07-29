@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Why Churches Shouldn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39621907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Why Churches Shouldn&",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Why Churches Shouldn&",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Howard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035165776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Howard",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Why Churches Shouldn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030092126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Why Churches Shouldn&",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Methodist",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Methodism"
+      },
+      "salience": 0.023640754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Methodist",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southern Methodist",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_Methodist_University"
+      },
+      "salience": 0.0038047442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southern Methodist",
+            "beginOffset": 395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

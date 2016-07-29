@@ -1,0 +1,337 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.3773658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1938
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 532
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.047258582,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 824
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2144
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020290276,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father-Spirit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016089905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father-Spirit",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Son-Flesh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013757887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Son-Flesh",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Standard Works SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013757887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Standard Works SL03091",
+            "beginOffset": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Inter-changeability",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013757887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Inter-changeability",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070433952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1913
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Beckstead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044889078,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Beckstead",
+            "beginOffset": 1372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032513989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 863
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.002928087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.002387814,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017820828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 1389
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn",
+            "beginOffset": 1665
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn",
+            "beginOffset": 1651
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015572705,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012636834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1048
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00038062193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pocatello",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pocatello,_Idaho"
+      },
+      "salience": 0.00038062193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pocatello",
+            "beginOffset": 1543
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

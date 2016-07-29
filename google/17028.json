@@ -1,0 +1,247 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11436883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 851
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1258
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW08003",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075709514,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW08003",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "George Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Romney"
+      },
+      "salience": 0.029192977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "George Romney",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.026264491,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020721298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney&",
+            "beginOffset": 984
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.01705966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068061766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 675
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presidency",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/President"
+      },
+      "salience": 0.0055461042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presidency",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Quest",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0040828222,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Quest",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038183511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morris",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mo&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038183511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mo&",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Udall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036190059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Udall",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Craig L. Foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002859161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Craig L. Foster",
+            "beginOffset": 712
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. BRINGHURST THE MORMON QUEST",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0012492032,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. BRINGHURST  THE MORMON QUEST",
+            "beginOffset": 928
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Tim Heaton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31277683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaton",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Tim Heaton",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "Tim Heaton",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.24355155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 558
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demographic Perspective&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032732222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Demographic Perspective&",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Demographic Perspective&",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Demographic Perspective&",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gleanings From",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018011803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gleanings From",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gleanings From",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012577996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gleanings From",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.01075318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pam Perlich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010591996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pam Perlich",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Pam Perlich",
+            "beginOffset": 655
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

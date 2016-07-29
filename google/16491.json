@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Dan Wotherspoon mtn",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046669777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon mtn",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.016607331,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.012371353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030935451,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLachlan",
+            "beginOffset": 538
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

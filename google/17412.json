@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.11401799,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1060
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Absurd Alma 14",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035059907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Absurd Alma 14",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Presence Of Burning Children: Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030020969,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Presence Of Burning Children: Mormon Theology",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.020164208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 949
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Baker"
+      },
+      "salience": 0.017272605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baker",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alma 14",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0051016076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alma 14",
+            "beginOffset": 934
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

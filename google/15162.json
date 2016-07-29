@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "BYU One Lord",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.15097077,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU One Lord",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058807872,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Faith",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045207091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion&",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Religion&",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Religion&",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thought&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039644912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought&",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Thought&",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Thought&",
+            "beginOffset": 799
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021335224,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Faith",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014896194,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Faith",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Harris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012017231,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Harris",
+            "beginOffset": 220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Country Club",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Country_club"
+      },
+      "salience": 0.011392315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Country Club",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011392315,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Yale Princeton",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0069342307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Yale Princeton",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "Princeton",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.0029462846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 527
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

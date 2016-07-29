@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Godmakers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1506626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godmakers",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Godmakers",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Godmakers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_God_Makers"
+      },
+      "salience": 0.13476714,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Godmakers",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.033602744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 147
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

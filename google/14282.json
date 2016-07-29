@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Robson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31516334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robson",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omnis",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11050414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omnis",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Omnis",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Horizon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Horizon"
+      },
+      "salience": 0.086808309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Horizon",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Horizon",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Horizon Omnis",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.077237435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Horizon Omnis",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fetzer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021629481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fetzer",
+            "beginOffset": 111
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

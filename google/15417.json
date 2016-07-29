@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "My Profession Affects My Beliefs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26176772,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Profession Affects My Beliefs",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "My Profession Affects My Beliefs",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "How My Profession Affects My Beliefs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.097167037,
+      "mentions": [
+        {
+          "text": {
+            "content": "How My Profession Affects My Beliefs",
+            "beginOffset": 571
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

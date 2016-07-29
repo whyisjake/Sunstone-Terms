@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "Long Journey",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.036338035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Long Journey",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.023128876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darius Gray",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Darius_Gray"
+      },
+      "salience": 0.019989796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darius Gray",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Darius Gray",
+            "beginOffset": 1309
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Blair Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Blair_Young"
+      },
+      "salience": 0.0098116528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 312
+          }
+        },
+        {
+          "text": {
+            "content": "Blair Young",
+            "beginOffset": 856
+          }
+        },
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0041352813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0031391466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Green Flake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030440507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Green Flake",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Green Flake",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane Manning James",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jane_Elizabeth_Manning_James"
+      },
+      "salience": 0.0030440507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane Manning James",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Jane Manning James",
+            "beginOffset": 1393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028358824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darrell Fletcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002224101,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darrell Fletcher",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elijah Abel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elijah_Abel"
+      },
+      "salience": 0.0010687007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elijah Abel",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Elijah Abel",
+            "beginOffset": 1367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mustonen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000691717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mustonen",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

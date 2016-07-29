@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "The Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Truth_(Australian_band)"
+      },
+      "salience": 0.48552608,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "BH Robert&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046141315,
+      "mentions": [
+        {
+          "text": {
+            "content": "B H Robert&",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "B H Robert&",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "B H Robert&",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040485322,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "The Way",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "What Might Have Been",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029146941,
+      "mentions": [
+        {
+          "text": {
+            "content": "What Might Have Been",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.009676625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 375
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

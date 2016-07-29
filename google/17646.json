@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Booth",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.22898622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Booth",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Booth",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "Booth",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Quest",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.17055537,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Quest",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "The Quest",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne Booth&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022367006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Booth&",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Autobiography My",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022367006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Autobiography My",
+            "beginOffset": 77
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011206822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peterson My",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0012802383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peterson  My",
+            "beginOffset": 783
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

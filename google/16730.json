@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Ella Peacock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.59659868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Ella Peacock",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.036662087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathryn Abajian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011407475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abajian",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Abajian",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "Abajian",
+            "beginOffset": 905
+          }
+        },
+        {
+          "text": {
+            "content": "Kathryn Abajian",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manti Temple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0092457347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manti Temple",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco Chronicle",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco_Chronicle"
+      },
+      "salience": 0.0011234393,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco Chronicle",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pete",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011234393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pete",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Piedmont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Piedmont"
+      },
+      "salience": 0.0011234393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Piedmont",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco_Bay_Area"
+      },
+      "salience": 0.0011234393,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco Bay Area",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAPD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles_Police_Department"
+      },
+      "salience": 0.00028960634,
+      "mentions": [
+        {
+          "text": {
+            "content": "LAPD",
+            "beginOffset": 673
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

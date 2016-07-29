@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "It&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050358344,
+      "mentions": [
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 615
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early British Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037886862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early British Church",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Early British Church",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "#8216",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030077798,
+      "mentions": [
+        {
+          "text": {
+            "content": "#8216",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011306732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prater",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011306732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prater",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0068961526,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 686
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

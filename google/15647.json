@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Same-Sex Relationships",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Same-sex_relationship"
+      },
+      "salience": 0.13398109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Same-Sex Relationships",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Same-Sex Relationships",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Same-Sex Relationships Wtts",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053330135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Same-Sex Relationships Wtts",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medical Center",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medical_Center_(TV_series)"
+      },
+      "salience": 0.024874311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medical Center",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024874311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mildred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024874311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mildred",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Wtts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023234684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Gary Wtts",
+            "beginOffset": 570
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

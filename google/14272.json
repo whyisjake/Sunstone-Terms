@@ -1,0 +1,43 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.098453626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.087689579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 48
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

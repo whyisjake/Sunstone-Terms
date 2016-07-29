@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "William James Hamblin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53458267,
+      "mentions": [
+        {
+          "text": {
+            "content": "William James Hamblin",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Christian Secret Initiation Ritual An Early Christian Secret",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.099466808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Christian Secret Initiation Ritual An Early Christian Secret",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of southern Mississippi",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Southern_Mississippi"
+      },
+      "salience": 0.064159729,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of southern Mississippi",
+            "beginOffset": 311
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.019772965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hamblin An Early Christian Secret",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015796596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hamblin An Early Christian Secret",
+            "beginOffset": 454
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

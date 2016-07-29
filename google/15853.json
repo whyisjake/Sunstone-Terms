@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Jorgensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04483477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jorgensen",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN D. CAPUTO",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_D._Caputo"
+      },
+      "salience": 0.022667712,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN D. CAPUTO",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "John D. Caputo",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "JOHN D. CAPUTO",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enlightenment",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Age_of_Enlightenment"
+      },
+      "salience": 0.018937254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enlightenment",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Enlightenment",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN D. CAPUTO DERRIDA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013067387,
+      "mentions": [
+        {
+          "text": {
+            "content": "DERRIDA",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "JOHN D. CAPUTO DERRIDA",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "DERRIDA",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stacey Burton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082049808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stacey Burton",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stacy Burton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027721322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stacy Burton",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Second Coming of Christ",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second_Coming"
+      },
+      "salience": 0.002488802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Coming of Christ",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "Second Coming of Christ",
+            "beginOffset": 1270
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0019622215,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada Reno",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Nevada,_Reno"
+      },
+      "salience": 0.0019622215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada Reno",
+            "beginOffset": 823
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

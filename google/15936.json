@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Alma",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Alma"
+      },
+      "salience": 0.055973027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alma",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Alma",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Reed Hunter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050342977,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Reed Hunter",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "M. Reed Hunter",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044809066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites Conkling",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites Alma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034792721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites Alma",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017522924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025457698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peterson",
+            "beginOffset": 375
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Eugene England",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.26189828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.056288317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.014168345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021266846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gene"
+      },
+      "salience": 0.002078464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 1398
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0019908415,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00045556089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina"
+      },
+      "salience": 0.00045556089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlotte",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

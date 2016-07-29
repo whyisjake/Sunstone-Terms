@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.11520301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother of Science Christianity",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11055704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother of Science Christianity",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Mother of Science",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston_University"
+      },
+      "salience": 0.090982839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston University",
+            "beginOffset": 259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother of Science",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016206997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother of Science",
+            "beginOffset": 503
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

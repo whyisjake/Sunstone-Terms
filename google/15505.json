@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Teresa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2825799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teresa",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Teresa",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "GRACE Whiting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05209437,
+      "mentions": [
+        {
+          "text": {
+            "content": "GRACE Whiting",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.016275043,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "GRACE Teresa Whiting",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081194257,
+      "mentions": [
+        {
+          "text": {
+            "content": "GRACE Teresa Whiting",
+            "beginOffset": 486
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/War"
+      },
+      "salience": 0.12928388,
+      "mentions": [
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 546
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gulf",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gulf_of_Mexico"
+      },
+      "salience": 0.10100818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gulf",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Gulf",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Gulf",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.06781096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio_State_University"
+      },
+      "salience": 0.050045948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio State University",
+            "beginOffset": 168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Northwestern University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Northwestern_University"
+      },
+      "salience": 0.04746338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Northwestern University",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rutgers University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rutgers_University"
+      },
+      "salience": 0.039417993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rutgers University",
+            "beginOffset": 252
+          }
+        }
+      ]
+    },
+    {
+      "name": "International Studies association",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/International_Studies_Association"
+      },
+      "salience": 0.033350836,
+      "mentions": [
+        {
+          "text": {
+            "content": "International Studies association",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.027678212,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 297
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

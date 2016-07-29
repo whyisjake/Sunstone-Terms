@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Dead",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21167864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dead",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Dead",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Dead",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.1358203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 177
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

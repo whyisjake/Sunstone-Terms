@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.030805986,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 864
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sense of Humor Committee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026462322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sense of Humor Committee",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.015917823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013112073,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ed",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Members&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012704722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Members&",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Members&",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Members&",
+            "beginOffset": 1406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sense of Humor Committee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011609165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sense of Humor Committee",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Sense of Humor Committee",
+            "beginOffset": 1421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0098307319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ward Humorist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048342533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ward Humorist",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0021786992,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1135
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1278
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018331246,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Snow",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013268024,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00081438868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.00056995422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

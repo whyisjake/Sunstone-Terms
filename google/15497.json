@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Laura Lee Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46075159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Lee Smith",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Laura Lee Smith",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bartholomew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058260411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bartholomew",
+            "beginOffset": 114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_Temple"
+      },
+      "salience": 0.0036656556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036656556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": 237
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028820354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 388
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0028820354,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Bartholomew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024797148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Bartholomew",
+            "beginOffset": 642
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

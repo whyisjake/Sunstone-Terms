@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Tim Heaton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13849324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tim Heaton",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Science And Female Repression Scouts",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.054786809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Science And Female Repression Scouts",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehigh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehigh_University"
+      },
+      "salience": 0.01075437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehigh",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01075437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Science And Female Repression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0093598776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Science And Female Repression",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0027878974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 313
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

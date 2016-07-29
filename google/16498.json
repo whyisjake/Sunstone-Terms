@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Peggy Fletcher Stackassessed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46717378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peggy Fletcher Stackassessed",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Peggy",
+            "beginOffset": 652
+          }
+        },
+        {
+          "text": {
+            "content": "Peggy Fletcher Stackassessed",
+            "beginOffset": 1216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Feminists Gone",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.008216206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Feminists Gone",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 456
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Feminists Gone",
+            "beginOffset": 1326
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.00621114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1482
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00621114,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine M. Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026507573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine M. Hanks",
+            "beginOffset": 738
+          }
+        },
+        {
+          "text": {
+            "content": "Maxine M. Hanks",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Salt_Lake_Tribune"
+      },
+      "salience": 0.0020188007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake Tribune",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fletcher Stack",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018944978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fletcher Stack",
+            "beginOffset": 857
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.001526388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 892
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

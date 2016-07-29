@@ -1,0 +1,275 @@
+{
+  "entities": [
+    {
+      "name": "H. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/H._Allen_Smith"
+      },
+      "salience": 0.14291753,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Smith",
+            "beginOffset": 685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.12201585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1061
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049094535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seerstones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039647426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seerstones",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scrying",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scrying"
+      },
+      "salience": 0.035510324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scrying",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016993545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 1220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel Paul Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008881269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel Paul Smith",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0075944765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059363656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Vogel"
+      },
+      "salience": 0.0039635166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0034047763,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 470
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Arts"
+      },
+      "salience": 0.002805498,
+      "mentions": [
+        {
+          "text": {
+            "content": "BA",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.002805498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italy",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.002805498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 857
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0022027001,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Austin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Austin,_Texas"
+      },
+      "salience": 0.0008724822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austin",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

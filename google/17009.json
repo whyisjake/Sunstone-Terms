@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "name": "TA MINUTEMAN",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22489673,
+      "mentions": [
+        {
+          "text": {
+            "content": "T A MINUTEMAN",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "T A MINUTEMAN",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "T A MINUTEMAN",
+            "beginOffset": 1201
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRISTIAN RESPONSIBILITY JESUS WASN&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10729817,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "CHRISTIAN RESPONSIBILITY JESUS WASN&",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 1184
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRISTIAN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.068564929,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRISTIAN",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "CHRISTIAN",
+            "beginOffset": 1246
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1530
+          }
+        }
+      ]
+    },
+    {
+      "name": "ELLEN ROBERTSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066465782,
+      "mentions": [
+        {
+          "text": {
+            "content": "ELLEN ROBERTSON",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "BILL HANSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036975977,
+      "mentions": [
+        {
+          "text": {
+            "content": "BILL HANSEN",
+            "beginOffset": 741
+          }
+        },
+        {
+          "text": {
+            "content": "Hansen",
+            "beginOffset": 1111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Hanson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030601395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Hanson",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0025178629,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL CLARA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002336794,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL CLARA",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0019365337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0019365337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 963
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

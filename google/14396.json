@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.081730656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Everybody",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.075247586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Prophet The Joseph Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029962001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Prophet The Joseph Everybody",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Prophet",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/President_of_the_Church"
+      },
+      "salience": 0.019244665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Prophet",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Prophet",
+            "beginOffset": 504
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

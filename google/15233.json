@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Tarlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.550947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tarlow",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rock Canyon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.080850936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock Canyon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Rock Canyon",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "January Rock Canyon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.072049022,
+      "mentions": [
+        {
+          "text": {
+            "content": "January Rock Canyon",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph of Nazareth",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Joseph"
+      },
+      "salience": 0.015010412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph of Nazareth",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Range"
+      },
+      "salience": 0.011815023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch",
+            "beginOffset": 271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Daniel,_Utah"
+      },
+      "salience": 0.0036941064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": 351
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

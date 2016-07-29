@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "King David On Trial",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.12952298,
+      "mentions": [
+        {
+          "text": {
+            "content": "King David On Trial",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "King David On Trial",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "King David On Trial",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Muir",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023043258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Muir",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Figure Muir Frank",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016546819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Figure Muir Frank",
+            "beginOffset": 119
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

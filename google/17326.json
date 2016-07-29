@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "SL10251",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.073509924,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10251",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Documentary 8: The Mormon Proposition",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026963642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Documentary 8: The Mormon Proposition",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "COMPTON",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.023241518,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPTON",
+            "beginOffset": 160
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT A. REES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020660223,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT A. REES",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "ROBERT A. REES",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Mormonism"
+      },
+      "salience": 0.018580468,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAURA COMPTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013484979,
+      "mentions": [
+        {
+          "text": {
+            "content": "LAURA COMPTON",
+            "beginOffset": 401
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

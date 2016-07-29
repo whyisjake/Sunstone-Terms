@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Community Planning",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Urban_planning"
+      },
+      "salience": 0.14197086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community Planning",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.06486582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Community Planning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057773963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Community Planning",
+            "beginOffset": 23
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

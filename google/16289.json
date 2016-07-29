@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Stanley B. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32944331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanley B. Kimball",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Stanley B. Kimball",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "B. Kimball",
+            "beginOffset": 607
+          }
+        },
+        {
+          "text": {
+            "content": "Stanley B. Kimball",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16238262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Stan",
+            "beginOffset": 548
+          }
+        },
+        {
+          "text": {
+            "content": "Stan",
+            "beginOffset": 1011
+          }
+        },
+        {
+          "text": {
+            "content": "Stan",
+            "beginOffset": 1460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward L. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027782526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward L. Kimball",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Edward L. Kimball",
+            "beginOffset": 619
+          }
+        },
+        {
+          "text": {
+            "content": "Edward L. Kimball",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015616289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan&",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Stan&",
+            "beginOffset": 1273
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012204634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "European",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0081525184,
+      "mentions": [
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "Violet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077305785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Violet",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Violet &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041230619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Violet &hellip",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    },
+    {
+      "name": "St. George",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/St._George,_Utah"
+      },
+      "salience": 0.0026202246,
+      "mentions": [
+        {
+          "text": {
+            "content": "St. George",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026202246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Country",
+            "beginOffset": 493
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

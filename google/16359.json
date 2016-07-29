@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "W. Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07047689,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Murphy",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOOK OF MORMON",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.070083968,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 471
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0077930368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1381
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0073456825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.0027173057,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 736
+          }
+        },
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.0019538344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0019538344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.0019538344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Indians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.0019538344,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Indians",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019206636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015917163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evans",
+            "beginOffset": 959
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

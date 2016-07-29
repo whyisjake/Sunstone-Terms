@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.098475881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stacy Burton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0258364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stacy Burton",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Stacy",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "Stacy Burton",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ray Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018589666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ray Allred",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Ray Allred",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jayne Clifford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018589666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jayne Clifford",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Jayne Clifford",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheria Kartchner Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018589666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheria Kartchner Woodworth",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Cheria Kartchner Woodworth",
+            "beginOffset": 632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nevada"
+      },
+      "salience": 0.0058995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nevada",
+            "beginOffset": 344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reno",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reno,_Nevada"
+      },
+      "salience": 0.0048902514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reno",
+            "beginOffset": 354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040940149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 586
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

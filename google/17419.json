@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016819037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.012582541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1088
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010151586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1248
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 790
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0078526912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1309
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028777481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0023880792,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amelia Parkin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019455941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amelia Parkin",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vickie Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016615922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vickie Eastman",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016615922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gwenn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00051667896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gwenn",
+            "beginOffset": 919
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00051667896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omar",
+            "beginOffset": 981
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

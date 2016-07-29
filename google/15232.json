@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.060131021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lew Wallace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031364266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lew Wallace",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Lew Wallace",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0086892508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 312
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Right",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Right-wing_politics"
+      },
+      "salience": 0.0083595039,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Right",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roger D.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002712524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roger D.",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

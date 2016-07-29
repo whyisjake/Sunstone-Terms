@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "Cora Birdsall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.297801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cora Birdsall",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Cora Birdsall",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Cora Birdsall",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Cora",
+            "beginOffset": 1028
+          }
+        },
+        {
+          "text": {
+            "content": "Cora Birdsall",
+            "beginOffset": 1168
+          }
+        },
+        {
+          "text": {
+            "content": "Cora Birdsall",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.023474019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1255
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Hounds Woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012705039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Hounds Woman",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Church Hounds Woman",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Church Hounds Woman",
+            "beginOffset": 1121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011114312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madness",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Madness",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Madness",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0083358539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1218
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smoot",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Smoot,_Wyoming"
+      },
+      "salience": 0.0020787716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smoot",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0020787716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020787716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "ares",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00047573118,
+      "mentions": [
+        {
+          "text": {
+            "content": "ares",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

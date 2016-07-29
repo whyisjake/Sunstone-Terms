@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "OJ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/O._J._Simpson"
+      },
+      "salience": 0.39901927,
+      "mentions": [
+        {
+          "text": {
+            "content": "OJ",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.39855704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020889962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0083266422,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War two",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.0069042989,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War two",
+            "beginOffset": 295
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

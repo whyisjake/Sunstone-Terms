@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism Books",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.33704904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Books",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11719456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 482
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg Kofford Books",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0036044973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg Kofford  Books",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Mormonism"
+      },
+      "salience": 0.0027042825,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 381
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curt Bench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001807698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curt Bench",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg Kofford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001807698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg Kofford",
+            "beginOffset": 754
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

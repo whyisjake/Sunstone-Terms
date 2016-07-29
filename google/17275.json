@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.033240285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1104
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Anthology Co-editor Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020161133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Anthology Co-editor Newell G. Bringhurst",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 584
+          }
+        },
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10014",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017441502,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10014",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book Preview/Panel: Persistence of Polygamy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013558365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book Preview/Panel: Persistence of Polygamy",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0077526057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0023354285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 403
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1285
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.0019866223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019866223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don Bradley",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Witmer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012071186,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Witmer",
+            "beginOffset": 741
+          }
+        },
+        {
+          "text": {
+            "content": "John Witmer",
+            "beginOffset": 906
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

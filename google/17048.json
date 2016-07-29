@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Heaven",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2430739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Heaven",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Heaven",
+            "beginOffset": 1150
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.16999958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tell You Mormon Heaven",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.031930268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tell You Mormon Heaven",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophets Didn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027624071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophets Didn&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Prophets Didn&",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tell You",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011348535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tell You",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Tell You",
+            "beginOffset": 1202
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLaughlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00826798,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLaughlin",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jolley&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006497317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jolley&",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Jolly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003058278,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Jolly",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophets Didn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028348516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophets Didn&",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0026064562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0023728581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Twain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Twain"
+      },
+      "salience": 0.0022022468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Twain",
+            "beginOffset": 684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pogo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022022468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pogo",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0019034898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001794095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012824398,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albright",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00055790471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albright",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

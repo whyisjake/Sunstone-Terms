@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.73098767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby What&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1053712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby  What&",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pat Bagley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pat_Bagley"
+      },
+      "salience": 0.095803216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Pat Bagley",
+            "beginOffset": 139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067837946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 151
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

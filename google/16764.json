@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.18871494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 471
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 729
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 835
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.011392515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1594
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRUCE SMITH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019483713,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRUCE SMITH",
+            "beginOffset": 918
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0015418793,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "JULIA MUMFORD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015098933,
+      "mentions": [
+        {
+          "text": {
+            "content": "JULIA MUMFORD",
+            "beginOffset": 931
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

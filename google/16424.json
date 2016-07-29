@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37333423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1547
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 522
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.078096226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1753
+          }
+        }
+      ]
+    },
+    {
+      "name": "National Culture",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.062938772,
+      "mentions": [
+        {
+          "text": {
+            "content": "National Culture",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.023098735,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Mormon Culture of Violence SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01832803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon Culture of Violence SL03091",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theocracy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Theocracy"
+      },
+      "salience": 0.015676878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theocracy",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.008033582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0037105172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 853
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0020018022,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "nbsp SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019748341,
+      "mentions": [
+        {
+          "text": {
+            "content": "nbsp SL03091",
+            "beginOffset": 1451
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014730999,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014425364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.00065016211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Quinn",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.38487965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Luther King III",
+            "beginOffset": 1371
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1504
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 531
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.062504977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1710
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.013908634,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 230
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Today&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012558915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Today&",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0064365296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0029730708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 862
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0016039956,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Pilgrim Baptist Church Choir",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0013514095,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Pilgrim Baptist Church Choir",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0011803686,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011558791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

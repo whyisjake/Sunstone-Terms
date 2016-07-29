@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Sao Paulo Brazil Temple",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.074806765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sao Paulo Brazil Temple",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Sao Paulo Brazil Temple",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Sao Paulo Brazil Temple",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grover",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grover,_Utah"
+      },
+      "salience": 0.041426543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grover",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indiana_University"
+      },
+      "salience": 0.028997112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana University",
+            "beginOffset": 208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.028997112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harold B. Lee library",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harold_B._Lee_Library"
+      },
+      "salience": 0.024809835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harold B. Lee library",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.024809835,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 439
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

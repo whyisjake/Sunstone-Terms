@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019046836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014995491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 286
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

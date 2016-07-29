@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.029030779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 557
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038896846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen Robertson",
+            "beginOffset": 586
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

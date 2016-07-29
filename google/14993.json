@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Poets Read",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42851365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Poets Read",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Poets Read",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Poets Read",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literati",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044881467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literati",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Literati",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Literati",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.012256698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 273
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

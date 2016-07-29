@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.080816783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1271
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1424
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Centennial Park",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Centennial_Park_group"
+      },
+      "salience": 0.019948993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Centennial Park",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Centennial Park",
+            "beginOffset": 859
+          }
+        },
+        {
+          "text": {
+            "content": "Centennial Park",
+            "beginOffset": 1407
+          }
+        }
+      ]
+    },
+    {
+      "name": "CENTENNIAL PARK PLURAL WIVES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015764564,
+      "mentions": [
+        {
+          "text": {
+            "content": "CENTENNIAL PARK PLURAL WIVES",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0087524913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joyce",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/James_Joyce"
+      },
+      "salience": 0.0026091551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joyce",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilde",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oscar_Wilde"
+      },
+      "salience": 0.0019414561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilde",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carlton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carlton,_New_South_Wales"
+      },
+      "salience": 0.0015454153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carlton",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015454153,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hilldale",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hildale,_Utah"
+      },
+      "salience": 0.0012132913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hilldale",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.00048051847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

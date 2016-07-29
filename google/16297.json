@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.15332533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japan",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 431
+          }
+        },
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rough and Ready Baptism Period",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051178172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rough and Ready Baptism Period",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.030850735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arab",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabs"
+      },
+      "salience": 0.0039122892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arab",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0032425877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 711
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

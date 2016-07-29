@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.13701861,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 716
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fire",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fire"
+      },
+      "salience": 0.006947747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fire",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Fire",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pasture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pasture"
+      },
+      "salience": 0.006947747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pasture",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Pasture",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Christmas",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0026861802,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Christmas",
+            "beginOffset": 353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tyler Chadwick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017058383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tyler Chadwick",
+            "beginOffset": 367
+          }
+        },
+        {
+          "text": {
+            "content": "Tyler Chadwick",
+            "beginOffset": 967
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015557846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simon Peter Eggertsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015557846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simon Peter Eggertsen",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan Elizabeth Howe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015557846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Elizabeth Howe",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.0010390775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.A.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ra"
+      },
+      "salience": 0.00090273895,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. A.",
+            "beginOffset": 950
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

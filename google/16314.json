@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Synchronicity: Another Voice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3503271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Another Voice",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Synchronicity: Another Voice",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Synchronicity: Another Voice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20280287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Synchronicity: Another Voice",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_retribution"
+      },
+      "salience": 0.075782515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 729
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Coincidence.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Coincidence"
+      },
+      "salience": 0.0019087514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coincidence.",
+            "beginOffset": 465
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

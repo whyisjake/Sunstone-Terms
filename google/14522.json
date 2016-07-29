@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon: Foundations of a Theology of Scripture The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07187894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon: Foundations of a Theology of Scripture The Book of Mormon",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.026412133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 108
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon: Foundations of a Theology",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011300135,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon: Foundations of a Theology",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

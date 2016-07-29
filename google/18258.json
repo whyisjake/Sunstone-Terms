@@ -1,0 +1,329 @@
+{
+  "entities": [
+    {
+      "name": "Jeremiah Wright",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeremiah_Wright"
+      },
+      "salience": 0.46757531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeremiah Wright",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Jeremiah Wright",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Rev. Wright",
+            "beginOffset": 423
+          }
+        },
+        {
+          "text": {
+            "content": "Jeremiah Wright",
+            "beginOffset": 903
+          }
+        },
+        {
+          "text": {
+            "content": "Rev. Wright",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0953946,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1060
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.084422909,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1050
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1080
+          }
+        }
+      ]
+    },
+    {
+      "name": "It&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023670932,
+      "mentions": [
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "un-American&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019461911,
+      "mentions": [
+        {
+          "text": {
+            "content": "un-American&",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "un-American&",
+            "beginOffset": 970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fox News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fox_News_Channel"
+      },
+      "salience": 0.019461911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fox News",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Fox News",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012978774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barack Obama&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012198271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barack Obama&",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Barack Obama&",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00732446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Obama",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barack_Obama"
+      },
+      "salience": 0.0064289076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obama",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Obama",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0026022685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0026022685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0026022685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Slocum William",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025050903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Slocum William",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mona",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020762379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mona",
+            "beginOffset": 761
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

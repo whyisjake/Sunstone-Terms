@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Faith Development And James Fowler&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32869688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Faith Development And James Fowler&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "James Fowler&",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "James Fowler&",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Faith Development And James Fowler&",
+            "beginOffset": 684
+          }
+        },
+        {
+          "text": {
+            "content": "James Fowler&",
+            "beginOffset": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039992545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian&",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Christian&",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.039863516,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Faith Development And James Fowler&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021476232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Faith Development And James Fowler&",
+            "beginOffset": 179
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

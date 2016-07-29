@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.047610167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 155
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.037322912,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 746
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0010087828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081132707,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Peterson",
+            "beginOffset": 964
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gregory Prince",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081132707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gregory Prince",
+            "beginOffset": 977
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janis Ferre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081132707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janis Ferre",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brent Corcoran",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081132707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brent Corcoran",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Worthen Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00081132707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Worthen Chandler",
+            "beginOffset": 1022
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00058651267,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ravn",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00025224852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ravn",
+            "beginOffset": 1093
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.00024556252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

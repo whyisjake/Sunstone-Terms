@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "MOVEMENT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_movement"
+      },
+      "salience": 0.12205799,
+      "mentions": [
+        {
+          "text": {
+            "content": "MOVEMENT",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "MOVEMENT",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "MOVEMENT",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Mayfield",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01750241,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Mayfield",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steven L. Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017039495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven L. Mayfield",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Edward Decker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ed_Decker"
+      },
+      "salience": 0.016399134,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Edward Decker",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "J. Edward Decker",
+            "beginOffset": 305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rev. James Spencer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014741166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rev. James Spencer",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Rev. James Spencer",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Tanner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014741166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Tanner",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Tanner",
+            "beginOffset": 343
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

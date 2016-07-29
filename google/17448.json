@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Gene England",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.62859881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Gene England",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Gene England",
+            "beginOffset": 1086
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0057491646,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1319
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025733009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 485
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0019190951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Afghanistan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Afghanistan"
+      },
+      "salience": 0.0019190951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Afghanistan",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018539041,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0017703242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 640
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

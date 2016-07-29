@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Rebecca Salti",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32812017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca Salti",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Salti",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Salti",
+            "beginOffset": 530
+          }
+        },
+        {
+          "text": {
+            "content": "Rebecca Salti",
+            "beginOffset": 925
+          }
+        },
+        {
+          "text": {
+            "content": "Salti",
+            "beginOffset": 1100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unchosen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025787061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unchosen",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.023464343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bani Hamida",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030888356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bani Hamida",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Bani Hamida",
+            "beginOffset": 1183
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029385292,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Waco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Waco,_Texas"
+      },
+      "salience": 0.0024354283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.0024354283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sharon Spencer Conti",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00075751042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharon Spencer Conti",
+            "beginOffset": 823
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

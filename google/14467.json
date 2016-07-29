@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "World Movement Mormonism",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.16892236,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Movement Mormonism",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "World Movement",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "World Movement",
+            "beginOffset": 388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jack_Mormon"
+      },
+      "salience": 0.048845865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Mormon",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_Temple"
+      },
+      "salience": 0.01445756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 363
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

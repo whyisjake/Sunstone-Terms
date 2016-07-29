@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20652704,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Word Made Flesh Charles Harrell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.098265514,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Word Made Flesh Charles Harrell",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Charles Harrell",
+            "beginOffset": 218
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054864265,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05405594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "IDC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/International_Data_Corporation"
+      },
+      "salience": 0.045648228,
+      "mentions": [
+        {
+          "text": {
+            "content": "IDC",
+            "beginOffset": 147
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.1678178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 745
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "His Life Researchers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10237007,
+      "mentions": [
+        {
+          "text": {
+            "content": "His Life Researchers",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd M. Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.071646005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd M. Compton",
+            "beginOffset": 437
+          }
+        },
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027456942,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Smith",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0023383293,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 363
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0023108493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0019152436,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 659
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

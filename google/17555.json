@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Borderlands",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/March_(territorial_entity)"
+      },
+      "salience": 0.1519675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 749
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 803
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012106427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Borderlander",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0047128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlander",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Borderlanders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031811551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlanders",
+            "beginOffset": 400
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlanders",
+            "beginOffset": 1459
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.0020820757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dehlin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.0020820757,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dehlin",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam Fisher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020820757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam Fisher",
+            "beginOffset": 902
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lilly Shults",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064743665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilly Shults",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suzann Werner Christmas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064743665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suzann Werner Christmas",
+            "beginOffset": 929
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

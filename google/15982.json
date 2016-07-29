@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Joseph At Christmas Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016947402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph At Christmas Joseph",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph At Christmas",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0033131489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032569063,
+      "mentions": [
+        {
+          "text": {
+            "content": "England Hansen",
+            "beginOffset": 533
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

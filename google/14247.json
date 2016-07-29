@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "The Mormon Connection History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17920126,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Connection History",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Connection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14625302,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Connection",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014596247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edwin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010748377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edwin",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California"
+      },
+      "salience": 0.010190422,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California",
+            "beginOffset": 168
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0098904194,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Connection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0088673923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Connection",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0081336489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanton American",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030894161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanton American",
+            "beginOffset": 303
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

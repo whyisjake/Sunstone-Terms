@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "SL09211 A Woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047580212,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09211 A Woman",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grief",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grief"
+      },
+      "salience": 0.037004564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grief",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tamar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010210728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tamar",
+            "beginOffset": 578
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amnon.In",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010210728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amnon.In",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "David&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040510828,
+      "mentions": [
+        {
+          "text": {
+            "content": "David&",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Luffman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012971458,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Luffman",
+            "beginOffset": 1061
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

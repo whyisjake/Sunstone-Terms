@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16339438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1431
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.069752149,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 920
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1505
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073795281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034948322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0026337747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0018828836,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.0018828836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twelve&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017178149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twelve&",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0016720183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 1325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Calvin"
+      },
+      "salience": 0.00043084563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City public library",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City_Public_Library"
+      },
+      "salience": 0.00043084563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City public library",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

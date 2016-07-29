@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Evil&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20255695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Origin",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.16606279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Origin",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Origin",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Origin",
+            "beginOffset": 224
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enoch Narrative",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1083611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0672969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Flake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kathleen_Flake"
+      },
+      "salience": 0.04777094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 313
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis Evil&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045682918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis Evil&",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis Flake Evil&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011334818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis Flake  Evil&",
+            "beginOffset": 196
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32116964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1471
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.19089839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslim",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.025323961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslim",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016316982,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.00779033,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0069687362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0066694594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032190084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0017367039,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kergaye",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014632236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kergaye",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014632236,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001278033,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012515176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

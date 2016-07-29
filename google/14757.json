@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "BYU Community Responds",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.038132917,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Community Responds",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "BYU Community Responds",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "BYU Community Responds",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "S.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second"
+      },
+      "salience": 0.016359035,
+      "mentions": [
+        {
+          "text": {
+            "content": "S.",
+            "beginOffset": 338
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

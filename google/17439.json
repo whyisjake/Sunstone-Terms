@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "name": "Eugene England",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.19397394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Gene England",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 461
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1295
+          }
+        },
+        {
+          "text": {
+            "content": "Gene",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Fielding Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Fielding_Smith"
+      },
+      "salience": 0.13495818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Fielding Smith",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Fielding Smith",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076433435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England&",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045872375,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Jolley",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gene&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031301025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gene&",
+            "beginOffset": 325
+          }
+        },
+        {
+          "text": {
+            "content": "Gene&",
+            "beginOffset": 1593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010120427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1373
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0057765334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 313
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gene England&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0026831585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gene England&",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025706426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0025706426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bradford",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bradford"
+      },
+      "salience": 0.0013460733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bradford",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "PBS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/PBS"
+      },
+      "salience": 0.0013460733,
+      "mentions": [
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "USA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013460733,
+      "mentions": [
+        {
+          "text": {
+            "content": "USA",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane England",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068172708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane England",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Woodrow_Wilson"
+      },
+      "salience": 0.0004185107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilson",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Solomon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004185107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlotte Solomon",
+            "beginOffset": 1223
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

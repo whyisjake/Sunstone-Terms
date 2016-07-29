@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20937857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 345
+          }
+        },
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS ROYAL FAMILY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045233235,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS ROYAL FAMILY",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS ROYAL FAMILY D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016427804,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS ROYAL FAMILY D. Russell",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. LPS",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012575763,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. LPS",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01059151,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faust",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0092555294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faust",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0070013907,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 634
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

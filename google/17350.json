@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "SL10323",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15703751,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10323",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Principles Manual",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.037754215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Principles Manual",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAURA COMPTON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024003405,
+      "mentions": [
+        {
+          "text": {
+            "content": "LAURA COMPTON",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Principles",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_Principles"
+      },
+      "salience": 0.013016297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Principles",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Principles",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Word_of_Wisdom"
+      },
+      "salience": 0.00298374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "WARREN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warren,_Michigan"
+      },
+      "salience": 0.0029162732,
+      "mentions": [
+        {
+          "text": {
+            "content": "WARREN",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

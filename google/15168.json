@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Ward Reassignments",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057312302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ward Reassignments",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Ward Reassignments",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Ward Reassignments",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "L.A.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Louisiana"
+      },
+      "salience": 0.057312302,
+      "mentions": [
+        {
+          "text": {
+            "content": "L.A.",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "L.A.",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "L.A.",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "N.Y.C.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_Central_Railroad"
+      },
+      "salience": 0.057312302,
+      "mentions": [
+        {
+          "text": {
+            "content": "N.Y.C.",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "N.Y.C.",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "N.Y.C.",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manhattan"
+      },
+      "salience": 0.0088076359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manhattan",
+            "beginOffset": 595
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

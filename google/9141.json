@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "World Beyond Russell Osmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27180231,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Beyond Russell Osmond",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Russell Osmond",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037988465,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Raso Osmond Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015772816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raso Osmond Russell",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013795183,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Syracuse University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Syracuse_University"
+      },
+      "salience": 0.0096333371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syracuse University",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

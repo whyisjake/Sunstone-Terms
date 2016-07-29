@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "UC Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "salience": 0.035854179,
+      "mentions": [
+        {
+          "text": {
+            "content": "UC Berkeley",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Scientology",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_Scientology"
+      },
+      "salience": 0.028330345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Scientology",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Scientology",
+            "beginOffset": 857
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.019774495,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 842
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010472336,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scientologists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Scientology"
+      },
+      "salience": 0.0080645261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scientologists",
+            "beginOffset": 442
+          }
+        },
+        {
+          "text": {
+            "content": "Scientologists",
+            "beginOffset": 1142
+          }
+        },
+        {
+          "text": {
+            "content": "Scientologist",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0064639389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Claremont",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Claremont,_California"
+      },
+      "salience": 0.0052373931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claremont",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Westbrook",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052373931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westbrook",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.0013502878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 739
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

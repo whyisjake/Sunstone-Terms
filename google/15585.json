@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Mormons And The Environment The Mormons And The Environment Smith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.13674636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons And The Environment The Mormons And The Environment Smith",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0933592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Smith",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Smith",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ronald Molen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077076517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronald Molen",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Ronald Molen",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.037325189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormons And The Environment Gibbs Smith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035402391,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormons And The Environment Gibbs Smith",
+            "beginOffset": 425
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

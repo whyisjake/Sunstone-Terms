@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Barlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12447872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barlow",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gerald",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049894452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gerald",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_Christianity"
+      },
+      "salience": 0.046865426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian History",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Christian History",
+            "beginOffset": 116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deification",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apotheosis"
+      },
+      "salience": 0.03369721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deification",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Deification",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Deification",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad bird",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brad_Bird"
+      },
+      "salience": 0.032297738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad bird",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Finney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charles_Grandison_Finney"
+      },
+      "salience": 0.022999056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Finney",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.011686977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cambridge",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
+      },
+      "salience": 0.011686977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cambridge",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.006760159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 540
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

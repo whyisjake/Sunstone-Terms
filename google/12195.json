@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Excommunications",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Excommunication"
+      },
+      "salience": 0.0779973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Excommunications",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lavina_Fielding_Anderson"
+      },
+      "salience": 0.028366247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028366247,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 83
+          }
+        }
+      ]
+    },
+    {
+      "name": "Associated Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Associated_Press"
+      },
+      "salience": 0.022366941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Associated Press",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "AP",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01981356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 259
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

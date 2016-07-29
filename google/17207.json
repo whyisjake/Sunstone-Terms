@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.048491687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Prodigal Daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047322895,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Prodigal Daughter",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09252",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031870484,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09252",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Feminist Mormon Midrash",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031870484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feminist Mormon Midrash",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.019260146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 397
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 428
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1127
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1158
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030923923,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.00096187793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maria nnj",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00096187793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maria nnj",
+            "beginOffset": 774
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

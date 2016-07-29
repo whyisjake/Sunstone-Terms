@@ -1,0 +1,273 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.13811895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.034764014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 319
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 855
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restoration",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Restoration_(Latter_Day_Saints)"
+      },
+      "salience": 0.024027715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restoration",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Restoration",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophet",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prophet"
+      },
+      "salience": 0.020247279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophet",
+            "beginOffset": 377
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.W.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003172755,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. W.",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "W. W.",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phelps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Phelps"
+      },
+      "salience": 0.0030543155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phelps",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Phelps",
+            "beginOffset": 820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eliza R. Snow",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eliza_R._Snow"
+      },
+      "salience": 0.0030543155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eliza R. Snow",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "Eliza R. Snow",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.0030184337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Jorgensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Jorgensen",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton Jolley",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Swenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Swenson",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Rees",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.002501843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Rees",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017435957,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 863
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

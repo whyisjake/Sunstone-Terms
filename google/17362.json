@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.64024723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 891
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 964
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025196871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10354",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014854768,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10354",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.0045530275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "GEORGE D. SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0015489581,
+      "mentions": [
+        {
+          "text": {
+            "content": "GEORGE D. SMITH",
+            "beginOffset": 677
+          }
+        },
+        {
+          "text": {
+            "content": "George Smith",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "HALES",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014424389,
+      "mentions": [
+        {
+          "text": {
+            "content": "HALES",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010312045,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00025525692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 827
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

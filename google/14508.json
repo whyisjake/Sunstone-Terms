@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith Money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0432059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith Money",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Money",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Money",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seer",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Prophet,_seer,_and_revelator"
+      },
+      "salience": 0.038389273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seer",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Seer",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "Seer",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Treasure",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Treasure"
+      },
+      "salience": 0.036647614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Treasure",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Treasure",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Treasure",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Key_(lock)"
+      },
+      "salience": 0.033652641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Key",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Key",
+            "beginOffset": 757
+          }
+        },
+        {
+          "text": {
+            "content": "Key",
+            "beginOffset": 234
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.017816551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Magicka Joe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080035394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magicka Joe",
+            "beginOffset": 473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hazelwood",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.002494456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hazelwood",
+            "beginOffset": 575
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

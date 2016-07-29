@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.058635473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1363
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.034977075,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1248
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1529
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.018718529,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025168152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toscano",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0023493303,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 964
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie Palmer Sheppard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022606393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie Palmer Sheppard",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sarah Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022606393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah Smith",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yvette Donosso Diaz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018734077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yvette Donosso Diaz",
+            "beginOffset": 772
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

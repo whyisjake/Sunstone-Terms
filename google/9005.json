@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "SLC 2013 Symposium/ Session 131: Ordain Women",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20625299,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium/ Session 131: Ordain Women",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ordain Women",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ordain_Women"
+      },
+      "salience": 0.10830882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ordain Women",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Ordain Women",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kate Kelly",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kate_Kelly_(feminist)"
+      },
+      "salience": 0.096442685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kate Kelly",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Kate Kelly",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.035842933,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.030238282,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 175
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

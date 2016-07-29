@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Pillars Of My Faith Pillars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12059657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith Pillars",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Asplund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.083581828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Asplund",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.013904125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010584904,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Anderson",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.0032589617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0032589617,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0032589617,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cornell",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cornell_University"
+      },
+      "salience": 0.0027009828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cornell",
+            "beginOffset": 548
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.081538029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0185072,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edmund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041131051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edmund",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022206742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen Robertson",
+            "beginOffset": 521
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric G. Swedin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022206742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric G. Swedin",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Crookston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021046535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Crookston",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Chandler Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021046535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennifer Chandler Jones",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glen Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021046535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glen Lambert",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laibach",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ljubljana"
+      },
+      "salience": 0.0021046535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laibach",
+            "beginOffset": 663
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

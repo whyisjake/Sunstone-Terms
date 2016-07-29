@@ -1,0 +1,275 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.25836214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 876
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1353
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.17725609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 635
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 772
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1435
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1599
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.012561589,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 1549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Problem of Race",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011729536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Problem of Race",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Problem of Race",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Problem of Race",
+            "beginOffset": 1415
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.003890373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whitaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037142741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitaker",
+            "beginOffset": 897
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dwight Hopkins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028973192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dwight Hopkins",
+            "beginOffset": 607
+          }
+        },
+        {
+          "text": {
+            "content": "Hopkins",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "England&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0021247813,
+      "mentions": [
+        {
+          "text": {
+            "content": "England&",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.0020413417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Christian Theologies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001864384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Christian Theologies",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Blair Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Blair_Young"
+      },
+      "salience": 0.0014726646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010631187,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1698
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

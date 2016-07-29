@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "William B. Quist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06640169,
+      "mentions": [
+        {
+          "text": {
+            "content": "William B. Quist",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Quist",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "William B. Quist",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09002",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061038859,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09002",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.027400354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saudi_Arabia"
+      },
+      "salience": 0.010188099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saudi Arabia",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Saudi Arabia",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake Sunstone Symposium",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0089900829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake Sunstone Symposium",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake Sunstone Symposium",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Jersey"
+      },
+      "salience": 0.0076025394,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0072059287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Quist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059731323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Quist",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018591861,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 534
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Brothers of Jesus The Forgotten Brothers of Jesus Adam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13571492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brothers of Jesus The Forgotten Brothers of Jesus Adam",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stephen_Harper"
+      },
+      "salience": 0.028517619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harper",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford nineteen",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027044874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford nineteen",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.021608757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+      },
+      "salience": 0.016535193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 482
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

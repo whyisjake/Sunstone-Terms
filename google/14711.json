@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.14312056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.049869519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "St",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adivasi"
+      },
+      "salience": 0.0078553287,
+      "mentions": [
+        {
+          "text": {
+            "content": "St",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074465573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brody",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bringhurst Blacks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073801996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bringhurst Blacks",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.006175519,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

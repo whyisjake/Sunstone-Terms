@@ -1,0 +1,309 @@
+{
+  "entities": [
+    {
+      "name": "Gospel Doctrine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunday_School_(LDS_Church)"
+      },
+      "salience": 0.049061581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Doctrine",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Doctrine",
+            "beginOffset": 1714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.045513265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 787
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jean Daill&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02603621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jean Daill&",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arcana Doctrina&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020920876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arcana Doctrina&",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Arcana Doctrina&",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Arcana Doctrina&",
+            "beginOffset": 1654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.013077051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 1694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.012732512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 608
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1900
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.0098033678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greek",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greek_language"
+      },
+      "salience": 0.0077129686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0033170839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 895
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostles",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apostle_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031740193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostles",
+            "beginOffset": 955
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0029892854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025898069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 1528
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0016284913,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1184
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010393107,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1971
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066721771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denhalter",
+            "beginOffset": 1457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Smoot",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00066721771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Smoot",
+            "beginOffset": 1468
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

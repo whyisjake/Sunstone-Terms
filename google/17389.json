@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046596676,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front Passive",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.038077749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front Passive",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.013025083,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Front",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wasatch_Front"
+      },
+      "salience": 0.0037820102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Front",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duward Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032728871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duward Brown",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yasmina Passive",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001105394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yasmina Passive",
+            "beginOffset": 935
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

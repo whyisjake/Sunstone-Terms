@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "The Body",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26255536,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Body",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "The Body",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "The Body",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.23136821,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology Discourses of Pleasure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041449443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology Discourses of Pleasure",
+            "beginOffset": 48
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017561361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/NCAA_Division_II"
+      },
+      "salience": 0.0071836035,
+      "mentions": [
+        {
+          "text": {
+            "content": "I  I",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvinist",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvinism"
+      },
+      "salience": 0.0048895576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvinist",
+            "beginOffset": 590
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Family Church Being Single",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10762583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Church Being Single",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.073477969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Church",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Family Church",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.022510715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.02134683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.017722588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 288
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

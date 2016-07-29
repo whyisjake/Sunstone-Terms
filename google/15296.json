@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35154134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deborah Laake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26678425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deborah Laake",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deborah Laake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15780105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deborah Laake",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Deborah Laake",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ceremonies&",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024062611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ceremonies&",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Ceremonies&",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Ceremonies&",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mina",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011343135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mina",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0087185791,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 428
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

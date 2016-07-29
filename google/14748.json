@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Cutting Edge",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Cutting_Edge"
+      },
+      "salience": 0.0680596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cutting Edge",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Works In Progress The Cutting Edge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051064335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works In Progress The Cutting Edge",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Works In Progress",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "The Cutting Edge",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palmer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013267537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palmer",
+            "beginOffset": 279
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda Soto",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013267537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Soto",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Works In Progress",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010589186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works In Progress",
+            "beginOffset": 602
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

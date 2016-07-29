@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.17861347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 728
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book Of Mormon Scripture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.14659154,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book Of Mormon Scripture",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Franz Bibfeldt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082109414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bibfeldt",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Franz Bibfeldt",
+            "beginOffset": 875
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.0091635948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 297
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. St. John Stott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085546365,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. St. John Stott",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "G. St. John Stott",
+            "beginOffset": 891
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

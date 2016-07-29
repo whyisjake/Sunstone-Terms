@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.4258945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Success Versus",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015779536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Success Versus",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0092972377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.0021203039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019048649,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 769
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

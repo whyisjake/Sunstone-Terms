@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.11690454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Mission",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_(LDS_Church)"
+      },
+      "salience": 0.010672727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mission",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Mission",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Mission",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Britain"
+      },
+      "salience": 0.0063826521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Britain",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Great Britain",
+            "beginOffset": 1195
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0046608588,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific Northwest",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Northwest"
+      },
+      "salience": 0.0043485905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific Northwest",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stewart",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kristen_Stewart"
+      },
+      "salience": 0.0018246118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stewart",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0014528917,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Korea",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Korea"
+      },
+      "salience": 0.0010521951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 789
+          }
+        },
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 815
+          }
+        },
+        {
+          "text": {
+            "content": "Korea",
+            "beginOffset": 925
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

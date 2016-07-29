@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.2310784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 642
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 957
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 969
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.14544833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Bible",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 530
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 606
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Bible",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "FOLSOM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027634418,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOLSOM",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL VINSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027634418,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL VINSON",
+            "beginOffset": 677
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

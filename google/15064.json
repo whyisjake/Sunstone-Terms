@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.033316635,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

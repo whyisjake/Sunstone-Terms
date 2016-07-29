@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Temple",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temple_Owls_football"
+      },
+      "salience": 0.068842016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology The Temple",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053977031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology The Temple",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036627959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano The Temple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031110441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano The Temple",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eastern Bloc",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_Bloc"
+      },
+      "salience": 0.011120869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eastern Bloc",
+            "beginOffset": 169
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

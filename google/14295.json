@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46729618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Thought The Everlasting Gospel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.316622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Thought The Everlasting Gospel",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "The Everlasting Gospel",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Everlasting Gospel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.051330362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everlasting Gospel",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Thought",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040292744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Thought",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Thought",
+            "beginOffset": 478
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

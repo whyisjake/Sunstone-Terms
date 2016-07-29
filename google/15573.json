@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.059339479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044745572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Schmaltz John L. Needham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038974371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Schmaltz L. Needham",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Schmaltz John L. Needham",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Schmaltz",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034617096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Schmaltz",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Smart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020959258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracey Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020959258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracey Smith",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Tracey Smith",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janette Watts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020959258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janette Watts",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Janette Watts",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peterson Jr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013923948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peterson Jr",
+            "beginOffset": 397
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Needham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012541134,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Needham",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0080816029,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. S.",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.0066940412,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Logan,_Utah"
+      },
+      "salience": 0.0065935529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 517
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

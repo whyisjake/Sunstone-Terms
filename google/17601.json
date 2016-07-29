@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.069878444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 616
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.056488585,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 776
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.016203433,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROMNEY",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashley Sanders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018419316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashley Sanders",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joshua Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00057281839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joshua Madson",
+            "beginOffset": 751
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

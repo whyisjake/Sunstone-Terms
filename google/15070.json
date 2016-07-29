@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Labor",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Childbirth"
+      },
+      "salience": 0.1165169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labor",
+            "beginOffset": 140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Equal&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037651457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Equal&",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Equal&",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Equal&",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.019129014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 209
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colossians",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epistle_to_the_Colossians"
+      },
+      "salience": 0.012342103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colossians",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0107988,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 354
+          }
+        }
+      ]
+    },
+    {
+      "name": "Labor",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Australian_Labor_Party"
+      },
+      "salience": 0.0098475618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labor",
+            "beginOffset": 727
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

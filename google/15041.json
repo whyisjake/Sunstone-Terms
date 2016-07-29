@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Mormons&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0427568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Film Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028152002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Film Mormons",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Film",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.018393539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "NPR",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/NPR"
+      },
+      "salience": 0.011958337,
+      "mentions": [
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 159
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

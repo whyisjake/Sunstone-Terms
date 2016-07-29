@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.55650669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Falling Apart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043121833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Falling Apart",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turning Inward: Intellectuals, Cultures",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.040340178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turning Inward: Intellectuals, Cultures",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Turning Inward: Intellectuals, Cultures",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Turning Inward: Intellectuals, Cultures",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "United Sates History Falling Apart",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024857411,
+      "mentions": [
+        {
+          "text": {
+            "content": "United Sates History Falling Apart",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "United Sates History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01465011,
+      "mentions": [
+        {
+          "text": {
+            "content": "United Sates History",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "United Sates History",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011045476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0034504111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 412
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

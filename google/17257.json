@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.13191485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 805
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 494
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045371395,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.004510887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0036951636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stapley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035655473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stapley",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protestant",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Protestantism"
+      },
+      "salience": 0.0034454011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Protestant",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Providence",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Providence,_Rhode_Island"
+      },
+      "salience": 0.0034454011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Providence",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Providence",
+            "beginOffset": 948
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019666115,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

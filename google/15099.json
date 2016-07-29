@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Anti-Mormon&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.086325854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Mormon&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Anti-Mormon&",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Anti-Mormon&",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "William P. Connors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049233444,
+      "mentions": [
+        {
+          "text": {
+            "content": "William P. Connors",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Connors",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hilton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hilton_Worldwide"
+      },
+      "salience": 0.028503031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hilton",
+            "beginOffset": 366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister Connors Sir",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028503031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Connors Sir",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.023654968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.023654968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 252
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

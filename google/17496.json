@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Laurel Thatcher Ulrich",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich"
+      },
+      "salience": 0.49723652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laurel Thatcher Ulrich",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Ulrich",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Laurel Thatcher Ulrich",
+            "beginOffset": 729
+          }
+        },
+        {
+          "text": {
+            "content": "Ulrich",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.019062538,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Kingdom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017349284,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Kingdom",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "My Kingdom",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.008933886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.008933886,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022364685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Remy",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0022364685,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna T. Rolapp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022364685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna T. Rolapp",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.0022364685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/PHP"
+      },
+      "salience": 0.0018536716,
+      "mentions": [
+        {
+          "text": {
+            "content": "PHP",
+            "beginOffset": 553
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

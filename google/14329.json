@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Word Pigs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.47147083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word Pigs",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Word"
+      },
+      "salience": 0.017427566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lincoln",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lincoln_(2012_film)"
+      },
+      "salience": 0.0022105079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lincoln",
+            "beginOffset": 398
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

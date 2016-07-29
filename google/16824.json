@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11451252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 469
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Erotics",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019589989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Erotics",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Erotics",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Erotics",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.015182869,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.0046286648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 600
+          }
+        },
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0036652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 575
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1273
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029256563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowlton",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Respondent"
+      },
+      "salience": 0.0024246415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Reuben Clark",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._Reuben_Clark"
+      },
+      "salience": 0.0024246415,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Reuben Clark",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022938552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 798
+          }
+        },
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.00075403322,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rancho Cucamonga",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00075403322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rancho Cucamonga",
+            "beginOffset": 872
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

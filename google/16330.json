@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.026423665,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gay Male Relationships Long-Term Gay Male Relationships",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017711936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gay Male Relationships Long-Term Gay Male Relationships",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Long-Term Gay Male Relationships",
+            "beginOffset": 884
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Melvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38925257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melvin",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites Pure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041803021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites Pure",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Delightsome",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041803021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Delightsome",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.028323168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0080123376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 444
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0049619796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "AC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alternating_current"
+      },
+      "salience": 0.0021053606,
+      "mentions": [
+        {
+          "text": {
+            "content": "AC",
+            "beginOffset": 475
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

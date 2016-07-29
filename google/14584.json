@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.10669851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Listening",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07337667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Listening",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026731083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob Vernon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015500135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Vernon",
+            "beginOffset": 301
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

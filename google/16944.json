@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "HUMOR",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Humour"
+      },
+      "salience": 0.054224361,
+      "mentions": [
+        {
+          "text": {
+            "content": "HUMOR",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "HUMOR",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "HUMOR",
+            "beginOffset": 1072
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07172",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024990756,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07172",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003907097,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0031963992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "ATWOOD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Atwood"
+      },
+      "salience": 0.0027796114,
+      "mentions": [
+        {
+          "text": {
+            "content": "ATWOOD",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "STEVE MARSHALL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027796114,
+      "mentions": [
+        {
+          "text": {
+            "content": "STEVE MARSHALL",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "BENGT WASHBURN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023035416,
+      "mentions": [
+        {
+          "text": {
+            "content": "BENGT WASHBURN",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT KIRBY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023035416,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT KIRBY",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0023035416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 821
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

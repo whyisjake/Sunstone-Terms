@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Contemporary Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042997982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormonism",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016441252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 833
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0038206463,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0029323979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013139321,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 710
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

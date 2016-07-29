@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Second Coming",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second_Coming"
+      },
+      "salience": 0.12082987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Coming",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Second Coming",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Loma Linda university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Loma_Linda_University"
+      },
+      "salience": 0.066512339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loma Linda university",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Loma Linda university",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adventist",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seventh-day_Adventist_Church"
+      },
+      "salience": 0.014755799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adventist",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "Adventist",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Second Coming",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Second_Coming_(poem)"
+      },
+      "salience": 0.010240613,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Second Coming",
+            "beginOffset": 524
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

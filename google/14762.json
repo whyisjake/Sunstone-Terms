@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Singer-Swapp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32799175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Singer-Swapp",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Singer-Swapp",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Singer-Swapp",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "bill Morrison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045161467,
+      "mentions": [
+        {
+          "text": {
+            "content": "bill Morrison",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Doe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Doe"
+      },
+      "salience": 0.002048142,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Doe",
+            "beginOffset": 313
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

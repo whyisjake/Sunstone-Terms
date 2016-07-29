@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "LDS CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011449453,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "LDS CHURCH",
+            "beginOffset": 949
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0021941788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africans",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0021941788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.0021941788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ephraim",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ephraim,_Utah"
+      },
+      "salience": 0.0021941788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ephraim",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marcel_Mauss"
+      },
+      "salience": 0.0019485658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mauss",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00050228008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 874
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

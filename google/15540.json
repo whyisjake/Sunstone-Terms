@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "Benjamin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1240118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benjamin",
+            "beginOffset": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Last Great Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10929105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Last Great Doctrine",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Last Great Doctrine",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archetype Of Eternal Marriage",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.097081132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archetype Of Eternal Marriage",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.06308496,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 192
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Family",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Fellowship_(Christian_organization)"
+      },
+      "salience": 0.05733696,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Family",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "The Family",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "The Family",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05733696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archetype Of Eternal Marriage",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035186581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archetype Of Eternal Marriage",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Archetype Of Eternal Marriage",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011961222,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Archetype Of Eternal Marriage",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seattle"
+      },
+      "salience": 0.0091384007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seattle",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066925371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jess Groesbeck",
+            "beginOffset": 197
+          }
+        }
+      ]
+    },
+    {
+      "name": "God C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065154596,
+      "mentions": [
+        {
+          "text": {
+            "content": "God C. Jess Groesbeck",
+            "beginOffset": 705
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

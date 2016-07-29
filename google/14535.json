@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Ethics of Dissent The Ethics of Dissent",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.067265451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ethics of Dissent The Ethics of Dissent",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iowa"
+      },
+      "salience": 0.016295172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iowa",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011385355,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Ethics of Dissent",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01063246,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Ethics of Dissent",
+            "beginOffset": 441
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

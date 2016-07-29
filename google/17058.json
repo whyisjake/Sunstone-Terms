@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Reorganized Church of Jesus Christ of Latter Day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.15846144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 509
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 1028
+          }
+        },
+        {
+          "text": {
+            "content": "Reorganized Church of Jesus Christ of Latter Day Saints",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Reorganized Church of Jesus Christ of Latter Day Saints",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mission Community of Christ",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048727766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mission Community of Christ",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter Day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.035451051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Day Saint",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Latter Day Saint",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0054302784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0030257807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021085211,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1379
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Skoor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00090595189,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Skoor",
+            "beginOffset": 950
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

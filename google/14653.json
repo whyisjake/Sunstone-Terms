@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.30444717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.092841029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany"
+      },
+      "salience": 0.063191064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huntsville",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Huntsville,_Alabama"
+      },
+      "salience": 0.017420508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huntsville",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "America America",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006380979,
+      "mentions": [
+        {
+          "text": {
+            "content": "America America",
+            "beginOffset": 280
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

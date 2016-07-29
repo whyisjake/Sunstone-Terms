@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Robert Frost",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Frost"
+      },
+      "salience": 0.48791888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Frost",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Religious and Spiritual Life Elbert Eugene Peck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085882694,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Religious and Spiritual Life",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "My Religious and Spiritual Life Elbert Eugene Peck",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Religious and Spiritual Life Eugene Peck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027900299,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Religious and Spiritual Life Eugene Peck",
+            "beginOffset": 66
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

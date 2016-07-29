@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Fred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33953339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fred",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Fred",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Future of Religion in America",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17695583,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Future of Religion in America",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Future of Religion in America",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.079661056,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Future of Religion in America",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Future of Religion in America",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.043860231,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Future of Religion in America",
+            "beginOffset": 465
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

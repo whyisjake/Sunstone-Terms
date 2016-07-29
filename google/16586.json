@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Annie Dillard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Annie_Dillard"
+      },
+      "salience": 0.20855871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Annie Dillard",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Annie Dillard",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Sedaris",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Sedaris"
+      },
+      "salience": 0.12987508,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Sedaris",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "David Sedaris",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pittsburgh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pittsburgh"
+      },
+      "salience": 0.036354084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pittsburgh",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Pittsburgh",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "An American Childhood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02598859,
+      "mentions": [
+        {
+          "text": {
+            "content": "An American Childhood",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "An American Childhood",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_Carolina"
+      },
+      "salience": 0.017822664,
+      "mentions": [
+        {
+          "text": {
+            "content": "North Carolina",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "North Carolina",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Me Talk Pretty One Day",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Me_Talk_Pretty_One_Day"
+      },
+      "salience": 0.015395479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Me Talk Pretty One Day",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Me Talk Pretty One Day",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleveland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cleveland"
+      },
+      "salience": 0.0047039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleveland",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0047039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kagel Brian Cabell",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0037952897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kagel Brian Cabell",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

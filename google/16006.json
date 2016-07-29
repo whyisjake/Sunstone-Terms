@@ -1,0 +1,345 @@
+{
+  "entities": [
+    {
+      "name": "First Presidency",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Presidency_(LDS_Church)"
+      },
+      "salience": 0.087420963,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency",
+            "beginOffset": 366
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.075595565,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 567
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rule of Law",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rule_of_law"
+      },
+      "salience": 0.04552063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rule of Law",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_News"
+      },
+      "salience": 0.042929806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret News",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Deseret News",
+            "beginOffset": 1568
+          }
+        },
+        {
+          "text": {
+            "content": "First",
+            "beginOffset": 1586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rule of Law Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019491797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rule of Law Mormonism&",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Rule of Law",
+            "beginOffset": 1276
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Constitution"
+      },
+      "salience": 0.015696479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 1369
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014041183,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.014018939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.010483404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0063784723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004072587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0039174408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution&",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0033752064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Amendment",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution"
+      },
+      "salience": 0.0029913767,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Amendment",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Burtenshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028897417,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Burtenshaw",
+            "beginOffset": 854
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jehovah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jehovah"
+      },
+      "salience": 0.0023627914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jehovah",
+            "beginOffset": 871
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0019373288,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 908
+          }
+        },
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.000734632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

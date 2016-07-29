@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.45722935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 917
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 1021
+          }
+        },
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 1257
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.013008909,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01164566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "iva",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028437532,
+      "mentions": [
+        {
+          "text": {
+            "content": "iva",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0015773883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jordan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jordan"
+      },
+      "salience": 0.001455133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jordan",
+            "beginOffset": 548
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

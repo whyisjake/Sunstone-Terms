@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Michael G. Jackson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34831768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael G. Jackson",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Michael G. Jackson",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen flake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10687313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen flake",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "JESUS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.027881432,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Flake Richmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082410937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Flake Richmond",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Kathleen",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indiana"
+      },
+      "salience": 0.0045703305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University"
+      },
+      "salience": 0.003931758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University",
+            "beginOffset": 283
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0030893357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holiday Inn",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holiday_Inn"
+      },
+      "salience": 0.0026388788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holiday Inn",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.00082119671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 584
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

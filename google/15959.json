@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.011379278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Esther&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0097122248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esther&",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Esther&",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Esther Mormonism",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0090855928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Esther Mormonism",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Esther",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Esther",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0086420951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Calvin"
+      },
+      "salience": 0.0016452619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Austin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Austin,_Texas"
+      },
+      "salience": 0.0014977753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austin",
+            "beginOffset": 725
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

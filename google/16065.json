@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Stars",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Star"
+      },
+      "salience": 0.65057558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stars",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Stars",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Stars",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.037657458,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Abraham",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ancient Geocentric Astronomy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03459673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Geocentric Astronomy",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Ancient Geocentric Astronomy",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Ancient Geocentric Astronomy",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013539095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathy",
+            "beginOffset": 414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.01138149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 482
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

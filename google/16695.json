@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.14252222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 887
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Humanitarianism Wow The World",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.064269818,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Humanitarianism Wow The World",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "The World And The Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.056115594,
+      "mentions": [
+        {
+          "text": {
+            "content": "The World And The Church",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087908292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alvin",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donald Gale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060395859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donald Gale",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018232161,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015569099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burt",
+            "beginOffset": 844
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

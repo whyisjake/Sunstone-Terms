@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.19129704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.063737489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collision Of World Views Early Mormonism",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.055700243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collision Of World Views Early Mormonism",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collision Of World Views",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022124127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collision Of World Views",
+            "beginOffset": 93
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collision Of World Views",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00866623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collision Of World Views",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0040140739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 457
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

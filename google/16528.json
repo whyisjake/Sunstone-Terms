@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "WOMEN&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022911841,
+      "mentions": [
+        {
+          "text": {
+            "content": "WOMEN&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "S SEARCH",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019609276,
+      "mentions": [
+        {
+          "text": {
+            "content": "S SEARCH",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+      },
+      "salience": 0.0023445531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 331
+          }
+        },
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtery",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022915092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtery",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wendy Dutson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022915092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wendy Dutson",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana K. Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022915092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana K. Remy",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tensmeyer Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002171793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tensmeyer Hansen",
+            "beginOffset": 468
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Ephesians 2",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10260385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ephesians 2",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Ephesians 2",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ephesians 2",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033632174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ephesians 2",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01496211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simon",
+            "beginOffset": 281
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

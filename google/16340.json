@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "The Ministry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13372217,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Ministry",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.073411837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miracles of Jesus Christ",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.070807472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miracles of Jesus Christ",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Easter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Easter"
+      },
+      "salience": 0.032435838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Rands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0265324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Rands",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015822548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham Rands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011289965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham Rands",
+            "beginOffset": 738
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

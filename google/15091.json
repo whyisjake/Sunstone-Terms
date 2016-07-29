@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church Finances",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.16381431,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Finances",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church Finances",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church Finances",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.028158188,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 173
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Harvard Aids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051880028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Aids",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Herbert Butterfield",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Herbert_Butterfield"
+      },
+      "salience": 0.0070645045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Herbert Butterfield",
+            "beginOffset": 139
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0070645045,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip Marlowe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066961958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philip Marlowe",
+            "beginOffset": 282
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066961958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barlow",
+            "beginOffset": 309
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.005634563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard University",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0055514574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 350
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

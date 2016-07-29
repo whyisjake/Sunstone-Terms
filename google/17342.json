@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "SL10311",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026285507,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10311",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missourians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026093164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missourians",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/1838_Mormon_War"
+      },
+      "salience": 0.023921654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri War",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri War",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.015442166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.015056122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 724
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011698354,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Bushman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Bushman"
+      },
+      "salience": 0.0030820747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Bushman",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alexander Baugh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030820747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alexander Baugh",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Turley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_E._Turley,_Jr."
+      },
+      "salience": 0.0030820747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Turley",
+            "beginOffset": 423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Armand_Mauss"
+      },
+      "salience": 0.0030820747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand Mauss",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017327496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard &hellip",
+            "beginOffset": 1046
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

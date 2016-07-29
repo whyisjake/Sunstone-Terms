@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.15452059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1777
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1926
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stone",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_(geology)"
+      },
+      "salience": 0.013099757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stone",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Stone",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Stone",
+            "beginOffset": 1766
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0076940018,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1999
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0034020527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030760597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ryan_Madson"
+      },
+      "salience": 0.0027024406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madson",
+            "beginOffset": 1252
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0024468582,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "CD",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compact_disc"
+      },
+      "salience": 0.0022468029,
+      "mentions": [
+        {
+          "text": {
+            "content": "CD",
+            "beginOffset": 1720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021802126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Madson",
+            "beginOffset": 1260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018618772,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Stevens",
+            "beginOffset": 1272
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013353224,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 2123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

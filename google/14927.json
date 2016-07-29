@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paradise"
+      },
+      "salience": 0.19635834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 86
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

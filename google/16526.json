@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "OLD NOVEL INTO NEW MORMON LITERATURE",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0534232,
+      "mentions": [
+        {
+          "text": {
+            "content": "OLD NOVEL INTO NEW MORMON LITERATURE",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madrid",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Madrid"
+      },
+      "salience": 0.02101187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madrid",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Madrid",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.02101187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 1059
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.020319827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019984549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043614255,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitcham Canadian",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0042709741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitcham Canadian",
+            "beginOffset": 570
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

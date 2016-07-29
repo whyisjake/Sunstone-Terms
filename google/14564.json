@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Sterling McMurrin Theological Dialogue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019292274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling McMurrin Theological Dialogue",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sterling McMurrin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sterling_M._McMurrin"
+      },
+      "salience": 0.011373264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling McMurrin",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Sterling McMurrin",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.010333289,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theological Dialogue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0082506677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological Dialogue",
+            "beginOffset": 501
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

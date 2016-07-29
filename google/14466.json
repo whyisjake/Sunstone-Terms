@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Richard Howard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_P._Howard"
+      },
+      "salience": 0.16960925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Howard",
+            "beginOffset": 271
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith-Works Relationship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066125691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith-Works Relationship",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roman_Empire"
+      },
+      "salience": 0.044802722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.039166927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039166927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul&",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Paul&",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Paul&",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Faith-Works Relationship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025714913,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Faith-Works Relationship",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman Letter The Faith-Works Relationship",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024074642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Letter The Faith-Works Relationship",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Florida"
+      },
+      "salience": 0.013572124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Florida",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Jesus Christ of latter day saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012674237,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter day saints",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 605
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

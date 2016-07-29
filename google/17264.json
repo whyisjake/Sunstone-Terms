@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.117211,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1082
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1211
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10003",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020051863,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10003",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Miles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064436807,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Miles",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0022825096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 630
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "SUNSTONE Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13908452,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE Sunstone",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEHLIN Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023670916,
+      "mentions": [
+        {
+          "text": {
+            "content": "DEHLIN  Sunstone",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN DEHLIN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.0098525072,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN DEHLIN",
+            "beginOffset": 431
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "Men The Husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10564756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Men The Husband",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10122226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Blankenhorn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Blankenhorn"
+      },
+      "salience": 0.074602075,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Blankenhorn",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "David Blankenhorn",
+            "beginOffset": 1504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proclamation on the Family",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Family:_A_Proclamation_to_the_World"
+      },
+      "salience": 0.070595637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 466
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 581
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 1416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fatherless America",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.053297207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fatherless America",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Fatherless America",
+            "beginOffset": 1484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Society&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012921838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Society&",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Society&",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Society&",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blankenhorn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027619975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blankenhorn&",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0025634484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025165172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hess",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America"
+      },
+      "salience": 0.0022920314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015946644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "MTV",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/MTV"
+      },
+      "salience": 0.0015946644,
+      "mentions": [
+        {
+          "text": {
+            "content": "MTV",
+            "beginOffset": 985
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

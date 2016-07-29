@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.14639363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1474
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046998665,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Norman",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014114543,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 832
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraqis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.001387483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraqis",
+            "beginOffset": 1303
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011696483,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011497801,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby) Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011497801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.00035746541,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 1051
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duke University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duke_University"
+      },
+      "salience": 0.00035746541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke University",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cleveland"
+      },
+      "salience": 0.00035746541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleveland Ohio",
+            "beginOffset": 1259
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

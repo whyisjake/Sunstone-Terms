@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Mediating Religious Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033731859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mediating Religious Experience",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013962586,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walker Percy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walker_Percy"
+      },
+      "salience": 0.008881215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walker Percy",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Percy",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "Walker Percy",
+            "beginOffset": 1423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creature",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Animal"
+      },
+      "salience": 0.0079693031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creature",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Creature",
+            "beginOffset": 1412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0043757455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ensign",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ensign_(LDS_magazine)"
+      },
+      "salience": 0.0023618233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 750
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laga",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019166284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laga",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00059591088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

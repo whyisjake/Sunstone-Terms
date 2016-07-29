@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.086283773,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08119306,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Aristide Silman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06220188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Aristide Silman",
+            "beginOffset": 346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Authority Who",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.042581324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Authority Who",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Authority",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shafer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035203677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shafer",
+            "beginOffset": 226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.013278659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bethel Baptist church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bethel_Baptist_Church_(Birmingham,_Alabama)"
+      },
+      "salience": 0.013078848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bethel Baptist church",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Bethel Baptist church",
+            "beginOffset": 442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

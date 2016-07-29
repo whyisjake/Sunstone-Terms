@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.23045717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 752
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 898
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010262514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078183943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Margaret Toscano",
+            "beginOffset": 1122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lavina_Fielding_Anderson"
+      },
+      "salience": 0.002080759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda King Newell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002080759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda King Newell",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0019720467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019423184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

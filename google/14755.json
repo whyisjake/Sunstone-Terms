@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "But Equal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14454588,
+      "mentions": [
+        {
+          "text": {
+            "content": "But Equal",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pioneer Days",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027421648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pioneer Days",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "Pioneer Days",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Pioneer Days",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "Afro-Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.027421648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Afro-Americans",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Afro-Americans",
+            "beginOffset": 226
+          }
+        },
+        {
+          "text": {
+            "content": "Afro-Americans",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.027421648,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026015444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Everton",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Everton_F.C."
+      },
+      "salience": 0.017470181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everton",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Separate But Equal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011485709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Separate But Equal",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.006579963,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Separate But Equal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0048833289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Separate But Equal",
+            "beginOffset": 682
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

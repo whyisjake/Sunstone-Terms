@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "PERSEPHONE",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Persephone"
+      },
+      "salience": 0.30110931,
+      "mentions": [
+        {
+          "text": {
+            "content": "PERSEPHONE",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 388
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 669
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 1109
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 1283
+          }
+        },
+        {
+          "text": {
+            "content": "Persephone",
+            "beginOffset": 1357
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018728331,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demeter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Demeter"
+      },
+      "salience": 0.010558682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Demeter",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Demeter",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shakuhachi",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shakuhachi"
+      },
+      "salience": 0.0025341108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakuhachi",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.0025341108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dubrasky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023376755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dubrasky",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beazer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023376755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beazer",
+            "beginOffset": 641
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

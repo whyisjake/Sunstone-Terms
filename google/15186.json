@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Middle Ages",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_Ages"
+      },
+      "salience": 0.16090457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle Ages",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Ages",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Ages",
+            "beginOffset": 697
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Ages",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lessons",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lesson"
+      },
+      "salience": 0.11634502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lessons",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Leaders and Scholars Lessons",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.038188148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Leaders and Scholars Lessons",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Church Leaders and Scholars",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Isaac_Newton"
+      },
+      "salience": 0.009015793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newton",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Leaders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0071951128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Leaders",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.002333523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.002333523,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 584
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

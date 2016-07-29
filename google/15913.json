@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Klaus J.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22588947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klaus J.",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "America and Beyond MORMON HISTORY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041692954,
+      "mentions": [
+        {
+          "text": {
+            "content": "America and Beyond MORMON HISTORY",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.028184367,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Klaus Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025250457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klaus Hansen",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Klaus Hansen",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.014449913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beyond Shipps",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013524767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyond Shipps",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON HISTORY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011499217,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON HISTORY",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University"
+      },
+      "salience": 0.0094380826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kingston Ontario Canada",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0064273817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingston Ontario Canada",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan"
+      },
+      "salience": 0.0020858194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne",
+            "beginOffset": 418
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

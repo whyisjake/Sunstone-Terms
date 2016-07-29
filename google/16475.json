@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.22901231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Dutcher",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 615
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "God's Army",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God's_Army_(film)"
+      },
+      "salience": 0.21372274,
+      "mentions": [
+        {
+          "text": {
+            "content": "God’s Army",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "God’s Army",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Must Tell Their Stories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032710422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Must Tell Their Stories",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_City_(film)"
+      },
+      "salience": 0.012597605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham City",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas"
+      },
+      "salience": 0.0049355268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.003996178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas Wisconsin Kentucky Illinois",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003996178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas Wisconsin Kentucky Illinois",
+            "beginOffset": 354
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

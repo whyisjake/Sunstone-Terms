@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Holy Ghost Is A Gift Of Faith The Holy Ghost Is A Gift Of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.1122429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost Is A Gift Of Faith The Holy Ghost Is A Gift Of Faith",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.020388931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Ghost Is A Gift Of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017747751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost Is A Gift Of Faith",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0052899322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

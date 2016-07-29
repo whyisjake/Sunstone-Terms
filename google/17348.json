@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "SL10321",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24261759,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10321",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10311",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.17405249,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10311",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "SL10311",
+            "beginOffset": 225
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.085090712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 20
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11881403,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1286
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1587
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHURCH",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.11196318,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 558
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1464
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON ECOTHEOLOGY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032107953,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON ECOTHEOLOGY",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parker Blount",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027307444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parker Blount",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027307444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Anderson",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023877877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura",
+            "beginOffset": 882
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

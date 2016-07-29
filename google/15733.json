@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39305958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ollie Tribune",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11721421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ollie Tribune",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter Days Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097381204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Days Kirby",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pat Bagley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pat_Bagley"
+      },
+      "salience": 0.070051275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pat Bagley",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Pat",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Pat Bagley",
+            "beginOffset": 441
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

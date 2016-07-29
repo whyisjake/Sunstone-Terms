@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.14498504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 469
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 543
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1206
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1263
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Salt_Lake"
+      },
+      "salience": 0.0075553753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Salt Lake",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "Great Salt Lake",
+            "beginOffset": 1374
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zombie",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zombie"
+      },
+      "salience": 0.0073991092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zombie",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Zombie",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terryl Givens",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Terryl_Givens"
+      },
+      "salience": 0.0060330522,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terryl Givens",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Gibson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035246618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Gibson",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Gibson",
+            "beginOffset": 755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Erik Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023930359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Erik Peterson",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon wow Early",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0022397141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon wow Early",
+            "beginOffset": 1167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012932223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian &hellip",
+            "beginOffset": 1516
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

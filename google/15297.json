@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Kushner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17407128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kushner",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Kushner",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Kushner",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Prager",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dennis_Prager"
+      },
+      "salience": 0.015386215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Prager",
+            "beginOffset": 358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0064697894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0061328057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 391
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

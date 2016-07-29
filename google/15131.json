@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Divine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_retribution"
+      },
+      "salience": 0.051050048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Many&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044628393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Many&",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Many&",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Many&",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.015464631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Qatar",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015464631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Qatar",
+            "beginOffset": 161
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Jersey"
+      },
+      "salience": 0.014661307,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Jersey",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.012162447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0037947295,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

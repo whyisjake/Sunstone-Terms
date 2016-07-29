@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Caldiero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34671262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caldiero",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Caldiero",
+            "beginOffset": 639
+          }
+        },
+        {
+          "text": {
+            "content": "Caldiero",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "spaceÑthe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019004317,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaceÑthe",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "spaceÑthe",
+            "beginOffset": 1060
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love A Plunge Deep Into The Scramble Of Human Emotions With A Poet Sonosopher",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017165422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love A Plunge Deep Into The Scramble Of Human Emotions With A Poet Sonosopher",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sicily",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sicily"
+      },
+      "salience": 0.0080239056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sicily",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Sicily",
+            "beginOffset": 875
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0072002336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 165
+          }
+        }
+      ]
+    },
+    {
+      "name": "properÑwith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042227148,
+      "mentions": [
+        {
+          "text": {
+            "content": "properÑwith",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "properÑwith",
+            "beginOffset": 1087
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011633039,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1235
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

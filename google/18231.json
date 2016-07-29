@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "The Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.16133302,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Bible",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 682
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dominic Crossan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dominic_Crossan"
+      },
+      "salience": 0.039090849,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dominic Crossan",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Dominic Crossan",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "John Dominic Crossan",
+            "beginOffset": 714
+          }
+        },
+        {
+          "text": {
+            "content": "John Dominic Crossan",
+            "beginOffset": 736
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.031698518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 273
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.022758706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.018710224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050940369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheila Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047712647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheila Taylor",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Sheila Taylor",
+            "beginOffset": 773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joshua Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042670048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joshua Madson",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Joshua Madson",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "George D. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0042670048,
+      "mentions": [
+        {
+          "text": {
+            "content": "George D. Smith",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "George D. Smith",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042670048,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Dennis Potter",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0032263417,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "R.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0026714213,
+      "mentions": [
+        {
+          "text": {
+            "content": "R.",
+            "beginOffset": 805
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

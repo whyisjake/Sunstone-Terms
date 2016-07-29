@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Hinckley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21342947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 447
+          }
+        },
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.023798393,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.015008422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Green",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01106118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Green",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0068949354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043870113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint&",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Horlacher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030569087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Horlacher",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024663738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schow",
+            "beginOffset": 469
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.00078791339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 787
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.048334379,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hill Cumorah Pageant",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.037786029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hill Cumorah Pageant",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Hill Cumorah Pageant",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Hill Cumorah Pageant",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pageant",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Beauty_pageant"
+      },
+      "salience": 0.028773723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pageant",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Lost Colony",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lost_Colony_(play)"
+      },
+      "salience": 0.023702016,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Lost Colony",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "The Lost Colony",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roanoke",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roanoke_Colony"
+      },
+      "salience": 0.023702016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roanoke",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Roanoke",
+            "beginOffset": 900
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_Carolina"
+      },
+      "salience": 0.0064014066,
+      "mentions": [
+        {
+          "text": {
+            "content": "North Carolina",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "North Carolina",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gail Argetsinger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035636059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Argetsinger",
+            "beginOffset": 674
+          }
+        },
+        {
+          "text": {
+            "content": "Gail Argetsinger",
+            "beginOffset": 687
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

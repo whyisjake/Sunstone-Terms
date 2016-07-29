@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015117604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 443
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 664
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 790
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0098183788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 1037
+          }
+        },
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010690781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olsen",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baltimore",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Baltimore"
+      },
+      "salience": 0.0003324243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baltimore",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Compassion Community",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15003332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compassion Community",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Compassion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compassion"
+      },
+      "salience": 0.021059863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compassion",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community"
+      },
+      "salience": 0.009791607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0093354071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 353
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Network",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Television_network"
+      },
+      "salience": 0.2669082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Network",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Network",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Network",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sweeney Sisters Barbie",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.17851798,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sweeney Sisters Barbie",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sweeney Sisters Clark",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11917502,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sweeney Sisters Clark",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Linford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11313334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Linford",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sweeney Sisters Janelle Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11313334,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sweeney Sisters Janelle Clark",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jinelle Monk",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10614843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jinelle Monk",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Jinelle Monk",
+            "beginOffset": 220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Linford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.069666229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Linford",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barbie",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barbie"
+      },
+      "salience": 0.033317439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbie",
+            "beginOffset": 149
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

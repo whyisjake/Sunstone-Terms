@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_D._Russell_(historian)"
+      },
+      "salience": 0.11858812,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS CHURCH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.06114842,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS CHURCH",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS CHURCH",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS CHURCH",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob Dow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030113295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Dow",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Bob Dow",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ogden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ogden,_Utah"
+      },
+      "salience": 0.010142739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ogden",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010142739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amman",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Amman"
+      },
+      "salience": 0.0096150031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amman",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.0024856008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italian",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

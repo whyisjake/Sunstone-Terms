@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Deliverer",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.30030736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deliverer",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Deliverer",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Deliverer",
+            "beginOffset": 768
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adolf Hitler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adolf_Hitler"
+      },
+      "salience": 0.12648167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adolf Hitler",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Adolf Hitler",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Hitler",
+            "beginOffset": 447
+          }
+        },
+        {
+          "text": {
+            "content": "Hitler",
+            "beginOffset": 716
+          }
+        },
+        {
+          "text": {
+            "content": "Adolf Hitler",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.005523663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 517
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

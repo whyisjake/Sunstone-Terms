@@ -1,0 +1,415 @@
+{
+  "entities": [
+    {
+      "name": "Eric Samuelsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eric_Samuelsen"
+      },
+      "salience": 0.3935461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samuelsen",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Eric",
+            "beginOffset": 647
+          }
+        },
+        {
+          "text": {
+            "content": "SAMUELSEN",
+            "beginOffset": 1548
+          }
+        },
+        {
+          "text": {
+            "content": "Eric Samuelsen",
+            "beginOffset": 2174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracy McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11493511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy McKay",
+            "beginOffset": 1039
+          }
+        },
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": 1184
+          }
+        },
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": 1369
+          }
+        },
+        {
+          "text": {
+            "content": "TRACY MCKAY",
+            "beginOffset": 1559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.043308135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 564
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 733
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars of My Faith This",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021211891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars of My Faith This",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10291",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016469365,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10291",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0040383181,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indiana_University"
+      },
+      "salience": 0.0026214526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana University",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Family_(biology)"
+      },
+      "salience": 0.0018925208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peculiarities",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idiosyncrasy"
+      },
+      "salience": 0.0018925208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peculiarities",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Association for Mormon Letters",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Association_for_Mormon_Letters"
+      },
+      "salience": 0.0018653058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Association for Mormon Letters",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Studies",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Studies_Quarterly"
+      },
+      "salience": 0.0018653058,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Studies",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amerigo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018420473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amerigo",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0018420473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plan B Theatre Company",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Plan-B_Theatre_Company"
+      },
+      "salience": 0.0018420473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plan B Theatre Company",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.0017265293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington state",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington_(state)"
+      },
+      "salience": 0.0016942765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington state",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0014039609,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1145
+          }
+        }
+      ]
+    },
+    {
+      "name": "BAE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BAE_Systems"
+      },
+      "salience": 0.0013925263,
+      "mentions": [
+        {
+          "text": {
+            "content": "BAE",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germanophile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013925263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germanophile",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gadianton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010768166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gadianton",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "ByCommonConsent.com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004266497,
+      "mentions": [
+        {
+          "text": {
+            "content": "ByCommonConsent.com",
+            "beginOffset": 1477
+          }
+        }
+      ]
+    },
+    {
+      "name": "dandelionmama.wordpress.com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00042389086,
+      "mentions": [
+        {
+          "text": {
+            "content": "dandelionmama.wordpress.com",
+            "beginOffset": 1519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fardeen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00042132632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fardeen",
+            "beginOffset": 1591
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.029767619,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1343
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.005893128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 563
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brown"
+      },
+      "salience": 0.0028632681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oliver C. Smith Callis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028632681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oliver C. Smith Callis",
+            "beginOffset": 875
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zach Davis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024453732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zach Davis",
+            "beginOffset": 863
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.000760476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1122
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.19960743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Mexico",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052581724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowlton",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "David Knowlton",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon Shepherd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040974203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon Shepherd",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Gordon Shepherd",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexican",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.013826227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexican",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bolivian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.013826227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivian",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013107471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grover",
+            "beginOffset": 336
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spatial Dynamics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010458917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spatial Dynamics",
+            "beginOffset": 639
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.38685313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1858
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 529
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1967
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.071193755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 821
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2064
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020928217,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 228
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Experience SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016596984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Experience SL03091",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Marriage",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism_and_polygamy"
+      },
+      "salience": 0.014192042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Marriage",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0072665014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1833
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0033546092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 860
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1177
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0024636479,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017850663,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1767
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016067503,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013038416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00045991584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gardiner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gardiner,_Montana"
+      },
+      "salience": 0.00039272357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gardiner",
+            "beginOffset": 1369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jodi Hildebrandt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00039272357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jodi Hildebrandt",
+            "beginOffset": 1382
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

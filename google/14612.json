@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Mary L Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14746472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary L Bradford",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mary L Bradford",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Mary L Bradford",
+            "beginOffset": 183
+          }
+        }
+      ]
+    },
+    {
+      "name": "Easter Weekend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.096646473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter Weekend",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Easter Weekend",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Easter Weekend",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "coming Home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053058766,
+      "mentions": [
+        {
+          "text": {
+            "content": "coming Home",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "coming Home",
+            "beginOffset": 160
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

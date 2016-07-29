@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.41564909,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 636
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1330
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1413
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church Media Coverage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.091438204,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Media Coverage",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church Media Coverage",
+            "beginOffset": 1264
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church Media Coverage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051580165,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Media Coverage",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0067115994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 865
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod Decker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017101076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Decker",
+            "beginOffset": 733
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016702329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swensen",
+            "beginOffset": 724
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peg McEntee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014605039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peg McEntee",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0014605039,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 758
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

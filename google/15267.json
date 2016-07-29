@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.060213618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.045644429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tony Kushner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tony_Kushner"
+      },
+      "salience": 0.036887683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tony Kushner",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Tony Kushner",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Tony Kushner",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014318816,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 407
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

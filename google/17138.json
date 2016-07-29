@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "Humane Immigration Policy Migration",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.034376986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humane Immigration Policy Migration",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09004",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029428359,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09004",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.029414423,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026775835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus&",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.026775835,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015116078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015116078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam and Eve",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam_and_Eve"
+      },
+      "salience": 0.013768735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 893
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehi_(Book_of_Mormon_prophet)"
+      },
+      "salience": 0.013768735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 907
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.013768735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelites",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Israelites",
+            "beginOffset": 926
+          }
+        }
+      ]
+    },
+    {
+      "name": "SMYERS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035836566,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMYERS",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "American University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_University"
+      },
+      "salience": 0.0027774258,
+      "mentions": [
+        {
+          "text": {
+            "content": "American University",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0027774258,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 778
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0027774258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00086384208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 841
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.015872253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Garff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014118422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Garff",
+            "beginOffset": 362
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Gottman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004936194,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Gottman",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "John Gottman",
+            "beginOffset": 678
+          }
+        },
+        {
+          "text": {
+            "content": "John Gottman",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Garber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015437001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Garber",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steven Garff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012654399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven Garff",
+            "beginOffset": 1238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hussein",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048022921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hussein",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA school of law",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/UCLA_School_of_Law"
+      },
+      "salience": 0.00048022921,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA school of law",
+            "beginOffset": 836
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

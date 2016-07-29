@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Unrighteous Dominion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058840249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unrighteous Dominion",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Unrighteous Dominion",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Abuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030881371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Abuse",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Spiritual Abuse",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Spiritual Abuse",
+            "beginOffset": 760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Alliance Dealing With Unrighteous Dominion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018954502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Alliance Dealing With Unrighteous Dominion",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Alliance",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Alliance"
+      },
+      "salience": 0.0111424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Alliance",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Alliance",
+            "beginOffset": 849
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

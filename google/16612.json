@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.053427685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 545
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1290
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Black",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.013726313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Black",
+            "beginOffset": 1418
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Illinois",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign"
+      },
+      "salience": 0.011048613,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Illinois",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "University of Illinois",
+            "beginOffset": 1389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011048613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clint",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075125638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clint",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0066865445,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alma Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042151478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 970
+          }
+        },
+        {
+          "text": {
+            "content": "Alma Allred",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0029790939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029790939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Driggs",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith Hamilton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029790939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith Hamilton",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00076759874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olympics",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Olympic_Games"
+      },
+      "salience": 0.00076759874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olympics",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

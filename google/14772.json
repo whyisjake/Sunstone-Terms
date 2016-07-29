@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.14605674,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.026713012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clio",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Renault_Clio"
+      },
+      "salience": 0.013582496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clio",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013582496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.011270369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.011270369,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 279
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

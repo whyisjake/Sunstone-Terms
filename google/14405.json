@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.070676342,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Browning",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02777198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Browning",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011281979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.0068853446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 600
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

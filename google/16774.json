@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Brother Joseph",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.12450487,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Joseph",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 611
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Joseph",
+            "beginOffset": 830
+          }
+        }
+      ]
+    },
+    {
+      "name": "LIFE AND TIMES",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Life_and_Times_(TV_series)"
+      },
+      "salience": 0.063676454,
+      "mentions": [
+        {
+          "text": {
+            "content": "LIFE AND TIMES",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.043165263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017275415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kimball",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kimball,_Alberta"
+      },
+      "salience": 0.0050228732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010450989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell Bringhurst",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd M. Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.0010450989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd M. Compton",
+            "beginOffset": 674
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Kingdom",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kingdom_(biology)"
+      },
+      "salience": 0.090104125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingdom",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Statehood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/U.S._state"
+      },
+      "salience": 0.061374128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Statehood",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Statehood",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Drive",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043471579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Drive",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Drive",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Drive",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Statehood From Kingdom to State",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03648825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Statehood From Kingdom to State",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism From Kingdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018706517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism From Kingdom",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.018157469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.016742457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.013895126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 366
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

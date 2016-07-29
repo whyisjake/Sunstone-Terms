@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "name": "Stephenie Meyer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stephenie_Meyer"
+      },
+      "salience": 0.24645787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephenie Meyer",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Stephenie Meyer",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Meyer",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Stephenie Meyer",
+            "beginOffset": 1392
+          }
+        },
+        {
+          "text": {
+            "content": "Meyer",
+            "beginOffset": 1590
+          }
+        }
+      ]
+    },
+    {
+      "name": "JK Rowling",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._K._Rowling"
+      },
+      "salience": 0.16967034,
+      "mentions": [
+        {
+          "text": {
+            "content": "J.K.",
+            "beginOffset": 367
+          }
+        },
+        {
+          "text": {
+            "content": "Rowling",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "JK Rowling",
+            "beginOffset": 1106
+          }
+        },
+        {
+          "text": {
+            "content": "J.K.",
+            "beginOffset": 1639
+          }
+        },
+        {
+          "text": {
+            "content": "Rowling",
+            "beginOffset": 1644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twilight Myth Mormon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04940578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twilight Myth Mormon",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 488
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Do Mormons Dream of Monstrous Gods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031582505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Do Mormons Dream of Monstrous Gods",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09371 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027014624,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09371 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twilight",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Twilight_(novel_series)"
+      },
+      "salience": 0.0075297323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twilight",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Twilight",
+            "beginOffset": 1442
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0067333695,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.0061817686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0043096207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wikipedias Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039468147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wikipedias Mormon",
+            "beginOffset": 1357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0037177179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 845
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen R. Covey",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stephen_Covey"
+      },
+      "salience": 0.0031653878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen R. Covey",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Scott Card",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Scott_Card"
+      },
+      "salience": 0.0031653878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Scott Card",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002289745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davis Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002289745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davis Farnsworth",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002289745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana K. Riess",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.002289745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana K. Riess",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Myers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brett_Myers"
+      },
+      "salience": 0.00071189774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myers",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

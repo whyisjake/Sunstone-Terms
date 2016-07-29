@@ -1,0 +1,213 @@
+{
+  "entities": [
+    {
+      "name": "Goes Beyond Middle Ground",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.056588635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goes Beyond Middle Ground",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Middle Way",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buddhist_Society"
+      },
+      "salience": 0.056588635,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Middle Way",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buddhism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buddhism"
+      },
+      "salience": 0.019400191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 170
+          }
+        },
+        {
+          "text": {
+            "content": "Buddhism",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinduism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hinduism"
+      },
+      "salience": 0.019400191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinduism",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Hinduism",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taoism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Taoism"
+      },
+      "salience": 0.019400191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taoism",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Taoism",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Episcopalianism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Episcopal_Church_(United_States)"
+      },
+      "salience": 0.019400191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Episcopalianism",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Episcopalianism",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Crego",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073197046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crego",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Crego",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greek",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Greece"
+      },
+      "salience": 0.005316963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greek",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.005316963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chinese",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0052369055,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.0013715165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": 575
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

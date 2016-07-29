@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Governance DEMOCRATIC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041916873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Governance DEMOCRATIC",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Membership",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.031625517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Membership",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Church Membership",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Membership and Governance Mary Ann Morgan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022352714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Governance Ann Morgan",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Church Membership and Governance Mary Ann Morgan",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "San",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_people"
+      },
+      "salience": 0.0018344304,
+      "mentions": [
+        {
+          "text": {
+            "content": "San",
+            "beginOffset": 581
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

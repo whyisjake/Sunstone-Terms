@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0480801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 907
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.024924919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shipps",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Romig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017858518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Romig",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Ron Romig",
+            "beginOffset": 1119
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017858518,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0015027809,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0015027809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013865666,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 684
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

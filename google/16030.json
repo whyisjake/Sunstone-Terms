@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.28306818,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1004
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christology"
+      },
+      "salience": 0.039439518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christology",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Christology",
+            "beginOffset": 899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Gustavson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022900818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Gustavson",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sears",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sears"
+      },
+      "salience": 0.010640659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sears",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lens",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lens_(optics)"
+      },
+      "salience": 0.010037828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lens",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Lens",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Lens",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Follett Discourse",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Follett_discourse"
+      },
+      "salience": 0.0090109129,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 955
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0090109129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stacy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051703681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stacy",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0032840178,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0022491168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0022269974,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Phyllis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017006735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Phyllis",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0017006735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 720
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

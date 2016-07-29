@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0610283,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 811
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 840
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032918204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 580
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.4455902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn McKay Brodie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fawn_M._Brodie"
+      },
+      "salience": 0.39552528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn McKay Brodie",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "No Man Knows My History",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/No_Man_Knows_My_History"
+      },
+      "salience": 0.15888453,
+      "mentions": [
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 109
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

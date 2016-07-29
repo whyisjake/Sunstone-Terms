@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19317494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirby",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "MERRY OLD LAND",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043109506,
+      "mentions": [
+        {
+          "text": {
+            "content": "MERRY OLD LAND",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0086597921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028066966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

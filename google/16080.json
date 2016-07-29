@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Kincaid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041692391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kincaid",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Effects of Temple Participation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031721797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Effects of Temple Participation",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Effects of Temple Participation",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Effects of Temple Participation",
+            "beginOffset": 1159
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.018942941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1307
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco_Bay_Area"
+      },
+      "salience": 0.018942941,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco Bay Area",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "San Francisco Bay Area",
+            "beginOffset": 1322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027379314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aryan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aryan"
+      },
+      "salience": 0.0027379314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aryan",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027379314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 709
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

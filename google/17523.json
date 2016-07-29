@@ -1,0 +1,299 @@
+{
+  "entities": [
+    {
+      "name": "Maxwell Institute",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Neal_A._Maxwell_Institute_for_Religious_Scholarship"
+      },
+      "salience": 0.1328758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxwell Institute",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Maxwell Institute",
+            "beginOffset": 601
+          }
+        },
+        {
+          "text": {
+            "content": "Maxwell Institute",
+            "beginOffset": 1312
+          }
+        }
+      ]
+    },
+    {
+      "name": "FAIR",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/FairMormon"
+      },
+      "salience": 0.1328758,
+      "mentions": [
+        {
+          "text": {
+            "content": "FAIR",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "FAIR",
+            "beginOffset": 734
+          }
+        },
+        {
+          "text": {
+            "content": "FAIR",
+            "beginOffset": 1445
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON STUDIES",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_studies"
+      },
+      "salience": 0.012804344,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON STUDIES",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Studies",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0070252083,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bloggernacle",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_blogosphere"
+      },
+      "salience": 0.0070252083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bloggernacle",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Bloggernacle",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "FARMS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Foundation_for_Ancient_Research_and_Mormon_Studies"
+      },
+      "salience": 0.0070252083,
+      "mentions": [
+        {
+          "text": {
+            "content": "FARMS",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "FARMS",
+            "beginOffset": 1438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0068627195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1560
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022942279,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "MI",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michigan"
+      },
+      "salience": 0.0021210294,
+      "mentions": [
+        {
+          "text": {
+            "content": "MI",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0014963807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wenger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger"
+      },
+      "salience": 0.0014748672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wenger",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin Barney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kevin_L._Barney"
+      },
+      "salience": 0.0014748672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin Barney",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bridget Jack Jeffries",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014748672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridget Jack Jeffries",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012222121,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cuba",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cuba"
+      },
+      "salience": 0.00089594029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cuba",
+            "beginOffset": 963
+          }
+        },
+        {
+          "text": {
+            "content": "Cuba",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

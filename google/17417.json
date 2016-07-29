@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Elizabeth Smart",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elizabeth_Smart_kidnapping"
+      },
+      "salience": 0.15255879,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 721
+          }
+        },
+        {
+          "text": {
+            "content": "Elizabeth Smart",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chuck-a-Rama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047858753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chuck-a-Rama",
+            "beginOffset": 370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian David Mitchell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brian_David_Mitchell"
+      },
+      "salience": 0.0047138063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian David Mitchell",
+            "beginOffset": 289
+          }
+        },
+        {
+          "text": {
+            "content": "Brian David Mitchell",
+            "beginOffset": 865
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ben Jeppsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046072504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben Jeppsen",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038188789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simeon",
+            "beginOffset": 502
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

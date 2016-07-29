@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.060655467,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 697
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 948
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Love You",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.030190002,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Love You",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Love You No Matter What",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013243386,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Love You No Matter What",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "I Love You No Matter What",
+            "beginOffset": 1246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul thinker BR",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024870327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul thinker BR",
+            "beginOffset": 1211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0020910553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 755
+          }
+        }
+      ]
+    },
+    {
+      "name": "Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020609866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petersen",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0006407905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 980
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

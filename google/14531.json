@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.14198573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 714
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 278
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.12826619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beyond Matriarchy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11041629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyond Matriarchy",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Beyond Matriarchy",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "Beyond Matriarchy",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriage Covenant Beyond Tyranny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013618117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriage Covenant Beyond Tyranny",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriage Covenant",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010358472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriage Covenant",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pohlman Margaret",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072637433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pohlman Margaret",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0060233381,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0018768226,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 585
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

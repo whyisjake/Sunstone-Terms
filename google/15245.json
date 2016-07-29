@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "name": "Teaching Confessions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12220975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teaching Confessions",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.10055798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.048749641,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-LDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028887846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-LDS",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Non-LDS",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Non-LDS",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Students Teaching Confessions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017760877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Students Teaching Confessions",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.01110517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio_State_University"
+      },
+      "salience": 0.010014475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio State University",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0094943754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Slavic",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Slavic_languages"
+      },
+      "salience": 0.007982322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Slavic",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00787645,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.00787645,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nebraska"
+      },
+      "salience": 0.0024577822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nebraska",
+            "beginOffset": 404
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

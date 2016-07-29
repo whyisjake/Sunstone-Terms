@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "name": "Godhead",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_in_Mormonism"
+      },
+      "salience": 0.12188258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 1109
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Godhead",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinity",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trinity"
+      },
+      "salience": 0.12188258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 1101
+          }
+        },
+        {
+          "text": {
+            "content": "Trinity",
+            "beginOffset": 1259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinity/Godhead Narrative Approaches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029143563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinity/Godhead Narrative Approaches",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Jeffrey R. Holland&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029129777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Jeffrey R. Holland&",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Holland&",
+            "beginOffset": 546
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Jeffrey R. Holland&",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_theology"
+      },
+      "salience": 0.022691824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Walsh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020564035,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Walsh",
+            "beginOffset": 794
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Holland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014484526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Holland",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Holland",
+            "beginOffset": 1316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presbyterians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presbyterianism"
+      },
+      "salience": 0.013016146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presbyterians",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "October 2007General Conference",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01280377,
+      "mentions": [
+        {
+          "text": {
+            "content": "October 2007General Conference",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "October 2007General Conference",
+            "beginOffset": 1150
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_the_Father"
+      },
+      "salience": 0.009563297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Father",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holy Ghost",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Spirit_(Christianity)"
+      },
+      "salience": 0.009563297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Ghost",
+            "beginOffset": 1375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Son",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Son"
+      },
+      "salience": 0.009563297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Son",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Son",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.009563297,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trinitarian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Trinitarian_Order"
+      },
+      "salience": 0.0030278764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trinitarian",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aristotle&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030278764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aristotle&",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "James",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024156566,
+      "mentions": [
+        {
+          "text": {
+            "content": "James",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Wakefield",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023516933,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Wakefield",
+            "beginOffset": 780
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

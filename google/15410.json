@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "The Next Generation Sunstone&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12506652,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Next Generation Sunstone&",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "The Next Generation",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "The Next Generation",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Czechoslovakia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Czechoslovakia"
+      },
+      "salience": 0.020972919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Czechoslovakia",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathryn Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020972919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathryn Williams",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.01988394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "ID",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.01988394,
+      "mentions": [
+        {
+          "text": {
+            "content": "ID",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015869919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 552
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

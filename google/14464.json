@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Gustafson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26099348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gustafson",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Gustafson",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scriptural Horror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065065145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptural Horror",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Will",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Will_of_God"
+      },
+      "salience": 0.042027216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Will",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Will",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Will",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter Appleby Scriptural Horror",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041286893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter Appleby Scriptural Horror",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Morality Scriptural Horror",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.023760712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morality Scriptural Horror",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.015025988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 283
+          }
+        }
+      ]
+    },
+    {
+      "name": "FRAPH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032918651,
+      "mentions": [
+        {
+          "text": {
+            "content": "FRAPH",
+            "beginOffset": 428
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

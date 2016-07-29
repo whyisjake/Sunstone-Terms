@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.18185714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human Thoughts On Being Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.079589427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Thoughts On Being Mormon",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.065797009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human England",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Calvin"
+      },
+      "salience": 0.020536099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 98
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human Eugene England",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010242965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Eugene England",
+            "beginOffset": 492
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

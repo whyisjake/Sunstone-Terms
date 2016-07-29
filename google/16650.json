@@ -1,0 +1,205 @@
+{
+  "entities": [
+    {
+      "name": "S LEGACY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19795027,
+      "mentions": [
+        {
+          "text": {
+            "content": "S LEGACY",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.08008793,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 645
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1030
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.057212546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 1418
+          }
+        }
+      ]
+    },
+    {
+      "name": "EMMA SMITH&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017607663,
+      "mentions": [
+        {
+          "text": {
+            "content": "EMMA SMITH&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "D&#038",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0067519965,
+      "mentions": [
+        {
+          "text": {
+            "content": "D&#038",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "D&#038",
+            "beginOffset": 1543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023052634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma&",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rands",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_African_rand"
+      },
+      "salience": 0.0018438087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rands",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eighteenth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015478855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eighteenth",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Eighteenth",
+            "beginOffset": 1560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham Rands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014288815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham Rands",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0012202782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.000379417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

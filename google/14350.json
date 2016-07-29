@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Passive Revelation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20118144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Passive Revelation",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation"
+      },
+      "salience": 0.056105766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation Passive Revelation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030322336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation Passive Revelation",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.020274846,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 272
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

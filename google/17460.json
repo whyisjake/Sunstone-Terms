@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.29185468,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 901
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1092
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1406
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.011035362,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diversity To Unity: The Transition Of LDS Meetinghouses",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0083507905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diversity To Unity: The Transition Of LDS Meetinghouses",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnston",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002025862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnston",
+            "beginOffset": 761
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

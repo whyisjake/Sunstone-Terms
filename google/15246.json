@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Latter-Day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.04713751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day Saints",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Syracuse University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Syracuse_University"
+      },
+      "salience": 0.018164072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syracuse University",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0047117057,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 426
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

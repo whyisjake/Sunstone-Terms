@@ -1,0 +1,335 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37193856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1907
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.059137724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grooming",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046419375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grooming",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019735372,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1952
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015647452,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church SL03091",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Men&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013378413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Men&",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0068474282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nielsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nielsen_N.V."
+      },
+      "salience": 0.0067152558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nielsen",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031604946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Billy Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002516283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billy Peterson",
+            "beginOffset": 1361
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023209807,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016816353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael SL03091",
+            "beginOffset": 1808
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015136371,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014822299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boyd Petersen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boyd_Petersen"
+      },
+      "salience": 0.0013935291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyd Petersen",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0003699412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_Nibley"
+      },
+      "salience": 0.0003699412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 1493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0003699412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon",
+            "beginOffset": 1530
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

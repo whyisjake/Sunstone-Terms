@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Mormon History Dale Morgan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24102642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History Dale Morgan",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale Morgan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dale_Morgan"
+      },
+      "salience": 0.19472879,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale Morgan",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Dale Morgan",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Dale Morgan",
+            "beginOffset": 312
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_Latter_Day_Saint_movement"
+      },
+      "salience": 0.090421788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047784526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary",
+            "beginOffset": 217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01362964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 250
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

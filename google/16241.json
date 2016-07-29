@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.12203643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1132
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hughes",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ted_Hughes"
+      },
+      "salience": 0.06876082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hughes",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Text",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040579572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Text",
+            "beginOffset": 46
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

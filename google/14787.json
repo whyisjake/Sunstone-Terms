@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Evan Mecham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evan Mecham",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Evan Mecham",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evan Mecham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14662205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evan Mecham",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Community",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.07939636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Community",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "ASU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.027798003,
+      "mentions": [
+        {
+          "text": {
+            "content": "ASU",
+            "beginOffset": 159
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

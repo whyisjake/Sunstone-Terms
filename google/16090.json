@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.057488266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 939
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1083
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Culture Ecology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046649203,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Culture Ecology",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.020568851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 886
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Culture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020424645,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Culture",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Culture",
+            "beginOffset": 829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0055668755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashcroft",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050451718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashcroft",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0043094312,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Congress"
+      },
+      "salience": 0.0040843911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congress",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lake City College",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0033852037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lake City College",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peter Ashcroft",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027622622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter Ashcroft",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

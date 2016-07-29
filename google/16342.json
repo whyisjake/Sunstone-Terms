@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "JESUS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.17102991,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.059108607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 522
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 908
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1413
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 594
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christensen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Clayton_M._Christensen"
+      },
+      "salience": 0.029296193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christensen",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "Class Imagine",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021725679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Class Imagine",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunday School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunday_school"
+      },
+      "salience": 0.013619049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Relief_Society"
+      },
+      "salience": 0.0083100637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Relief Society",
+            "beginOffset": 1542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Essentials",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054132654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Essentials",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Essentials",
+            "beginOffset": 1431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Re-membering Catholics",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032251985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Re-membering Catholics",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.002883665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024627405,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0022673644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1024
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mel Tungate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019121782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mel Tungate",
+            "beginOffset": 1048
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00082063209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Larson",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

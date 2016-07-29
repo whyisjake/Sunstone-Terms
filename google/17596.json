@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.23286298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 918
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Marquardt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019334584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Marquardt",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Witmer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016023414,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Witmer",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011453885,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.00049829279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 819
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

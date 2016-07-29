@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Contemporary Mormon Environmentalism SL89068.5",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.15062363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Environmentalism SL89068.5",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Environmentalism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11509184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Environmentalism",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Contemporary Mormon Environmentalism",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033959586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.028224662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Simons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088621527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Simons",
+            "beginOffset": 265
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

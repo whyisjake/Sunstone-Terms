@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Intelligent Designer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intelligent_designer"
+      },
+      "salience": 0.01196001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intelligent Designer",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Intelligent Designer",
+            "beginOffset": 938
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.011416288,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010249674,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Bailey",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026218074,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024544806,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013270146,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

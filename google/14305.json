@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Holy Bible&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21995313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holy Bible&",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Bible&",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Holy Bible&",
+            "beginOffset": 270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture LDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10698705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture LDS",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.083729073,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.075320728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Letterman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Letterman"
+      },
+      "salience": 0.015131601,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Letterman",
+            "beginOffset": 191
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

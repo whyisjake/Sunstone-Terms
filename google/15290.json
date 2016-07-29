@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Nephites",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.30305579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0058855074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Timmy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055787084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Timmy",
+            "beginOffset": 480
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

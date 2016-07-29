@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Susan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30868867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Poetry Performed",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.28483498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Poetry Performed",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Poetry Performed",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Poetry Performed",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sublime An Surreal",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.051707335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sublime An Surreal",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sublime An Surreal",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040471967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sublime An Surreal",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Sublime An Surreal",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shenandoah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Shenandoah_(magazine)"
+      },
+      "salience": 0.020922678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shenandoah",
+            "beginOffset": 398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013173903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan Elizabeth Howe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012959507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Howe",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Susan Elizabeth Howe",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alex Caldiero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010864088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alex Caldiero",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Alex",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Alex Caldiero",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.010079826,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Yorker",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0083624572,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Yorker",
+            "beginOffset": 353
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

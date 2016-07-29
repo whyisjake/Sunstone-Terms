@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Fawn McKay Brodie&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.089139573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn McKay Brodie&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn McKay Brodie&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069770642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn McKay Brodie&",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn McKay Brodie&",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "My History&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057525914,
+      "mentions": [
+        {
+          "text": {
+            "content": "My History&",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "My History&",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "My History&",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.017376864,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 286
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

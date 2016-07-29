@@ -1,0 +1,291 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39914405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1785
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.064563319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 770
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1991
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.021593139,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1830
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017124295,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0074973693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00346119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025419218,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018417806,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1694
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0016577991,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlantic Ocean",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlantic_Ocean"
+      },
+      "salience": 0.0015728825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlantic Ocean",
+            "beginOffset": 1587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+      },
+      "salience": 0.0015728825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgia",
+            "beginOffset": 1636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013452666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prestwich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040520096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prestwich",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.00040520096,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    },
+    {
+      "name": "ATI",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00040520096,
+      "mentions": [
+        {
+          "text": {
+            "content": "ATI",
+            "beginOffset": 1445
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

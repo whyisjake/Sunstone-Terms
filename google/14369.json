@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.24156076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tragic Sense of Life Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0792576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tragic Sense of Life Mormonism",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tragic Sense of Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0792576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tragic Sense of Life",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carlisle",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carlisle,_Cumbria"
+      },
+      "salience": 0.012973121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carlisle",
+            "beginOffset": 285
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

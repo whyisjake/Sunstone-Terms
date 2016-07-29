@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Perspective Everyday Mormon Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.089446031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perspective Everyday Mormon Life",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Everyday Mormon Life",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poet&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055139475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poet&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Poet&",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Poet&",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elko",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Elko,_Nevada"
+      },
+      "salience": 0.00403808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elko",
+            "beginOffset": 391
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

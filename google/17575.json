@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "SPINNING THE MISSIONARY EXPERIENCE An",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029896451,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPINNING THE MISSIONARY EXPERIENCE An",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013976416,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "K. Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032729204,
+      "mentions": [
+        {
+          "text": {
+            "content": "K. Williams",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032729204,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby) Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027124221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spanish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.00084351352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spanish",
+            "beginOffset": 964
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

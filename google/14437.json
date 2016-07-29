@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "James Fowler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/James_W._Fowler"
+      },
+      "salience": 0.37019411,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Fowler",
+            "beginOffset": 119
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stages of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21672203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stages of Faith",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith Stages of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042190239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith Stages of Faith",
+            "beginOffset": 10
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

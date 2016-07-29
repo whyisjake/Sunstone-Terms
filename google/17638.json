@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.27474096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.13648106,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 417
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angel_Moroni"
+      },
+      "salience": 0.027461588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angel",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lynn Rollins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003688124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lynn Rollins",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Lynn Rollins",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033133554,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 369
+          }
+        },
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neal Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033133554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal Chandler",
+            "beginOffset": 389
+          }
+        },
+        {
+          "text": {
+            "content": "Neal Chandler",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugo Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031828245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olaiz",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Hugo Olaiz",
+            "beginOffset": 676
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

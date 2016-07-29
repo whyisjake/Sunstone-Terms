@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Reading D&#038",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12406652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading D&#038",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Reading D&#038",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Reading D&#038",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Literary Unit Physical Force",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037683066,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Literary Unit Physical Force",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "One Literary Unit",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "One Literary Unit",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Physical Force",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Force"
+      },
+      "salience": 0.024846662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Physical Force",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Physical Force",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.010726593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 540
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

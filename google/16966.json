@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.28902692,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 851
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 997
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 1279
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0092745544,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 451
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 1569
+          }
+        }
+      ]
+    },
+    {
+      "name": "BECKSTEAD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064178249,
+      "mentions": [
+        {
+          "text": {
+            "content": "BECKSTEAD",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040195207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gnosticism"
+      },
+      "salience": 0.0034534123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostics",
+            "beginOffset": 532
+          }
+        },
+        {
+          "text": {
+            "content": "Gnostics",
+            "beginOffset": 1650
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.002825577,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027849658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 805
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

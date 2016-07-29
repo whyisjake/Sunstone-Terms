@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "LDS Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069881484,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Authority",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Authority",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Authority",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.039133344,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 281
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.022477442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 132
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "EMMA",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.11356089,
+      "mentions": [
+        {
+          "text": {
+            "content": "EMMA",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 461
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 666
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.10161567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 313
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 1159
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.054446463,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 655
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.049895711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 1053
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 1058
+          }
+        }
+      ]
+    },
+    {
+      "name": "MONOGAMY UNDERGROUND",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013627179,
+      "mentions": [
+        {
+          "text": {
+            "content": "MONOGAMY UNDERGROUND",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis Bidamon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lewis_C._Bidamon"
+      },
+      "salience": 0.0043931454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis Bidamon",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0033496211,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1228
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0013180333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 679
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wiles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012828917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wiles",
+            "beginOffset": 750
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00039893633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 898
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

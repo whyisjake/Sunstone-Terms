@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Arm of Flesh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.55988824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arm of Flesh",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Arm of Flesh",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Arm of Flesh",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wise",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089377485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wise",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Wise",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Wise",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Scriptures",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.085147686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Scriptures",
+            "beginOffset": 150
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

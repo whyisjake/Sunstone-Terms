@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Kristine Haglund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010793847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Haglund",
+            "beginOffset": 816
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0047911974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lauper-Cook",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027495574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lauper-Cook",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027495574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 834
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Tensmeyer Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027495574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Tensmeyer Hansen",
+            "beginOffset": 849
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Linford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027495574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Linford",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paula Goodfellow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000855006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paula Goodfellow",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Nakamura Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000855006,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Nakamura Remy",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.000855006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 1027
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000855006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

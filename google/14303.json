@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "King Follett Discourse History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063525014,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett Discourse History",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "King Follett Discourse",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_Follett_discourse"
+      },
+      "salience": 0.039625786,
+      "mentions": [
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "King Follett Discourse",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.037069913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019297019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyrum",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hyrum_Smith"
+      },
+      "salience": 0.0074289739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyrum",
+            "beginOffset": 503
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Jesus Doctrine Concepts of Deity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38398358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Doctrine Concepts of Deity",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Doctrine  Concepts of Deity",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deity",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deity"
+      },
+      "salience": 0.08039277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deity",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Jehovah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.064983532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Jehovah",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Jehovah",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Jehovah",
+            "beginOffset": 259
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yhwist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062584512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yhwist",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Yhwist",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Yhwist",
+            "beginOffset": 236
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

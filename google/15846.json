@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "name": "Unitarian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Unitarian_Universalism"
+      },
+      "salience": 0.014102516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unitarian",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "Unitarian",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.011567148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 1338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.011567148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 1348
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011567148,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 270
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Malidoma Some",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Malidoma_Patrice_Som%C3%A9"
+      },
+      "salience": 0.0097372541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malidoma Some",
+            "beginOffset": 421
+          }
+        },
+        {
+          "text": {
+            "content": "Malidoma",
+            "beginOffset": 1507
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.0089999838,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 406
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 983
+          }
+        },
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 1492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom O&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083225733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom O&",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.00371633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Talboys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033000782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Talboys",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Damaris Methner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033000782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damaris Methner",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mahoney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033000782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mahoney",
+            "beginOffset": 680
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don Corbett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033000782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don Corbett",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend Tom Goldsmith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033000782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend Tom Goldsmith",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027347533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0027347533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melinda",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Melinda_Gates"
+      },
+      "salience": 0.0005916392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melinda",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

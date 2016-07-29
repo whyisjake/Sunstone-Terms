@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0073667844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050629689,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Jones",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Toby) Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050629689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050629689,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 460
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

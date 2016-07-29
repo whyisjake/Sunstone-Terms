@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Personal Progress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13554165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personal Progress",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Personal Progress",
+            "beginOffset": 827
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10151",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067320958,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10151",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Personal Progress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048452605,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Personal Progress",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.019608516,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 63
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRESA EDMUNDS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016760906,
+      "mentions": [
+        {
+          "text": {
+            "content": "TRESA EDMUNDS",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proclamation on the Family",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0043726135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation",
+            "beginOffset": 458
+          }
+        },
+        {
+          "text": {
+            "content": "Proclamation on the Family",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Primary",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Primary_school"
+      },
+      "salience": 0.0040093907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Primary",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Primary",
+            "beginOffset": 563
+          }
+        },
+        {
+          "text": {
+            "content": "Primary",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "Young Men/Young Women",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033249054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Young Men/Young Women",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "COMPTON",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.0026528174,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPTON",
+            "beginOffset": 594
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

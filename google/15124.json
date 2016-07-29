@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.46545941,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Real Universities Limit Academic Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051049415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Real Universities Limit Academic Freedom",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Real Universities Limit Academic Freedom",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049192188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan Roberts",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Real Universities Limit Academic Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043088342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Real Universities Limit Academic Freedom",
+            "beginOffset": 446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

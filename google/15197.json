@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reason"
+      },
+      "salience": 0.066835016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": 370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation Dichotomy A Mormon Response",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044106726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation Dichotomy A Mormon Response",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.022102492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.018345527,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0057345177,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 277
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Literary Interlude",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.361372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literary Interlude",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Literary Interlude",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Writers Read",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22967979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers Read",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Writers Read",
+            "beginOffset": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032808438,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Works Literary Interlude",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020188341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works Literary Interlude",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011389884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donley",
+            "beginOffset": 138
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.010798778,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 244
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Writers Read",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0086196605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers Read",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0027969407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 319
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

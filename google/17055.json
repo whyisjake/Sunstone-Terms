@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "Gerald E. Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.078197449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gerald E. Jones",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Doctrine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunday_School_(LDS_Church)"
+      },
+      "salience": 0.01972359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Doctrine",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Sunday School",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Doctrine",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013702401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1213
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059925113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan",
+            "beginOffset": 967
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eastman",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eastman_School_of_Music"
+      },
+      "salience": 0.0026795818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eastman",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026795818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl Bruno",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026795818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl Bruno",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jana Parkin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026795818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jana Parkin",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kim_Kardashian"
+      },
+      "salience": 0.0019939234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstein",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00069054618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstein",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

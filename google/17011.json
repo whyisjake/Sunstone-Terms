@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Father of Lies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024529956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father of Lies",
+            "beginOffset": 188
+          }
+        },
+        {
+          "text": {
+            "content": "Father of Lies",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAWN HOUGHTON",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0056991894,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAWN HOUGHTON",
+            "beginOffset": 939
+          }
+        }
+      ]
+    },
+    {
+      "name": "SWENSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046579656,
+      "mentions": [
+        {
+          "text": {
+            "content": "SWENSON",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marilyn Monroe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marilyn_Monroe"
+      },
+      "salience": 0.0022239611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marilyn Monroe",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAUL TOSCANO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016365367,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL TOSCANO",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHERYL PACE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016365367,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHERYL PACE",
+            "beginOffset": 926
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

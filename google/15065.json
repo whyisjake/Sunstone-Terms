@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Christian Beginnings The Puzzle",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.047880847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Beginnings The Puzzle",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.028448235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University_Press"
+      },
+      "salience": 0.0093987649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University Press",
+            "beginOffset": 263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Beginnings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075039621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Beginnings",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.0024364786,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

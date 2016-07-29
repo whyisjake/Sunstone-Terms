@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.57329416,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intellectuals The New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.18870196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intellectuals The New Testament",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intellectuals Eugene Peck The New Testament",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1362036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intellectuals Eugene Peck  The New Testament",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intellectuals Elbert Eugene Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1018003,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intellectuals Elbert Eugene Peck",
+            "beginOffset": 107
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

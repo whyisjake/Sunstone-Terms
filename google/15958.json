@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Rod Hold",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32866645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Hold",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Kirby"
+      },
+      "salience": 0.15482476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14525552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Kirby",
+            "beginOffset": 42
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

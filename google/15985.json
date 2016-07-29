@@ -1,0 +1,255 @@
+{
+  "entities": [
+    {
+      "name": "Lehi",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17745526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Lehi",
+            "beginOffset": 2295
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alvin Plantinga",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alvin_Plantinga"
+      },
+      "salience": 0.030559648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alvin Plantinga",
+            "beginOffset": 1157
+          }
+        },
+        {
+          "text": {
+            "content": "Plantinga",
+            "beginOffset": 1237
+          }
+        },
+        {
+          "text": {
+            "content": "Plantinga",
+            "beginOffset": 1425
+          }
+        },
+        {
+          "text": {
+            "content": "Plantinga",
+            "beginOffset": 1641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sin",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sin"
+      },
+      "salience": 0.029527361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sin",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Sin",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Sin",
+            "beginOffset": 2178
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Nature Of Reality",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02752899,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Nature Of Reality",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "The Nature Of Reality",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "The Nature Of Reality",
+            "beginOffset": 2187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eternal Spirits And The Necessity Of Contingency",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.023096586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eternal Spirits And The Necessity Of Contingency",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Eternal Spirits And The Necessity Of Contingency",
+            "beginOffset": 2234
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eternal Spirits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020461794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eternal Spirits",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evil",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evil"
+      },
+      "salience": 0.016358126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evil",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Evil",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Evil",
+            "beginOffset": 2172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041861818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Huff",
+            "beginOffset": 1108
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0016591301,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0013597021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1313
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00098683557,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1514
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004113951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 1659
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

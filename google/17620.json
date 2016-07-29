@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "One Voice Choir The One Voice Choir",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.16611315,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Voice Choir The One Voice Choir",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryan Horn The One Voice Choir",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014163435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Horn  The One Voice Choir",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryan Horn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072269705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Horn",
+            "beginOffset": 401
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

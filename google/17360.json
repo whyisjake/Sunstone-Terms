@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.17316464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 900
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 1202
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epistle_to_the_Romans"
+      },
+      "salience": 0.0894231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romans",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Romans",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evergreen International",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evergreen_International"
+      },
+      "salience": 0.085217223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evergreen International",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Evergreen International",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL J. STEVENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01779427,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL J. STEVENS",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10352",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015559683,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10352",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Redemption of Pleasure Christians",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015559683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Redemption of Pleasure Christians",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Epistle of Paul: Homosexual Spirituality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011319112,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Epistle of Paul: Homosexual Spirituality",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elder Bruce Hafen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069171195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elder Bruce Hafen",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Elder Bruce Hafen",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0055929106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 857
+          }
+        }
+      ]
+    },
+    {
+      "name": "TOSCANO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001821202,
+      "mentions": [
+        {
+          "text": {
+            "content": "TOSCANO",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "sunstone",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.001821202,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunstone",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001592606,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001079044,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

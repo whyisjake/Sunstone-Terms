@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "MARVIN RYTTING",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068015784,
+      "mentions": [
+        {
+          "text": {
+            "content": "RYTTING",
+            "beginOffset": 374
+          }
+        },
+        {
+          "text": {
+            "content": "Rytting",
+            "beginOffset": 658
+          }
+        },
+        {
+          "text": {
+            "content": "MARVIN RYTTING",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reflective Unitarian Rytting",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037998997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reflective Unitarian Rytting",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Active Mormon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030144831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Active Mormon",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 799
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10255",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026781756,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10255",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0073861708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0066062296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 259
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unitarian Universalism",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Unitarian_Universalism"
+      },
+      "salience": 0.0066062296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unitarian Universalism",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "Unitarian Universalism",
+            "beginOffset": 932
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

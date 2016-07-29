@@ -1,0 +1,331 @@
+{
+  "entities": [
+    {
+      "name": "Danites",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Danite"
+      },
+      "salience": 0.18710645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Danites",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Danites",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Danites",
+            "beginOffset": 973
+          }
+        },
+        {
+          "text": {
+            "content": "Danite",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Danite",
+            "beginOffset": 575
+          }
+        },
+        {
+          "text": {
+            "content": "Danite",
+            "beginOffset": 1063
+          }
+        },
+        {
+          "text": {
+            "content": "Danite",
+            "beginOffset": 614
+          }
+        },
+        {
+          "text": {
+            "content": "Danite",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sampson Avard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sampson_Avard"
+      },
+      "salience": 0.17034496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sampson Avard",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Avard",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Sampson Avard",
+            "beginOffset": 989
+          }
+        },
+        {
+          "text": {
+            "content": "Avard",
+            "beginOffset": 1115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.1668379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.13841075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 448
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 906
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1036
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.03233159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10264",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020418894,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10264",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Big Fan",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020418894,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Big Fan",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leland Gentry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011692482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leland Gentry",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "Leland Gentry",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.011683269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/1838_Mormon_War"
+      },
+      "salience": 0.0023529066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon War",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon War",
+            "beginOffset": 1193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Luman Shurtliff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001887154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luman Shurtliff",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. MICHAEL QUINN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0018551148,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. MICHAEL QUINN",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "COMPTON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.0010416737,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPTON",
+            "beginOffset": 738
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

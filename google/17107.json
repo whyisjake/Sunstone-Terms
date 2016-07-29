@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Emma Lou Thayne",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Lou_Thayne"
+      },
+      "salience": 0.22146849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Lou Thayne",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Emma Lou Thayne",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Mulder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17437825,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Mulder",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Mulder Karen Rosenbaum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033625562,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Mulder Rosenbaum",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "William Mulder Karen Rosenbaum",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033625562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fred Buchanan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033625562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fred Buchanan",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Fred Buchanan",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033625562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.026920477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vermont",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vermont"
+      },
+      "salience": 0.010778718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vermont",
+            "beginOffset": 284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denver Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Denver"
+      },
+      "salience": 0.0027902562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denver Colorado",
+            "beginOffset": 500
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

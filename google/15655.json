@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "The Non-Mormons Nauvoo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.097739428,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Non-Mormons Nauvoo",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.057945386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.043516204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roger D. Launius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034080636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roger D. Launius",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormons D. Launius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031905241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormons D. Launius",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018767847,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROVS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049331062,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROVS",
+            "beginOffset": 395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

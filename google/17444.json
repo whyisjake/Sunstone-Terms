@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Wikipedia",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wikipedia"
+      },
+      "salience": 0.10329195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wikipedia",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Wikipedia",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Wikipedia",
+            "beginOffset": 591
+          }
+        },
+        {
+          "text": {
+            "content": "wikipedia",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.021722941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Winder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036221207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Winder",
+            "beginOffset": 654
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kay Gaisford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028074451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kay Gaisford",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kaimipono Wenger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Times_and_Seasons_(blog)"
+      },
+      "salience": 0.0028074451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kaimipono Wenger",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Rosenbaum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028074451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Rosenbaum",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028074451,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Wikipedia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011786734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Wikipedia",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0008851391,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

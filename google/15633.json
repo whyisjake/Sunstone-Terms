@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.60069954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civic Virtue And The American Republic Civic Virtue And The American Republic",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.12395051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civic Virtue And The American Republic Civic Virtue And The American Republic",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037178468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Farnsworth",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Farnsworth",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod O. Julander",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037178468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod O. Julander",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Rod O. Julander",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civic Virtue And The American Republic J.D. Williams",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0154906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civic Virtue And The American Republic J.D. Williams",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00981765,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 283
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

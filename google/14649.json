@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Nephi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi,_son_of_Lehi"
+      },
+      "salience": 0.075397454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.039278459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cultural Conflict",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.031679917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cultural Conflict",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Cultural Conflict",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Cultural Conflict",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099555412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tara",
+            "beginOffset": 243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0099555412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 218
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peru"
+      },
+      "salience": 0.0025705015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peru",
+            "beginOffset": 345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

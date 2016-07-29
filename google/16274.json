@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.1829817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 857
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 910
+          }
+        }
+      ]
+    },
+    {
+      "name": "Land of Promise",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.071678951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Land of Promise",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Malay Book of Mormon Hypothesis The Malay Peninsula",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.057385653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay Book of Mormon Hypothesis The Malay Peninsula",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelite",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.0043473924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 405
+          }
+        },
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 1105
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Olsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041825841,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Olsen",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ralph A. &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024812541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ralph A. &hellip",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Malay Peninsula",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Malay_Peninsula"
+      },
+      "salience": 0.0016294883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay Peninsula",
+            "beginOffset": 774
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

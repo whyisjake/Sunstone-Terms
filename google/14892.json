@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Benefit Concert",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Benefit_concert"
+      },
+      "salience": 0.27534708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benefit Concert",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Symphony Number 3 Benefit Concert",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.1288662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Symphony Number 3 Benefit Concert",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Symphony Number 3",
+            "beginOffset": 442
+          }
+        }
+      ]
+    },
+    {
+      "name": "Symphony Number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042764138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Symphony Number",
+            "beginOffset": 66
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Kathleen Flake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kathleen_Flake"
+      },
+      "salience": 0.26924184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evil&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05662106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Evil&",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Origin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Origin_(mathematics)"
+      },
+      "salience": 0.052998494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Origin",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis Evil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051194917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis Evil",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Evil",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enoch Narrative",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03573801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Enoch Narrative",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.03573801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis Flake",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012018946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis Flake",
+            "beginOffset": 220
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

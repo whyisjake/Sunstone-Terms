@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Science Theater 3000 Mormon Science Theater 3000 Workman",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.34094572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Science Theater 3000 Mormon Science Theater 3000 Workman",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew Workman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34094572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Workman",
+            "beginOffset": 105
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21404539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Cannon",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Cannon Mormon Science Theater",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10406315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Cannon  Mormon Science Theater",
+            "beginOffset": 65
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

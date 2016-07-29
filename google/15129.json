@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "My Father&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.086543866,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Father&",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exploration of Living Arrangements",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.086543866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exploration of Living Arrangements",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076995336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exploration of Living Arrangements",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.05875336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Exploration of Living Arrangements",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Exploration of Living Arrangements",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.055417776,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/House"
+      },
+      "salience": 0.047503356,
+      "mentions": [
+        {
+          "text": {
+            "content": "House",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "House",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "House",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Polygynous Commune In My Father&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.043134384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Polygynous Commune In My Father&",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "In My Father&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022113809,
+      "mentions": [
+        {
+          "text": {
+            "content": "In My Father&",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.019792004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Mormon Polygynous Commune Mennonites",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014251756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contemporary Mormon Polygynous Commune Mennonites",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Contemporary Mormon Polygynous Commune",
+            "beginOffset": 799
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

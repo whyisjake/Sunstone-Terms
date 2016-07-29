@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Ron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24478613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Camille I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12594455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Camille I",
+            "beginOffset": 274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.028458817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0066368016,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 367
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shakespeare",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Shakespeare"
+      },
+      "salience": 0.0020700251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shakespeare",
+            "beginOffset": 462
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

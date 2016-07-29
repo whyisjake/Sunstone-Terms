@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36321288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1725
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 240
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 477
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1834
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.068609431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 337
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 769
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1931
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.020253748,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1770
+          }
+        }
+      ]
+    },
+    {
+      "name": "James E. Talmage SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013742446,
+      "mentions": [
+        {
+          "text": {
+            "content": "James E. Talmage SL03091",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0070404042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032513009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 808
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1125
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023879567,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harold",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014777294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harold",
+            "beginOffset": 1615
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001290687,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 973
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012639068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "P. Harris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0003807242,
+      "mentions": [
+        {
+          "text": {
+            "content": "P. Harris",
+            "beginOffset": 1317
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

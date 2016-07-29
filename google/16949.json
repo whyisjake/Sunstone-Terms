@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011602893,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0078524519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 171
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 1357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0062028575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 428
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052733044,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "RACHEL LAURITZEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028505353,
+      "mentions": [
+        {
+          "text": {
+            "content": "RACHEL LAURITZEN",
+            "beginOffset": 816
+          }
+        }
+      ]
+    },
+    {
+      "name": "COMPTON",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Compton,_California"
+      },
+      "salience": 0.0027750363,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPTON",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00088635215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

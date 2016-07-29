@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.30221853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Stewardship Every",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053175919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Stewardship Every",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011568065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bobby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00484492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bobby",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Bobby",
+            "beginOffset": 409
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

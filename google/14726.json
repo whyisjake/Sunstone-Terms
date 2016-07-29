@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Deborah Rossiter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32712755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deborah Rossiter",
+            "beginOffset": 171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Provo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Provo,_Utah"
+      },
+      "salience": 0.07392589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Provo",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "They Carpet The Gym&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.069433652,
+      "mentions": [
+        {
+          "text": {
+            "content": "They Carpet The Gym&",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "They Carpet The Gym&",
+            "beginOffset": 137
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.049910806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01640385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devers",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "They Carpet The Gym&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013091766,
+      "mentions": [
+        {
+          "text": {
+            "content": "They Carpet The Gym&",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042464188,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 461
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

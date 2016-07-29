@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "LDS Search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.32103065,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Search",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Search",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Truth"
+      },
+      "salience": 0.065087922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Truth",
+            "beginOffset": 337
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.057606731,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.026987145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

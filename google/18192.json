@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.050942156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1029
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032422382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Mormonism",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Triangles Of Shame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026660137,
+      "mentions": [
+        {
+          "text": {
+            "content": "Triangles Of Shame",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crowe Hughes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027002492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crowe Hughes",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0025169009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 864
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

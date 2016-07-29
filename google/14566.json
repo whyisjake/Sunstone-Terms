@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Out of the Closet",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.096119493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Out of the Closet",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Out of the Closet",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Out of the Closet",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Their Homosexual Brothers and Sisters",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.086010076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Their Homosexual Brothers and Sisters",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "Their Homosexual Brothers and Sisters",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Their Homosexual Brothers and Sisters",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.064031556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Stroud",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019495135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Stroud",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019495135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.002411624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alberta",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alberta"
+      },
+      "salience": 0.002411624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alberta",
+            "beginOffset": 555
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

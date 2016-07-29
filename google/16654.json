@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.15835142,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1571
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13123485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 1619
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOOK OF MORMON One",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02700555,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOOK OF MORMON One",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "INTUITION",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intuition"
+      },
+      "salience": 0.015849624,
+      "mentions": [
+        {
+          "text": {
+            "content": "INTUITION",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "QUANTUM HOLOGRAPHY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015849624,
+      "mentions": [
+        {
+          "text": {
+            "content": "QUANTUM HOLOGRAPHY",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "EPIGENETICS",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epigenetics"
+      },
+      "salience": 0.015849624,
+      "mentions": [
+        {
+          "text": {
+            "content": "EPIGENETICS",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Egyptian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egypt"
+      },
+      "salience": 0.012450111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptian",
+            "beginOffset": 1809
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0092830919,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027761704,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0019768705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014584318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "OCB",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00045345663,
+      "mentions": [
+        {
+          "text": {
+            "content": "OCB",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

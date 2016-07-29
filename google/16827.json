@@ -1,0 +1,367 @@
+{
+  "entities": [
+    {
+      "name": "Dan Brown&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071673334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Brown&",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Dan Brown&",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harold Bloom",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harold_Bloom"
+      },
+      "salience": 0.067971587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harold Bloom",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Harold Bloom",
+            "beginOffset": 1401
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060996097,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Smith",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.057516966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1451
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.025379462,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnosticism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gnosticism"
+      },
+      "salience": 0.019570904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnosticism",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "Gnosticism",
+            "beginOffset": 463
+          }
+        },
+        {
+          "text": {
+            "content": "Gnosticism",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Da Vinci Code",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+      },
+      "salience": 0.0091455933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Da Vinci Code",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Da Vinci Code",
+            "beginOffset": 1239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0089341253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 1424
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072708656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine Hanks",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "The American Religion",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_American_Religion"
+      },
+      "salience": 0.0068283803,
+      "mentions": [
+        {
+          "text": {
+            "content": "The American Religion",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "The American Religion",
+            "beginOffset": 1378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presenter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Presenter"
+      },
+      "salience": 0.0019821639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presenter",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019821639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0016426342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0012041572,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 904
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011858034,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1524
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.00059812661,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Indian",
+            "beginOffset": 1090
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.00051074871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.00051074871,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 1036
+          }
+        }
+      ]
+    },
+    {
+      "name": "cal state Northridge",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_State_University,_Northridge"
+      },
+      "salience": 0.00051074871,
+      "mentions": [
+        {
+          "text": {
+            "content": "cal state Northridge",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00051074871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1073
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

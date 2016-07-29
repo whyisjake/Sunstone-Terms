@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "The Heterosexualization Of Gay Men",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.43801105,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Heterosexualization Of Gay Men",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "The Heterosexualization Of Gay Men",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "The Heterosexualization Of Gay Men",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.04884775,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church Jensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017284991,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Jensen",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soviet",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Soviet_Union"
+      },
+      "salience": 0.011619941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soviet",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffery Jensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099987574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffery Jensen",
+            "beginOffset": 678
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Stand Up Comic Routines Mormon Stand Up Comic Routines",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.15680693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Stand Up Comic Routines Mormon Stand Up Comic Routines",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.031037174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 202
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.030573849,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Stand Up Comic Routines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024790224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Stand Up Comic Routines",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

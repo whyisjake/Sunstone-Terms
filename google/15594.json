@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Joys Of Supra",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09111762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joys Of Supra",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Joys Of Supra",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Joys Of Supra",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conkling Grassley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020921418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conkling Grassley",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "un",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Nations"
+      },
+      "salience": 0.015414502,
+      "mentions": [
+        {
+          "text": {
+            "content": "un",
+            "beginOffset": 204
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010439899,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 556
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

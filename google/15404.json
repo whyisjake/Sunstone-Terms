@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Passes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.519311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Passes",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Passes",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Passes",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twelve Apostles: A Collective Spiritual Witness",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.070602953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twelve Apostles: A Collective Spiritual Witness",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Twelve Apostles: A Collective Spiritual Witness",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Twelve Apostles: A Collective Spiritual Witness",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brother Brigham",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020368122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.018766154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0056925821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0046437951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 559
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 842
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehigh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehigh_Mountain_Hawks"
+      },
+      "salience": 0.0039096521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehigh",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sidney Rigdon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sidney_Rigdon"
+      },
+      "salience": 0.0039096521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sidney Rigdon",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0030715754,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 798
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "HIV Infection",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/HIV/AIDS"
+      },
+      "salience": 0.26631558,
+      "mentions": [
+        {
+          "text": {
+            "content": "HIV Infection",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "HIV Infection",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "HIV Infection",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simple Truth About Aids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051440798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simple Truth About Aids",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Simple Truth About Aids",
+            "beginOffset": 637
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church The Simple Truth About Aids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016652178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church The Simple Truth About Aids",
+            "beginOffset": 66
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

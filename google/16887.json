@@ -1,0 +1,325 @@
+{
+  "entities": [
+    {
+      "name": "Bengt Washburn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1981584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengt Washburn",
+            "beginOffset": 466
+          }
+        },
+        {
+          "text": {
+            "content": "Bengt",
+            "beginOffset": 668
+          }
+        },
+        {
+          "text": {
+            "content": "Bengt",
+            "beginOffset": 994
+          }
+        },
+        {
+          "text": {
+            "content": "Bengt",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dana Carvey",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dana_Carvey"
+      },
+      "salience": 0.11121172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dana Carvey",
+            "beginOffset": 1575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Meets World Stand-Up",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027102912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Meets World Stand-Up",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Meets World Bengt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020282172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Meets World Bengt",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Meets World Bengt",
+            "beginOffset": 1906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0074294745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 2205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gavin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00657299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gavin",
+            "beginOffset": 1827
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chimp",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chimpanzee"
+      },
+      "salience": 0.0059312256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chimp",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indiana University in Bloomington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indiana_University_Bloomington"
+      },
+      "salience": 0.0038691002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indiana University in Bloomington",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hell Bengt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030359481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hell Bengt",
+            "beginOffset": 1310
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0030015067,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 659
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Meets World",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025284612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Meets World",
+            "beginOffset": 1287
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+      },
+      "salience": 0.0023514202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congo",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mapleton Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0021025762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mapleton Utah",
+            "beginOffset": 1730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vancouver International Comedy Festival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0020911775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vancouver International Comedy Festival",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco International Comedy Competition",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco_International_Comedy_Competition"
+      },
+      "salience": 0.0017858174,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco International Comedy Competition",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washburn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063431787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washburn",
+            "beginOffset": 1489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arab",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabs"
+      },
+      "salience": 0.00054164516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arab",
+            "beginOffset": 1513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edwards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054164516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edwards",
+            "beginOffset": 1552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sinbad",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sinbad_(comedian)"
+      },
+      "salience": 0.00054164516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sinbad",
+            "beginOffset": 1591
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

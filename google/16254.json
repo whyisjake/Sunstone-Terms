@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Taiwan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Taiwan"
+      },
+      "salience": 0.28667507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 1098
+          }
+        },
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Rib Cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056359105,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Rib Cage",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "The Rib Cage",
+            "beginOffset": 1330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Magnificent Cause of Being",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025544688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magnificent Cause of Being",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063973609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0029808544,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.002901396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 566
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen Marguerite Moloney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002901396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen Marguerite Moloney",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_war"
+      },
+      "salience": 0.0024044795,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War",
+            "beginOffset": 709
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

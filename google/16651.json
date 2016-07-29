@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Toby) Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12363586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby) Pingree",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0053614327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044440618,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Jones",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Frederick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042119971,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Frederick",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg South Dakota",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0042119971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gettysburg South Dakota",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0034909791,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 674
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

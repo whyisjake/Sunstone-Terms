@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Ezra Taft Benson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ezra_Taft_Benson"
+      },
+      "salience": 0.18301263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Birch Society",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Birch_Society"
+      },
+      "salience": 0.088790536,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Birch Society",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "John Birch Society",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "John Birch Society",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.088790536,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 619
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

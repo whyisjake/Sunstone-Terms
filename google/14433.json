@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Paul Edwards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2192871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Edwards",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0066732196,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.0066732196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 285
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

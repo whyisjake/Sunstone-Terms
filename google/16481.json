@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Robert H. Briggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33156216,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Briggs",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Robert H. Briggs",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE MOUNTAIN MEADOWS MASSACRE",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Mountain_Meadows_Massacre_(book)"
+      },
+      "salience": 0.12553734,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE MOUNTAIN MEADOWS MASSACRE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.040894195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bagley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013820671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032142035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simon",
+            "beginOffset": 419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

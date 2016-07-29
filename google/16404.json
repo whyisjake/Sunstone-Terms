@@ -1,0 +1,287 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39367825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1801
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1910
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.048925716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 784
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2007
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1518
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1588
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.02148219,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon Historicity SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017038058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon Historicity SL03091",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0074612633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1776
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046230354,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034448414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 823
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0025299685,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0018331492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1614
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001650037,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013389774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040331535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hale",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040331535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judeo Christian",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judeo-Christian"
+      },
+      "salience": 0.00040331535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judeo Christian",
+            "beginOffset": 1399
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

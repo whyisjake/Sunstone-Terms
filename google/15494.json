@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "o'malley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_O'Malley"
+      },
+      "salience": 0.032129839,
+      "mentions": [
+        {
+          "text": {
+            "content": "o'malley",
+            "beginOffset": 252
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ximmer Shederlaomach",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022403816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shederlaomach",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Ximmer Shederlaomach",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "A1",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/A1_road_(Great_Britain)"
+      },
+      "salience": 0.019895853,
+      "mentions": [
+        {
+          "text": {
+            "content": "A1",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "A1",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0062247114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061309994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 570
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

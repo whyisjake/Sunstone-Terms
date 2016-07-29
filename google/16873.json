@@ -1,0 +1,399 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.079036161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 575
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1027
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1177
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congealed Kind Green Salads",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038174827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congealed Kind Green Salads",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lutherans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lutheranism"
+      },
+      "salience": 0.02680696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lutherans",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kind Green Jell-O",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01678589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kind Green Jell-O",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Kind Green Jell-O",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Congealed",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014348999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Congealed",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Congealed",
+            "beginOffset": 1291
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.011684434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 272
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stornetta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073750471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stornetta",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jell-O",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jell-O"
+      },
+      "salience": 0.0065026209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jell-O",
+            "beginOffset": 508
+          }
+        },
+        {
+          "text": {
+            "content": "Jell-O",
+            "beginOffset": 535
+          }
+        },
+        {
+          "text": {
+            "content": "Jell-O",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Green Salads Of",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00419431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Green Salads Of",
+            "beginOffset": 1254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.003258408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "South",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_United_States"
+      },
+      "salience": 0.0030806004,
+      "mentions": [
+        {
+          "text": {
+            "content": "South",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Methodists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Methodist_Church"
+      },
+      "salience": 0.0030806004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Methodists",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Minnesota"
+      },
+      "salience": 0.0030806004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minnesota",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.0028417993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0028417993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.002782858,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caol B. Quist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022670394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caol B. Quist",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.0022670394,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0022670394,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tribune_(magazine)"
+      },
+      "salience": 0.0010267159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tribune",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Good Housekeeping",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Good_Housekeeping"
+      },
+      "salience": 0.00070491858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Good Housekeeping",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_News"
+      },
+      "salience": 0.00070491858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret News",
+            "beginOffset": 1164
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

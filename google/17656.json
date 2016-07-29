@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "My Secret Life",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.30504298,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Secret Life",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enid Gardner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21715824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enid Gardner",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Enid Gardner",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041404732,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Garden",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Weird Mormon Girl The Garden",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041404732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Weird Mormon Girl The Garden",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Endin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027306153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Endin",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hales The Garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021033728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hales  The Garden",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enid",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Enid,_Oklahoma"
+      },
+      "salience": 0.019817818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Enid",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Enid",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Hales",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021171481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Hales",
+            "beginOffset": 746
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.14935903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.078094542,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Same-Gender Attraction",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Homosexuality"
+      },
+      "salience": 0.021547345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Same-Gender Attraction",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Same-Gender Attraction",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "Homosexual Attraction",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021547345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homosexual Attraction",
+            "beginOffset": 254
+          }
+        },
+        {
+          "text": {
+            "content": "Homosexual Attraction",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "In Quiet Desperation",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01186472,
+      "mentions": [
+        {
+          "text": {
+            "content": "In Quiet Desperation",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "In Quiet Desperation",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Strength of Youth",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.004588298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Strength of Youth",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Strength of Youth",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugo Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043650311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugo Olaiz",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043650311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Schow",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Bradshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043650311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Bradshaw",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0036177163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 713
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028414992,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025577836,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1252
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

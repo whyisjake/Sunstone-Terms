@@ -1,0 +1,353 @@
+{
+  "entities": [
+    {
+      "name": "William H. Chamberlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53174394,
+      "mentions": [
+        {
+          "text": {
+            "content": "William H. Chamberlin",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Chamberlin",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Chamberlin",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "William H. Chamberlin",
+            "beginOffset": 1127
+          }
+        },
+        {
+          "text": {
+            "content": "Chamberlin",
+            "beginOffset": 1256
+          }
+        },
+        {
+          "text": {
+            "content": "Chamberlin",
+            "beginOffset": 1381
+          }
+        }
+      ]
+    },
+    {
+      "name": "WILLIAM CHAMBERLIN&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.085259363,
+      "mentions": [
+        {
+          "text": {
+            "content": "WILLIAM CHAMBERLIN&",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.014277531,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.H. Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.012987182,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 1237
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sterling McMurrin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00956263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sterling McMurrin",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Sterling McMurrin",
+            "beginOffset": 1098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Pratt"
+      },
+      "salience": 0.0073232697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 1222
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chamberlin&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0029106657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chamberlin&",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0021235533,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 699
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019883558,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLachlan",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017579194,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Josiah Royce",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Josiah_Royce"
+      },
+      "salience": 0.0017579194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Josiah Royce",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "George Holmes Howison",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_Holmes_Howison"
+      },
+      "salience": 0.0017579194,
+      "mentions": [
+        {
+          "text": {
+            "content": "George Holmes Howison",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0017579194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0017579194,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants 88",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016216589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants 88",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mother"
+      },
+      "salience": 0.0013439206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013160422,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Rex Sears",
+            "beginOffset": 782
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLaughlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012098885,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLaughlin",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rubin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010332401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rubin",
+            "beginOffset": 1024
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nkana",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00040923408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nkana",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

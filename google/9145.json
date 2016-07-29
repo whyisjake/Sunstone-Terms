@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06906607,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Kissell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062965572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Kissell",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Kissell",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Comedy Elisham McIntyre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049149111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Comedy Elisham McIntyre",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Elisham McIntyre",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041445546,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.018521719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018521719,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 133
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

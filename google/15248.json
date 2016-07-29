@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Durban",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Durban"
+      },
+      "salience": 0.097578168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Durban",
+            "beginOffset": 153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolution of a Soul Art",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060778603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution of a Soul Art",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Evolution of a Soul",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evolution of a Soul England",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.054087412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evolution of a Soul England",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University"
+      },
+      "salience": 0.03962845,
+      "mentions": [
+        {
+          "text": {
+            "content": "University",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Africa"
+      },
+      "salience": 0.021353673,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Africa",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "South Africa",
+            "beginOffset": 287
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016389623,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Art"
+      },
+      "salience": 0.0098886173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Art",
+            "beginOffset": 516
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

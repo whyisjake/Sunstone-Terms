@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.32200766,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17561248,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mother",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "The Mother",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.078697331,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cornell University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cornell_University"
+      },
+      "salience": 0.012865789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cornell University",
+            "beginOffset": 189
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan Walker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010432188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan Walker",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0091429688,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mother",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jennifer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0086563341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennifer",
+            "beginOffset": 306
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027031079,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

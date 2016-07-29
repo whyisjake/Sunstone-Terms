@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.12174828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1072
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON ENVIRONMENTAL",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035867982,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON ENVIRONMENTAL",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026921796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "PECK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011335785,
+      "mentions": [
+        {
+          "text": {
+            "content": "PECK",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0028505914,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHUCK SCHOLFIELD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025315096,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHUCK SCHOLFIELD",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moab",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moab,_Utah"
+      },
+      "salience": 0.0025315096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moab",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.002098073,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 832
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

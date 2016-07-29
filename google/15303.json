@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.43623295,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 656
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Academic Freedom",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Academic_freedom"
+      },
+      "salience": 0.0651197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Academic Freedom",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Academic Freedom",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "Academic Freedom",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knowlton Cases",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05764208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowlton Cases",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cecilia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050260756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cecilia",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Knowlton Cases",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038981438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Knowlton Cases",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Knowlton Cases",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Farr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031273007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Farr",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026470278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Noland",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026470278,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Noland",
+            "beginOffset": 507
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "OMK",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03799526,
+      "mentions": [
+        {
+          "text": {
+            "content": "OMK",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "OMK",
+            "beginOffset": 470
+          }
+        },
+        {
+          "text": {
+            "content": "OMK",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mother&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024569953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother&",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brown_University"
+      },
+      "salience": 0.014493678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keeper ourmotherskeeper.Com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012438378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keeper ourmotherskeeper.Com",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "ourmotherskeeper.Com",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0028251305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 452
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1496
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melanie Franti",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027919144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melanie Franti",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Kramer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027919144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Kramer",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "APS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_Public_Service"
+      },
+      "salience": 0.0010198522,
+      "mentions": [
+        {
+          "text": {
+            "content": "APS",
+            "beginOffset": 987
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

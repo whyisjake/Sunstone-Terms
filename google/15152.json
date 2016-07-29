@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Harold Bloom",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harold_Bloom"
+      },
+      "salience": 0.16105337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harold Bloom",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Harold Bloom",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Harold Bloom",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genius&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097473308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genius&",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Genius&",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Genius&",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.08556366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Gnosticism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0750721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Gnosticism",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Gnosticism",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Gnosticism",
+            "beginOffset": 470
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

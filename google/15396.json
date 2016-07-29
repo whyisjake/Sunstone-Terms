@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Outsider&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43497536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Outsider&",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Outsider&",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Outsider&",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Outsiders&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04636265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Outsiders&",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Outsiders&",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Outsiders&",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.033961128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.033413228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lustig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084470306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lustig",
+            "beginOffset": 569
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

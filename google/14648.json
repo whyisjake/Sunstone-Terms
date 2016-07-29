@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Modern Art",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Modern_art"
+      },
+      "salience": 0.10641851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Art",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Art",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literal in Search of the Sublime Spirituality and Modern Art",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.081449009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literal in Search of the Sublime Spirituality and Modern Art",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roach",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032981347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roach",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literal in Search of the Sublime",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029719261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literal in Search of the Sublime",
+            "beginOffset": 113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.022764863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 164
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lake_County,_Illinois"
+      },
+      "salience": 0.016763579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lake County",
+            "beginOffset": 207
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paris Spirituality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012685549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paris Spirituality",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Literal in Search of the Sublime",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012685549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Literal in Search of the Sublime",
+            "beginOffset": 619
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

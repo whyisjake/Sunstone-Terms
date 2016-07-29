@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Directions Introduction",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.11733552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Directions Introduction",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unification",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italian_unification"
+      },
+      "salience": 0.076373622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unification",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Unification",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Unification",
+            "beginOffset": 398
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hudson Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hudson_Valley"
+      },
+      "salience": 0.02332508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hudson Valley",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0060605872,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barrytown",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barrytown,_New_York"
+      },
+      "salience": 0.0060605872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barrytown",
+            "beginOffset": 297
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

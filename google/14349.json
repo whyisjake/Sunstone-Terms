@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Closet Doubter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36750972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Closet Doubter",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Closet Doubter",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Closet Doubter The Phenomenon",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.065789282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Closet Doubter The Phenomenon",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032195721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lafayette",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lafayette,_Louisiana"
+      },
+      "salience": 0.01850969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lafayette",
+            "beginOffset": 101
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

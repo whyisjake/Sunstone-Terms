@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Soul",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Soul_music"
+      },
+      "salience": 0.041094288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soul",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.016801771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Floyd M. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003040703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Floyd M. Anderson",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Jess Groesbeck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003040703,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Jess Groesbeck",
+            "beginOffset": 563
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

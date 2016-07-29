@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "William H Chamberlin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42068768,
+      "mentions": [
+        {
+          "text": {
+            "content": "William H Chamberlin",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "William H Chamberlin",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "William H Chamberlin",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Socrates",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10540357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Socrates",
+            "beginOffset": 2
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Socrates",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pioneer Philosopher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08706414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pioneer Philosopher",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Pioneer Philosopher",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Cummings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06622158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Cummings",
+            "beginOffset": 137
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pioneer Philosopher Haitian",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026789594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pioneer Philosopher Haitian",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0211,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "A Mormon Socrates",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020302836,
+      "mentions": [
+        {
+          "text": {
+            "content": "A Mormon Socrates",
+            "beginOffset": 320
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

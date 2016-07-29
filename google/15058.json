@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Latter-Day",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10444661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-Day",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008996835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Evan",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008996835,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 248
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

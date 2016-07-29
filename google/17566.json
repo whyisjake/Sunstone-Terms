@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.17095606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1124
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE FIRST VISION Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022863233,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE FIRST VISION Mormons",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0096623069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1232
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_the_Apostle"
+      },
+      "salience": 0.005734547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014615112,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Vogel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Vogel"
+      },
+      "salience": 0.0014615112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Vogel",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Almira",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014615112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Almira",
+            "beginOffset": 898
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.14232056,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOD LOVETH HIS CHILDREN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_Loveth_His_Children"
+      },
+      "salience": 0.11141448,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD LOVETH HIS CHILDREN",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 513
+          }
+        },
+        {
+          "text": {
+            "content": "God Loveth His Children",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "God Loveth His Children",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.04274505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 619
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "CLARK PINGREE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094743568,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLARK PINGREE",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "SCHOW",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080906262,
+      "mentions": [
+        {
+          "text": {
+            "content": "SCHOW",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN PINGREE A",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00080906262,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN PINGREE  A",
+            "beginOffset": 828
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

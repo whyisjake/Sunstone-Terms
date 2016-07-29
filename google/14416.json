@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Press The Media",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.49425989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Press The Media",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "McGraw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01488171,
+      "mentions": [
+        {
+          "text": {
+            "content": "McGraw",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Media",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mass_media"
+      },
+      "salience": 0.011264705,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Media",
+            "beginOffset": 464
+          }
+        }
+      ]
+    },
+    {
+      "name": "Merrill",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Merrill_Lynch"
+      },
+      "salience": 0.0036569175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Merrill",
+            "beginOffset": 360
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

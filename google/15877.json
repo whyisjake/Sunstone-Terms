@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Success Wayne Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068275668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Success Schow",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Success Wayne Schow",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Clark Ottesen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068070106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Clark Ottesen",
+            "beginOffset": 237
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Clark Ottesen",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Iowa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Iowa"
+      },
+      "salience": 0.0057320916,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Iowa",
+            "beginOffset": 452
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

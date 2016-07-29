@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Sacred",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacred"
+      },
+      "salience": 0.087998211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mundane",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.076238111,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mundane",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "The Mundane",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "The Mundane",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Sacred",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039296098,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Sacred",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "The Sacred",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reader&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028829563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reader&",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014295945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 291
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Internet",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Internet"
+      },
+      "salience": 0.013753671,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Internet",
+            "beginOffset": 521
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

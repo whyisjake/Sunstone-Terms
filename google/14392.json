@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Way Luther",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34955183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luther",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Way Luther",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Luther",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31616488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Mary",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lutheran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Evangelical_Lutheran_Church_in_America"
+      },
+      "salience": 0.018406115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lutheran",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Lutheran",
+            "beginOffset": 270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017610379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Way",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lutheran church in America",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lutheran_Church_in_America"
+      },
+      "salience": 0.011012815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lutheran church in America",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gettysburg_College"
+      },
+      "salience": 0.00993145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gettysburg",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooke Austria",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0078115473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooke Austria",
+            "beginOffset": 290
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

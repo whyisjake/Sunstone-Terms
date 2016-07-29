@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "name": "OUR TIMES Let&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039709691,
+      "mentions": [
+        {
+          "text": {
+            "content": "OUR TIMES Let&",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pharisee",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pharisees"
+      },
+      "salience": 0.0308892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pharisee",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Pharisee",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tax Collector",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tax_collector"
+      },
+      "salience": 0.0308892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tax Collector",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Tax Collector",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010061288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Michigan",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Michigan"
+      },
+      "salience": 0.010061288,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Michigan",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.0085947253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pacific",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_Ocean"
+      },
+      "salience": 0.0067521203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacific",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.0067521203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0067521203,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frances Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056524677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frances Lee Menlove",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "Let&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024601757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Let&",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.0021008891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021008891,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 641
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

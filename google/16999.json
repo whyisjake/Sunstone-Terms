@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "DOO",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Limited_liability_company"
+      },
+      "salience": 0.068082824,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOO",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "DOO",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sermon on the Mount",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sermon_on_the_Mount"
+      },
+      "salience": 0.011710713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 1264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beatitudes",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Beatitudes"
+      },
+      "salience": 0.009776067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beatitudes",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Beatitudes",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0074569909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073628272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "HANSEN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Leprosy"
+      },
+      "salience": 0.0054316246,
+      "mentions": [
+        {
+          "text": {
+            "content": "HANSEN",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heaven"
+      },
+      "salience": 0.0051867487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "ENGLAND",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0042091627,
+      "mentions": [
+        {
+          "text": {
+            "content": "ENGLAND",
+            "beginOffset": 862
+          }
+        }
+      ]
+    },
+    {
+      "name": "MATTHEW BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042091627,
+      "mentions": [
+        {
+          "text": {
+            "content": "MATTHEW BOWMAN",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Happy Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_College,_Pennsylvania"
+      },
+      "salience": 0.0013087863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Happy Valley",
+            "beginOffset": 980
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

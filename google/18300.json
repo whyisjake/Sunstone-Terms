@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Legal Mind Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20358847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Legal Mind Jesus",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 869
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_(Bickertonite)"
+      },
+      "salience": 0.0041369316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0036527587,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 435
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035336057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint&",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0035336057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.003312222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0026985852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jr",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Junior_(education)"
+      },
+      "salience": 0.0026598035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jr",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denver C. Snuffer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Denver_C._Snuffer,_Jr."
+      },
+      "salience": 0.002520835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denver C. Snuffer",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daymon M. Smith Jesus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014193829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daymon M. Smith  Jesus",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryndis Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00082731387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryndis Roberts",
+            "beginOffset": 645
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "name": "Howard Pyle",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Howard_Pyle"
+      },
+      "salience": 0.3642363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Howard Pyle",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Pyle",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Pyle",
+            "beginOffset": 394
+          }
+        },
+        {
+          "text": {
+            "content": "Howard Pyle",
+            "beginOffset": 1180
+          }
+        },
+        {
+          "text": {
+            "content": "Pyle",
+            "beginOffset": 1287
+          }
+        },
+        {
+          "text": {
+            "content": "Pyle",
+            "beginOffset": 1474
+          }
+        }
+      ]
+    },
+    {
+      "name": "FLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints"
+      },
+      "salience": 0.020927735,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 64
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 509
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09152",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017618759,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09152",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010967792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 712
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0090319542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1163
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.0090319542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Short Creek",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado_City,_Arizona"
+      },
+      "salience": 0.0090319542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Short Creek",
+            "beginOffset": 194
+          }
+        },
+        {
+          "text": {
+            "content": "Short Creek",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0021093311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "Schleicher County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Schleicher_County,_Texas"
+      },
+      "salience": 0.0021093311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schleicher County",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "YFZ Ranch",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/YFZ_Ranch"
+      },
+      "salience": 0.0021093311,
+      "mentions": [
+        {
+          "text": {
+            "content": "YFZ Ranch",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Katie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018967306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katie",
+            "beginOffset": 1136
+          }
+        }
+      ]
+    },
+    {
+      "name": "BR",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brazil"
+      },
+      "salience": 0.0018967306,
+      "mentions": [
+        {
+          "text": {
+            "content": "BR",
+            "beginOffset": 1146
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Theology of Family",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1007329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology of Family",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology of Family",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology of Family",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.089742251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology of Family",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.081937619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.017658677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 408
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

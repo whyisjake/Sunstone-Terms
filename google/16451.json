@@ -1,0 +1,291 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31756294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1887
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 525
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10343821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 817
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2093
+          }
+        }
+      ]
+    },
+    {
+      "name": "What Would Jesus Do?",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016693212,
+      "mentions": [
+        {
+          "text": {
+            "content": "What Would Jesus Do?",
+            "beginOffset": 41
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01510177,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1932
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011959237,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0090954816,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 504
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 1728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0052199243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0050196606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 856
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1173
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027223215,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1796
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0024040842,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0019673342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1041
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059889909,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cole Capener",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059889909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cole Capener",
+            "beginOffset": 1374
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warner P. Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059889909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warner P. Woodworth",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Mann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059889909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Mann",
+            "beginOffset": 1412
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

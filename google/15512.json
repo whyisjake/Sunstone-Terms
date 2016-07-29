@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "OAHU 1853",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.044670932,
+      "mentions": [
+        {
+          "text": {
+            "content": "OAHU 1853",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "OAHU 1853",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "OAHU 1853 Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035662163,
+      "mentions": [
+        {
+          "text": {
+            "content": "OAHU 1853 Kenney",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024147704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ken Cannon",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Cannon",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055291145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenney",
+            "beginOffset": 522
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

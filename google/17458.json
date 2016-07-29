@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10045155,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 790
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017732982,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.013630916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracy McKay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027767748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy McKay",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "D Christian Harrison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027767748,
+      "mentions": [
+        {
+          "text": {
+            "content": "D Christian Harrison",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristine Haglund",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kristine_Haglund"
+      },
+      "salience": 0.0027767748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Haglund",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Kramer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002592121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kramer",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Brad Kramer",
+            "beginOffset": 1108
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracy &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015422479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy &hellip",
+            "beginOffset": 1121
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

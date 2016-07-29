@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Reading Between The Lines",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Inference"
+      },
+      "salience": 0.56399655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading Between The Lines",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Reading Between The Lines",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Reading Between The Lines",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Evenson Evenson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21132739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Evenson",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Evenson Evenson",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Brian",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Evenson",
+            "beginOffset": 619
+          }
+        },
+        {
+          "text": {
+            "content": "Brian Evenson",
+            "beginOffset": 605
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

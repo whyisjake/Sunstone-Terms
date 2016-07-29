@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Challenge of Excellence",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.16336672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Challenge of Excellence",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Challenge of Excellence",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints The Challenge of Excellence",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11033712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints The Challenge of Excellence",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.02797216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 124
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

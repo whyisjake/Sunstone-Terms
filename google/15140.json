@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.1156885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 328
+          }
+        },
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016001744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Homer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011942471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Homer",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Ferguson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030944406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Ferguson",
+            "beginOffset": 414
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

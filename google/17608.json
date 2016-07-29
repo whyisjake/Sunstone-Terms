@@ -1,0 +1,255 @@
+{
+  "entities": [
+    {
+      "name": "Emma Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      "salience": 0.15525433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Smith",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 452
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 657
+          }
+        },
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Burial of Plural Marriage",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.15314166,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Burial of Plural Marriage",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.047839876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 959
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.045534194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 646
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graves",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grave"
+      },
+      "salience": 0.025350202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Graves",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monogomy Undergroung",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019441493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monogomy Undergroung",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CofC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017689524,
+      "mentions": [
+        {
+          "text": {
+            "content": "CofC",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "CofC",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.017689524,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0082281316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis Bidamon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lewis_C._Bidamon"
+      },
+      "salience": 0.0059533282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis Bidamon",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0047897026,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wiles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058646966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wiles",
+            "beginOffset": 740
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

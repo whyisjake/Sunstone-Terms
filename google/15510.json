@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "PARADOX CHRIST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19022389,
+      "mentions": [
+        {
+          "text": {
+            "content": "PARADOX CHRIST",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "PARADOX Arthur C. Wiscombe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1772044,
+      "mentions": [
+        {
+          "text": {
+            "content": "PARADOX C. Wiscombe",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "PARADOX Arthur C. Wiscombe",
+            "beginOffset": 318
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.14279804,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.030633159,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 307
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

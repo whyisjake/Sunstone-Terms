@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Spencer W Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13076329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W Kimball",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Spencer W Kimball",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd William",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025213853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd William",
+            "beginOffset": 153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Spencer W Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019094883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Spencer W Kimball",
+            "beginOffset": 422
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

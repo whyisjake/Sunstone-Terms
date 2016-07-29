@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Obama",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barack_Obama"
+      },
+      "salience": 0.092192478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obama",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Obama",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medicare",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medicare_(United_States)"
+      },
+      "salience": 0.028501343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medicare",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Medicare",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medicaid",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medicaid"
+      },
+      "salience": 0.028501343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medicaid",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Medicaid",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Security",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_Security_(United_States)"
+      },
+      "salience": 0.023452677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Security",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Social Security",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0030988588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 365
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "chiastic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chiastic_structure"
+      },
+      "salience": 0.0030288051,
+      "mentions": [
+        {
+          "text": {
+            "content": "chiastic",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.00095522765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 654
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

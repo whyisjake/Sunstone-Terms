@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.4705078,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Quinn",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard D. Poll&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024231747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard D. Poll&",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Richard D. Poll&",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Richard D. Poll&",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Henry D. Moyle Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024231747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henry D. Moyle",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Henry D. Moyle Larson",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Henry D. Moyle",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.01122151,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University"
+      },
+      "salience": 0.0086226324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0065928292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stan Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056729009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stan Larson",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020561065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0020561065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 583
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

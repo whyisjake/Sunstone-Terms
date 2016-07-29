@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Egyptologists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Egyptology"
+      },
+      "salience": 0.12608181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Egyptologist",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptologists",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptologists",
+            "beginOffset": 777
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptological",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Egyptological",
+            "beginOffset": 895
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.087774307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035361946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Abraham",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Abraham"
+      },
+      "salience": 0.034736473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Abraham",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Shirts",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00953422,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Shirts",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho falls",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho_Falls,_Idaho"
+      },
+      "salience": 0.0066609895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho falls",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kerry A. Shirts",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00522129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kerry A. Shirts",
+            "beginOffset": 958
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

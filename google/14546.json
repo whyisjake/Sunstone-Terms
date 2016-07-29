@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Mormons Christian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15108979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Christian",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons Christian",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Investigation of Definitions Reverend Jeffrey Silliman",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.040486686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Investigation of Definitions Reverend Jeffrey Silliman",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mount Olympus Presbyterian church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013051869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mount Olympus Presbyterian church",
+            "beginOffset": 154
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.00777551,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 281
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pasadena California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pasadena,_California"
+      },
+      "salience": 0.0064468021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pasadena California",
+            "beginOffset": 370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0047373213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richfield Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023510179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richfield Utah",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Valley"
+      },
+      "salience": 0.0020078223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Valley",
+            "beginOffset": 451
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

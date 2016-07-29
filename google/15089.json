@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.010687163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.010131788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0096050883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.0081827734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 101
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

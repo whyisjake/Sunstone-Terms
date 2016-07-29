@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.13644518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Africa",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spirit of Africa The Spirit of Africa",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.056298148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spirit of Africa The Spirit of Africa",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church in Africa",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.050530061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church in Africa",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Church in Africa",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026087059,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catherine A. Nesbit",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083131157,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Nesbit",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Catherine A. Nesbit",
+            "beginOffset": 777
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Spirit of Africa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022111323,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Spirit of Africa",
+            "beginOffset": 524
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

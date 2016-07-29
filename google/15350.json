@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Accord",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.55749524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Accord",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Accord",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.020018658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 413
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

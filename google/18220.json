@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "William Law",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)"
+      },
+      "salience": 0.15238701,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Law",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14175856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 409
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo Expositor",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo_Expositor"
+      },
+      "salience": 0.024815641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo Expositor",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo Expositor",
+            "beginOffset": 965
+          }
+        }
+      ]
+    },
+    {
+      "name": "William LawÑJoseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01277137,
+      "mentions": [
+        {
+          "text": {
+            "content": "William LawÑJoseph",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "William LawÑJoseph",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles Stoddard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012132033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Stoddard",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Charles Stoddard",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yale University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yale_University"
+      },
+      "salience": 0.0050545046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yale University",
+            "beginOffset": 480
+          }
+        },
+        {
+          "text": {
+            "content": "Yale",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0034680907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0033717526,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 418
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of southern California",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Southern_California"
+      },
+      "salience": 0.0031956816,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of southern California",
+            "beginOffset": 529
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. &hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001854256,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. &hellip",
+            "beginOffset": 1218
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0008239111,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 782
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

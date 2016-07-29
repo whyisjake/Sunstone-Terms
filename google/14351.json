@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35534629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Radical Familism Eternal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.044071525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Radical Familism Eternal",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Radical Familism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038784225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Radical Familism",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Radical Familism",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01115079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 571
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

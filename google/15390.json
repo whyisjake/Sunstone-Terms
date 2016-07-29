@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Hell",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hell"
+      },
+      "salience": 0.0442581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hell",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Hell",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Hell",
+            "beginOffset": 607
+          }
+        }
+      ]
+    },
+    {
+      "name": "Obedience&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061595291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obedience&",
+            "beginOffset": 548
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

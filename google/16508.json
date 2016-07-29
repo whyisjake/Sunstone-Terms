@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.2280764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 713
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 922
+          }
+        }
+      ]
+    },
+    {
+      "name": "Racial Divide",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026114704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Racial Divide",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0031990032,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 435
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Mauss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00077329652,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Mauss",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marvin C. Perkins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00077329652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marvin C. Perkins",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Paredes",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Paredes"
+      },
+      "salience": 0.00077329652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Paredes",
+            "beginOffset": 753
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

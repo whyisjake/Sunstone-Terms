@@ -1,0 +1,219 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.79852307,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 279
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1122
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1250
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Petitionary Prayer",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supplication"
+      },
+      "salience": 0.0090773813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petitionary Prayer",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Franklin Planner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089230938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Franklin Planner",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Franklin Planner",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Franklin Planner",
+            "beginOffset": 1139
+          }
+        }
+      ]
+    },
+    {
+      "name": "Petitionary Prayer Traditional",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060746861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petitionary Prayer Traditional",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Petitionary Prayer Traditional",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Providence",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Providence,_Rhode_Island"
+      },
+      "salience": 0.0050841565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Providence",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Providence",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Providence",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brian Birch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037730176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brian Birch",
+            "beginOffset": 685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0023809364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021525891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 670
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0012399557,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 842
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

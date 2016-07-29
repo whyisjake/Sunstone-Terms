@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "UTAH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0997203,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 976
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lougee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064662611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lougee",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "Valcor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026992445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Valcor",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Valcor",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saddam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saddam_Hussein"
+      },
+      "salience": 0.0026685891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saddam",
+            "beginOffset": 652
+          }
+        },
+        {
+          "text": {
+            "content": "Saddam",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleon Skousen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026382105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleon Skousen",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn Brodie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026382105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025679374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fleiss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fleiss",
+            "beginOffset": 601
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

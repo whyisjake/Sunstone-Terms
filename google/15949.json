@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.20564336,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 509
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "An Examination Of Religious Involvement In Political",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.061546829,
+      "mentions": [
+        {
+          "text": {
+            "content": "An Examination Of Religious Involvement In Political",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.057937179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dave Combe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011796611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Combe",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Dave Combe",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "Byron Mauss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011796611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Byron Mauss",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "Byron Mauss",
+            "beginOffset": 763
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

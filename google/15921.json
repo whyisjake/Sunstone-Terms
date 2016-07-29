@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Flake II",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12889451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flake I I",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hyde Park",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hyde_Park,_Chicago"
+      },
+      "salience": 0.0068626967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyde Park",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.0068626967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Flake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kathleen_Flake"
+      },
+      "salience": 0.0057455907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Flake",
+            "beginOffset": 500
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

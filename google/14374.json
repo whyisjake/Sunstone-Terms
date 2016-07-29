@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Human Achievement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.089563526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Achievement",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Human Achievement",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joy Human Achievement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079703368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joy Human Achievement",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05413495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joy",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Joy",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.018560123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.01560476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley California",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.01560476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olympus",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Olympus_High_School"
+      },
+      "salience": 0.012948387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olympus",
+            "beginOffset": 354
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

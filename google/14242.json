@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Kenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11465473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenny",
+            "beginOffset": 294
+          }
+        }
+      ]
+    },
+    {
+      "name": "Time and Space Restoration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10124035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Time and Space Restoration",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divinity&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060152296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divinity&",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Divinity&",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Divinity&",
+            "beginOffset": 499
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sphere of Action",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.059370391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sphere of Action",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Sphere of Action",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Sphere of Action",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Time and Space",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spacetime"
+      },
+      "salience": 0.037038192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Time and Space",
+            "beginOffset": 115
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley Restoration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025897361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley Restoration",
+            "beginOffset": 477
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

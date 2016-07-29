@@ -1,0 +1,371 @@
+{
+  "entities": [
+    {
+      "name": "Bigfoot",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bigfoot"
+      },
+      "salience": 0.06650985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bigfoot",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "Bigfoot",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_and_Abel"
+      },
+      "salience": 0.041339912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Trail"
+      },
+      "salience": 0.029307738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Patten&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024023831,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Patten&",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conception of Evil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024023831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conception of Evil",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10166",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024023831,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10166",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.018872026,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Fife Folklore Archives",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016738176,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Fife Folklore Archives",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Fife Folklore Archives",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.012312377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kane",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kane_(wrestler)"
+      },
+      "salience": 0.0091477334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kane",
+            "beginOffset": 1058
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.0030710772,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.0027674404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle Paul",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eliza R. Snow",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eliza_R._Snow"
+      },
+      "salience": 0.0026228058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eliza R. Snow",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Fielding Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Fielding_Smith"
+      },
+      "salience": 0.0026228058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Fielding Smith",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0025850986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yeti",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yeti"
+      },
+      "salience": 0.0025850986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yeti",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heber Kimball&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025084917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heber Kimball&",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Weber County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Weber_County,_Utah"
+      },
+      "salience": 0.0021422624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Weber County",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0021422624,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00075231207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006505163,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOWMAN",
+            "beginOffset": 962
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

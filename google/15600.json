@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "B.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Codex_Vaticanus"
+      },
+      "salience": 0.35394353,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.",
+            "beginOffset": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reconciliation Reconciliation Southey",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.25249276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reconciliation Reconciliation Southey",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trevor Southey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00901921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trevor Southey",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dutch",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Netherlands"
+      },
+      "salience": 0.0077096117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dutch",
+            "beginOffset": 410
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

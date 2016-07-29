@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.35491756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity And The World Religions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029919798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity And The World Religions",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity And The World Religions",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity And The World Religions",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.026226681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinduism And Buddhism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026226681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinduism And Buddhism",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Hinduism And Buddhism",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "Hinduism And Buddhism",
+            "beginOffset": 783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007005774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Minnesota"
+      },
+      "salience": 0.0033557366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minnesota",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.002781464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 476
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

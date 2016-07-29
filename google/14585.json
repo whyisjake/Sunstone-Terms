@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Orrin hatch",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orrin_Hatch"
+      },
+      "salience": 0.053799666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orrin hatch",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.045070454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_News"
+      },
+      "salience": 0.025297184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret News",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0099380268,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phyllis Schlafly",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phyllis_Schlafly"
+      },
+      "salience": 0.0073044435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Schlafly",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ted Kennedy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ted_Kennedy"
+      },
+      "salience": 0.0073044435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ted Kennedy",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ralph Nader",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ralph_Nader"
+      },
+      "salience": 0.0069233836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ralph Nader",
+            "beginOffset": 560
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

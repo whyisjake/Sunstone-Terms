@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "DIVINE DISENCHANTMENT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025506787,
+      "mentions": [
+        {
+          "text": {
+            "content": "DIVINE DISENCHANTMENT",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013077336,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1473
+          }
+        }
+      ]
+    },
+    {
+      "name": "Transitions",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00404885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Transitions",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0030544172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0028948055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024732216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 1012
+          }
+        },
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Morehead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012965134,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Morehead",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "John nndb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00071804965,
+      "mentions": [
+        {
+          "text": {
+            "content": "John nndb",
+            "beginOffset": 1198
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

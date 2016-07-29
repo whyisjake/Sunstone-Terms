@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Warren Jeffs",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warren_Jeffs"
+      },
+      "salience": 0.092758559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warren Jeffs",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Warren Jeffs",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Salt_Lake_Tribune"
+      },
+      "salience": 0.053137459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake Tribune",
+            "beginOffset": 616
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake Tribune",
+            "beginOffset": 830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046587966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trent",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormonism Update",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036070734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormonism Update",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.03211239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 729
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trent Nielsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031017348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trent Nielsen",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.016144857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormonism",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormonism",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "FLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints"
+      },
+      "salience": 0.011846499,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "FLDS",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00957781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 381
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 872
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1260
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooke Adams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brooke_Adams_(actress)"
+      },
+      "salience": 0.0051090075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooke Adams",
+            "beginOffset": 506
+          }
+        },
+        {
+          "text": {
+            "content": "Brooke Adams",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Driggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00381075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Driggs",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod Parker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00381075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Parker",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0036952987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Tinker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036117055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Tinker",
+            "beginOffset": 524
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

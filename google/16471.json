@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31241539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1709
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10113837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 770
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1915
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crazy Wisdom of a Holy Fool SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035702042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crazy Wisdom of a Holy Fool SL03091",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.015074632,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1754
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0052130395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0048480532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1126
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0035000367,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirby",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jack_Kirby"
+      },
+      "salience": 0.0030988238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirby",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0019242734,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018915858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Kirby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014453898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Kirby",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Irene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hurricane_Irene_(2005)"
+      },
+      "salience": 0.0014453898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Irene",
+            "beginOffset": 1430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Robert Blackman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005723816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Robert Blackman",
+            "beginOffset": 1473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

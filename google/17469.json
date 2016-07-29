@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.10414778,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 732
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 983
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Solitary Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012893844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solitary Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0050736032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1204
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mull Traxxas",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0015877265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mull Traxxas",
+            "beginOffset": 448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

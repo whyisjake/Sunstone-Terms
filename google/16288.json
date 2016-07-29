@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.028055841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sin"
+      },
+      "salience": 0.027324827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sin",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.012024798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephites",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0032410284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Nephites",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanites",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.0032410284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "Lamanites",
+            "beginOffset": 958
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.0032410284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 1006
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031181939,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Murphy",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Bradshaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026546817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Bradshaw",
+            "beginOffset": 535
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "John Charles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13547979,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Charles",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.12198548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book Of Mormon Is True",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.073577322,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book Of Mormon Is True",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.049070604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055831457,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Charles Duffy",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "John-Charles Duffy James",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047688331,
+      "mentions": [
+        {
+          "text": {
+            "content": "John-Charles Duffy James",
+            "beginOffset": 441
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of North Carolina at Chapel Hill",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill"
+      },
+      "salience": 0.0039524534,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of North Carolina at Chapel Hill",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0039524534,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 709
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0039524534,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 722
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0015419746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 745
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 814
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

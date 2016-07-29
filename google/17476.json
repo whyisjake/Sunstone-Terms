@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "First Initiative",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.16555515,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Initiative",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "First Initiative",
+            "beginOffset": 1241
+          }
+        }
+      ]
+    },
+    {
+      "name": "EFI",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10360263,
+      "mentions": [
+        {
+          "text": {
+            "content": "EFI",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "EFI",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "EFI",
+            "beginOffset": 1259
+          }
+        },
+        {
+          "text": {
+            "content": "EFI",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01981833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jay Jacobson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019613076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay Jacobson",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "lGBT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LGBT"
+      },
+      "salience": 0.0056974376,
+      "mentions": [
+        {
+          "text": {
+            "content": "lGBT",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilcox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051467852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilcox",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon Hastings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051467852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon Hastings",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashley Barker Tolman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051467852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashley Barker Tolman",
+            "beginOffset": 617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bianca Morrison Dillard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051467852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bianca Morrison Dillard",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Film Festival",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Film_festival"
+      },
+      "salience": 0.0042576855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Film Festival",
+            "beginOffset": 751
+          }
+        },
+        {
+          "text": {
+            "content": "Film Festival",
+            "beginOffset": 782
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

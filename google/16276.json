@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "W. Grant McMurray",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/W._Grant_McMurray"
+      },
+      "salience": 0.18072352,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Grant McMurray",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "W. Grant McMurray",
+            "beginOffset": 700
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11822818,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.11792257,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 612
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 719
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvinism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvinism"
+      },
+      "salience": 0.027821744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvinism",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_D._Russell_(historian)"
+      },
+      "salience": 0.0022163503,
+      "mentions": [
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neal Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022163503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal Chandler",
+            "beginOffset": 564
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

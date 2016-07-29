@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "name": "DC09001",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.40561506,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09001",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.15932019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.14065404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.015872348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mississippi_River"
+      },
+      "salience": 0.011648178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mississippi",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Mississippi",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.0094054518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "GEORGE D. SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0081226155,
+      "mentions": [
+        {
+          "text": {
+            "content": "GEORGE D. SMITH",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hannibal",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hannibal,_Missouri"
+      },
+      "salience": 0.0077144266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hannibal",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Hannibal",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "MarkTwain&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0077144266,
+      "mentions": [
+        {
+          "text": {
+            "content": "MarkTwain&",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "MarkTwain&",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. SMITH Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0062513454,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. SMITH  Mormon",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

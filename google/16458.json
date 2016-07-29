@@ -1,0 +1,335 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.30837083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1882
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 488
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1991
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.087206252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 780
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2088
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gripkey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033204023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gripkey",
+            "beginOffset": 1328
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014758308,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1927
+          }
+        }
+      ]
+    },
+    {
+      "name": "War and Peace SL03091",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.013067117,
+      "mentions": [
+        {
+          "text": {
+            "content": "War and Peace SL03091",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0051022717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1857
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0047449935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 819
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1136
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0034255066,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025461554,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1791
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0022725861,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 984
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0022339853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1004
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0021744058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.0021744058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1626
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Cruz,_California"
+      },
+      "salience": 0.0021744058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Cruz",
+            "beginOffset": 1699
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0021744058,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert res",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064067438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert res",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056014839,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Dennis Potter",
+            "beginOffset": 1337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056014839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

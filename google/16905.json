@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "ONESELF MCCLELLAND",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06089516,
+      "mentions": [
+        {
+          "text": {
+            "content": "ONESELF MCCLELLAND",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "PANEL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panel_painting"
+      },
+      "salience": 0.058016911,
+      "mentions": [
+        {
+          "text": {
+            "content": "PANEL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "KRISTA MCCLELLAND",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017397244,
+      "mentions": [
+        {
+          "text": {
+            "content": "KRISTA MCCLELLAND",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEREMY JACOX",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016305856,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEREMY JACOX",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "JEREMY JACOX",
+            "beginOffset": 391
+          }
+        }
+      ]
+    },
+    {
+      "name": "SEAN LOOSLI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014664433,
+      "mentions": [
+        {
+          "text": {
+            "content": "SEAN LOOSLI",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "SEAN LOOSLI",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "MADISON DUFF A",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012360192,
+      "mentions": [
+        {
+          "text": {
+            "content": "MADISON DUFF  A",
+            "beginOffset": 237
+          }
+        }
+      ]
+    },
+    {
+      "name": "MADISON DUFF",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010642873,
+      "mentions": [
+        {
+          "text": {
+            "content": "MADISON DUFF",
+            "beginOffset": 418
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

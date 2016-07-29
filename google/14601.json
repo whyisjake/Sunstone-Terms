@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.39724594,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 71
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

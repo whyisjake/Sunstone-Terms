@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "ZION",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.013631446,
+      "mentions": [
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "ZION",
+            "beginOffset": 1308
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011143131,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Campbell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Campbell"
+      },
+      "salience": 0.00542067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Campbell",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Campbell",
+            "beginOffset": 1432
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0026737903,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0024153546,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene Ingram",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002340209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene Ingram",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019676378,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "CARTER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jimmy_Carter"
+      },
+      "salience": 0.001939346,
+      "mentions": [
+        {
+          "text": {
+            "content": "CARTER",
+            "beginOffset": 942
+          }
+        }
+      ]
+    },
+    {
+      "name": "EUGENE WOODBURY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001939346,
+      "mentions": [
+        {
+          "text": {
+            "content": "EUGENE WOODBURY",
+            "beginOffset": 953
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014064285,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1638
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

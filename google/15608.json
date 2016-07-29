@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Addicted To Love",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.081763692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Addicted To Love",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Addicted To Love",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Addicted To Love",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis M. Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034051824,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Clark",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis M. Clark",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.013440571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 111
+          }
+        }
+      ]
+    },
+    {
+      "name": "On",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ontario"
+      },
+      "salience": 0.012741237,
+      "mentions": [
+        {
+          "text": {
+            "content": "On",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

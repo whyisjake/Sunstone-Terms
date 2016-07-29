@@ -1,0 +1,255 @@
+{
+  "entities": [
+    {
+      "name": "Cain and Abel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_and_Abel"
+      },
+      "salience": 0.18892437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "Cain and Abel",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 569
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 1425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Israelite",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049461722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Israelite",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Doctrine Regarding The Primordial Incarnation Of Yahweh",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029621175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Doctrine Regarding The Primordial Incarnation Of Yahweh",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.027998596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.021518173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 742
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "yahweh",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yahweh"
+      },
+      "salience": 0.019787859,
+      "mentions": [
+        {
+          "text": {
+            "content": "yahweh",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "yahweh",
+            "beginOffset": 1325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dead Sea Scrolls",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+      },
+      "salience": 0.018805604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dead Sea Scrolls",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Dead Sea Scrolls",
+            "beginOffset": 1218
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israelite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israelites"
+      },
+      "salience": 0.018495237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 1291
+          }
+        },
+        {
+          "text": {
+            "content": "Israelite",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.01159877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1080
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seth"
+      },
+      "salience": 0.0061998316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seth",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Seth",
+            "beginOffset": 689
+          }
+        },
+        {
+          "text": {
+            "content": "Seth",
+            "beginOffset": 1411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collier",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Collier_County,_Florida"
+      },
+      "salience": 0.0038431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collier",
+            "beginOffset": 829
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Virginia Bourgeous",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34989911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bourgeous",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia Bourgeous",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Burgess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0064048842,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Burgess",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Papias",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053105238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Papias",
+            "beginOffset": 310
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

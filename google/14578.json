@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "New Theory of Book of Mormon Geography A Critique of the New Theory of Book of Mormon Geography",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.1960848,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Theory of Book of Mormon Geography A Critique of the New Theory of Book of Mormon Geography",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "New Theory of Book of Mormon Geography",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_Book"
+      },
+      "salience": 0.054021571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret book",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.037457388,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 142
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

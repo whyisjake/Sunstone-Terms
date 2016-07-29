@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Mysteries Living the Questions",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.074545607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mysteries Living the Questions",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rainer Maria Rilke",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
+      },
+      "salience": 0.015597061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rainer Maria Rilke",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Rainer Maria Rilke",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heck",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hell"
+      },
+      "salience": 0.0064607249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heck",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Heck",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0063146646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lee Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050945887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Menlove",
+            "beginOffset": 568
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

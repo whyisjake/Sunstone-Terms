@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Blake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Blake"
+      },
+      "salience": 0.10171182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Blake",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon A Pseudepigraphical Approach",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.081877269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon A Pseudepigraphical Approach",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.055639364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.016050545,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 267
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.004159837,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

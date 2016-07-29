@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Wasatch Fault High Sexual Tension",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13188152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Fault High Sexual Tension",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "High Sexual Tension",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "High Sexual Tension",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wasatch Fault",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07320524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wasatch Fault",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Wasatch Fault",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.030233555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.030233555,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elsie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022272758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elsie",
+            "beginOffset": 146
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.022272758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 156
+          }
+        }
+      ]
+    },
+    {
+      "name": "British Empire",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/British_Empire"
+      },
+      "salience": 0.021117857,
+      "mentions": [
+        {
+          "text": {
+            "content": "British Empire",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States Europe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017523913,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States Europe",
+            "beginOffset": 307
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.017523913,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 332
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

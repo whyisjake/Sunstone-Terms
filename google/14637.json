@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.11329427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Changing Family Roles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10093308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Changing Family Roles",
+            "beginOffset": 25
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

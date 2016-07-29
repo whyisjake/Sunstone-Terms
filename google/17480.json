@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Ancient Metal Records",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46377784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ancient Metal Records",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13598414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael G. Reed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063071579,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Reed",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Michael G. Reed",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Nibley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037163302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh Nibley",
+            "beginOffset": 113
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

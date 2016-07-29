@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Color Blind",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Color_blindness"
+      },
+      "salience": 0.15223138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color Blind",
+            "beginOffset": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hegel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+      },
+      "salience": 0.10524642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hegel",
+            "beginOffset": 151
+          }
+        },
+        {
+          "text": {
+            "content": "Hegel",
+            "beginOffset": 349
+          }
+        },
+        {
+          "text": {
+            "content": "Hegel",
+            "beginOffset": 674
+          }
+        },
+        {
+          "text": {
+            "content": "Hegel",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "Syn-thesis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012588836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syn-thesis",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Borderlands",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Borderlands_(video_game)"
+      },
+      "salience": 0.0035590653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hegelian",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032857545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hegelian",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0031825185,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 807
+          }
+        }
+      ]
+    },
+    {
+      "name": "Osmond My",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00089522777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Osmond  My",
+            "beginOffset": 586
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

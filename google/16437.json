@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39876634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1661
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_of_Christ_(Latter_Day_Saints)"
+      },
+      "salience": 0.067048207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 756
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1867
+          }
+        },
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter day saints",
+            "beginOffset": 1415
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.022354187,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anointed SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017735446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anointed SL03091",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0077721248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0035894241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 795
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0026363307,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015206255,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1570
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001424957,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013953913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lyman_Wight"
+      },
+      "salience": 0.00060060952,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Christ",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005072949,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Anderson",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.00042033679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

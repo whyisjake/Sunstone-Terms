@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "David O. McKay",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._McKay"
+      },
+      "salience": 0.18274869,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09264 Cross",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16086535,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09264 Cross",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Symbol",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_symbolism"
+      },
+      "salience": 0.036323745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Symbol",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.033915576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.027901543,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Protestants",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042940234,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Protestants",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Reed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025915811,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Reed",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.002345976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

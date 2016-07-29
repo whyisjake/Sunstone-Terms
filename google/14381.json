@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Literature",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.095792927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ireland"
+      },
+      "salience": 0.0922058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": 161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Articles of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.073961116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Articles of Faith",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Articles of Faith",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Articles of Faith",
+            "beginOffset": 432
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thought",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thought"
+      },
+      "salience": 0.045657385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Coppertone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020321002,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coppertone",
+            "beginOffset": 262
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

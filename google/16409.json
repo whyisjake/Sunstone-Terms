@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.30327275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1778
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 504
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.097458728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 796
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1984
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025912032,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love Unconditional",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020121103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love Unconditional",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014482925,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1823
+          }
+        }
+      ]
+    },
+    {
+      "name": "Triumph of Love SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01146967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Triumph of Love SL03091",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0050067096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0046561104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 835
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0033613076,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0026112155,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1000
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024984207,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021336346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greta",
+            "beginOffset": 1648
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018165088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006038259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 1344
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlee Banks",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00054963876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlee Banks",
+            "beginOffset": 1355
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

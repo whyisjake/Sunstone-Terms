@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "True Church Education System",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058667265,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church Education System",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "True Church Education System",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "True Church Education System",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.014113982,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00440984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric",
+            "beginOffset": 550
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

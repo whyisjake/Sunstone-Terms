@@ -1,0 +1,243 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.21142799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 505
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Organized Religions And The Uses Of Power",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021353688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Organized Religions And The Uses Of Power",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016242342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 581
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Stevens",
+            "beginOffset": 665
+          }
+        },
+        {
+          "text": {
+            "content": "Stevens",
+            "beginOffset": 830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01521592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Schow",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013169304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne",
+            "beginOffset": 606
+          }
+        },
+        {
+          "text": {
+            "content": "Wayne",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010959314,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1108
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0078804791,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025618474,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho state university",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho_State_University"
+      },
+      "salience": 0.0022680548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho state university",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0019370193,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019370193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Missouri",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Missouri"
+      },
+      "salience": 0.00070541463,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Missouri",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Louis",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/St._Louis"
+      },
+      "salience": 0.00060237019,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Louis",
+            "beginOffset": 900
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

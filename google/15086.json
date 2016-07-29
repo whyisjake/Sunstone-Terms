@@ -1,0 +1,87 @@
+{
+  "entities": [
+    {
+      "name": "Divine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anglicanism"
+      },
+      "salience": 0.41095021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Divine",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human As",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071630277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human As",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Human As",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human As Well",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063717254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human As Well",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042540848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 105
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

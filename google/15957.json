@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "name": "Richard N. Ostling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03957982,
+      "mentions": [
+        {
+          "text": {
+            "content": "N. Ostling",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Richard N. Ostling",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.010447819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deng",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deng_Xiaoping"
+      },
+      "salience": 0.0032541847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deng",
+            "beginOffset": 305
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

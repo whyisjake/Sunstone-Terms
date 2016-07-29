@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Scriptures",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.13870765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13384274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women&",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Women&",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Women&",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women Be Silent The Scriptures",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.039048336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women Be Silent The Scriptures",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.032831077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 386
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women Be Silent",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.028775631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women Be Silent",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Linda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023331072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.019358516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Testament",
+            "beginOffset": 292
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

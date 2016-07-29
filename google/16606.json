@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Morin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.073522851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Morin",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.05993386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1058
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.028441614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.0050246995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.0050246995,
+      "mentions": [
+        {
+          "text": {
+            "content": "D.",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Zealand"
+      },
+      "salience": 0.0050246995,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Zealand",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050246995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050246995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad",
+            "beginOffset": 778
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

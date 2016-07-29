@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "End: My Enforced Confinement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29122525,
+      "mentions": [
+        {
+          "text": {
+            "content": "End: My Enforced Confinement",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilford Woodruff",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wilford_Woodruff"
+      },
+      "salience": 0.14876214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilford Woodruff",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff",
+            "beginOffset": 406
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "Wilford Woodruff",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "World&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029760513,
+      "mentions": [
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "World&",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "End: My Enforced",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029175464,
+      "mentions": [
+        {
+          "text": {
+            "content": "End: My Enforced",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "End: My Enforced",
+            "beginOffset": 604
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052498184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doesn&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04464414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doesn&",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.016466403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    },
+    {
+      "name": "MTC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_Training_Center"
+      },
+      "salience": 0.011145156,
+      "mentions": [
+        {
+          "text": {
+            "content": "MTC",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "MTC",
+            "beginOffset": 1069
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cruden My",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.008371708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cruden My",
+            "beginOffset": 991
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049670143,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.004046428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 681
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028605703,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1307
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

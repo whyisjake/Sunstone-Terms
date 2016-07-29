@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Laurie DiPadova",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067195155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laurie DiPadova",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Laurie DiPadova",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Rands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040483482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Rands",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Rands",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "F.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Forward_(ice_hockey)"
+      },
+      "salience": 0.013708248,
+      "mentions": [
+        {
+          "text": {
+            "content": "F.",
+            "beginOffset": 129
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hugh Stocks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010374156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh Stocks",
+            "beginOffset": 427
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

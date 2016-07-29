@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Modernism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Modernism"
+      },
+      "salience": 0.045888957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modernism",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Modernism",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Modernism",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039373231,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 369
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

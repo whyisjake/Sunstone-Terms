@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "name": "Grant McMurray",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/W._Grant_McMurray"
+      },
+      "salience": 0.42642972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grant McMurray",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "GRANT MCMURRAY",
+            "beginOffset": 1210
+          }
+        },
+        {
+          "text": {
+            "content": "Grant McMurray",
+            "beginOffset": 1717
+          }
+        }
+      ]
+    },
+    {
+      "name": "MITT ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.084794559,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 807
+          }
+        },
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 1601
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.014718792,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0088552339,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 990
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0086896643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 328
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 1757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0077717495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1844
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinckley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069118883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinckley",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restorationorthodoxy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003306105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restorationorthodoxy",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.00057761476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 1287
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

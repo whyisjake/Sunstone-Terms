@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Moynihan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Daniel_Patrick_Moynihan"
+      },
+      "salience": 0.22602835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moynihan",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denial of Death The Denial of Death",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.087695077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denial of Death The Denial of Death",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Denial of Death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02620847,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Denial of Death",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Beth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018067785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Beth",
+            "beginOffset": 190
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

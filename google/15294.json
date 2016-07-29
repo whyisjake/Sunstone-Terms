@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038701978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Revelation"
+      },
+      "salience": 0.037114225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 539
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0091315862,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "FEC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Federal_Election_Commission"
+      },
+      "salience": 0.0060323621,
+      "mentions": [
+        {
+          "text": {
+            "content": "FEC",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0057178312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phi",
+            "beginOffset": 255
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Anti-Racist",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-racism"
+      },
+      "salience": 0.042415503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anti-Racist",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.012407218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christlike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043668537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christlike",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042505451,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Smith",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042505451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darren",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035230573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darren",
+            "beginOffset": 621
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Pillars Of My Faith Pillars Of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.21859145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith Pillars Of My Faith",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Pillars Of My Faith",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0261107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lambert",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019286722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.007322045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Twain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mark_Twain"
+      },
+      "salience": 0.0060740826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Twain",
+            "beginOffset": 320
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044665169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0044586253,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 338
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

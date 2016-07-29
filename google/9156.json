@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "name": "Alice Mister Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31081623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alice Roberts",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Alice Mister Roberts",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Alice Roberts",
+            "beginOffset": 672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephanie Lauritzen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07977999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephanie Lauritzen",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Stephanie Lauritzen",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039106078,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.039106078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Butterworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Butterworth",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Lisa Butterworth",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hannah Wheelwright",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hannah Wheelwright",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Hannah Wheelwright",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lindsay Park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lindsay Park",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Lindsay Park",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emily Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily Curtis",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Emily Curtis",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Derek Staffanson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Derek Staffanson",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Derek Staffanson",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melissa Mayhew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035604797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melissa Mayhew",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Melissa Mayhew",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010373536,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nikki Matthews",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096861506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nikki Matthews",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Nikki Matthews",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.009574485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

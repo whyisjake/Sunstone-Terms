@@ -1,0 +1,265 @@
+{
+  "entities": [
+    {
+      "name": "VS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16482416,
+      "mentions": [
+        {
+          "text": {
+            "content": "VS",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.052736137,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 427
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 550
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 451
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHAPEL MORMONS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032974564,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHAPEL MORMONS",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017738588,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 728
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chapel Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010003111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 527
+          }
+        },
+        {
+          "text": {
+            "content": "Chapel Mormons",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "anti-Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anti-Mormonism"
+      },
+      "salience": 0.00942478,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "anti-Mormon",
+            "beginOffset": 1465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Internet Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078189056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Internet Mormons",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Internet",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Internet"
+      },
+      "salience": 0.0056763389,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Internet",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Web",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_Wide_Web"
+      },
+      "salience": 0.0044313208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Web",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheraton",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sheraton_Hotels_and_Resorts"
+      },
+      "salience": 0.0039741709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheraton",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032934297,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Stevens",
+            "beginOffset": 974
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jason Gallentine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032934297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jason Gallentine",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scot Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032934297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scot Denhalter",
+            "beginOffset": 1004
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Ash",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_R._Ash"
+      },
+      "salience": 0.0032934297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Ash",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristine Haglund Harris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032934297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristine Haglund Harris",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

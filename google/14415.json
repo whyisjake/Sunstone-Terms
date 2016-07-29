@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Linda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31068552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Theme of Freedom",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.14741732,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Theme of Freedom",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Theme of Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024340635,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Theme of Freedom",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Willing Captive: The Theme of Freedom",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022792347,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Willing Captive: The Theme of Freedom",
+            "beginOffset": 67
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret News",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_News"
+      },
+      "salience": 0.014263893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret News",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.01286485,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 198
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.010121197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.010121197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 335
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

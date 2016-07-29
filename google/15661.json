@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Mark Of The Curse Mark Of The Curse E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44153202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Of The Curse Mark Of The Curse E. Norman",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mark Of The Curse Keith E. Norman",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.043124456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 347
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

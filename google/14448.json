@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.092405707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unionism: A Unique Confrontation Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082190342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unionism: A Unique Confrontation Mormonism",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06015186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam",
+            "beginOffset": 352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.022972064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 161
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

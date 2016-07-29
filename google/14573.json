@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41577119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 507
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10367531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jr Abraham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033330359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jr Abraham",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.012060832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0086446907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pat",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jr",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Junior_(education)"
+      },
+      "salience": 0.0067170472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jr",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "George",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021782385,
+      "mentions": [
+        {
+          "text": {
+            "content": "George",
+            "beginOffset": 383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Lauper-Cook",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10543622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lauper-Cook",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.049097646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Lauper",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037976368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Lauper",
+            "beginOffset": 891
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

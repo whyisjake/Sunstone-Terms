@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.1252083,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1335
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 554
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 798
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1597
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Miles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075104753,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Miles",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027239746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Improvement Era",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Improvement_Era"
+      },
+      "salience": 0.0023215576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Improvement Era",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ensign",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ensign_(LDS_magazine)"
+      },
+      "salience": 0.0023215576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.0020980055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 915
+          }
+        },
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 953
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016730023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 933
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

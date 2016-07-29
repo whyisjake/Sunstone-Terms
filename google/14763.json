@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.39817438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Martin Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16110621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Martin Clark",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.064876422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Eve",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.060588449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Eve",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eve and Adam",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam_and_Eve"
+      },
+      "salience": 0.038486239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eve and Adam",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Myth Means",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035998832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myth Means",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Myth Means",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Myth Means",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.0035983215,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.003073677,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 296
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

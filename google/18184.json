@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Panel Discussion With Woman Evolving",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.027603619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Panel Discussion With Woman Evolving",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041540447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooke Swallow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033124685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooke Swallow",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Brooke Swallow",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rose Schulz-Jones",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033124685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rose Schulz-Jones",
+            "beginOffset": 338
+          }
+        },
+        {
+          "text": {
+            "content": "Rose Schulz-Jones",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crystal Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023077978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal Scott",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "Northern Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_Ireland"
+      },
+      "salience": 0.0010876314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Northern Ireland",
+            "beginOffset": 636
+          }
+        },
+        {
+          "text": {
+            "content": "Northern Ireland",
+            "beginOffset": 732
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

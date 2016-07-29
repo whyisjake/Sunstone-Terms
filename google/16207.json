@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.19787475,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 930
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1264
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michelangelo"
+      },
+      "salience": 0.024470709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michelangelo",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Michelangelo",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlton Heston",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charlton_Heston"
+      },
+      "salience": 0.00986763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlton Heston",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "Charlton Heston",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ensign",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ensign_(LDS_magazine)"
+      },
+      "salience": 0.00986763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Ensign",
+            "beginOffset": 1509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078389617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father&",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Father&",
+            "beginOffset": 1350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.003594592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 560
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "Renaissance",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Renaissance"
+      },
+      "salience": 0.0029240465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Renaissance",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0029240465,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "The First Vision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029240465,
+      "mentions": [
+        {
+          "text": {
+            "content": "The First Vision",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0024231281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monk",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Monk"
+      },
+      "salience": 0.0023882834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monk",
+            "beginOffset": 970
+          }
+        }
+      ]
+    },
+    {
+      "name": "Athens",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Athens"
+      },
+      "salience": 0.0007425365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Athens",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

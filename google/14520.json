@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism South Africa",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.29901978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism South Africa",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apartheid",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Apartheid"
+      },
+      "salience": 0.10872633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apartheid",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Apartheid",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Apartheid",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.082779028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 406
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Africa"
+      },
+      "salience": 0.039283022,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Africa",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "South Africa",
+            "beginOffset": 389
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.017331187,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 236
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017331187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mar",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_Africa"
+      },
+      "salience": 0.015081565,
+      "mentions": [
+        {
+          "text": {
+            "content": "South Africa",
+            "beginOffset": 550
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

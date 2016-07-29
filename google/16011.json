@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Benson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14674282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benson",
+            "beginOffset": 368
+          }
+        },
+        {
+          "text": {
+            "content": "Benson",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.072799094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion Mormon",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "Zion Mormon",
+            "beginOffset": 874
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1095
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion Politics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0277572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion Politics",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Savior",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0094493646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Savior",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Savior",
+            "beginOffset": 1038
+          }
+        }
+      ]
+    },
+    {
+      "name": "City of Enoch",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0089066727,
+      "mentions": [
+        {
+          "text": {
+            "content": "City of Enoch",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "City of Enoch",
+            "beginOffset": 967
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephite",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephite"
+      },
+      "salience": 0.0053169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "Nephite",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025535685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plato",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Plato"
+      },
+      "salience": 0.0024489567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plato",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Plato",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston_College"
+      },
+      "salience": 0.0020057329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston College",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newton Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00062377454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newton Utah",
+            "beginOffset": 798
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

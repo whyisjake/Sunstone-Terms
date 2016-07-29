@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "SW10002",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066889852,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10002",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angel"
+      },
+      "salience": 0.035596095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angel",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jacob",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jacob"
+      },
+      "salience": 0.027792646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039737555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vinson",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 694
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

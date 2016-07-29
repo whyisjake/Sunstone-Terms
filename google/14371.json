@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Kathy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19400595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathy",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Jehovah Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042084686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Jehovah Doctrine",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Jehovah Doctrine",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Jehovah Doctrine",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brantley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016270328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brantley",
+            "beginOffset": 219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christiansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011551815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christiansen",
+            "beginOffset": 267
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

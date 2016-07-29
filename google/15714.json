@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "name": "Utah Mayfield",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12144952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mayfield",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southern Baptists",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_Baptist_Convention"
+      },
+      "salience": 0.086746618,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southern Baptists",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Southern Baptists",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Southern Baptists",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.060203515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Goldsmith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040354963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Goldsmith",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Goldsmith",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike Gray",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040354963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike Gray",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Mike Gray",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040354963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Murphy",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Murphy",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Van Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040354963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Van Hale",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Van Hale",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.012830902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0091501437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Mayfield",
+            "beginOffset": 563
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

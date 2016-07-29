@@ -1,0 +1,331 @@
+{
+  "entities": [
+    {
+      "name": "War in Heaven",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/War_in_Heaven"
+      },
+      "salience": 0.12321443,
+      "mentions": [
+        {
+          "text": {
+            "content": "War in Heaven",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "War in Heaven",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "War",
+            "beginOffset": 447
+          }
+        },
+        {
+          "text": {
+            "content": "War in Heaven",
+            "beginOffset": 643
+          }
+        },
+        {
+          "text": {
+            "content": "War in Heaven",
+            "beginOffset": 1181
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10115",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061009225,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10115",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "One Soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036614817,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Soul",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.024624882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis 6",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0224011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis 6",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Genesis 6",
+            "beginOffset": 1245
+          }
+        }
+      ]
+    },
+    {
+      "name": "Isaiah 12",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0224011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isaiah 12",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Isaiah 12",
+            "beginOffset": 1279
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0224011,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 241
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation 12",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Woman_of_the_Apocalypse"
+      },
+      "salience": 0.019354612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation 12",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation 12",
+            "beginOffset": 1328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Moses",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Moses"
+      },
+      "salience": 0.011399124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Moses",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Moses",
+            "beginOffset": 1468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0094369687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 1389
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0047293217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.003290633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.0030341975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Satan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Satan"
+      },
+      "salience": 0.0030341975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Satan",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.002694455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine"
+      },
+      "salience": 0.0018690826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine",
+            "beginOffset": 1490
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. PETERSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069439661,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. PETERSEN",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

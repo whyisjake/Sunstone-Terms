@@ -1,0 +1,273 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.071367942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1375
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1436
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War II",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.065758325,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War II",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "World War II",
+            "beginOffset": 1465
+          }
+        },
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lost&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02506505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lost&",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Lost&",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Lost&",
+            "beginOffset": 1187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Scholarship A New",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021802753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Scholarship A New",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.014943143,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1041
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War I",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_I"
+      },
+      "salience": 0.01260151,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War I",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "World War I",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.01260151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1370
+          }
+        }
+      ]
+    },
+    {
+      "name": "Future of Mormon Scholarship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011374995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Future of Mormon Scholarship",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Future of Mormon Scholarship",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0065294872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mauss",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marcel_Mauss"
+      },
+      "salience": 0.0035624525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mauss",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Kincaid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029523256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Kincaid",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029523256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029523256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 806
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Tribune Associated Press",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018170727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tribune Associated Press",
+            "beginOffset": 373
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parthian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Parthian_Empire"
+      },
+      "salience": 0.015082082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parthian",
+            "beginOffset": 262
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.011098386,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York City",
+            "beginOffset": 457
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

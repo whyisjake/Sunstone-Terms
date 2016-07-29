@@ -1,0 +1,227 @@
+{
+  "entities": [
+    {
+      "name": "BYU Novel School",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.37978619,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Novel School",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 873
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1171
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09361 School",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.18439478,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09361 School",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Moulton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1359195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Moulton",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Moulton",
+            "beginOffset": 498
+          }
+        },
+        {
+          "text": {
+            "content": "Moulton",
+            "beginOffset": 640
+          }
+        },
+        {
+          "text": {
+            "content": "Laura Moulton",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.07036119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 702
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gulf War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gulf_War"
+      },
+      "salience": 0.0064964737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gulf War",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Gulf War",
+            "beginOffset": 1277
+          }
+        }
+      ]
+    },
+    {
+      "name": "Howard W. Hunter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Howard_W._Hunter"
+      },
+      "salience": 0.0064964737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Howard W. Hunter",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Howard W. Hunter",
+            "beginOffset": 1311
+          }
+        }
+      ]
+    },
+    {
+      "name": "Statement on Academic Freedom",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0020884781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Statement on Academic Freedom",
+            "beginOffset": 385
+          }
+        }
+      ]
+    },
+    {
+      "name": "University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University"
+      },
+      "salience": 0.0019266012,
+      "mentions": [
+        {
+          "text": {
+            "content": "University",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001886646,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Bradley",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arab",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabs"
+      },
+      "salience": 0.0015635261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arab",
+            "beginOffset": 723
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

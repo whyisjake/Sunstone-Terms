@@ -1,0 +1,409 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.044193402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 189
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 2160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family Proclamation",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.035752706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family Proclamation",
+            "beginOffset": 1351
+          }
+        },
+        {
+          "text": {
+            "content": "Family Proclamation",
+            "beginOffset": 1543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lucy Mack Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lucy_Mack_Smith"
+      },
+      "salience": 0.024339667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucy Mack Smith",
+            "beginOffset": 1650
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON DOCTRINE",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Beliefs_and_practices_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.022701126,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON DOCTRINE",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Doctrine",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith: A Gospel Reference",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01142515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith: A Gospel Reference",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "Faith: A Gospel Reference",
+            "beginOffset": 2129
+          }
+        }
+      ]
+    },
+    {
+      "name": "True",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010219073,
+      "mentions": [
+        {
+          "text": {
+            "content": "True",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "True",
+            "beginOffset": 2117
+          }
+        }
+      ]
+    },
+    {
+      "name": "A",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00762779,
+      "mentions": [
+        {
+          "text": {
+            "content": "A",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "A",
+            "beginOffset": 2301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaronic Priesthood",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Aaronic_priesthood_(Latter_Day_Saints)"
+      },
+      "salience": 0.00762779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaronic Priesthood",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Aaronic Priesthood",
+            "beginOffset": 2304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion"
+      },
+      "salience": 0.00762779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 2330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Z",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00762779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Z",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Z",
+            "beginOffset": 2327
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chesterfield Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075282226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1302
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1391
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1489
+          }
+        },
+        {
+          "text": {
+            "content": "Chesterfield Mormon",
+            "beginOffset": 1753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul With",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051609376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul With",
+            "beginOffset": 2075
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Proclamation on the Family",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0046489476,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Proclamation on the Family",
+            "beginOffset": 1097
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce R. McConkie&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034649863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce R. McConkie&",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Strength of Youth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034649863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Strength of Youth",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Handbook of Instructions",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Handbook_(LDS_Church)"
+      },
+      "salience": 0.0029798937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Handbook of Instructions",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barrington",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020734244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barrington",
+            "beginOffset": 1944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0020734244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 2043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0016846241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1441
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013488551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fielding Anderson",
+            "beginOffset": 1617
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nadine Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00053414743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nadine Hansen",
+            "beginOffset": 1636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.00053414743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 1784
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

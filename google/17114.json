@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Ethan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.074136257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ethan",
+            "beginOffset": 335
+          }
+        },
+        {
+          "text": {
+            "content": "Ethan",
+            "beginOffset": 597
+          }
+        },
+        {
+          "text": {
+            "content": "Ethan",
+            "beginOffset": 1179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.029215164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tantalus Short Play",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016633676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tantalus Short Play",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Children of Tantalus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070144939,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Children of Tantalus",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "The Children of Tantalus",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tantalus",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0063874475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tantalus",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Tantalus",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0026936347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Hite",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006288524,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Hite",
+            "beginOffset": 799
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

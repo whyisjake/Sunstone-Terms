@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "The Book of Daniel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.45043138,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Daniel",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Daniel",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.25456128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Daniel_(film)"
+      },
+      "salience": 0.021725159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": 247
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.018383866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Daniel",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014681001,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Daniel",
+            "beginOffset": 393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

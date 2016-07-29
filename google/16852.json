@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.057486251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "Handcart Disaster Two",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033290353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Handcart Disaster Two",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History Association",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_History_Association"
+      },
+      "salience": 0.026158974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History Association",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History Association",
+            "beginOffset": 1542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bagley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026003238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bagley",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Torture Devices",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Torture"
+      },
+      "salience": 0.022765234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Torture Devices",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Torture Devices",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Torture Devices",
+            "beginOffset": 1418
+          }
+        }
+      ]
+    },
+    {
+      "name": "Handcart Disaster A",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022324629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Handcart Disaster A",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Handcart Disaster A",
+            "beginOffset": 1468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Handcart Disaster",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.018643454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Handcart Disaster",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Handcart Disaster",
+            "beginOffset": 1684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle Franklin D. Richards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015400849,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle Franklin D. Richards",
+            "beginOffset": 416
+          }
+        },
+        {
+          "text": {
+            "content": "Apostle Franklin D. Richards",
+            "beginOffset": 1742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Willie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01274869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Willie",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Willie",
+            "beginOffset": 1673
+          }
+        }
+      ]
+    },
+    {
+      "name": "John A. Ahmanson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010669452,
+      "mentions": [
+        {
+          "text": {
+            "content": "John A. Ahmanson",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Danish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Denmark"
+      },
+      "salience": 0.0037017148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Danish",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lyndia Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029722422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lyndia Carter",
+            "beginOffset": 1016
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0029722422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunday Selig Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00092420337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunday Selig Tribune",
+            "beginOffset": 1280
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

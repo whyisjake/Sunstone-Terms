@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.33914044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10313: Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032709178,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10313: Church",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gay/Lesbian Journey Toward Spiritual Maturity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019279798,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gay/Lesbian Journey Toward Spiritual Maturity",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0090267379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0022842402,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 638
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "WRATHALL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018217559,
+      "mentions": [
+        {
+          "text": {
+            "content": "WRATHALL",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "D GUSTAV",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0018217559,
+      "mentions": [
+        {
+          "text": {
+            "content": "D GUSTAV",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Minnesota"
+      },
+      "salience": 0.0018217559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Minnesota",
+            "beginOffset": 678
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

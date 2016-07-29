@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.075433277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1204
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.070515506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 433
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1075
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Missionaries The Use",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023044417,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Missionaries The Use",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Missionaries",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missionary_(LDS_Church)"
+      },
+      "salience": 0.014425789,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Missionaries",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Missionaries",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospels",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel"
+      },
+      "salience": 0.0067647933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospels",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "Gospels",
+            "beginOffset": 1302
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.0067647933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 1329
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0041642766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 946
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0037159529,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 626
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 852
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.003018924,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.002645046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Church",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Stuy",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0024349024,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Stuy",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Use",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.000663182,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Use",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

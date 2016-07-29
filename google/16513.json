@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Eliminating Racial Folk",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032670889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eliminating Racial Folk",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.027982734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 77
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cain",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cain_and_Abel"
+      },
+      "salience": 0.025467774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Cain",
+            "beginOffset": 972
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ham"
+      },
+      "salience": 0.025467774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ham",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Ham",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0033589643,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0033589643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 387
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0032830099,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0026485764,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0026485764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Republican_Party"
+      },
+      "salience": 0.0025936649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adams",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "Odessa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Odessa"
+      },
+      "salience": 0.00080683507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Odessa",
+            "beginOffset": 815
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

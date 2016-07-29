@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Pius IX",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Pius_IX"
+      },
+      "salience": 0.59943712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pius IX",
+            "beginOffset": 5
+          }
+        },
+        {
+          "text": {
+            "content": "Pius IX",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Pius IX",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Development of Two Modern Churches",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.027103988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Development of Two Modern Churches",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Development of Two Modern Churches",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Development of Two Modern Churches",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brother Brigham",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020874981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Brother Brigham",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omaha Nebraska",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Omaha,_Nebraska"
+      },
+      "salience": 0.0068709236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omaha Nebraska",
+            "beginOffset": 251
+          }
+        }
+      ]
+    },
+    {
+      "name": "W.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Whig_Party_(United_States)"
+      },
+      "salience": 0.0068709236,
+      "mentions": [
+        {
+          "text": {
+            "content": "W.",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oxford England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0057007568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oxford England",
+            "beginOffset": 309
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

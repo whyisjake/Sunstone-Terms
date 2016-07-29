@@ -1,0 +1,343 @@
+{
+  "entities": [
+    {
+      "name": "Edwin B. Firmage",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34375376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edwin B. Firmage",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "B. Firmage",
+            "beginOffset": 904
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Quest For The Universal Human",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021128854,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Quest For The Universal Human",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "The One",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021128854,
+      "mentions": [
+        {
+          "text": {
+            "content": "The One",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.019221105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1099
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ephesians 2",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016607463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ephesians 2",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Ephesians 2",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ed Firmage",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013211254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ed Firmage",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Ed Firmage",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.010842928,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostle Paul&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010842928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostle Paul&",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Apostle Paul&",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roy Wilkins",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roy_Wilkins"
+      },
+      "salience": 0.0027048874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roy Wilkins",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "NAACP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/National_Association_for_the_Advancement_of_Colored_People"
+      },
+      "salience": 0.0027048874,
+      "mentions": [
+        {
+          "text": {
+            "content": "NAACP",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hubert Humphrey",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hubert_Humphrey"
+      },
+      "salience": 0.0027048874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hubert Humphrey",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.0027048874,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 415
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0025635855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 496
+          }
+        }
+      ]
+    },
+    {
+      "name": "MX",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0025635855,
+      "mentions": [
+        {
+          "text": {
+            "content": "MX",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Merton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063604361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Merton",
+            "beginOffset": 806
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jung",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carl_Jung"
+      },
+      "salience": 0.00063604361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jung",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gandhi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mahatma_Gandhi"
+      },
+      "salience": 0.00063604361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gandhi",
+            "beginOffset": 824
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dalai Lama",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dalai_Lama"
+      },
+      "salience": 0.00063604361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dalai Lama",
+            "beginOffset": 892
+          }
+        }
+      ]
+    },
+    {
+      "name": "U. Carlisle Hunsaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061907235,
+      "mentions": [
+        {
+          "text": {
+            "content": "U. Carlisle Hunsaker",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061907235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Clark",
+            "beginOffset": 938
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

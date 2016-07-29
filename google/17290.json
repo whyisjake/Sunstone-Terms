@@ -1,0 +1,541 @@
+{
+  "entities": [
+    {
+      "name": "Peter McAuslan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19110951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 984
+          }
+        },
+        {
+          "text": {
+            "content": "McAuslan",
+            "beginOffset": 1471
+          }
+        },
+        {
+          "text": {
+            "content": "Peter McAuslan",
+            "beginOffset": 2019
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leonard J. Arrington",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Leonard_J._Arrington"
+      },
+      "salience": 0.11835703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leonard J. Arrington",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Leonard Arrington",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Arrington",
+            "beginOffset": 649
+          }
+        },
+        {
+          "text": {
+            "content": "Arrington",
+            "beginOffset": 733
+          }
+        },
+        {
+          "text": {
+            "content": "Leonard J. Arrington",
+            "beginOffset": 1944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Polly Aird",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.081991374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polly Aird",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Polly Aird",
+            "beginOffset": 951
+          }
+        },
+        {
+          "text": {
+            "content": "POLLY AIRD",
+            "beginOffset": 1546
+          }
+        },
+        {
+          "text": {
+            "content": "Polly Aird",
+            "beginOffset": 1995
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scottish Immigrant",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067689247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scottish Immigrant",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Scottish Immigrant",
+            "beginOffset": 2078
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Convert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057535235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Convert",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 519
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1774
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Convert",
+            "beginOffset": 2043
+          }
+        }
+      ]
+    },
+    {
+      "name": "American West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_frontier"
+      },
+      "salience": 0.051177945,
+      "mentions": [
+        {
+          "text": {
+            "content": "American West",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 607
+          }
+        },
+        {
+          "text": {
+            "content": "American west",
+            "beginOffset": 1828
+          }
+        },
+        {
+          "text": {
+            "content": "American West",
+            "beginOffset": 2104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Life"
+      },
+      "salience": 0.018164985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 1986
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10122",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014512697,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10122",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Critic",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Critic"
+      },
+      "salience": 0.013759453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Critic",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Topping&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0092158243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Topping&",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Gary Topping&",
+            "beginOffset": 1923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0052571539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 410
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 2224
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Basin Kingdom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0052571539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Basin Kingdom",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Great Basin Kingdom",
+            "beginOffset": 2176
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Mormon History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Mormon_history"
+      },
+      "salience": 0.0028180559,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Mormon History",
+            "beginOffset": 713
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0026592161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 940
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1015
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Topping",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025196872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Topping",
+            "beginOffset": 624
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0023724691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1048
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1417
+          }
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023385102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Topping",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0021933659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1090
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018841106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 817
+          }
+        }
+      ]
+    },
+    {
+      "name": "McAuslan&#8217",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018542905,
+      "mentions": [
+        {
+          "text": {
+            "content": "McAuslan&#8217",
+            "beginOffset": 1306
+          }
+        }
+      ]
+    },
+    {
+      "name": "BENCH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0016867418,
+      "mentions": [
+        {
+          "text": {
+            "content": "BENCH",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Reformation",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_Reformation"
+      },
+      "salience": 0.00147747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Reformation",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "iPod",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/IPod"
+      },
+      "salience": 0.0014160334,
+      "mentions": [
+        {
+          "text": {
+            "content": "iPod",
+            "beginOffset": 1842
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.0012243211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 1181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_War"
+      },
+      "salience": 0.0012243211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah War",
+            "beginOffset": 1216
+          }
+        }
+      ]
+    },
+    {
+      "name": "GARY TOPPING",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00055958924,
+      "mentions": [
+        {
+          "text": {
+            "content": "GARY TOPPING",
+            "beginOffset": 1532
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

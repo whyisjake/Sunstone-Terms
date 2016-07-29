@@ -1,0 +1,315 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.092929177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 634
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 2269
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 2344
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1245
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.090313926,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 553
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1538
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1603
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 2081
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 2093
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.056524679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 2294
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 2377
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN MORMONISM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026353918,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMERICAN MORMONISM",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01532696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barlow",
+            "beginOffset": 1814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0024482766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1445
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1500
+          }
+        }
+      ]
+    },
+    {
+      "name": "all-American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/All-America"
+      },
+      "salience": 0.002143299,
+      "mentions": [
+        {
+          "text": {
+            "content": "all-American",
+            "beginOffset": 1348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.0018669463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 822
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.0018669463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 855
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018303558,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.0016577648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 1838
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.0013974401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 1313
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew Bowman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00042701926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew Bowman",
+            "beginOffset": 1822
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

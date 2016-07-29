@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "What Mormon Temples Tell",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.30282933,
+      "mentions": [
+        {
+          "text": {
+            "content": "What Mormon Temples Tell",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "What Mormon Temples Tell",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "What Mormon Temples Tell",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon People The Shape of Sacred Space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064487331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon People The Shape of Sacred Space",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred Space",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temenos"
+      },
+      "salience": 0.059340686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred Space",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Shape of Sacred Space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025209045,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Shape of Sacred Space",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021670233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon People",
+            "beginOffset": 138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0070734657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 696
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Chieko Okazaki",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chieko_N._Okazaki"
+      },
+      "salience": 0.31390646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chieko Okazaki",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Chieko Okazaki",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Chieko Okazaki",
+            "beginOffset": 837
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041477453,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 449
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Life and Work",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_Council_of_Churches"
+      },
+      "salience": 0.029766813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life and Work",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Relief Society",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011920283,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Relief Society",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "General Relief Society",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Garrard-Willis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029010794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Garrard-Willis",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029010794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arabs",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabs"
+      },
+      "salience": 0.0024043438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arabs",
+            "beginOffset": 553
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

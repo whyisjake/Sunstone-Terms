@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Medicare",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Medicare_(United_States)"
+      },
+      "salience": 0.16744335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Medicare",
+            "beginOffset": 76
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scriptures",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.093608908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hoosiers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019538989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hoosiers",
+            "beginOffset": 121
+          }
+        }
+      ]
+    },
+    {
+      "name": "ARVN",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018528236,
+      "mentions": [
+        {
+          "text": {
+            "content": "ARVN",
+            "beginOffset": 273
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

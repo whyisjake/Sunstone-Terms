@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "SL10091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024241058,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10091",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Fate of New Religious Movements",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024241058,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Fate of New Religious Movements",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shipps",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044595092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shipps",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "SHIPPS",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.0042250426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0042250426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0042250426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 454
+          }
+        }
+      ]
+    },
+    {
+      "name": "JON BUTLER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Butler"
+      },
+      "salience": 0.0038481248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butler",
+            "beginOffset": 472
+          }
+        },
+        {
+          "text": {
+            "content": "JON BUTLER",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.003746066,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 528
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 611
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.000651757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1277
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

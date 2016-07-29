@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "My Academic Disciple",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.12627873,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Academic Disciple",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "How My Academic Disciple",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.08607652,
+      "mentions": [
+        {
+          "text": {
+            "content": "How My Academic Disciple",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "How My Academic Disciple",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip Barlow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026308417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philip Barlow",
+            "beginOffset": 119
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

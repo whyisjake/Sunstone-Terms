@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "JESUS CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.13936484,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS CHRIST",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 216
+          }
+        }
+      ]
+    },
+    {
+      "name": "PRAYER Come",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.043672897,
+      "mentions": [
+        {
+          "text": {
+            "content": "PRAYER Come",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.037218962,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane M. Gardner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014717537,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Gardner",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Jane M. Gardner",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lauren Hall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014717537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lauren Hall",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Lauren Hall",
+            "beginOffset": 275
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

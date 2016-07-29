@@ -1,0 +1,287 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29830351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1805
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1914
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.084959708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 756
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2011
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014411719,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1850
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars Of My Faith SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097538065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith SL03091",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0049840007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0046350574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 795
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1112
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0033462839,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stewart Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032649969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stewart Eastman",
+            "beginOffset": 1304
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024873405,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1714
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00222011,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 960
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0021824033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0021242036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curt Bench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054724427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curt Bench",
+            "beginOffset": 1321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith N. Hamilton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054724427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith N. Hamilton",
+            "beginOffset": 1336
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donna Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054724427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donna Ritchie",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

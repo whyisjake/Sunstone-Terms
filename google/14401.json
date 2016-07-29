@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Episcopal Critic",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11397106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Episcopal Critic",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Episcopal Critic",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Episcopal Critic",
+            "beginOffset": 760
+          }
+        }
+      ]
+    },
+    {
+      "name": "Franklin Spencer Spalding",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10454686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Franklin Spencer Spalding",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Franklin Spencer Spalding",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Franklin Spencer Spalding",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.093004324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Franklin Spencer Spalding",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.063111268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 784
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.018167207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 404
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historical Society",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018167207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical Society",
+            "beginOffset": 612
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Gosselin"
+      },
+      "salience": 0.0047054025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon",
+            "beginOffset": 546
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

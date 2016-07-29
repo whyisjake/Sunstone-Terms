@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.045499977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 835
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creating Safe Spaces for Healthy Encounters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025315383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creating Safe Spaces for Healthy Encounters",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011105716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstoners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028787774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstoners",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moroni",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moroni,_Utah"
+      },
+      "salience": 0.0027438686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nephi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nephi,_Utah"
+      },
+      "salience": 0.0022783242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nephi",
+            "beginOffset": 1526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0022636263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1257
+          }
+        }
+      ]
+    },
+    {
+      "name": "&nbsp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002255887,
+      "mentions": [
+        {
+          "text": {
+            "content": "&nbsp",
+            "beginOffset": 1567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Vinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022083831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 951
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book ofMormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00059360143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book ofMormon",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.00044095307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1467
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1496
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

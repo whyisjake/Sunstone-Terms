@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.093714096,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 161
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1013
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1037
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1062
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1164
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Krasne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033060234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Krasne",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Udall",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Udall_family"
+      },
+      "salience": 0.00797068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Udall",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0039291256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030005674,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eric Samuelsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eric_Samuelsen"
+      },
+      "salience": 0.0024509532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eric Samuelsen",
+            "beginOffset": 667
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00175231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Petersen",
+            "beginOffset": 650
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

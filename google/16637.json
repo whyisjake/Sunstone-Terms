@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.57560509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "HUMOR",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Humour"
+      },
+      "salience": 0.042376854,
+      "mentions": [
+        {
+          "text": {
+            "content": "HUMOR",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015632804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint Lynn Pearson",
+            "beginOffset": 168
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

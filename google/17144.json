@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.20308606,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1236
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1408
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.1091714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 837
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1370
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1493
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Religious Landscape",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.039045259,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Religious Landscape",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "POND",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pond"
+      },
+      "salience": 0.033177339,
+      "mentions": [
+        {
+          "text": {
+            "content": "POND",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09010",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029916927,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09010",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Place",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024187088,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Place",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "US Religious Landscape",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017153794,
+      "mentions": [
+        {
+          "text": {
+            "content": "US Religious Landscape",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "US Religious Landscape",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pew Forum",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pew_Research_Center"
+      },
+      "salience": 0.012392838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pew Forum",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Pew Forum",
+            "beginOffset": 1161
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0060997503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0028164433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019624308,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1502
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

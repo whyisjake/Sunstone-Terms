@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Authority Leaning Toward Infallibility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090439938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Authority Leaning Toward Infallibility",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Authority",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.068768747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Authority",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Authority",
+            "beginOffset": 385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leaning Toward Infallibility",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01435264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leaning Toward Infallibility",
+            "beginOffset": 345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

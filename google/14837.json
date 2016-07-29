@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Catherine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4156855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catherine",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation Non-Hierarchal Revelation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14311764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation Non-Hierarchal Revelation",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul McCartney",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_McCartney"
+      },
+      "salience": 0.030444058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul McCartney",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "MTS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Theological_Studies"
+      },
+      "salience": 0.028876718,
+      "mentions": [
+        {
+          "text": {
+            "content": "MTS",
+            "beginOffset": 279
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_Divinity_School"
+      },
+      "salience": 0.020666977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Divinity School",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0088051045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 241
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Don&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076373026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don&",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Don&",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Don&",
+            "beginOffset": 451
+          }
+        }
+      ]
+    },
+    {
+      "name": "False Connection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059682708,
+      "mentions": [
+        {
+          "text": {
+            "content": "False Connection",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "False Connection",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "False Connection",
+            "beginOffset": 484
+          }
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Family"
+      },
+      "salience": 0.059682708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": 513
+          }
+        }
+      ]
+    },
+    {
+      "name": "Religion The Ties",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032250606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion The Ties",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nnamdi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017259259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nnamdi",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Google"
+      },
+      "salience": 0.017259259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Google",
+            "beginOffset": 261
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Clinton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044720853,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Clinton",
+            "beginOffset": 325
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Utah Catholic Community&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1709853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Catholic Community&",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "California Bishop&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.13892655,
+      "mentions": [
+        {
+          "text": {
+            "content": "California Bishop&",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "California Bishop&",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "California Bishop&",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proselytism The Utah Catholic Community&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.055320702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Proselytism The Utah Catholic Community&",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Proselytism  The Utah Catholic Community&",
+            "beginOffset": 188
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

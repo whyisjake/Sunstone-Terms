@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Architecture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temple_architecture_(LDS_Church)"
+      },
+      "salience": 0.060074028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Architecture",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego"
+      },
+      "salience": 0.044690162,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 505
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Tyler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031368352,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Tyler",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "James Tyler",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bobby Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017988866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bobby Rees",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Architecture Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016840186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Architecture Rees",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0026029525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 398
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

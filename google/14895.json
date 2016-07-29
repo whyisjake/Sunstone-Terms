@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11518364,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 198
+          }
+        }
+      ]
+    },
+    {
+      "name": "Turn of the Century",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.072781667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turn of the Century",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Turn of the Century",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "Turn of the Century",
+            "beginOffset": 224
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

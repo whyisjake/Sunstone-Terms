@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Paper: My Life",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.28742203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paper: My Life",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Paper: My Life",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Just Lines",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10287812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Just Lines",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paper: My Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10287812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paper: My Life",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "It&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.092783213,
+      "mentions": [
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Just Lines",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.06987536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Just Lines",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Just Lines",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.022171393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvin_and_Hobbes"
+      },
+      "salience": 0.019840565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Calvin",
+            "beginOffset": 399
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

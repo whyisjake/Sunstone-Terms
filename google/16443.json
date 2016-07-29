@@ -1,0 +1,285 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.37499389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1757
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 512
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.076618932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 804
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Memoriam: Celebration of a Joyful Soul",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.052939974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Memoriam: Celebration of a Joyful Soul",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.022564031,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1802
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanley P. Kimball SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017897064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanley P. Kimball SL03091",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0078383535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.00361912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 843
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1160
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0026579923,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019259283,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1666
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001436563,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.001406754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parkes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004237353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parkes",
+            "beginOffset": 1352
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maureen C. Ward",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004237353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maureen C. Ward",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Douglas Bowen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004237353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Douglas Bowen",
+            "beginOffset": 1377
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curt Bench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004237353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curt Bench",
+            "beginOffset": 1395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

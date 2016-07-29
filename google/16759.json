@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      "salience": 0.23197548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.12499924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 495
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.09590324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 675
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Starbird",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Starbird"
+      },
+      "salience": 0.032103892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Starbird",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Margaret Starbird",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Starbird",
+            "beginOffset": 622
+          }
+        },
+        {
+          "text": {
+            "content": "Starbird",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bride and Beloved",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025599129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bride and Beloved",
+            "beginOffset": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred Union",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025587041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred Union",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred Union",
+            "beginOffset": 313
+          }
+        },
+        {
+          "text": {
+            "content": "Sacred Union",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospels",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel"
+      },
+      "salience": 0.013425831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospels",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Fathers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_Fathers"
+      },
+      "salience": 0.010971846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Fathers",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Church Fathers",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacred Feminine",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Goddess"
+      },
+      "salience": 0.0023720041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacred Feminine",
+            "beginOffset": 530
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

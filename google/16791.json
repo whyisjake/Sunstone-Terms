@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.11187135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 378
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 471
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Wright",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lawrence_Wright"
+      },
+      "salience": 0.0046346071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lawrence Wright",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0040396759,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0018698133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tisa J. Wenger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018380642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tisa J. Wenger",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seegmiller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017893901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seegmiller",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gordon B. Hinckley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gordon_B._Hinckley"
+      },
+      "salience": 0.0015232238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gordon B. Hinckley",
+            "beginOffset": 791
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0011166276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 925
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1134
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

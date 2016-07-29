@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "Missionaries Come Home Early Missionaries",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.42787215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missionaries Come Home Early Missionaries",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ostracize",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013214335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ostracize",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Condole",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013214335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Condole",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0067749927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1397
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peterson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Peterson_Air_Force_Base"
+      },
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peterson",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thom Duncan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thom Duncan",
+            "beginOffset": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathy Tyner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathy Tyner",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gae Lyn Henderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gae Lyn Henderson",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "Louis Moench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Louis Moench",
+            "beginOffset": 790
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christopher Bigelow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014229192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher Bigelow",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00083741028,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Belgium"
+      },
+      "salience": 0.00036664848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belgium",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

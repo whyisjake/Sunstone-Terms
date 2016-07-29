@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "ANDY FERNUIK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.68107569,
+      "mentions": [
+        {
+          "text": {
+            "content": "ANDY FERNUIK",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Andy",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "ANDY FERNUIK",
+            "beginOffset": 386
+          }
+        },
+        {
+          "text": {
+            "content": "Andy",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Andy Fernuik",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Musical Performance A",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033924725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Musical Performance A",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pampa",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pampa,_Texas"
+      },
+      "salience": 0.0202829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pampa",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Pampa",
+            "beginOffset": 372
+          }
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.0202829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Texas",
+            "beginOffset": 379
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.017305478,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fernuik",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055772751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fernuik",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0041077491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 205
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 545
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catalonia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catalonia"
+      },
+      "salience": 0.0041077491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catalonia",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Catalonia",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spain"
+      },
+      "salience": 0.0041077491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 234
+          }
+        },
+        {
+          "text": {
+            "content": "Spain",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

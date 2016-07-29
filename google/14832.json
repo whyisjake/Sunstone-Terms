@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Mother Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mother_Earth"
+      },
+      "salience": 0.13370454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother Earth",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mother Earth",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father Sky Mother Earth",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11896322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father Sky Mother Earth",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father Sky",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sky_father"
+      },
+      "salience": 0.11896322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father Sky",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.082704276,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 243
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

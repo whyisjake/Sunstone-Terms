@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Mary Ann Luke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40531054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ann Luke",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Story of Excommunication",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.15861329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Story of Excommunication",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Scheid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14233591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Scheid",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Lisa",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heal",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Healing"
+      },
+      "salience": 0.0175953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heal",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beth Luke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015153496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beth Luke",
+            "beginOffset": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012958062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012285571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marion",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012101587,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074970438,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 488
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "NW10007",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0671853,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10007",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.055018522,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 649
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+      },
+      "salience": 0.0481072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnson",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.028033089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026933804,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Kesler",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Kesler",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "John Kesler",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "John Kesler",
+            "beginOffset": 920
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

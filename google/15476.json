@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "MARY LYTHGOE BRADFORD",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58289129,
+      "mentions": [
+        {
+          "text": {
+            "content": "MARY LYTHGOE BRADFORD",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "MARY LYTHGOE BRADFORD",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Lythgoe Bradford",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "MARY LYTHGOE BRADFORD",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shirley Paxman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016854918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shirley Paxman",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Shirley Paxman",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Lythgoe Bradford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050306288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Lythgoe Bradford",
+            "beginOffset": 510
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

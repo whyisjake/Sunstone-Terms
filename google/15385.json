@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Sylvester I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34601498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sylvester I",
+            "beginOffset": 37
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32197383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 293
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hot Off the Press Hot Off the Press",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.048313875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hot Off the Press Hot Off the Press",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hot Off the Press",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016941106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hot Off the Press",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona"
+      },
+      "salience": 0.0094837658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "ESL",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language"
+      },
+      "salience": 0.0024585137,
+      "mentions": [
+        {
+          "text": {
+            "content": "ESL",
+            "beginOffset": 324
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

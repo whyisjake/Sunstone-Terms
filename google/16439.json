@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1819
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 501
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1928
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.069576263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2025
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.017967533,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 200
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1864
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheik SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015918756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheik SL03091",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.014161662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natasha Rambova",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013612667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natasha Rambova",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Tale",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013612667,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Tale",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seductress",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seduction"
+      },
+      "salience": 0.013612667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seductress",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.006970705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0032182753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 832
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023635605,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Hodge",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017421057,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Hodge",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017125673,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1728
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015414982,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012508978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peggy Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00037678264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peggy Sherlock",
+            "beginOffset": 1354
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

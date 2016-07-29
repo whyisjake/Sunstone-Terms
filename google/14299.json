@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion"
+      },
+      "salience": 0.14140643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion A Jew",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12613136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion A Jew",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nomura",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nomura_Group"
+      },
+      "salience": 0.051778898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nomura",
+            "beginOffset": 194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Farrakhan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Louis_Farrakhan"
+      },
+      "salience": 0.00725151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Farrakhan",
+            "beginOffset": 247
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

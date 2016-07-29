@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Peter Appleby Mister Appleby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12167247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter Appleby Mister Appleby",
+            "beginOffset": 167
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085797086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Doctrine",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith Church Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.070894629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith Church Doctrine",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Texas",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Texas_at_Austin"
+      },
+      "salience": 0.055105295,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Texas",
+            "beginOffset": 359
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.016891612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Divinity School Church Doctrine",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013488217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Divinity School Church Doctrine",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

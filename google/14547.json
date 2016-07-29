@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Document&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.33531082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Document&",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Document&",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019776341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vance The Mormon Document&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017217681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vance The Mormon Document&",
+            "beginOffset": 427
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

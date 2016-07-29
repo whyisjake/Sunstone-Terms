@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Life and Death",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Death"
+      },
+      "salience": 0.45973143,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life and Death",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Life and Death",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Life and Death",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Existential Riddles",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.301212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Existential Riddles",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Existential Riddles",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Existential Riddles",
+            "beginOffset": 203
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poetry May",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12850276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poetry May",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Poetry  May",
+            "beginOffset": 161
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

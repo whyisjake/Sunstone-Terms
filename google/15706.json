@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.4081015,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.11845091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "It Unto Us Agency",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041910551,
+      "mentions": [
+        {
+          "text": {
+            "content": "It Unto Us Agency",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.015269203,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.014122224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard University",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sears",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sears"
+      },
+      "salience": 0.013670235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sears",
+            "beginOffset": 64
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Chicago",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Chicago"
+      },
+      "salience": 0.0088540837,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Chicago",
+            "beginOffset": 307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0081624091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stacey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081624091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stacey",
+            "beginOffset": 401
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058272593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rex Sears",
+            "beginOffset": 494
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Possibilities of Love The Possibilities of Love",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.34241089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Possibilities of Love The Possibilities of Love",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.0759022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0759022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Love"
+      },
+      "salience": 0.05771796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": 230
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

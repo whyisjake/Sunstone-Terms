@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Youngblood",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01983423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Youngblood",
+            "beginOffset": 872
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cisco",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cisco_Systems"
+      },
+      "salience": 0.0066390927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cisco",
+            "beginOffset": 1165
+          }
+        },
+        {
+          "text": {
+            "content": "Cisco",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Portuguese",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Portugal"
+      },
+      "salience": 0.0023993948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Portuguese",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Cougars_football"
+      },
+      "salience": 0.0023993948,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1045
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "salience": 0.00074611651,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Washington",
+            "beginOffset": 1086
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oslo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oslo"
+      },
+      "salience": 0.00074611651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oslo",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

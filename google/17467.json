@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.041908633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 745
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1328
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1166
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Strange Design Of Mormon Chapels Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025639126,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Strange Design Of Mormon Chapels Mormon",
+            "beginOffset": 30
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Steeple",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022953857,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Steeple",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.022942958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 197
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taysom Texas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013780219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taysom Texas",
+            "beginOffset": 794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0094648711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 1476
+          }
+        }
+      ]
+    },
+    {
+      "name": "LA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Louisiana"
+      },
+      "salience": 0.0017510736,
+      "mentions": [
+        {
+          "text": {
+            "content": "LA",
+            "beginOffset": 857
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

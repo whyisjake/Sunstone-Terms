@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.083199434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 973
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1443
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 990
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.021030148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 875
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015722413,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 1431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Higher Education",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010993503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Higher Education",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Higher Education",
+            "beginOffset": 1454
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walter Lippmann",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Walter_Lippmann"
+      },
+      "salience": 0.0024094558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walter Lippmann",
+            "beginOffset": 664
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0016204924,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Utah",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0016204924,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Valley State College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Valley_University"
+      },
+      "salience": 0.0016204924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Valley State College",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0013545477,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048818672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Smith",
+            "beginOffset": 1260
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

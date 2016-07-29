@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "name": "The Rise",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41102469,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Rise",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.21518108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 322
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 871
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.033727225,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 295
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 962
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1062
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_(band)"
+      },
+      "salience": 0.024680629,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 630
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maverick Mormons&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022572244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maverick Mormons&",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Maverick Mormons&",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Remnant&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016080039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Remnant&",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Remnant&",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilderness&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016080039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilderness&",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "Wilderness&",
+            "beginOffset": 885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restorationists&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082369512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restorationists&",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Restorationists&",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0036570621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 457
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rock Waterman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029007946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock Waterman",
+            "beginOffset": 729
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

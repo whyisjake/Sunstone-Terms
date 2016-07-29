@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Toby Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10796013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toby Pingree",
+            "beginOffset": 224
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin MBA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012685053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin MBA",
+            "beginOffset": 410
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.0026938245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0026938245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 466
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.086187743,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 675
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1067
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.016513066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Blair Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Blair_Young"
+      },
+      "salience": 0.0065433709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Blair Young",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065433709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Carter",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0060948161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intel"
+      },
+      "salience": 0.0019619544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intel",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeni Grossman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018077716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeni Grossman",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lynn R. Lehmann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018077716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lynn R. Lehmann",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Langford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018077716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonathan Langford",
+            "beginOffset": 615
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

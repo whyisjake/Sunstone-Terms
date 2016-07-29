@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.42275873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1699
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 479
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1808
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.078847356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 771
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1905
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.0232278,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1744
+          }
+        }
+      ]
+    },
+    {
+      "name": "Man Play: The Preposterous Parley P.! SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015755987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man Play: The Preposterous Parley P.! SL03091",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0080696456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0037260063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 810
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0027365086,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duncan SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021522352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duncan",
+            "beginOffset": 1319
+          }
+        },
+        {
+          "text": {
+            "content": "Duncan SL03091",
+            "beginOffset": 1601
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0016933564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1508
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0014790094,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00144832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 995
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marvin Payne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00046724829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marvin Payne",
+            "beginOffset": 1330
+          }
+        },
+        {
+          "text": {
+            "content": "Marvin",
+            "beginOffset": 1411
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.067052081,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1160
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012751144,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 931
+          }
+        }
+      ]
+    },
+    {
+      "name": "V. Rorty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033664128,
+      "mentions": [
+        {
+          "text": {
+            "content": "V. Rorty",
+            "beginOffset": 459
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

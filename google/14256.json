@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12821482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053317674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 618
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

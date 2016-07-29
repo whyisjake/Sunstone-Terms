@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "name": "Roman Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.11604505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Catholic Church",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic Church",
+            "beginOffset": 1979
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Catholics",
+            "beginOffset": 2037
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_John_Paul_II"
+      },
+      "salience": 0.051681805,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Paul",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "John Paul",
+            "beginOffset": 2007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Churches Seek Forgiveness Should Churches Seek Forgiveness Within",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025968878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Churches Seek Forgiveness Should Churches Seek Forgiveness Within",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southern Baptists",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_Baptist_Convention"
+      },
+      "salience": 0.013088304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southern Baptists",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0065028635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 2065
+          }
+        }
+      ]
+    },
+    {
+      "name": "African Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0065028635,
+      "mentions": [
+        {
+          "text": {
+            "content": "African Americans",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "African Americans",
+            "beginOffset": 2071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Should Churches Seek Forgiveness Within",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0027109722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Should Churches Seek Forgiveness Within",
+            "beginOffset": 1747
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.0025010356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japan",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "UC Santa Cruz",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz"
+      },
+      "salience": 0.0020700786,
+      "mentions": [
+        {
+          "text": {
+            "content": "UC Santa Cruz",
+            "beginOffset": 1672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Australian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Australia"
+      },
+      "salience": 0.0019908869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Australian",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.0019908869,
+      "mentions": [
+        {
+          "text": {
+            "content": "China",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018905754,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverend",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Reverend"
+      },
+      "salience": 0.0018372376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reverend",
+            "beginOffset": 1259
+          }
+        },
+        {
+          "text": {
+            "content": "Reverend",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rodger Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014649788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rodger Russell",
+            "beginOffset": 1299
+          }
+        }
+      ]
+    },
+    {
+      "name": "Owen Cummings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014649788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owen Cummings",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Tanner Irish",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014649788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carolyn Tanner Irish",
+            "beginOffset": 1268
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010574954,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 2142
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Cruz,_California"
+      },
+      "salience": 0.00053336809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Cruz",
+            "beginOffset": 1442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

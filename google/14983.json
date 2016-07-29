@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Craig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35783222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Craig",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plural Wives",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10772758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plural Wives",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Plural Wives",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Marriage Market Plural Wives",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.075633869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Marriage Market Plural Wives",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Marriage Market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051518697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Marriage Market",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Marriage Market",
+            "beginOffset": 448
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0038697829,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 350
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

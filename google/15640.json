@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "It&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036717467,
+      "mentions": [
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "It&",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wonderful Life&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036717467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wonderful Life&",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Wonderful Life&",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Wonderful Life&",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hicks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hicks"
+      },
+      "salience": 0.0101155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hicks",
+            "beginOffset": 194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Schindler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0081952289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schindler",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Don Prter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080721322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Don Prter",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Don Prter",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeri Parker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080721322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeri Parker",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Jeri Parker",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Hicks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005846804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Hicks",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gandhi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gandhi_(film)"
+      },
+      "salience": 0.0021178296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gandhi",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Robert A. Goldberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023540506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Goldberg",
+            "beginOffset": 723
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Perspective A. Goldberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022037895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Perspective A. Goldberg",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tommaso",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013160694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tommaso",
+            "beginOffset": 596
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dean May",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012963509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dean May",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Dean May",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholicism"
+      },
+      "salience": 0.0034074429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic",
+            "beginOffset": 574
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Psychic Spy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11171562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Psychic Spy",
+            "beginOffset": 17
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.094475277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Smith",
+            "beginOffset": 403
+          }
+        },
+        {
+          "text": {
+            "content": "Paul Smith",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Gospel Confessions Of A Mormon Psychic Spy",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040672746,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Gospel Confessions Of A Mormon Psychic Spy",
+            "beginOffset": 103
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pentagon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Department_of_Defense"
+      },
+      "salience": 0.034182515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pentagon",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029968062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Smith",
+            "beginOffset": 221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Confessions Of A Mormon Psychic Spy",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.028414806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Confessions Of A Mormon Psychic Spy",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.02173825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 527
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

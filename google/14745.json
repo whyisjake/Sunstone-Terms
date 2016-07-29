@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Common",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Common_(rapper)"
+      },
+      "salience": 0.468359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Common",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Common",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Common",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism The Transformation",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.14056107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism The Transformation",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Official Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.043946087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Official Bible",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Official Bible",
+            "beginOffset": 164
+          }
+        },
+        {
+          "text": {
+            "content": "Official Bible",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "King James Version",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/King_James_Version"
+      },
+      "salience": 0.038602393,
+      "mentions": [
+        {
+          "text": {
+            "content": "King James Version",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "King James Version",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "King James Version",
+            "beginOffset": 495
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philip The Transformation",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.016682593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philip The Transformation",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.014061384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Rochester",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Rochester"
+      },
+      "salience": 0.010606105,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Rochester",
+            "beginOffset": 345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

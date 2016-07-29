@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Gospel Topics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026805576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Topics",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Topics",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Gospel Topics",
+            "beginOffset": 695
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS.org",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018307023,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS.org",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "LDS.org",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "LDS.org",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.018238418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Howlett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028346945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Howlett",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028346945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas Kimball",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cheryl Mcguire",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028346945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheryl Mcguire",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020207197,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Taysom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000881809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Taysom",
+            "beginOffset": 604
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

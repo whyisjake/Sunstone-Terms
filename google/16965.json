@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.020157622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 644
+          }
+        }
+      ]
+    },
+    {
+      "name": "REPARATIONISTS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017809758,
+      "mentions": [
+        {
+          "text": {
+            "content": "REPARATIONISTS",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "REPARATIONISTS",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "REPARATIONISTS",
+            "beginOffset": 1509
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. WENGER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015195136,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. WENGER",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    },
+    {
+      "name": "I&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058487561,
+      "mentions": [
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 375
+          }
+        },
+        {
+          "text": {
+            "content": "I&",
+            "beginOffset": 1796
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.005468973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 473
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mountain Meadows Massacre",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mountain_Meadows_massacre"
+      },
+      "salience": 0.0016867032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mountain Meadows Massacre",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "KAIMI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013687304,
+      "mentions": [
+        {
+          "text": {
+            "content": "KAIMI",
+            "beginOffset": 1047
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAUL TINKER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013687304,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL TINKER",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mr."
+      },
+      "salience": 0.00033865543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister",
+            "beginOffset": 1291
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

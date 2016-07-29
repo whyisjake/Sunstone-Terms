@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.020049734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "Munich",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Munich"
+      },
+      "salience": 0.020049734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Munich",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maryland"
+      },
+      "salience": 0.020049734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maryland",
+            "beginOffset": 134
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mideast",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.014000962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mideast",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.011617034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0085447291,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 517
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arabic",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arabic"
+      },
+      "salience": 0.0036270488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arabic",
+            "beginOffset": 372
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

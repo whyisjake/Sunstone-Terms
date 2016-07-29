@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "My Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031038463,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "African-American Experience Pillars of My Faith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031038463,
+      "mentions": [
+        {
+          "text": {
+            "content": "African-American Experience Pillars of My Faith",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016609313,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 142
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "African-American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.012449342,
+      "mentions": [
+        {
+          "text": {
+            "content": "African-American",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "African-American",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mike",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002899358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mike",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amedee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002711314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amedee",
+            "beginOffset": 494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terri Bishop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002711314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terri Bishop",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donna Samaroo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002711314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donna Samaroo",
+            "beginOffset": 516
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.0026395509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars of My Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00091547624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars of My Faith",
+            "beginOffset": 826
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

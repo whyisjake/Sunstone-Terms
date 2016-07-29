@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Financial Scams Mormon Financial",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.30760697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Financial Scams Mormon Financial",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.02977821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gucci",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gucci"
+      },
+      "salience": 0.01795987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gucci",
+            "beginOffset": 300
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rolex",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rolex"
+      },
+      "salience": 0.0056168777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rolex",
+            "beginOffset": 333
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

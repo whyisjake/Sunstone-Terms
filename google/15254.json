@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Luke",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Luke"
+      },
+      "salience": 0.052376989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luke",
+            "beginOffset": 69
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.029651258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 246
+          }
+        }
+      ]
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_of_Matthew"
+      },
+      "salience": 0.01343929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthew",
+            "beginOffset": 185
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

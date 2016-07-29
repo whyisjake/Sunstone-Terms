@@ -1,0 +1,461 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.2324727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 912
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1601
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18619508,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 714
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1694
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.15554811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 726
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 1706
+          }
+        },
+        {
+          "text": {
+            "content": "Army",
+            "beginOffset": 1752
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Big Screen",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019521471,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Big Screen",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "The Big Screen",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "The Big Screen",
+            "beginOffset": 1614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Motion Picture Success",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019521471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Motion Picture Success",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Motion Picture Success",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Motion Picture Success",
+            "beginOffset": 1670
+          }
+        }
+      ]
+    },
+    {
+      "name": "What To Make Of Richard Dutcher&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017905207,
+      "mentions": [
+        {
+          "text": {
+            "content": "What To Make Of Richard Dutcher&",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "What To Make Of Richard Dutcher&",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "What To Make Of Richard Dutcher&",
+            "beginOffset": 1630
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.010236382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1811
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.010236382,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1920
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.0065855542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0060319109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 566
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 878
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 896
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0053982409,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 682
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 696
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "Romans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ancient_Rome"
+      },
+      "salience": 0.0044040265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Romans",
+            "beginOffset": 1327
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dutcher",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Dutcher"
+      },
+      "salience": 0.0034841713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dutcher",
+            "beginOffset": 1158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.0033442893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saturday&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030708571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saturday&",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warrior",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warrior"
+      },
+      "salience": 0.0030708571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warrior",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geoff Pingree",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024389271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Geoff Pingree",
+            "beginOffset": 1116
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barbara Bannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024389271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barbara Bannon",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tim Solver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024389271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tim Solver",
+            "beginOffset": 1147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.00075823144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marriott",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Marriott_International"
+      },
+      "salience": 0.00075823144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marriott",
+            "beginOffset": 1278
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

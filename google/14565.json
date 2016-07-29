@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Peace Movement",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11442701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peace Movement",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Peace Movement",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons The Peace Movement",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.087163806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons The Peace Movement",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Argentina"
+      },
+      "salience": 0.01999661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Argentina",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hallelujah",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hallelujah_(Leonard_Cohen_song)"
+      },
+      "salience": 0.01999661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hallelujah",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spanish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spanish_language"
+      },
+      "salience": 0.016594408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spanish",
+            "beginOffset": 235
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pennsylvania"
+      },
+      "salience": 0.0051837992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pennsylvania",
+            "beginOffset": 295
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

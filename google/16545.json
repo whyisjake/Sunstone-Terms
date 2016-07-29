@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Pelagianism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pelagianism"
+      },
+      "salience": 0.0079492535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pelagianism",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Pelagianism",
+            "beginOffset": 1319
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arminianism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arminianism"
+      },
+      "salience": 0.0079492535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arminianism",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Arminianism",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvinism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvinism"
+      },
+      "salience": 0.0079492535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvinism",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Calvinism",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069081918,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 893
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis",
+            "beginOffset": 1231
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013832557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hansen",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012295225,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 668
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 727
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

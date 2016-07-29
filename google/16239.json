@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.10920701,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 593
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Vision"
+      },
+      "salience": 0.043393429,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 467
+          }
+        },
+        {
+          "text": {
+            "content": "First Vision",
+            "beginOffset": 1102
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Vision Accounts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030628746,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Vision Accounts",
+            "beginOffset": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012301095,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 564
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010944194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 206
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 908
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0079485569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism&",
+            "beginOffset": 1403
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0024776596,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1439
+          }
+        }
+      ]
+    },
+    {
+      "name": "John P. Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023977505,
+      "mentions": [
+        {
+          "text": {
+            "content": "John P. Hatch",
+            "beginOffset": 600
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0019871017,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 801
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neil Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061792508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neil Lambert",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Krakoff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00061792508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Krakoff",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

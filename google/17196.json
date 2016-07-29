@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "name": "John Hyrum Koyle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.55962378,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hyrum Koyle",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 498
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 647
+          }
+        },
+        {
+          "text": {
+            "content": "John Hyrum Koyle",
+            "beginOffset": 1500
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 1580
+          }
+        },
+        {
+          "text": {
+            "content": "Koyle",
+            "beginOffset": 1787
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dream Mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.084183507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream Mine",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Dream Mine",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Dream Mine",
+            "beginOffset": 826
+          }
+        },
+        {
+          "text": {
+            "content": "Dream Mine",
+            "beginOffset": 1535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.045957081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 318
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.035704367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1714
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1012
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moroni",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Angel_Moroni"
+      },
+      "salience": 0.030170115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 1666
+          }
+        },
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 361
+          }
+        },
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 486
+          }
+        },
+        {
+          "text": {
+            "content": "Moroni",
+            "beginOffset": 1772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith: Taking Stock",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.015163824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith: Taking Stock",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah County",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_County,_Utah"
+      },
+      "salience": 0.015163824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah County",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0086878715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dream Mine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020477385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream Mine",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "Second Coming",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Second_Coming"
+      },
+      "salience": 0.0018146185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Coming",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0018146185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0016841113,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cantera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00032242152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cantera",
+            "beginOffset": 1314
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

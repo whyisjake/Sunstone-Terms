@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Easter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Easter"
+      },
+      "salience": 0.082360916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Easter",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce W",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06426882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce W",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "Bruce W",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Bruce W",
+            "beginOffset": 816
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

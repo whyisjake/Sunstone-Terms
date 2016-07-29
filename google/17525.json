@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "Samuel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10529258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samuel",
+            "beginOffset": 278
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel",
+            "beginOffset": 438
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel",
+            "beginOffset": 1515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Occupy movement",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Occupy_movement"
+      },
+      "salience": 0.1006986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Occupy",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "Occupy",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Occupy movement",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Occupy",
+            "beginOffset": 1258
+          }
+        },
+        {
+          "text": {
+            "content": "Occupy",
+            "beginOffset": 1376
+          }
+        },
+        {
+          "text": {
+            "content": "Occupy",
+            "beginOffset": 1447
+          }
+        }
+      ]
+    },
+    {
+      "name": "OCCUPY ZARAHEMLA The Occupy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044833168,
+      "mentions": [
+        {
+          "text": {
+            "content": "OCCUPY ZARAHEMLA The Occupy",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wall_Street"
+      },
+      "salience": 0.0251692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wall Street",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Wall Street",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "Wall Street",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zarahemla",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010378945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zarahemla",
+            "beginOffset": 340
+          }
+        },
+        {
+          "text": {
+            "content": "Zarahemla",
+            "beginOffset": 1577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ryan_Madson"
+      },
+      "salience": 0.0032780508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madson",
+            "beginOffset": 647
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Madson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032780508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron Madson",
+            "beginOffset": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tristan Call",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027996418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tristan Call",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sue Spencer Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027996418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sue Spencer Cannon",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warner Woodworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027996418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warner Woodworth",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0027996418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "Primat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00072143949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Primat",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

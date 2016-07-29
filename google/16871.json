@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Jones",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kenwyne_Jones"
+      },
+      "salience": 0.0024432736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jones",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017706446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010775658,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.00045624186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 980
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

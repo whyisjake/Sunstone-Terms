@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Steven Fales",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Steven_Fales"
+      },
+      "salience": 0.14878678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven Fales",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Steven Fales",
+            "beginOffset": 1322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anthony Peter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063383386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anthony Peter",
+            "beginOffset": 762
+          }
+        },
+        {
+          "text": {
+            "content": "Peter",
+            "beginOffset": 1111
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eagle Scout",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America)"
+      },
+      "salience": 0.011613288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eagle Scout",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Eagle Scout",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "Eagle Scout",
+            "beginOffset": 1180
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.0068220207,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 1307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023670839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warman",
+            "beginOffset": 703
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Church"
+      },
+      "salience": 0.0021250304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 429
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bruce Bastian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020215497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruce Bastian",
+            "beginOffset": 684
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

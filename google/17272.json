@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "David O. McKay",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_O._McKay"
+      },
+      "salience": 0.12136745,
+      "mentions": [
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "David O. McKay",
+            "beginOffset": 1209
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.027389813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1243
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10011",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022512583,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10011",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book Preview: Banishing the Cross: The Emergence",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022512583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book Preview: Banishing the Cross: The Emergence",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Reed&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01177991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Reed&",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Reed&",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Reed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036425279,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Reed",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0035570937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026368843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0026368843,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 491
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

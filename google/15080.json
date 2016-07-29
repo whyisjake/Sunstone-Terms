@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "name": "Emily Dickinson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emily_Dickinson"
+      },
+      "salience": 0.0053228284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily Dickinson",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emerson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+      },
+      "salience": 0.0022590074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emerson",
+            "beginOffset": 386
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

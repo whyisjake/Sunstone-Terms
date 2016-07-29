@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06414248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.04599303,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 168
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.018863689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Myth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018253462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myth",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013238728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larry",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marvin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034255267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marvin",
+            "beginOffset": 436
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Generation X",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Generation_X"
+      },
+      "salience": 0.2463354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Generation X",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Gen Xers",
+            "beginOffset": 594
+          }
+        },
+        {
+          "text": {
+            "content": "Generation X",
+            "beginOffset": 1011
+          }
+        },
+        {
+          "text": {
+            "content": "Generation X",
+            "beginOffset": 1213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith Development Among Generation X",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041241229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith Development Among Generation X",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "James W. Fowler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/James_W._Fowler"
+      },
+      "salience": 0.039402377,
+      "mentions": [
+        {
+          "text": {
+            "content": "James W. Fowler",
+            "beginOffset": 944
+          }
+        },
+        {
+          "text": {
+            "content": "James W. Fowler",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

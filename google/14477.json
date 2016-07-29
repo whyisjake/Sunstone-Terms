@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Melbourne",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Melbourne"
+      },
+      "salience": 0.012637485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melbourne",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.012637485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Beltola",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010484778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beltola",
+            "beginOffset": 278
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

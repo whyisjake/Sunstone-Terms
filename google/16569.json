@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "MORMON INTELLECTUALISM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047043994,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON INTELLECTUALISM",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cragun leann",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099662831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cragun leann",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0046398626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0040986454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020557665,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1448
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

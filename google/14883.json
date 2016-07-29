@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "sunstone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1181949,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunstone",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fifty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10951767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fifty",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022563886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary Hart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015763056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary Hart",
+            "beginOffset": 464
+          }
+        },
+        {
+          "text": {
+            "content": "Gary",
+            "beginOffset": 499
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

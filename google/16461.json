@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.33643019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1676
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 493
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12186836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 785
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1882
+          }
+        }
+      ]
+    },
+    {
+      "name": "Memoriam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025303613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Memoriam",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.018220779,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1721
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dean May",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01233368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dean May",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063032662,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0063032662,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1651
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0058620255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 824
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0042322767,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023269814,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0022874556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Porter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069220219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Porter",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judi Dushku",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069220219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judi Dushku",
+            "beginOffset": 1341
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colleen McDannell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069220219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colleen McDannell",
+            "beginOffset": 1357
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

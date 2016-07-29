@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Creativity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Creativity"
+      },
+      "salience": 0.10650478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creativity",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Creativity",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Creativity",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10650478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.070483662,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 224
+          }
+        }
+      ]
+    },
+    {
+      "name": "James McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032378886,
+      "mentions": [
+        {
+          "text": {
+            "content": "James McLachlan",
+            "beginOffset": 272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thought McLachlan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017666375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thought McLachlan",
+            "beginOffset": 154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013018426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock",
+            "beginOffset": 289
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Sherlock Person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061967429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Sherlock  Person",
+            "beginOffset": 173
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

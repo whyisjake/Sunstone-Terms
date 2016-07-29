@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Neo-Orthodoxy",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Neo-orthodoxy"
+      },
+      "salience": 0.21884637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neo-Orthodoxy",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Neo-Othdodoxy A Response",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078869455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Neo-Othdodoxy A Response",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Neo-Orthodoxy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031117989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Neo-Orthodoxy",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake Oscar Blake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018283382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake Oscar Blake",
+            "beginOffset": 369
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Real_Salt_Lake"
+      },
+      "salience": 0.0095598958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake",
+            "beginOffset": 415
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

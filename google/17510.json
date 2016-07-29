@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "Max",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Autodesk_3ds_Max"
+      },
+      "salience": 0.27355355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": 578
+          }
+        },
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": 869
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. GOLDEN KIMBALL",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._Golden_Kimball"
+      },
+      "salience": 0.24962504,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. GOLDEN KIMBALL",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "J. Golden Kimball",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "J. Golden Kimball",
+            "beginOffset": 731
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Golden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.094600521,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Golden",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "J. Golden",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.029724617,
+      "mentions": [
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Council of the Seventy",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seventy_(LDS_Church)"
+      },
+      "salience": 0.017730843,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Council of the Seventy",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "First Council of the Seventy",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015296678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fielding Anderson",
+            "beginOffset": 675
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0011162828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 661
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

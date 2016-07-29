@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Terry D. Kester Terry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055521738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terry D. Kester",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Terry D. Kester Terry",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "D. Kester",
+            "beginOffset": 710
+          }
+        },
+        {
+          "text": {
+            "content": "Terry D. Kester Terry",
+            "beginOffset": 1208
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.03549831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 658
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apostasy&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009146261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apostasy&",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Apostasy&",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Apostasy&",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0023413966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 381
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00091591472,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1460
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

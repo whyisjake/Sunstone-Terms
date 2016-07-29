@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Borderlands Honesty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051254906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands Honesty",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Burton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.048519373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Burton",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016863901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan Wotherspoon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047718841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan Wotherspoon",
+            "beginOffset": 491
+          }
+        },
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "FFL",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032728005,
+      "mentions": [
+        {
+          "text": {
+            "content": "FFL",
+            "beginOffset": 731
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

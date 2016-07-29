@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "One Artist&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014914579,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Artist&",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10018",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01275556,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10018",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hernandez nnj",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030682338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hernandez nnj",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0015668769,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0015668769,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0014453881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 755
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

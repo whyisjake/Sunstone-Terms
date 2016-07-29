@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Literature Flannery O&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.23895581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flannery O&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature Flannery O&",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Literature  Flannery O&",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connor&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16066432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connor&",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Connor&",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Connor&",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Literature",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.033997621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Literature",
+            "beginOffset": 199
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

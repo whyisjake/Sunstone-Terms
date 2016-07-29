@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "The Problem of Cognitive Meaning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29821438,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Problem of Cognitive Meaning",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "The Problem of Cognitive Meaning",
+            "beginOffset": 440
+          }
+        }
+      ]
+    },
+    {
+      "name": "Problem of Cognitive Meaning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28858924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Problem of Cognitive Meaning",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theological Discourse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028542031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theological Discourse",
+            "beginOffset": 94
+          }
+        }
+      ]
+    },
+    {
+      "name": "Baron",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Baron"
+      },
+      "salience": 0.021887695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baron",
+            "beginOffset": 135
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

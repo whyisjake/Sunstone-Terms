@@ -1,0 +1,257 @@
+{
+  "entities": [
+    {
+      "name": "IRAQ",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.08402171,
+      "mentions": [
+        {
+          "text": {
+            "content": "IRAQ",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "IRAQ",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 327
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 705
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 1188
+          }
+        },
+        {
+          "text": {
+            "content": "IRAQ",
+            "beginOffset": 1279
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 1478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.066214643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1395
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00756915,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030264659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Mormons",
+            "beginOffset": 668
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0019348328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Valley"
+      },
+      "salience": 0.0018337474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Valley",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Euphrates",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Euphrates"
+      },
+      "salience": 0.0018337474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Euphrates",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETERSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017516526,
+      "mentions": [
+        {
+          "text": {
+            "content": "PETERSON",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT A. REES",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_A._Rees"
+      },
+      "salience": 0.0013943795,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT A. REES",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "FRANCES LEE MENLOVE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013943795,
+      "mentions": [
+        {
+          "text": {
+            "content": "FRANCES LEE MENLOVE",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRENT RUSHFORTH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013943795,
+      "mentions": [
+        {
+          "text": {
+            "content": "BRENT RUSHFORTH",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001006628,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1552
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00068451616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1143
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

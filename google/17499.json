@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "Javen Tanner&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25660855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Javen Tanner&",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Javen Tanner&",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tyler Chadwick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.086275488,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chadwick",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Tyler Chadwick",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gavin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027810106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gavin",
+            "beginOffset": 329
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.023081379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 207
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

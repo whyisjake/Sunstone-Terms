@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Robert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30390731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modern Tradition Contemplative Christianity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1532861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Tradition Contemplative Christianity",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modern Tradition Tom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030363476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Tradition Tom",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sir"
+      },
+      "salience": 0.021258334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman Catholic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.021258334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Catholic",
+            "beginOffset": 369
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

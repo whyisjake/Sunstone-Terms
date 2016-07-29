@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Theologically About Mental Illness Mental",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.04519812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theologically About Mental Illness Mental",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016992858,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taylor Mental",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0044229813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taylor  Mental",
+            "beginOffset": 542
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

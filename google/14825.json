@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.063400194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Jane Males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018292485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Jane Males",
+            "beginOffset": 471
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

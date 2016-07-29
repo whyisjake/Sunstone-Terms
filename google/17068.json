@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Ecclesia Mortis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.095250547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ecclesia Mortis",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Ecclesia Mortis",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Ecclesia Mortis",
+            "beginOffset": 988
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0053186179,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laga",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036766545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laga",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jody England Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036766545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jody England Hansen",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011432851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenberg",
+            "beginOffset": 878
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011432851,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 901
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0011432851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 952
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

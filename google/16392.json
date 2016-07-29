@@ -1,0 +1,357 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.28157169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1953
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2062
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.080155075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2159
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Virginia"
+      },
+      "salience": 0.025179949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 1397
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 1554
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 1732
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 1812
+          }
+        },
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 1841
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.013402554,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1998
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010613714,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thor_(film)"
+      },
+      "salience": 0.005990671,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thor",
+            "beginOffset": 1759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0046327305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1928
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0043995031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 814
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia Virginia",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034788954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia Virginia",
+            "beginOffset": 1686
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0031447723,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023750695,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.002107061,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0020767611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 999
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shari Thornock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019681712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shari Thornock",
+            "beginOffset": 1333
+          }
+        }
+      ]
+    },
+    {
+      "name": "MSW",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00187133,
+      "mentions": [
+        {
+          "text": {
+            "content": "MSW",
+            "beginOffset": 1783
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glen Lambert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016807629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glen Lambert",
+            "beginOffset": 1349
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marybeth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016807629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marybeth Raynes",
+            "beginOffset": 1363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Campbell_Soup_Company"
+      },
+      "salience": 0.0013023078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Campbell",
+            "beginOffset": 1323
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

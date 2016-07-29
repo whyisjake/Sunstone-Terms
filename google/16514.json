@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Phyllis Barber",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068189643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phyllis Barber",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.008396999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barber",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barber"
+      },
+      "salience": 0.0075859246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barber",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0019556903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 903
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

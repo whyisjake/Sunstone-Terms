@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Carol",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.085608937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love and Death",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Love_and_Death"
+      },
+      "salience": 0.072876655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love and Death",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love and Death California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015182838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love and Death California",
+            "beginOffset": 99
+          }
+        }
+      ]
+    },
+    {
+      "name": "Love and Death",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011498223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love and Death",
+            "beginOffset": 394
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

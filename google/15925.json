@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "CHURCH AND STATE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Separation_of_church_and_state"
+      },
+      "salience": 0.10126666,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHURCH AND STATE",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "CHURCH AND STATE",
+            "beginOffset": 486
+          }
+        }
+      ]
+    },
+    {
+      "name": "UTAH CHURCH AND STATE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0721092,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH CHURCH AND STATE",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "UTAH John J. Flynn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067034975,
+      "mentions": [
+        {
+          "text": {
+            "content": "UTAH J. Flynn",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "UTAH John J. Flynn",
+            "beginOffset": 506
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rod Decker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040458493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rod Decker",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Rod Decker",
+            "beginOffset": 526
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.019533081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0079292981,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 312
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 373
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

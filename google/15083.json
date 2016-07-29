@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation"
+      },
+      "salience": 0.11732487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miller Eckels",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048690303,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miller Eckels",
+            "beginOffset": 362
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

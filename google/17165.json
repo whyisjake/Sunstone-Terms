@@ -1,0 +1,237 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.14877443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 1178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revelation",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Revelation_(Latter_Day_Saints)"
+      },
+      "salience": 0.032983337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Revelation",
+            "beginOffset": 1216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prophecy on War",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.031342108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophecy on War",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Prophecy on War",
+            "beginOffset": 1231
+          }
+        }
+      ]
+    },
+    {
+      "name": "White Horse Prophecy",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/White_Horse_Prophecy"
+      },
+      "salience": 0.031342108,
+      "mentions": [
+        {
+          "text": {
+            "content": "White Horse Prophecy",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "White Horse Prophecy",
+            "beginOffset": 1267
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09020",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024891561,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09020",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California Davis",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Davis"
+      },
+      "salience": 0.017872063,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California Davis",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012784247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 1155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.010675663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 360
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1362
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0095500629,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 1373
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.00402226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0030720388,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 551
+          }
+        }
+      ]
+    },
+    {
+      "name": "G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028339908,
+      "mentions": [
+        {
+          "text": {
+            "content": "G. Bringhurst",
+            "beginOffset": 636
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Martin Hinton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01918155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin",
+            "beginOffset": 1086
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Hinton",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012138055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 303
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1589
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wayne Schow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075429715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wayne Schow",
+            "beginOffset": 780
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0041912021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 641
+          }
+        }
+      ]
+    },
+    {
+      "name": "Louis van",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029898873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Louis van",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward L. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Edward_L._Kimball"
+      },
+      "salience": 0.0029898873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward L. Kimball",
+            "beginOffset": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0024778161,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017597174,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1719
+          }
+        }
+      ]
+    },
+    {
+      "name": "Henrik Ibsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Henrik_Ibsen"
+      },
+      "salience": 0.00077051076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Henrik Ibsen",
+            "beginOffset": 1103
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

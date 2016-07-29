@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Paul on Faith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.075695984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul on Faith",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reconsidering Paul on Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046743743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reconsidering Paul on Faith",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pioneer",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.043760832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pioneer",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Pioneer",
+            "beginOffset": 220
+          }
+        },
+        {
+          "text": {
+            "content": "Pioneer",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.038355034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reconsidering Paul on Faith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025646722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reconsidering Paul on Faith",
+            "beginOffset": 120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

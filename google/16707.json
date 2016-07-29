@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Rational Man An Enemy",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.07570231,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rational Man An Enemy",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.058944322,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.024051113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 264
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 721
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janice Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00544815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Janice Allred",
+            "beginOffset": 1105
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bill Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00544815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Hansen",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "Bill Hansen",
+            "beginOffset": 1120
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

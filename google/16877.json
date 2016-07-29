@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Island",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Island"
+      },
+      "salience": 0.41290784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 370
+          }
+        },
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 875
+          }
+        },
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 1536
+          }
+        },
+        {
+          "text": {
+            "content": "Island",
+            "beginOffset": 1833
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reading_(process)"
+      },
+      "salience": 0.032327924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reading",
+            "beginOffset": 1515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey Reading",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015376517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey Reading",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oki&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013678708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oki&",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Oki&",
+            "beginOffset": 863
+          }
+        },
+        {
+          "text": {
+            "content": "Oki&",
+            "beginOffset": 1821
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenny Kemp&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010537973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenny Kemp&",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Kenny Kemp&",
+            "beginOffset": 1789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Journey",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0075712744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journey",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Journey",
+            "beginOffset": 1559
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Michael Pratt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073850038,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Michael Pratt",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0057835979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenny Kemp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044201827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenny Kemp",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Kemp",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gospel Doctrine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunday_School_(LDS_Church)"
+      },
+      "salience": 0.0037582181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel Doctrine",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York Times",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_New_York_Times"
+      },
+      "salience": 0.0025609327,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York Times",
+            "beginOffset": 889
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Livingston Seagull",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021222089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonathan Livingston Seagull",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomases",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016429725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomases",
+            "beginOffset": 788
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

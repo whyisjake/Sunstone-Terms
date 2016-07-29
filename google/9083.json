@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3630293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Potter",
+            "beginOffset": 234
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075152524,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.075118631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paradoxism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036186919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paradoxism",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016193569,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 221
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

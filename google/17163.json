@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "name": "NPR",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/NPR"
+      },
+      "salience": 0.092191711,
+      "mentions": [
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 534
+          }
+        },
+        {
+          "text": {
+            "content": "NPR",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.075687669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 722
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09018",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034970421,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09018",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.006594195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blair Young",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028872092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blair Young",
+            "beginOffset": 348
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018301277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Larsen",
+            "beginOffset": 361
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sue Spencer Cannon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018301277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sue Spencer Cannon",
+            "beginOffset": 376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018301277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Kimball",
+            "beginOffset": 396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lorie Winder Stromberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017345111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lorie Winder Stromberg",
+            "beginOffset": 409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kaimipono D. Wenger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Times_and_Seasons_(blog)"
+      },
+      "salience": 0.0017345111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kaimipono D. Wenger",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Rands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017345111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Rands",
+            "beginOffset": 454
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

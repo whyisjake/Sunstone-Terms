@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Glossolalia",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Glossolalia"
+      },
+      "salience": 0.16336876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glossolalia",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Gift",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spiritual_gift"
+      },
+      "salience": 0.16336876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Gift",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church SL853",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.041722827,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church SL853",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "SL853",
+            "beginOffset": 123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glossolalia: A Spiritual Gift",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.037763435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glossolalia: A Spiritual Gift",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Glossolalia: A Spiritual Gift",
+            "beginOffset": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.037763435,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 174
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

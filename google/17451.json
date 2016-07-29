@@ -1,0 +1,195 @@
+{
+  "entities": [
+    {
+      "name": "Heartland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heartland_(United_States)"
+      },
+      "salience": 0.05344614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heartland",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "Heartland",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Heartland",
+            "beginOffset": 1229
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book Of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.048186056,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book Of Mormon",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_America"
+      },
+      "salience": 0.037538871,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": 1243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Visual Journey Of Discovery",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.036941756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Visual Journey Of Discovery",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mesoamerica",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mesoamerica"
+      },
+      "salience": 0.033609267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mesoamerica",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Mesoamerica",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.021198595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith Merrill",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078780157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith Merrill",
+            "beginOffset": 971
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native American",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
+      },
+      "salience": 0.0044861119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native American",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0044185016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1432
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Meldrum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043185409,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Meldrum",
+            "beginOffset": 737
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

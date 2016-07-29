@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.44907916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph smith",
+            "beginOffset": 369
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pursuit Of The Elusive Joseph Smith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041219637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pursuit Of The Elusive Joseph Smith",
+            "beginOffset": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vogel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050846804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vogel",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.0039423537,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 390
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.13469091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bishop&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13469091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bishop&",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Bishop&",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Bishop&",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Couch: An Essay in Understanding Human Sexuality",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11905255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Couch: An Essay in Understanding Human Sexuality",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Couch: An Essay in Understanding",
+            "beginOffset": 316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Human Sexuality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Human_sexuality"
+      },
+      "salience": 0.11152363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Human Sexuality",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Couch: An Essay",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.045557119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Couch: An Essay",
+            "beginOffset": 165
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

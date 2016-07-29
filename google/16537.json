@@ -1,0 +1,277 @@
+{
+  "entities": [
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.15064079,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS CHURCH",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 158
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 791
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 878
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 1241
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS Church",
+            "beginOffset": 1322
+          }
+        }
+      ]
+    },
+    {
+      "name": "WALLACE B. SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wallace_B._Smith"
+      },
+      "salience": 0.11733052,
+      "mentions": [
+        {
+          "text": {
+            "content": "WALLACE B. SMITH",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace B. Smith",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace B. Smith",
+            "beginOffset": 1165
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAST SMITH PROPHET",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027405715,
+      "mentions": [
+        {
+          "text": {
+            "content": "LAST SMITH PROPHET",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE END",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025987752,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE END",
+            "beginOffset": 45
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016002294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 1282
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.013323926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph",
+            "beginOffset": 1201
+          }
+        }
+      ]
+    },
+    {
+      "name": "Independence",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Independence,_Missouri"
+      },
+      "salience": 0.0030474691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Independence",
+            "beginOffset": 538
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.0030474691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028882162,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Smith",
+            "beginOffset": 697
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027154402,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Russell",
+            "beginOffset": 853
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.0027154402,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 910
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenyns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00091825519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenyns",
+            "beginOffset": 953
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area"
+      },
+      "salience": 0.00072106312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 1034
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Southland_Records"
+      },
+      "salience": 0.00072106312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southland",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

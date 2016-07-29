@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Jacob",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jacob"
+      },
+      "salience": 0.3338767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 717
+          }
+        },
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": 937
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10201: Wrestling Jacob's Angel: On Trials and Maturing Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.030708792,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10201: Wrestling Jacob’s Angel: On Trials and Maturing Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.027947973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther"
+      },
+      "salience": 0.025141146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther",
+            "beginOffset": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0172168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "VINSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0046463776,
+      "mentions": [
+        {
+          "text": {
+            "content": "VINSON",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0039475551,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 385
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

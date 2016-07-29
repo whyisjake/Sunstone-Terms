@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Changing Our Minds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12550174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Changing Our Minds",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Changing Our Minds",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Changing Our Minds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038894288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Changing Our Minds",
+            "beginOffset": 57
+          }
+        }
+      ]
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Las_Vegas"
+      },
+      "salience": 0.025524691,
+      "mentions": [
+        {
+          "text": {
+            "content": "Las Vegas",
+            "beginOffset": 125
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

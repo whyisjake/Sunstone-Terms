@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Religion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religion"
+      },
+      "salience": 0.22595473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Religion",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Film Religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0928641,
+      "mentions": [
+        {
+          "text": {
+            "content": "Film Religion",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "nam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Non-Aligned_Movement"
+      },
+      "salience": 0.014001429,
+      "mentions": [
+        {
+          "text": {
+            "content": "nam",
+            "beginOffset": 235
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

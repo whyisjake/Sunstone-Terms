@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Quetzalcoatl",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Quetzalcoatl"
+      },
+      "salience": 0.24067368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 398
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 527
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 898
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 1543
+          }
+        },
+        {
+          "text": {
+            "content": "Quetzalcoatl",
+            "beginOffset": 1665
+          }
+        }
+      ]
+    },
+    {
+      "name": "BIRDS OF A FEATHER",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1220746,
+      "mentions": [
+        {
+          "text": {
+            "content": "BIRDS OF A FEATHER",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "BIRDS OF A FEATHER",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "BIRDS OF A FEATHER",
+            "beginOffset": 1368
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.11134399,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "JESUS CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.047608372,
+      "mentions": [
+        {
+          "text": {
+            "content": "JESUS CHRIST",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS CHRIST",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 788
+          }
+        },
+        {
+          "text": {
+            "content": "JESUS CHRIST",
+            "beginOffset": 1448
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1682
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mexican",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mexico"
+      },
+      "salience": 0.0077275317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mexican",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "Mexican",
+            "beginOffset": 1525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Savior",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Redeemer_(Christianity)"
+      },
+      "salience": 0.0077275317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Savior",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "Savior",
+            "beginOffset": 1587
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon GARDNER",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0013205663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon GARDNER",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0013062235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spanish",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spanish_language"
+      },
+      "salience": 0.0011461233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spanish",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00092447287,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAA",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.00028744384,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNY",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_University_of_New_York"
+      },
+      "salience": 0.00028744384,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNY",
+            "beginOffset": 1099
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00028744384,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Liberation Theology Encounters",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.13913953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberation Theology Encounters",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liberation Theology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberation_theology"
+      },
+      "salience": 0.082224078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberation Theology",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Liberation Theology",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.066513933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theo theology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015742181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theo theology",
+            "beginOffset": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latin_America"
+      },
+      "salience": 0.010617538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin American",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0088097015,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

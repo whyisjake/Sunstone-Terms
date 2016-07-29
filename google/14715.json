@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Moral Welfare of Their Children",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053786971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moral Welfare of Their Children",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Moral Welfare of Their Children",
+            "beginOffset": 147
+          }
+        },
+        {
+          "text": {
+            "content": "Moral Welfare of Their Children",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.012410944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 180
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.006399882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0053061242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0053061242,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boise Boise",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019348984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boise Boise",
+            "beginOffset": 393
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

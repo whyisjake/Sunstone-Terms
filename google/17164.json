@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Stucki Kathryn Stucki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27343321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathryn Stucki",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Stucki  Kathryn Stucki",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Kathryn Stucki",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Journey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.044460256,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Journey",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09019",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029431814,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09019",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.007330216,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 436
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Beatitudes",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Beatitudes"
+      },
+      "salience": 0.29902664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beatitudes",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Beatitudes",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Beatitudes",
+            "beginOffset": 1168
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.15191162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09314",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.032278262,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09314",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Third Nephi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025594648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Third Nephi",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0036219603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "C. Russell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028556876,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. Russell",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boy_Scouts_of_America"
+      },
+      "salience": 0.0028556876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy Scouts of America",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020355091,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1269
+          }
+        }
+      ]
+    },
+    {
+      "name": "US Army Reserve",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Army_Reserve"
+      },
+      "salience": 0.00088815572,
+      "mentions": [
+        {
+          "text": {
+            "content": "US Army Reserve",
+            "beginOffset": 918
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

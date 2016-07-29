@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0773089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Experience",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard V. Francaviglia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0509173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "Richard V. Francaviglia",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "V. Francaviglia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032963678,
+      "mentions": [
+        {
+          "text": {
+            "content": "V. Francaviglia",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0051170876,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 343
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

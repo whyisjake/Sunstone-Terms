@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Works Of Ann",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.090819828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Works Of Ann",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Insights For Mormons The Works Of Ann",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.083571628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Insights For Mormons The Works Of Ann",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barry Ulanov",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049596932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barry Ulanov",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Barry Ulanov",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Barry Ulanov",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.030518971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 104
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Works Of Ann",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014205677,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Works Of Ann",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013544446,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.",
+            "beginOffset": 326
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

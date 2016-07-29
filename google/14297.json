@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(The_Matrix)"
+      },
+      "salience": 0.38405398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Welk",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034537468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lawrence Welk",
+            "beginOffset": 202
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.011566239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 236
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

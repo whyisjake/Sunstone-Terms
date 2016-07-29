@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.033513542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 659
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gabriel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gabriel"
+      },
+      "salience": 0.027517136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gabriel",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.013109388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah state Historical Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_Historical_Society"
+      },
+      "salience": 0.011019761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah state Historical Society",
+            "beginOffset": 329
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mohammad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011019761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mohammad",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Moses"
+      },
+      "salience": 0.009142248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 396
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

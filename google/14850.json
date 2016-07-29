@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "American Religion And De Toqueville&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46504453,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Religion And De Toqueville&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "American Religion And De Toqueville&",
+            "beginOffset": 659
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mitchell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049291722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitchell",
+            "beginOffset": 388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lumix Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03562421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lumix Lee",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Religion And De Toqueville&",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019699859,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Religion And De Toqueville&",
+            "beginOffset": 79
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.013179683,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tocqueville",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alexis_de_Tocqueville"
+      },
+      "salience": 0.010525308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tocqueville",
+            "beginOffset": 632
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

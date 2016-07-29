@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "The Artist",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Artist_(film)"
+      },
+      "salience": 0.072959915,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Artist",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "The Artist",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "The Artist",
+            "beginOffset": 559
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Africa"
+      },
+      "salience": 0.022204341,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 478
+          }
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.018431431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": 325
+          }
+        }
+      ]
+    },
+    {
+      "name": "European",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.018431431,
+      "mentions": [
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Environment A Moral Issue For The Saints Climate",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.047250703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Environment A Moral Issue For The Saints Climate",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.020161469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.018042628,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.0050033424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048772492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anderson",
+            "beginOffset": 483
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Anderson",
+            "beginOffset": 525
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00463084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert A. Rees",
+            "beginOffset": 493
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

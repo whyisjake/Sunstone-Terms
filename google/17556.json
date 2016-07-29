@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.10889959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 616
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1266
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1503
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1137
+          }
+        }
+      ]
+    },
+    {
+      "name": "BORN MORMON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020513885,
+      "mentions": [
+        {
+          "text": {
+            "content": "BORN MORMON",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barber",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Barber"
+      },
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barber",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joanna Brooks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joanna_Brooks"
+      },
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joanna Brooks",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "William R. Handley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "William R. Handley",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryan McIlvain",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryan McIlvain",
+            "beginOffset": 831
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steven Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steven Peck",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Darrell Spencer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darrell Spencer",
+            "beginOffset": 859
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emma Lou Warner Thayne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027726695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma Lou Warner Thayne",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019864906,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1548
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

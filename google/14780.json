@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Bob Burnham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1615992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bob Burnham",
+            "beginOffset": 113
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Murders Blood Atonement",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.047425047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Murders Blood Atonement",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0090261465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0031664821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 323
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

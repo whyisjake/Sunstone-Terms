@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God_in_Mormonism"
+      },
+      "salience": 0.11806127,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 574
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1193
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11632014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1153
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heavenly Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heavenly_Mother_(Mormonism)"
+      },
+      "salience": 0.049611077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 1291
+          }
+        },
+        {
+          "text": {
+            "content": "Heavenly Mother",
+            "beginOffset": 1435
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09124 Sex",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023316288,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09124 Sex",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heavenly Mother: Human Implications of Divine Embodiment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023316288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heavenly Mother: Human Implications of Divine Embodiment",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.011966577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 1212
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00893753,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 1343
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Toscano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00880694,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Toscano",
+            "beginOffset": 887
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

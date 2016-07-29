@@ -1,0 +1,305 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.34989926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 178
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1560
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 287
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 524
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.072730429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 816
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017046902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith SL03091",
+            "beginOffset": 74
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quorum",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Quorum_(Latter_Day_Saints)"
+      },
+      "salience": 0.014580239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quorum",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orson Pratt",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orson_Pratt"
+      },
+      "salience": 0.014580239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Pratt",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.014580239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.01279882,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1605
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.007470388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0034500721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 855
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1172
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0018612256,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 503
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015681147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 1371
+          }
+        }
+      ]
+    },
+    {
+      "name": "H. Michael Marquardt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015681147,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Michael Marquardt",
+            "beginOffset": 1391
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gary James Bergera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015681147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gary James Bergera",
+            "beginOffset": 1413
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0013696359,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1020
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0013412181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040401806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hatch",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

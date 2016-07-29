@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.027829729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 589
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lewis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017935613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lewis",
+            "beginOffset": 1292
+          }
+        }
+      ]
+    },
+    {
+      "name": "Forum A. Moench",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017660253,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forum A. Moench",
+            "beginOffset": 946
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.016152648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 402
+          }
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_War_II"
+      },
+      "salience": 0.0029872919,
+      "mentions": [
+        {
+          "text": {
+            "content": "I I",
+            "beginOffset": 1084
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0018859861,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.0018419739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 1364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001526388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Women&",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Beth Raynes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001526388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Beth Raynes",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vickie Stewart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001526388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vickie Stewart",
+            "beginOffset": 981
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

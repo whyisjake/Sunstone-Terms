@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Todd Compton Old",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35560361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton Old",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 408
+          }
+        }
+      ]
+    },
+    {
+      "name": "In Sacred Loneliness: The Plural Wives of Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.056668896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "In Sacred Loneliness: The Plural Wives of Joseph Smith",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 660
+          }
+        },
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 856
+          }
+        },
+        {
+          "text": {
+            "content": "In Sacred Loneliness: The Plural Wives of Joseph Smith",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muses.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muse"
+      },
+      "salience": 0.0025106743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muses.",
+            "beginOffset": 324
+          }
+        },
+        {
+          "text": {
+            "content": "Muses.",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0025106743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1155
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0012389688,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Old",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Old_Testament"
+      },
+      "salience": 0.00027967212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old",
+            "beginOffset": 817
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

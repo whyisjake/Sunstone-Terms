@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Hyper Vigilance",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hypervigilance"
+      },
+      "salience": 0.18560925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hyper Vigilance",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Post Mormon Communities",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06278009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Post Mormon Communities",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Larsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060973549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larsen",
+            "beginOffset": 394
+          }
+        },
+        {
+          "text": {
+            "content": "John Larsen",
+            "beginOffset": 753
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Food 2 Electric Boogaloo Last",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0698456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Food 2 Electric Boogaloo Last",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hassell Pool",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010796021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hassell Pool",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0087485043,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 233
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerilyn Hassell Pool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060106087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerilyn Hassell Pool",
+            "beginOffset": 474
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

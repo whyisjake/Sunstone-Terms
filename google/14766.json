@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Afghanistan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Afghanistan"
+      },
+      "salience": 0.12936786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Afghanistan",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Afghanistan",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Afghanistan",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bananastan",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12936786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bananastan",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Bananastan",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Bananastan",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0076063052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 359
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

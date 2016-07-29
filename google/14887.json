@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Christian Context Male And Female",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.049328748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Context Male And Female",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Male And Female",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hermaphrodite"
+      },
+      "salience": 0.042721558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male And Female",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Male And Female",
+            "beginOffset": 643
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.015979741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 124
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.00952868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0058085951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 696
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

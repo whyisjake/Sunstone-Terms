@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Future Science",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27693254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Future Science",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18577011,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 141
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.070914879,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stanford University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Stanford_University"
+      },
+      "salience": 0.027906209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stanford University",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.024753528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.023472421,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hong_Kong"
+      },
+      "salience": 0.023472421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hong Kong",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/China"
+      },
+      "salience": 0.019484041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chinese",
+            "beginOffset": 264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanauer Science",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018746272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanauer Science",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.Y.U.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0060919155,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. Y. U.",
+            "beginOffset": 299
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

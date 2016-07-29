@@ -1,0 +1,183 @@
+{
+  "entities": [
+    {
+      "name": "Garden of Eden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Garden_of_Eden_(song)"
+      },
+      "salience": 0.15335757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Garden of Eden",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Garden of Eden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Garden_of_Eden_(1998_film)"
+      },
+      "salience": 0.11416556,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Garden of Eden",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "The Garden of Eden",
+            "beginOffset": 509
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.1123345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 549
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Needle BC",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035177737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Needle BC",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "BC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/British_Columbia"
+      },
+      "salience": 0.033355821,
+      "mentions": [
+        {
+          "text": {
+            "content": "BC",
+            "beginOffset": 240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phoenicians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phoenicia"
+      },
+      "salience": 0.028523767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phoenicians",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lew Wallace",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lew_Wallace"
+      },
+      "salience": 0.028096842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Lew Wallace",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_language"
+      },
+      "salience": 0.023668213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew",
+            "beginOffset": 322
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sarah Lewis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023668213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah Lewis",
+            "beginOffset": 384
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Needle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020370958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 595
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "You Women Want",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43570948,
+      "mentions": [
+        {
+          "text": {
+            "content": "You Women Want",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "You Women Want",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Feminists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_feminism"
+      },
+      "salience": 0.24917437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Feminists",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Feminists",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Feminists",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "You Women Want",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017266497,
+      "mentions": [
+        {
+          "text": {
+            "content": "You Women Want",
+            "beginOffset": 84
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010909796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 315
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Riverton",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0089382492,
+      "mentions": [
+        {
+          "text": {
+            "content": "Riverton",
+            "beginOffset": 173
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lehigh",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lehigh_University"
+      },
+      "salience": 0.0084741479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lehigh",
+            "beginOffset": 186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084741479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karen",
+            "beginOffset": 251
+          }
+        }
+      ]
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Arts"
+      },
+      "salience": 0.0021940465,
+      "mentions": [
+        {
+          "text": {
+            "content": "BA",
+            "beginOffset": 366
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0021940465,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 388
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

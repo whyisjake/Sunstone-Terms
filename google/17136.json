@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "DC09002",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13217226,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09002",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022015462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 706
+          }
+        }
+      ]
+    },
+    {
+      "name": "Last Supper",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Last_Supper"
+      },
+      "salience": 0.014217991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Last Supper",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Last Supper",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sacrament",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sacrament"
+      },
+      "salience": 0.0032490049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacrament",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "Sacrament",
+            "beginOffset": 797
+          }
+        }
+      ]
+    },
+    {
+      "name": "Georgetown University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Georgetown_University"
+      },
+      "salience": 0.0030424565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgetown University",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "BOWMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022053155,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOWMAN",
+            "beginOffset": 449
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "Law of Consecration",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.744722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Law of Consecration",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Past The Law of Consecration",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.255278,
+      "mentions": [
+        {
+          "text": {
+            "content": "Past The Law of Consecration",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "Past  The Law of Consecration",
+            "beginOffset": 123
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

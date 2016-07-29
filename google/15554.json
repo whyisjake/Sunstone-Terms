@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Early Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.064196855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon Church",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Early Mormon Church",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Early Mormon Church Ellen Robertson Tekken",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020732654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Early Mormon Church Ellen Robertson Tekken",
+            "beginOffset": 150
+          }
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.0091867764,
+      "mentions": [
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Ellen Robertson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0079050614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Ellen Robertson",
+            "beginOffset": 711
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

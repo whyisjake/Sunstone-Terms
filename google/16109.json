@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.16526029,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1051
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1698
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Golden Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.091604874,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Golden Kimball",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "J. Golden Kimball",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Kimball",
+            "beginOffset": 1287
+          }
+        },
+        {
+          "text": {
+            "content": "J. Golden Kimball",
+            "beginOffset": 1770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Financial Panic of 1893",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panic_of_1893"
+      },
+      "salience": 0.063821696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Financial Panic of 1893",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Financial Panic of 1893",
+            "beginOffset": 1581
+          }
+        },
+        {
+          "text": {
+            "content": "Panic of 1893",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Panic of 1893",
+            "beginOffset": 1671
+          }
+        }
+      ]
+    },
+    {
+      "name": "Panic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panic"
+      },
+      "salience": 0.05610463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Panic",
+            "beginOffset": 1862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Financial Panic of 1893 J. Golden Kimball",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023557818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Financial Panic of 1893 J. Golden Kimball",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "N. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0084445318,
+      "mentions": [
+        {
+          "text": {
+            "content": "N. Kimball",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Golden Kimball&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041487,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Golden Kimball&",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "I J. Golden Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027070518,
+      "mentions": [
+        {
+          "text": {
+            "content": "I J. Golden Kimball",
+            "beginOffset": 1553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0025502322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 883
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Accommodation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019352341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Accommodation",
+            "beginOffset": 666
+          }
+        }
+      ]
+    },
+    {
+      "name": "Federal Government",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0014884267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Federal Government",
+            "beginOffset": 1074
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014850954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward Leo Lyman",
+            "beginOffset": 1106
+          }
+        },
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 1539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.00038848491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard",
+            "beginOffset": 1268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038848491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": 1329
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

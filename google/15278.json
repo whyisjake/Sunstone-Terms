@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Quest for Peace",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.25862342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quest for Peace",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East The Quest for Peace",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12579697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East The Quest for Peace",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.04624195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle East J. Bonner Richie",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022734514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle East J. Bonner Richie",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Quest for Peace in the Middle East",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019786585,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Quest for Peace in the Middle East",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.018866489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 280
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suns",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Phoenix_Suns"
+      },
+      "salience": 0.0068993322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suns",
+            "beginOffset": 347
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.096914135,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 474
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 409
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 992
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.084782712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham",
+            "beginOffset": 493
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glen Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01864152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glen Cornett",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Glen Cornett",
+            "beginOffset": 1190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missing Hymns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015165859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missing Hymns",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intermountain West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Intermountain_West"
+      },
+      "salience": 0.0090357875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermountain West",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "Intermountain West",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glann Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036468043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Glann Cornett",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.003019124,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 366
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

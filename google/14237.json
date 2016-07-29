@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "Word of Wisdom Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.080598287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom Adoption",
+            "beginOffset": 46
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Word_of_Wisdom"
+      },
+      "salience": 0.054945007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014613992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Peterson",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0037904815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 400
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

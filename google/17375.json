@@ -1,0 +1,485 @@
+{
+  "entities": [
+    {
+      "name": "Jane Barnes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11052974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane Barnes",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "JANE BARNES",
+            "beginOffset": 1043
+          }
+        },
+        {
+          "text": {
+            "content": "Jane Barnes",
+            "beginOffset": 1513
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10374",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.099200904,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10374",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elbert Peck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050438855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elbert Peck",
+            "beginOffset": 664
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.043062836,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 634
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 745
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Sound and Fury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032534897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Sound and Fury",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 353
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 592
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Sound and Fury",
+            "beginOffset": 1700
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1745
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Faulkner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Faulkner"
+      },
+      "salience": 0.026598103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faulkner",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "William Faulkner",
+            "beginOffset": 431
+          }
+        }
+      ]
+    },
+    {
+      "name": "Notes Toward a New Mormon Fiction",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013713423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Notes Toward a New Mormon Fiction",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Notes Toward a New Mormon Fiction",
+            "beginOffset": 1594
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Mormons_(miniseries)"
+      },
+      "salience": 0.0091217328,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormons",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "The Mormons",
+            "beginOffset": 1500
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Antonia",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/My_%C3%81ntonia"
+      },
+      "salience": 0.0081385821,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Antonia",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "My Antonia",
+            "beginOffset": 1725
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055061518,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 1464
+          }
+        }
+      ]
+    },
+    {
+      "name": "PBS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/PBS"
+      },
+      "salience": 0.0055061518,
+      "mentions": [
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "PBS",
+            "beginOffset": 1490
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0055061518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints&",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Saints&",
+            "beginOffset": 1551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0029788606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 520
+          }
+        }
+      ]
+    },
+    {
+      "name": "EUGENE PECK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028776526,
+      "mentions": [
+        {
+          "text": {
+            "content": "EUGENE PECK",
+            "beginOffset": 1030
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barnes",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jimmy_Barnes"
+      },
+      "salience": 0.0027475092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barnes",
+            "beginOffset": 909
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harriet Beecher Stowe",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+      },
+      "salience": 0.0026427736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harriet Beecher Stowe",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Willa Cather",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Willa_Cather"
+      },
+      "salience": 0.0026427736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Willa Cather",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "KAREN ROSENBAUM",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019042994,
+      "mentions": [
+        {
+          "text": {
+            "content": "KAREN ROSENBAUM",
+            "beginOffset": 1056
+          }
+        }
+      ]
+    },
+    {
+      "name": "ELLEN FAGG WEIST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019042994,
+      "mentions": [
+        {
+          "text": {
+            "content": "ELLEN FAGG WEIST",
+            "beginOffset": 1073
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spencer W. Kimball",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Spencer_W._Kimball"
+      },
+      "salience": 0.0014949738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spencer W. Kimball",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0011499935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "STEVE WILLIAMS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00077550893,
+      "mentions": [
+        {
+          "text": {
+            "content": "STEVE WILLIAMS",
+            "beginOffset": 1091
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00069330173,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 1253
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christmas"
+      },
+      "salience": 0.00059201266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christmas",
+            "beginOffset": 1185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Amazon.com"
+      },
+      "salience": 0.00059201266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amazon",
+            "beginOffset": 1210
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

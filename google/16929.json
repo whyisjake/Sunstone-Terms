@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.042575713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 364
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 752
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1192
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07125",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015622993,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07125",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONS Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012264656,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONS Mormonism",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "MORMONS Mormonism",
+            "beginOffset": 971
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00106148,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1256
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORRIS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00050429848,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORRIS",
+            "beginOffset": 802
+          }
+        }
+      ]
+    },
+    {
+      "name": "FRANCIS NELSON HENDERSON Sheraton",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00045905419,
+      "mentions": [
+        {
+          "text": {
+            "content": "FRANCIS NELSON HENDERSON Sheraton",
+            "beginOffset": 813
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

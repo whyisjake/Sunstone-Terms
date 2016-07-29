@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.088317707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 488
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 576
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.017704194,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOHN DEHLIN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dehlin"
+      },
+      "salience": 0.0050575426,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHN DEHLIN",
+            "beginOffset": 514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0035811367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEHLIN Thousands",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001780757,
+      "mentions": [
+        {
+          "text": {
+            "content": "DEHLIN  Thousands",
+            "beginOffset": 783
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

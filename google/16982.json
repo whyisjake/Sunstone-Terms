@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "RON SCHOW",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012541117,
+      "mentions": [
+        {
+          "text": {
+            "content": "RON SCHOW",
+            "beginOffset": 917
+          }
+        },
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 955
+          }
+        },
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "CORE PRINCIPLES BASED ON STRESS RESILIENCE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010410002,
+      "mentions": [
+        {
+          "text": {
+            "content": "CORE PRINCIPLES BASED ON STRESS RESILIENCE",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "CORE PRINCIPLES BASED ON STRESS RESILIENCE",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "CORE PRINCIPLES BASED ON STRESS RESILIENCE",
+            "beginOffset": 1154
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEE SMITH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032175714,
+      "mentions": [
+        {
+          "text": {
+            "content": "LEE SMITH",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030660729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "Napoleon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Napoleon"
+      },
+      "salience": 0.00090810726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Napoleon",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Idaho"
+      },
+      "salience": 0.00077545515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Idaho",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00077545515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Logan,_Utah"
+      },
+      "salience": 0.00077545515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027057311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014112704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 275
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russell Quick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021004744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russell Quick",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Americas"
+      },
+      "salience": 0.0020382705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americas",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00063409761,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 826
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.00054147944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 867
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

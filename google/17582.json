@@ -1,0 +1,325 @@
+{
+  "entities": [
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.52665609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1082
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 551
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 746
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.016343066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 887
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1186
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.007643647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Otterson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Otterson"
+      },
+      "salience": 0.007643647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Otterson",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington Post",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Washington_Post"
+      },
+      "salience": 0.0030336839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington Post",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church PR",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0030336839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church PR",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "More Good Foundation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028318751,
+      "mentions": [
+        {
+          "text": {
+            "content": "More Good Foundation",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "More Good Foundation",
+            "beginOffset": 1409
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Voices",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028318751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Voices",
+            "beginOffset": 399
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Voices",
+            "beginOffset": 1431
+          }
+        }
+      ]
+    },
+    {
+      "name": "ex-Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ex-Mormon"
+      },
+      "salience": 0.0027245004,
+      "mentions": [
+        {
+          "text": {
+            "content": "ex-Mormons",
+            "beginOffset": 656
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022326896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hamer",
+            "beginOffset": 898
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon Adams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Adams"
+      },
+      "salience": 0.0022326896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon Adams",
+            "beginOffset": 905
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hugh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017529661,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hugh",
+            "beginOffset": 1029
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donna Banta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069434312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donna Banta",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jason Echols",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069434312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jason Echols",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Ricks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069434312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Ricks",
+            "beginOffset": 943
+          }
+        }
+      ]
+    },
+    {
+      "name": "John K. Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069434312,
+      "mentions": [
+        {
+          "text": {
+            "content": "John K. Williams",
+            "beginOffset": 955
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kate Lyons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069434312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kate Lyons",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenbergh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00067594129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenbergh",
+            "beginOffset": 1052
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

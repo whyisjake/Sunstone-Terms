@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "HOWARD W. HUNTER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041341297,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOWARD W. HUNTER",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Howard W. Hunter",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Howard W. Hunter",
+            "beginOffset": 975
+          }
+        }
+      ]
+    },
+    {
+      "name": "HAROLD B. LEE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026408371,
+      "mentions": [
+        {
+          "text": {
+            "content": "HAROLD B. LEE",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "Harold B. Lee",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Harold B. Lee",
+            "beginOffset": 899
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016240129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky Johns",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.015785672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 923
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armstrong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037295795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armstrong",
+            "beginOffset": 546
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

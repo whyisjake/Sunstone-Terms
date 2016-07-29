@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "name": "Brett Lattimer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21768081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brett Lattimer",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Brett Lattimer",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Wilkins",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Richard_Wilkins_(law)"
+      },
+      "salience": 0.1053756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Wilkins",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Wilkins",
+            "beginOffset": 1046
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.067713648,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 148
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 962
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1071
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 730
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civil War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/American_Civil_War"
+      },
+      "salience": 0.018298021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Civil War",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Civil War",
+            "beginOffset": 1030
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015402351,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1160
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.0072017545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024969934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tara",
+            "beginOffset": 613
+          }
+        }
+      ]
+    },
+    {
+      "name": "Satan&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018411911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Satan&",
+            "beginOffset": 397
+          }
+        },
+        {
+          "text": {
+            "content": "Satan&",
+            "beginOffset": 1211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Olaiz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017152445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olaiz",
+            "beginOffset": 576
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonja Farnsworth",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017152445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonja Farnsworth",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Google"
+      },
+      "salience": 0.0014214941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Google",
+            "beginOffset": 684
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0010256881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 452
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 537
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

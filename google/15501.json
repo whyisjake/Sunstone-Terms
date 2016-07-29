@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "DISAFFECTED MORMONS E. Chapman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.076918244,
+      "mentions": [
+        {
+          "text": {
+            "content": "DISAFFECTED MORMONS E. Chapman",
+            "beginOffset": 118
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.0086106053,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 172
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0081642689,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 258
+          }
+        }
+      ]
+    },
+    {
+      "name": "James E. Chapman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058317715,
+      "mentions": [
+        {
+          "text": {
+            "content": "James E. Chapman",
+            "beginOffset": 531
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

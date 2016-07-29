@@ -1,0 +1,59 @@
+{
+  "entities": [
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.28052124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 129
+          }
+        }
+      ]
+    },
+    {
+      "name": "Meso-American Studies Current Trends",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18791813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meso-American Studies Current Trends",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Meso-American Studies  Current Trends",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Meso-American Studies",
+            "beginOffset": 144
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

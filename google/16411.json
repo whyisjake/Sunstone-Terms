@@ -1,0 +1,329 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31496605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1989
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 311
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 548
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2098
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.062596627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 408
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 840
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shepard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alan_Shepard"
+      },
+      "salience": 0.048691455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shepard",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "House",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/House"
+      },
+      "salience": 0.013115308,
+      "mentions": [
+        {
+          "text": {
+            "content": "House",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012434258,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Strong&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012434258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Strong&",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.010911987,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2034
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063637681,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1898
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0063637681,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1964
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0029371483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 879
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0021569431,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 527
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.001747938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1775
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001406648,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Great_Britain"
+      },
+      "salience": 0.0013345891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Britain",
+            "beginOffset": 1734
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0011414418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "William D. Russell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_D._Russell_(historian)"
+      },
+      "salience": 0.00034378853,
+      "mentions": [
+        {
+          "text": {
+            "content": "William D. Russell",
+            "beginOffset": 1400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bronco",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00034378853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bronco",
+            "beginOffset": 1500
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

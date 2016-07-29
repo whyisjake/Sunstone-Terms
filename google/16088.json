@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.11412276,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 451
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modern Church Visionary People: Dream Interpretation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044577327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Church Visionary People: Dream Interpretation",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modern Church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022985132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modern Church",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Modern Church",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Visionary People: Dream Interpretation",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020943947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Visionary People: Dream Interpretation",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Visionary People: Dream Interpretation",
+            "beginOffset": 935
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Campbell_Soup_Company"
+      },
+      "salience": 0.0053143417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Campbell",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marie Blanchard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041195713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marie Blanchard",
+            "beginOffset": 466
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

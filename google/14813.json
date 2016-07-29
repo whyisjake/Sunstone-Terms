@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "Warren",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warren,_Michigan"
+      },
+      "salience": 0.53721339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warren",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Brief Turbulent History Of The Mormon Town",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.14669302,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Brief Turbulent History Of The Mormon Town",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Money Diggersville&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085475035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Money Diggersville&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Money Diggersville&",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Money Diggersville&",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Brief Turbulent History Of The Mormon Town Of Warren",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.073132291,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Brief Turbulent History Of The Mormon Town Of Warren",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "The Brief Turbulent History Of The Mormon Town Of Warren",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Navajo",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Navajo_Nation"
+      },
+      "salience": 0.019647365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Navajo",
+            "beginOffset": 414
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin Americans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051098238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latin Americans",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

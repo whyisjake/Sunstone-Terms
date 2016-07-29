@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11764397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1187
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 816
+          }
+        }
+      ]
+    },
+    {
+      "name": "Esoteric Perspectives Of The Mormon Tradition Integral Mormonism",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02148068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esoteric Perspectives Of The Mormon Tradition Integral Mormonism",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Esoteric Perspectives Of The Mormon Tradition",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0086331954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esoteric Perspectives Of The Mormon Tradition",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Esoteric Perspectives Of The Mormon Tradition",
+            "beginOffset": 1044
+          }
+        }
+      ]
+    },
+    {
+      "name": "East",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037244507,
+      "mentions": [
+        {
+          "text": {
+            "content": "East",
+            "beginOffset": 453
+          }
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_European_Summer_Time"
+      },
+      "salience": 0.0037244507,
+      "mentions": [
+        {
+          "text": {
+            "content": "West",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_(genre)"
+      },
+      "salience": 0.0017157152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "T. Kesler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013688597,
+      "mentions": [
+        {
+          "text": {
+            "content": "T. Kesler",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Tensmeyer Hansen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013688597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Tensmeyer Hansen",
+            "beginOffset": 771
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

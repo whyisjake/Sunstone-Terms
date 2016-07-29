@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pauline_epistles"
+      },
+      "salience": 0.32227364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 579
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrews",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epistle_to_the_Hebrews"
+      },
+      "salience": 0.15369028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrews",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Hebrews",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Hebrews",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066842332,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028630424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Larson",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aitana",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011387294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aitana",
+            "beginOffset": 491
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

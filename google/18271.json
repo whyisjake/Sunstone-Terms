@@ -1,0 +1,167 @@
+{
+  "entities": [
+    {
+      "name": "Paul S Wisdom For Our Religious Conflicts St. Paul&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22497725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul S Wisdom For Our Religious Conflicts St. Paul&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul's",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      "salience": 0.047545068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Paul's",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "CorinthÑsquabbling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026748838,
+      "mentions": [
+        {
+          "text": {
+            "content": "CorinthÑsquabbling",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "CorinthÑsquabbling",
+            "beginOffset": 1021
+          }
+        }
+      ]
+    },
+    {
+      "name": "Corinthians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians"
+      },
+      "salience": 0.023107244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corinthians",
+            "beginOffset": 261
+          }
+        },
+        {
+          "text": {
+            "content": "Corinthians",
+            "beginOffset": 1125
+          }
+        }
+      ]
+    },
+    {
+      "name": "Way&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011527416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Way&",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Way&",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Corinthians Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0076631964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corinthians Paul",
+            "beginOffset": 763
+          }
+        }
+      ]
+    },
+    {
+      "name": "Menlove",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069583263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Menlove",
+            "beginOffset": 443
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pope_Francis"
+      },
+      "salience": 0.0053939908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Francis",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "St. Paul&",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023860568,
+      "mentions": [
+        {
+          "text": {
+            "content": "St. Paul&",
+            "beginOffset": 906
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

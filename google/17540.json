@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "THE HUNGER GAMES",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Hunger_Games"
+      },
+      "salience": 0.32701585,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE HUNGER GAMES",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "The Hunger Games",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "The Hunger Games",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "The Hunger Games",
+            "beginOffset": 992
+          }
+        },
+        {
+          "text": {
+            "content": "The Hunger Games",
+            "beginOffset": 1107
+          }
+        }
+      ]
+    },
+    {
+      "name": "Suzanne Collins",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Suzanne_Collins"
+      },
+      "salience": 0.07426428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suzanne Collins",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Suzanne Collins",
+            "beginOffset": 1010
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.049748838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 1127
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHRIST",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.023796951,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRIST",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holly Welker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0082872221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holly Welker",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0022295855,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017984983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 610
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017984983,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 644
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

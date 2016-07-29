@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Voices of Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41877109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Voices of Faith",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Voices of Faith",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Voices of Faith",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Middle Ground",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069129765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Middle Ground",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Middle Ground",
+            "beginOffset": 192
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Middle Ground",
+            "beginOffset": 599
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terminal Boredom Voices",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040611919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terminal Boredom Voices",
+            "beginOffset": 120
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Reason"
+      },
+      "salience": 0.040017229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": 10
+          }
+        },
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drift Toward Fundamentalism",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.032780543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drift Toward Fundamentalism",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drift Toward Fundamentalism and Terminal Boredom",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01930608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drift Toward Fundamentalism and Terminal Boredom",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Drift Toward Fundamentalism",
+            "beginOffset": 632
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

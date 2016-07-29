@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Altar: American Indian Powwows",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10593539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altar: American Indian Powwows",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "Altar: American Indian Powwows",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.079082184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Altar: American Indian Powwows",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Altar: American Indian Powwows",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.078831941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.033577859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vietnam_War"
+      },
+      "salience": 0.0059777382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnam",
+            "beginOffset": 307
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

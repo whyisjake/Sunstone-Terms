@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Hebrews",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Epistle_to_the_Hebrews"
+      },
+      "salience": 0.24168213,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrews",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.19063045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Comparative Method",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079972848,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Comparative Method",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "The Comparative Method",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "View of the Hebrews",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/View_of_the_Hebrews"
+      },
+      "salience": 0.0694213,
+      "mentions": [
+        {
+          "text": {
+            "content": "View of the Hebrews",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "View of the Hebrews",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Comparative Method Reexamined",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041180704,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Comparative Method Reexamined",
+            "beginOffset": 207
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "name": "Sacrament Meeting Music",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.30260062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sacrament Meeting Music",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Sacrament Meeting Music",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "WNED Should Sacrament Meeting Music",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.019153241,
+      "mentions": [
+        {
+          "text": {
+            "content": "WNED Should Sacrament Meeting Music",
+            "beginOffset": 396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.016961124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.016961124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016078398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlotte Smith",
+            "beginOffset": 195
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

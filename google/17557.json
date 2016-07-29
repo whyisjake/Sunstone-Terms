@@ -1,0 +1,175 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.070577063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 489
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1081
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.034571629,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "D&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011986426,
+      "mentions": [
+        {
+          "text": {
+            "content": "D&",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "D&",
+            "beginOffset": 1031
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karl Marx",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Karl_Marx"
+      },
+      "salience": 0.0026571313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Karl Marx",
+            "beginOffset": 564
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0020894115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020894115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Carter",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020894115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bengt Washburn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020894115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengt Washburn",
+            "beginOffset": 727
+          }
+        }
+      ]
+    },
+    {
+      "name": "Troy Williams",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020894115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Troy Williams",
+            "beginOffset": 743
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

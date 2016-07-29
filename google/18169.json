@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Latter Day Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.054492962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter Day Saint",
+            "beginOffset": 134
+          }
+        },
+        {
+          "text": {
+            "content": "Latter Day Saint",
+            "beginOffset": 843
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.041896429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon.",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon.",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jason R. Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012711465,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Smith",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Jason R. Smith",
+            "beginOffset": 1055
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Ph.D. ANDRUS MADSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054958306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.  ANDRUS MADSEN",
+            "beginOffset": 125
+          }
+        }
+      ]
+    },
+    {
+      "name": "CALVIN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Calvin"
+      },
+      "salience": 0.049686205,
+      "mentions": [
+        {
+          "text": {
+            "content": "CALVIN",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.029022148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "WORSHIP MADSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014517143,
+      "mentions": [
+        {
+          "text": {
+            "content": "WORSHIP  MADSEN",
+            "beginOffset": 108
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

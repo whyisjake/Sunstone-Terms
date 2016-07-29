@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12518813,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 174
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.082230955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Indian",
+            "beginOffset": 205
+          }
+        }
+      ]
+    },
+    {
+      "name": "Native Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Native_Americans_in_the_United_States"
+      },
+      "salience": 0.079183385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Native Americans",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lamanite",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lamanite"
+      },
+      "salience": 0.079183385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Lamanite",
+            "beginOffset": 196
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

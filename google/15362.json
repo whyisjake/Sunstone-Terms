@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "David Wright",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/David_Wright"
+      },
+      "salience": 0.38422811,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Wright",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Three Portraits of Jesus",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.086887047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Three Portraits of Jesus",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.02459622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.013736314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 516
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

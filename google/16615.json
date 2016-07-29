@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "name": "MARY BAKER EDDY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Baker_Eddy"
+      },
+      "salience": 0.17373562,
+      "mentions": [
+        {
+          "text": {
+            "content": "MARY BAKER EDDY",
+            "beginOffset": 50
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Baker Eddy",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "Mary Baker Eddy",
+            "beginOffset": 1064
+          }
+        }
+      ]
+    },
+    {
+      "name": "WILLIAM MILLER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Miller_(preacher)"
+      },
+      "salience": 0.032658052,
+      "mentions": [
+        {
+          "text": {
+            "content": "WILLIAM MILLER",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "William Miller",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "William Miller",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.029016856,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMERICAN",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "ELLEN G. WHITE",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ellen_G._White"
+      },
+      "salience": 0.029003149,
+      "mentions": [
+        {
+          "text": {
+            "content": "ELLEN G. WHITE",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Ellen G. White",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Ellen G. White",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "JOSEPH SMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.024025025,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOSEPH SMITH",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 565
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022261649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 888
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00716091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seventh Day Adventism",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "Seventh Day Adventism",
+            "beginOffset": 1037
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Science",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_Science"
+      },
+      "salience": 0.00716091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Science",
+            "beginOffset": 391
+          }
+        },
+        {
+          "text": {
+            "content": "Christian Science",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    },
+    {
+      "name": "New England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_England"
+      },
+      "salience": 0.0035343005,
+      "mentions": [
+        {
+          "text": {
+            "content": "New England",
+            "beginOffset": 519
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00085383421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bringhurst",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lavina_Fielding_Anderson"
+      },
+      "salience": 0.00085383421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 821
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

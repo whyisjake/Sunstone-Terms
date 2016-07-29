@@ -1,0 +1,239 @@
+{
+  "entities": [
+    {
+      "name": "Adam and Eve",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam_and_Eve"
+      },
+      "salience": 0.12700079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 400
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 787
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 1268
+          }
+        },
+        {
+          "text": {
+            "content": "Adam and Eve",
+            "beginOffset": 1557
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09352 Adam and Eve",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041176684,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09352 Adam and Eve",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostic Mormon Retellings",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.041176684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostic Mormon Retellings",
+            "beginOffset": 33
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027734498,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 222
+          }
+        },
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 573
+          }
+        },
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 1379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Genesis",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Genesis"
+      },
+      "salience": 0.025464898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Genesis",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.02507234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eve"
+      },
+      "salience": 0.016522923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eve",
+            "beginOffset": 673
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012929905,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 898
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Petersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089357942,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Petersen",
+            "beginOffset": 917
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037874945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 748
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peterson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035463611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peterson",
+            "beginOffset": 948
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0033550712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 446
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1603
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

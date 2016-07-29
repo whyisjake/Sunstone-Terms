@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Death",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Death"
+      },
+      "salience": 0.2375081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.050312173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": 568
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Scriptures",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.024472961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "The Scriptures",
+            "beginOffset": 623
+          }
+        }
+      ]
+    },
+    {
+      "name": "And Beyond From Science",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021387426,
+      "mentions": [
+        {
+          "text": {
+            "content": "And Beyond From Science",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "And Beyond From Science",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "And Beyond From Science",
+            "beginOffset": 595
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Scriptures The Earth: Birth",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013134574,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Scriptures The Earth: Birth",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00865648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Miller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007400102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Miller",
+            "beginOffset": 161
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.007400102,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 232
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

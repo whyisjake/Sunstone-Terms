@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Context Of Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055094767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Context Of Mormonism",
+            "beginOffset": 47
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bolivia"
+      },
+      "salience": 0.036580238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Bolivia",
+            "beginOffset": 718
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.035967365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035967365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 747
+          }
+        }
+      ]
+    },
+    {
+      "name": "South America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/South_America"
+      },
+      "salience": 0.0080209253,
+      "mentions": [
+        {
+          "text": {
+            "content": "South America",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "South America",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Diaz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038991268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ricardo Diaz",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Ricardo Diaz",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Clark Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021901173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark Knowlton",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "David Clark Knowlton",
+            "beginOffset": 905
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Lifespring Experience Exploring",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0702441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lifespring Experience Exploring",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lifespring Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067278296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lifespring Experience",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Lifespring",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.05408876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 540
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco"
+      },
+      "salience": 0.01781291,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 239
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Adam"
+      },
+      "salience": 0.01781291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": 470
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.15167809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 530
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11139742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rich",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Rich",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.11139742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 575
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Attitudes Toward Wealth and Poverty Rich in Faith: Christian Attitudes Toward Wealth and Poverty",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0992432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Attitudes Toward Wealth and Poverty Rich in Faith: Christian Attitudes Toward Wealth and Poverty",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.020639773,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americanization",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Americanization"
+      },
+      "salience": 0.020639773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americanization",
+            "beginOffset": 190
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian Attitudes Toward Wealth and Poverty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015629109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian Attitudes Toward Wealth and Poverty",
+            "beginOffset": 582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caesar",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Julius_Caesar"
+      },
+      "salience": 0.0050777467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caesar",
+            "beginOffset": 426
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

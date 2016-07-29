@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Leadership Of The Church",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027730668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leadership Of The Church",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Leadership Of The Church",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Leadership Of The Church",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catholic Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Catholic_Church"
+      },
+      "salience": 0.013009934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catholic Church",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rasmus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01016468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rasmus",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0096377051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seoul",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seoul"
+      },
+      "salience": 0.0091378111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seoul",
+            "beginOffset": 264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075822962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 336
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

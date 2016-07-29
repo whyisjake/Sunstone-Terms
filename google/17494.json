@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.15383232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 641
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 382
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 476
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 927
+          }
+        }
+      ]
+    },
+    {
+      "name": "Theric Jepson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053467669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theric Jepson",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Theric",
+            "beginOffset": 496
+          }
+        },
+        {
+          "text": {
+            "content": "Theric Jepson",
+            "beginOffset": 868
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contributing Artists Discuss Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035998434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contributing Artists Discuss Sunstone&",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.013741001,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0090788333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Carter",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "Stephen Carter",
+            "beginOffset": 836
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jepson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033509,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jepson",
+            "beginOffset": 598
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0032393376,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brad Teare",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00079605525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brad Teare",
+            "beginOffset": 606
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,79 @@
+{
+  "entities": [
+    {
+      "name": "Humanitarian Work of Enterprise Mentors The Humanitarian Work of Enterprise Mentors",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.31149584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humanitarian Work of Enterprise Mentors The Humanitarian Work of Enterprise Mentors",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philippines"
+      },
+      "salience": 0.038487725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philippines",
+            "beginOffset": 122
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cosens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028411565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cosens",
+            "beginOffset": 148
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chuck Colson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charles_Colson"
+      },
+      "salience": 0.028411565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chuck Colson",
+            "beginOffset": 387
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Humanitarian Work of Enterprise Mentors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023467824,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Humanitarian Work of Enterprise Mentors",
+            "beginOffset": 457
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

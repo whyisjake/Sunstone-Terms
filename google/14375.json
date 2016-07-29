@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Palestine Orson Hyde&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12065959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orson Hyde&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Palestine Orson Hyde&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Orson Hyde&",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestine",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Palestine"
+      },
+      "salience": 0.066767469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestine",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Palestine",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040174786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael I",
+            "beginOffset": 142
+          }
+        }
+      ]
+    },
+    {
+      "name": "London Amsterdam",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011719924,
+      "mentions": [
+        {
+          "text": {
+            "content": "London Amsterdam",
+            "beginOffset": 473
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

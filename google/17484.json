@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "name": "Deadly Sin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seven_deadly_sins"
+      },
+      "salience": 0.2098837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deadly Sin",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pride",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pride"
+      },
+      "salience": 0.078925408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pride",
+            "beginOffset": 26
+          }
+        }
+      ]
+    },
+    {
+      "name": "General Conference",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/General_Conference_(LDS_Church)"
+      },
+      "salience": 0.067378975,
+      "mentions": [
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 137
+          }
+        },
+        {
+          "text": {
+            "content": "General Conference",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054634873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cornett",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 185
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054634873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ezra Taft Benson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ezra_Taft_Benson"
+      },
+      "salience": 0.051836379,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Ezra Taft Benson",
+            "beginOffset": 75
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,47 @@
+{
+  "entities": [
+    {
+      "name": "Work for Social Justice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12133928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Work for Social Justice",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Work for Social Justice",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Work for Social Justice",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.027671745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 180
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

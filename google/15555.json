@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "Liberal",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberal_Party_of_Canada"
+      },
+      "salience": 0.11923965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Liberal",
+            "beginOffset": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040280204,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "X.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/X_(1992_video_game)"
+      },
+      "salience": 0.0084796138,
+      "mentions": [
+        {
+          "text": {
+            "content": "X.",
+            "beginOffset": 301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Liberal",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0081567066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Liberal",
+            "beginOffset": 491
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

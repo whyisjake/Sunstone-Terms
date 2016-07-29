@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Doubt",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doubt"
+      },
+      "salience": 0.077575788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doubt",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Doubt",
+            "beginOffset": 321
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard Law School",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_Law_School"
+      },
+      "salience": 0.022772551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard Law School",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boston University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boston_University"
+      },
+      "salience": 0.022772551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boston University",
+            "beginOffset": 250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01891998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim",
+            "beginOffset": 189
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

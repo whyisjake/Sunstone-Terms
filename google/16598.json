@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "Hugh B. Brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hugh_B._Brown"
+      },
+      "salience": 0.19566396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugh B. Brown",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Hugh B. Brown",
+            "beginOffset": 1071
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.15334387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1221
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024421863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Presidency",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/First_Presidency_(LDS_Church)"
+      },
+      "salience": 0.011791117,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Presidency",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "First Presidency",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.008502041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 452
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 1123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republicans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0025323229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republicans",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "M. Compton",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0024169942,
+      "mentions": [
+        {
+          "text": {
+            "content": "M. Compton",
+            "beginOffset": 757
+          }
+        }
+      ]
+    },
+    {
+      "name": "November&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0019359572,
+      "mentions": [
+        {
+          "text": {
+            "content": "November&",
+            "beginOffset": 729
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Hatch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001895798,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hatch",
+            "beginOffset": 769
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013686112,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1335
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

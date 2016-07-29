@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.19597216,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 518
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01034396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 221
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089578135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.00682952,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 269
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "Juliann Reynolds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020260736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juliann Reynolds",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Seth Perry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020260736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seth Perry",
+            "beginOffset": 587
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. Dennis Potter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020260736,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. Dennis Potter",
+            "beginOffset": 602
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

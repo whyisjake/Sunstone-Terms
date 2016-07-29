@@ -1,0 +1,343 @@
+{
+  "entities": [
+    {
+      "name": "Finland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Finland"
+      },
+      "salience": 0.048578195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finland",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Finnish",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "Finland",
+            "beginOffset": 1188
+          }
+        },
+        {
+          "text": {
+            "content": "Finnish",
+            "beginOffset": 1310
+          }
+        },
+        {
+          "text": {
+            "content": "Finland",
+            "beginOffset": 1500
+          }
+        },
+        {
+          "text": {
+            "content": "Finnish",
+            "beginOffset": 1568
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.04288638,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 395
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 596
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 809
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1481
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1745
+          }
+        }
+      ]
+    },
+    {
+      "name": "American Agents In Finland Boys",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013831502,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Agents In Finland Boys",
+            "beginOffset": 52
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spies",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013596211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spies",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Spies",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Spies",
+            "beginOffset": 1441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0089303507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1631
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cold War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cold_War"
+      },
+      "salience": 0.0079868538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cold War",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Cold War",
+            "beginOffset": 1610
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finns&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0079868538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finns&",
+            "beginOffset": 328
+          }
+        },
+        {
+          "text": {
+            "content": "Finns&",
+            "beginOffset": 1678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0033487917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 790
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Presenter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030549434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Presenter",
+            "beginOffset": 897
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0030375542,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0027712542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 830
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ostman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023326939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ostman",
+            "beginOffset": 882
+          }
+        }
+      ]
+    },
+    {
+      "name": "M.Sc.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Science"
+      },
+      "salience": 0.0023326939,
+      "mentions": [
+        {
+          "text": {
+            "content": "M.Sc.",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "David Knowlton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001933075,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Knowlton",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.001933075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Respondent"
+      },
+      "salience": 0.001933075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 931
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

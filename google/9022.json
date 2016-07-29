@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "John Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16489068,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 123
+          }
+        },
+        {
+          "text": {
+            "content": "John Hamer",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon Hamm",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jon_Hamm"
+      },
+      "salience": 0.14516705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon Hamm",
+            "beginOffset": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12103071,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 56
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 559
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unique Understanding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035345297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unique Understanding",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030547857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "SLC 2013 Symposium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027153578,
+      "mentions": [
+        {
+          "text": {
+            "content": "SLC 2013 Symposium",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unique Understanding of Scripture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075106742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unique Understanding of Scripture",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Unique Understanding of Scripture",
+            "beginOffset": 711
+          }
+        }
+      ]
+    },
+    {
+      "name": "powerpress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068208189,
+      "mentions": [
+        {
+          "text": {
+            "content": "powerpress",
+            "beginOffset": 311
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenyns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068208189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenyns",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Restoration Ideal&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006718378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Restoration Ideal&",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "Restoration Ideal&",
+            "beginOffset": 753
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith papers",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Joseph_Smith_Papers"
+      },
+      "salience": 0.0058156643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith papers",
+            "beginOffset": 570
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0017627963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 535
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

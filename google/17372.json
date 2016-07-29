@@ -1,0 +1,265 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.1294059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1641
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 744
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 988
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 691
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dottie S. Dixon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.069529876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dottie S. Dixon",
+            "beginOffset": 223
+          }
+        },
+        {
+          "text": {
+            "content": "Dottie S. Dixon",
+            "beginOffset": 1550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Mothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050948258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mothers",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Mothers",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "LYNN FROST",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029411187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frost",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "LYNN FROST",
+            "beginOffset": 1021
+          }
+        },
+        {
+          "text": {
+            "content": "Frost",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stage and Screen",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024029857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stage and Screen",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10371",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020552395,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10371",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020542612,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1453
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 550
+          }
+        }
+      ]
+    },
+    {
+      "name": "Key Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012834538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Key Change",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Key Change",
+            "beginOffset": 1403
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charles",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032775041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles",
+            "beginOffset": 1334
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002366124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormons",
+            "beginOffset": 604
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alex Mack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021373767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alex Mack",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    },
+    {
+      "name": "ERIC SAMUELSEN",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eric_Samuelsen"
+      },
+      "salience": 0.0017712042,
+      "mentions": [
+        {
+          "text": {
+            "content": "ERIC SAMUELSEN",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "GERALD S. ARGETSINGER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017712042,
+      "mentions": [
+        {
+          "text": {
+            "content": "GERALD S. ARGETSINGER",
+            "beginOffset": 1049
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

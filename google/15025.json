@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Dennis Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22086827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Smith",
+            "beginOffset": 269
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Art and Belief Movement The Mormon Art and Belief Movement",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10322811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Art and Belief Movement The Mormon Art and Belief Movement",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roman_Empire"
+      },
+      "salience": 0.019813698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Art and Belief Movement",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016355345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Art and Belief Movement",
+            "beginOffset": 441
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

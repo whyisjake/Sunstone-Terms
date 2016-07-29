@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Simone de Beauvoir",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+      },
+      "salience": 0.051161338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simone de Beauvoir",
+            "beginOffset": 270
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lael Littke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027772361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lael Littke",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Lael Littke",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Face Harker",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014930962,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Face Harker",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burley Burley",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01043292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burley Burley",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wilder",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Billy_Wilder"
+      },
+      "salience": 0.0089211324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wilder",
+            "beginOffset": 234
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Face Herbert Harker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063707251,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Face Herbert Harker",
+            "beginOffset": 509
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

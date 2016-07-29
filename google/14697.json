@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.039368942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 272
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historicity",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Historicity"
+      },
+      "salience": 0.0372108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historicity",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Historicity",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Historicity",
+            "beginOffset": 723
+          }
+        }
+      ]
+    },
+    {
+      "name": "QB",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Quarterback"
+      },
+      "salience": 0.019329453,
+      "mentions": [
+        {
+          "text": {
+            "content": "QB",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0085922815,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 364
+          }
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Illinois"
+      },
+      "salience": 0.0071255355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 427
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0071255355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 480
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

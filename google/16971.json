@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "Unitarian- Universalists",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Unitarian_Universalism"
+      },
+      "salience": 0.13047554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unitarian- Universalists",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Unitarian- Universalists",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "POWER OF SMALL FELLOWSHIP GROUPS I&#8217",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016164249,
+      "mentions": [
+        {
+          "text": {
+            "content": "POWER OF SMALL FELLOWSHIP GROUPS I&#8217",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "POWER OF SMALL FELLOWSHIP GROUPS I&#8217",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011422063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Methodist church",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0079741478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Methodist church",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0034688257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1174
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

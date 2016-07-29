@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "F. Ross Boundy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4540033,
+      "mentions": [
+        {
+          "text": {
+            "content": "F. Ross Boundy",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "F. Ross Boundy",
+            "beginOffset": 664
+          }
+        },
+        {
+          "text": {
+            "content": "Ross Boundy",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "F. Ross Boundy",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "NW10001",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12703323,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10001",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.036397308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Insights From His Legal Files",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036397308,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Insights From His Legal Files",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0048593995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0044844486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "French",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.0044844486,
+      "mentions": [
+        {
+          "text": {
+            "content": "French",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

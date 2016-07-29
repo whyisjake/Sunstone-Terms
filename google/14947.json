@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "name": "Neal Maxwell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.64180833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal Maxwell",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Neal Maxwell",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Neal Maxwell",
+            "beginOffset": 157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Scott",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.094385974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Scott",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Scott",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Richard Scott",
+            "beginOffset": 171
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dallin Oaks",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.094385974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dallin Oaks",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Dallin Oaks",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Dallin Oaks",
+            "beginOffset": 186
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

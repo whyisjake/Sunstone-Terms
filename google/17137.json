@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.16299571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 751
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany"
+      },
+      "salience": 0.14975172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 212
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 481
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "US Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Constitution"
+      },
+      "salience": 0.042592119,
+      "mentions": [
+        {
+          "text": {
+            "content": "US Constitution",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "US Constitution",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC09003",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032175019,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC09003",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. KADER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014003574,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. KADER",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bush",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      "salience": 0.0038610424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Bush",
+            "beginOffset": 996
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geneva Conventions",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Geneva_Conventions"
+      },
+      "salience": 0.0038610424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Geneva Conventions",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Geneva Conventions",
+            "beginOffset": 1058
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

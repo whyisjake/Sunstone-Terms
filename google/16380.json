@@ -1,0 +1,323 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.36054084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1840
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 265
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 502
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1949
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.05876695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 362
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 794
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2046
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom Revisited: A Contemporary Scientific Analysis SL03091",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.046175551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom Revisited: A Contemporary Scientific Analysis SL03091",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.019673953,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 201
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1885
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnnie Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016337741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnnie Taylor",
+            "beginOffset": 1419
+          }
+        },
+        {
+          "text": {
+            "content": "Johnnie Taylor",
+            "beginOffset": 1500
+          }
+        },
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": 1655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.00683322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1815
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0031548757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 833
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1150
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0023170114,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 481
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001678846,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1749
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.001511147,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 998
+          }
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/France"
+      },
+      "salience": 0.0014337451,
+      "mentions": [
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 1619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0012262706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1018
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Taylor",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      "salience": 0.00060687342,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Taylor",
+            "beginOffset": 1402
+          }
+        },
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1456
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056662754,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Taylor",
+            "beginOffset": 1342
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jordan Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00036936675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jordan Kimball",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Angeles"
+      },
+      "salience": 0.00036936675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Angeles",
+            "beginOffset": 1486
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

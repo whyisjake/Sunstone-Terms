@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.040384438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 248
+          }
+        }
+      ]
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Arts"
+      },
+      "salience": 0.017840793,
+      "mentions": [
+        {
+          "text": {
+            "content": "BA",
+            "beginOffset": 128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.01400181,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 136
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0029401896,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 338
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

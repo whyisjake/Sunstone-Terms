@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Borderlands",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Borderlands_(video_game)"
+      },
+      "salience": 0.040833626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 1196
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07152",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029920287,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07152",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01715572,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1191
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEFF BURTON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.014476568,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEFF BURTON",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT KIRBY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Robert_Kirby_(humor_columnist)"
+      },
+      "salience": 0.0068380903,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT KIRBY",
+            "beginOffset": 774
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Borderlanders",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0068307072,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Borderlanders",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033988683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unna",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027114882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unna",
+            "beginOffset": 827
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019381774,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1490
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

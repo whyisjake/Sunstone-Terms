@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Thomas Jefferson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_Jefferson"
+      },
+      "salience": 0.12037049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas Jefferson",
+            "beginOffset": 175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Roots of Political Philosophy: The Dynamics of Faith and Politics Spiritual Roots of Political Philosophy: The Dynamics of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.051630829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Roots of Political Philosophy: The Dynamics of Faith and Politics Spiritual Roots of Political Philosophy: The Dynamics of Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Politics"
+      },
+      "salience": 0.051630829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Politics",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Roots of Political Philosophy: The Dynamics of Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022212263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spiritual Roots of Political Philosophy: The Dynamics of Faith",
+            "beginOffset": 484
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

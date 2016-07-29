@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Aesthetics Eternity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22903942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Aesthetics Eternity",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Aesthetics",
+            "beginOffset": 126
+          }
+        },
+        {
+          "text": {
+            "content": "Eternity",
+            "beginOffset": 588
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Aesthetics",
+            "beginOffset": 642
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael Hicks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0238136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Hicks",
+            "beginOffset": 330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Will",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Will_and_testament"
+      },
+      "salience": 0.021415226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Will",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Will",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Will",
+            "beginOffset": 616
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.00740972,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levi Peters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058265268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levi Peters",
+            "beginOffset": 356
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

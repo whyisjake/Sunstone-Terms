@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.044518046,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 439
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 465
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 573
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1572
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPIRITUAL ENLIGHTENMENT",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Enlightenment_(spiritual)"
+      },
+      "salience": 0.027005157,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPIRITUAL ENLIGHTENMENT",
+            "beginOffset": 60
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Job",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Job"
+      },
+      "salience": 0.016253084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Job",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Job",
+            "beginOffset": 1435
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan C. Tull",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011110193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan C. Tull",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Job",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Job_(biblical_figure)"
+      },
+      "salience": 0.0040791719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Job",
+            "beginOffset": 648
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029106901,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall",
+            "beginOffset": 702
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025059078,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Archibald MacLeish",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Archibald_MacLeish"
+      },
+      "salience": 0.00062163221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archibald MacLeish",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

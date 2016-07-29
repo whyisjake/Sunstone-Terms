@@ -1,0 +1,129 @@
+{
+  "entities": [
+    {
+      "name": "Robert Ford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.083874129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Ford",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Ford",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "True Church Needle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074596763,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church Needle",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deseret book",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deseret_Book"
+      },
+      "salience": 0.023282617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deseret book",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01901515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff",
+            "beginOffset": 356
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Diego"
+      },
+      "salience": 0.017150091,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Diego",
+            "beginOffset": 119
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saddam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saddam_Hussein"
+      },
+      "salience": 0.01626054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saddam",
+            "beginOffset": 347
+          }
+        }
+      ]
+    },
+    {
+      "name": "True Church",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012980737,
+      "mentions": [
+        {
+          "text": {
+            "content": "True Church",
+            "beginOffset": 430
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Needle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011612869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Needle",
+            "beginOffset": 442
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

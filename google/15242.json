@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "The Manti Experience&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071436167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manti Experience&",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "The Manti Experience&",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Manti Experience&",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Waco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Waco_siege"
+      },
+      "salience": 0.071436167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Waco",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Haitian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Haiti"
+      },
+      "salience": 0.012153236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Haitian",
+            "beginOffset": 140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha Sonntag Bradley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012153236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha Sonntag Bradley",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Davidians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0095535638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Davidians",
+            "beginOffset": 275
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

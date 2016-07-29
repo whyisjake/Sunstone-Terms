@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Odyssey Of Thomas Stuart Ferguson The Odyssey Of Thomas Stuart Ferguson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.083858259,
+      "mentions": [
+        {
+          "text": {
+            "content": "Odyssey Of Thomas Stuart Ferguson The Odyssey Of Thomas Stuart Ferguson",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "The Odyssey Of Thomas Stuart Ferguson",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.02073361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 147
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tom Ferguson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020725075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Ferguson",
+            "beginOffset": 285
+          }
+        },
+        {
+          "text": {
+            "content": "Tom Ferguson",
+            "beginOffset": 535
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

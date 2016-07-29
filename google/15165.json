@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Sunstone Poets Read Their Poetry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.54025233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone Poets Read Their Poetry",
+            "beginOffset": 42
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone Poets Read Their Poetry",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dawn",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dawn"
+      },
+      "salience": 0.053998083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dawn",
+            "beginOffset": 11
+          }
+        },
+        {
+          "text": {
+            "content": "Dawn",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Dawn",
+            "beginOffset": 470
+          }
+        }
+      ]
+    },
+    {
+      "name": "Horizon&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053998083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Horizon&",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Horizon&",
+            "beginOffset": 101
+          }
+        },
+        {
+          "text": {
+            "content": "Horizon&",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poets Read Their Poetry",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024571173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poets Read Their Poetry",
+            "beginOffset": 126
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frasier",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Frasier"
+      },
+      "salience": 0.017842663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frasier",
+            "beginOffset": 413
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

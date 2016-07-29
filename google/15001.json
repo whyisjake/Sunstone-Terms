@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "James Faulkner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28405872,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Faulkner",
+            "beginOffset": 191
+          }
+        }
+      ]
+    },
+    {
+      "name": "Modernity Pluralism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10090625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Modernity Pluralism",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heidegger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Heidegger"
+      },
+      "salience": 0.011762789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heidegger",
+            "beginOffset": 523
+          }
+        }
+      ]
+    },
+    {
+      "name": "European",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.011762789,
+      "mentions": [
+        {
+          "text": {
+            "content": "European",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.01141677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 285
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pennsylvania_State_University"
+      },
+      "salience": 0.0035681247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pennsylvania State University",
+            "beginOffset": 405
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

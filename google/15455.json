@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.020734349,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 187
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAVEN CAN&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018967805,
+      "mentions": [
+        {
+          "text": {
+            "content": "HEAVEN CAN&",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "HEAVEN CAN&",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "HEAVEN CAN&",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOD A. Miles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029064007,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD A. Miles",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Curi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0022197254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curi",
+            "beginOffset": 416
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018396687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carrie A. Miles",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017223265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carrie A. Miles",
+            "beginOffset": 917
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

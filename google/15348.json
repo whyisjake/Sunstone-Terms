@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Masonry",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Masonry"
+      },
+      "salience": 0.20398776,
+      "mentions": [
+        {
+          "text": {
+            "content": "Masonry",
+            "beginOffset": 396
+          }
+        }
+      ]
+    },
+    {
+      "name": "Issues Masonry",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.083259434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Issues Masonry",
+            "beginOffset": 51
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sandburg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043586098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandburg",
+            "beginOffset": 250
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

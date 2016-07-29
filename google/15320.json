@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Wallace Stegner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54893726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Wallace Stegner",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "A-Wall Odd",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18594491,
+      "mentions": [
+        {
+          "text": {
+            "content": "A-Wall Odd",
+            "beginOffset": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "A-Wall Odd",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067661129,
+      "mentions": [
+        {
+          "text": {
+            "content": "A-Wall Odd",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "A-Wall Odd",
+            "beginOffset": 368
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.015760435,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 188
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.004090385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 310
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

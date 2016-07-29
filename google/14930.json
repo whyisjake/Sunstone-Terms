@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.77104235,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 178
+          }
+        }
+      ]
+    },
+    {
+      "name": "Model For Writing Sacred History The Perfect Pattern",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.16690156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Model For Writing Sacred History The Perfect Pattern",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Model For Writing Sacred History  The Perfect Pattern",
+            "beginOffset": 123
+          }
+        }
+      ]
+    },
+    {
+      "name": "Model For Writing Sacred History",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06205608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Model For Writing Sacred History",
+            "beginOffset": 202
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

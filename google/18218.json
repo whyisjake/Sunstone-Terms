@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "White Delightsome",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14881359,
+      "mentions": [
+        {
+          "text": {
+            "content": "White Delightsome",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Andrew Spriggs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063917927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spriggs",
+            "beginOffset": 412
+          }
+        },
+        {
+          "text": {
+            "content": "Andrew Spriggs",
+            "beginOffset": 700
+          }
+        },
+        {
+          "text": {
+            "content": "Spriggs",
+            "beginOffset": 1447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divine_grace"
+      },
+      "salience": 0.025340678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": 110
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Straight Narrow The Intersection Of Mormon Heteronormativity Race Respectability",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021695597,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Straight Narrow The Intersection Of Mormon Heteronormativity Race Respectability",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0026385074,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014737055,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1490
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00063732121,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDC",
+            "beginOffset": 1050
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

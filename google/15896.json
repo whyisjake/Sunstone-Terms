@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "WHAT&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.072965533,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHAT&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "WHAT&",
+            "beginOffset": 36
+          }
+        },
+        {
+          "text": {
+            "content": "WHAT&",
+            "beginOffset": 390
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048195545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rees",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Rees",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "Patrick McKenzie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034939814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patrick McKenzie",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Patrick McKenzie",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Patrick McKenzie",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reese",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014906589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reese",
+            "beginOffset": 244
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gulf",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arab_states_of_the_Persian_Gulf"
+      },
+      "salience": 0.0035479483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gulf",
+            "beginOffset": 314
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bellevue Washington",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bellevue,_Washington"
+      },
+      "salience": 0.0035479483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bellevue Washington",
+            "beginOffset": 324
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

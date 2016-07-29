@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.028060526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 61
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020757113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Curtis",
+            "beginOffset": 502
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chandler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chandler,_Arizona"
+      },
+      "salience": 0.018411433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chandler",
+            "beginOffset": 492
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.013107136,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 920
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Orleans_Saints"
+      },
+      "salience": 0.012449537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

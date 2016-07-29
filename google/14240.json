@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Nether Regions",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian_views_on_hell"
+      },
+      "salience": 0.50562686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nether Regions",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Nether Regions",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Nether Regions",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christ"
+      },
+      "salience": 0.13585989,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 137
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Concept of Hell",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.039434694,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Concept of Hell",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "The Mormon Concept of Hell",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "The Mormon Concept of Hell",
+            "beginOffset": 501
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michelangelo"
+      },
+      "salience": 0.013385125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michelangelo",
+            "beginOffset": 418
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

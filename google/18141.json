@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "The Christian Community",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017596407,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Christian Community",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001630822,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dominic Crossan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Dominic_Crossan"
+      },
+      "salience": 0.0015250484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dominic Crossan",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "salience": 0.0013516186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Historical_Jesus"
+      },
+      "salience": 0.0013516186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 862
+          }
+        }
+      ]
+    },
+    {
+      "name": "William lane Craig",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Lane_Craig"
+      },
+      "salience": 0.00042041179,
+      "mentions": [
+        {
+          "text": {
+            "content": "William lane Craig",
+            "beginOffset": 955
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

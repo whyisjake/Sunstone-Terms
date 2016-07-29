@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Writers New Frontiers In Fiction",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.25584188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers New Frontiers In Fiction",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Writers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.074548289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Writers",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Writers",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "NMAA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.030879479,
+      "mentions": [
+        {
+          "text": {
+            "content": "NMAA",
+            "beginOffset": 90
+          }
+        }
+      ]
+    },
+    {
+      "name": "New Frontiers",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017235447,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Frontiers",
+            "beginOffset": 389
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

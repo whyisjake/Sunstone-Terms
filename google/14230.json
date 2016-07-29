@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.14792873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 247
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 426
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.036681455,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 534
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS History Prolegomena",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036681455,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS History Prolegomena",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "LDS History",
+            "beginOffset": 102
+          }
+        },
+        {
+          "text": {
+            "content": "LDS History",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Apolo Jia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012080208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apolo Jia",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Prolegomena",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096430322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Prolegomena",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0031294636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 401
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "ALEX CALDIERO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.092669569,
+      "mentions": [
+        {
+          "text": {
+            "content": "CALDIERO",
+            "beginOffset": 321
+          }
+        },
+        {
+          "text": {
+            "content": "ALEX CALDIERO",
+            "beginOffset": 764
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10372",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045533139,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10372",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHERYL L. BRUNO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005103847,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHERYL L. BRUNO",
+            "beginOffset": 331
+          }
+        },
+        {
+          "text": {
+            "content": "CHERYL L. BRUNO",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "PAUL SWENSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005103847,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAUL SWENSON",
+            "beginOffset": 348
+          }
+        },
+        {
+          "text": {
+            "content": "PAUL SWENSON",
+            "beginOffset": 796
+          }
+        }
+      ]
+    },
+    {
+      "name": "OneNote",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Microsoft_OneNote"
+      },
+      "salience": 0.0038590508,
+      "mentions": [
+        {
+          "text": {
+            "content": "OneNote",
+            "beginOffset": 440
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

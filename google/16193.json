@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.18846177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Shipps",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": 675
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.096351109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon&",
+            "beginOffset": 625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0848071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 639
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.024582183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 513
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington Post",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Washington_Post"
+      },
+      "salience": 0.016364021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington Post",
+            "beginOffset": 339
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tony",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0086099459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tony",
+            "beginOffset": 555
+          }
+        }
+      ]
+    },
+    {
+      "name": "World War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_war"
+      },
+      "salience": 0.0076281861,
+      "mentions": [
+        {
+          "text": {
+            "content": "World War",
+            "beginOffset": 279
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006322667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russ",
+            "beginOffset": 409
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

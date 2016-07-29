@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Scriptures Anti-Semitism",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.039445154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures Anti-Semitism",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Norman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025050644,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Norman",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.014237343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.014237343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jews",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.014237343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Jews",
+            "beginOffset": 1219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.014237343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 166
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1263
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Virginia",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Virginia"
+      },
+      "salience": 0.011747603,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Virginia",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cleveland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cleveland_Cavaliers"
+      },
+      "salience": 0.011285885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cleveland",
+            "beginOffset": 896
+          }
+        }
+      ]
+    },
+    {
+      "name": "Holocaust",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Holocaust"
+      },
+      "salience": 0.010632506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Holocaust",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Holocaust",
+            "beginOffset": 1383
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Jerusalem Center",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/BYU_Jerusalem_Center"
+      },
+      "salience": 0.0032028642,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Jerusalem Center",
+            "beginOffset": 512
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0031180673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.0024485528,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020852291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keith",
+            "beginOffset": 1035
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017309655,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1494
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.00076139544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 975
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

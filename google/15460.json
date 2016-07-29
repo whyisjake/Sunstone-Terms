@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "PSYCHOLOGICAL PERSPECTIVES E. Nielsen Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22440276,
+      "mentions": [
+        {
+          "text": {
+            "content": "PSYCHOLOGICAL PERSPECTIVES E. Nielsen Michael",
+            "beginOffset": 87
+          }
+        }
+      ]
+    },
+    {
+      "name": "Northern Illinois University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_Illinois_University"
+      },
+      "salience": 0.013715027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Northern Illinois University",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "SOME PSYCHOLOGICAL PERSPECTIVES Michael E. Nielsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011349224,
+      "mentions": [
+        {
+          "text": {
+            "content": "SOME PSYCHOLOGICAL PERSPECTIVES Michael E. Nielsen",
+            "beginOffset": 455
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanukkah",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hanukkah"
+      },
+      "salience": 0.0033753084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanukkah",
+            "beginOffset": 345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Bio-Genetic",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30462044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bio-Genetic",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Will",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Free_will"
+      },
+      "salience": 0.057608109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Free Will",
+            "beginOffset": 105
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

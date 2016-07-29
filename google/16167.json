@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.2543481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1220
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1304
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1485
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 245
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 471
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 686
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 898
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1404
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11682404,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 284
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 604
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 667
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 822
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1291
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1443
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS-Net",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075491411,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS-Net",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "LDS-Net",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "Denhalter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016550889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denhalter",
+            "beginOffset": 781
+          }
+        }
+      ]
+    },
+    {
+      "name": "World Wide Web",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/World_Wide_Web"
+      },
+      "salience": 0.0015846458,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Wide Web",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marc Fisher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012825297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marc Fisher",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012825297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenney",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.00039874317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley California",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

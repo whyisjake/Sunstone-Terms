@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.084843941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Mysticism",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07551796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Mysticism",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034952894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 281
+          }
+        }
+      ]
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_City"
+      },
+      "salience": 0.017310873,
+      "mentions": [
+        {
+          "text": {
+            "content": "New York City",
+            "beginOffset": 220
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015613523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 151
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caracas Wayne",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014803921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caracas Wayne",
+            "beginOffset": 194
+          }
+        }
+      ]
+    },
+    {
+      "name": "Citicorp",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Citigroup"
+      },
+      "salience": 0.012284514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Citicorp",
+            "beginOffset": 268
+          }
+        }
+      ]
+    },
+    {
+      "name": "co Mysticism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011818652,
+      "mentions": [
+        {
+          "text": {
+            "content": "co Mysticism",
+            "beginOffset": 483
+          }
+        }
+      ]
+    },
+    {
+      "name": "Solich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038367477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solich",
+            "beginOffset": 346
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

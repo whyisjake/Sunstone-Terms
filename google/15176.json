@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Saints Mormons",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.41081405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints Mormons",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 655
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hollywood"
+      },
+      "salience": 0.066184439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Hollywood",
+            "beginOffset": 636
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0083779655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "KSL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/KSL-TV"
+      },
+      "salience": 0.0027171464,
+      "mentions": [
+        {
+          "text": {
+            "content": "KSL",
+            "beginOffset": 455
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

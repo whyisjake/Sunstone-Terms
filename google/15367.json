@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Caroline",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38854036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Disappearing Mystic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10527287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Disappearing Mystic",
+            "beginOffset": 572
+          }
+        }
+      ]
+    },
+    {
+      "name": "Disappearing Mystic Solving",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06893938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Disappearing Mystic Solving",
+            "beginOffset": 43
+          }
+        }
+      ]
+    },
+    {
+      "name": "Annalee Skarin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033359986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Annalee Skarin",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Annalee Skarin",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Annalee Skarin",
+            "beginOffset": 552
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011608697,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 156
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

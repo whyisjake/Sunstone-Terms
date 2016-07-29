@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Littke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.080159284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Littke",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011850577,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 914
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.010133659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 870
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0030357023,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.002515889,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miller",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Miller_Brewing_Company"
+      },
+      "salience": 0.0012519064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miller",
+            "beginOffset": 633
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

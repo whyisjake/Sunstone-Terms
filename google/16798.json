@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "name": "INDIGENOUS PEOPLES",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Indigenous_peoples"
+      },
+      "salience": 0.072011694,
+      "mentions": [
+        {
+          "text": {
+            "content": "INDIGENOUS PEOPLES",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Western Hemisphere",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Western_Hemisphere"
+      },
+      "salience": 0.043313928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Western Hemisphere",
+            "beginOffset": 258
+          }
+        },
+        {
+          "text": {
+            "content": "Western Hemisphere",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "INDIGENOUS PEOPLES Indigenous peoples",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0365542,
+      "mentions": [
+        {
+          "text": {
+            "content": "INDIGENOUS PEOPLES Indigenous peoples",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "INDIGENOUS PEOPLES Indigenous peoples",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016874602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 873
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1017
+          }
+        }
+      ]
+    },
+    {
+      "name": "American History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_United_States"
+      },
+      "salience": 0.013196293,
+      "mentions": [
+        {
+          "text": {
+            "content": "American History",
+            "beginOffset": 350
+          }
+        },
+        {
+          "text": {
+            "content": "American History",
+            "beginOffset": 942
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.011805705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 323
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0063942713,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 499
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1091
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032039578,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

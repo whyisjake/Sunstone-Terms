@@ -1,0 +1,327 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.29812065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1764
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 250
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 487
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1873
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.096343718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 347
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 779
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1970
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.017184595,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 983
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014349877,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 186
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1809
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011365244,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0049620075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0046145832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 818
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1135
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.003331447,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 466
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berg Arizona Republic Chicago Tribune",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0030372604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berg Arizona Republic Chicago Tribune",
+            "beginOffset": 1582
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0024762843,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1673
+          }
+        }
+      ]
+    },
+    {
+      "name": "ABC Nightline",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nightline"
+      },
+      "salience": 0.0024762843,
+      "mentions": [
+        {
+          "text": {
+            "content": "ABC Nightline",
+            "beginOffset": 1628
+          }
+        }
+      ]
+    },
+    {
+      "name": "LA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Louisiana"
+      },
+      "salience": 0.0021147516,
+      "mentions": [
+        {
+          "text": {
+            "content": "LA",
+            "beginOffset": 1559
+          }
+        }
+      ]
+    },
+    {
+      "name": "CNN Amy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021147516,
+      "mentions": [
+        {
+          "text": {
+            "content": "CNN Amy",
+            "beginOffset": 1656
+          }
+        }
+      ]
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Portable_Document_Format"
+      },
+      "salience": 0.0021147516,
+      "mentions": [
+        {
+          "text": {
+            "content": "PDF",
+            "beginOffset": 1652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018004482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00054479809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Curtis",
+            "beginOffset": 1337
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.00054479809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 1327
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

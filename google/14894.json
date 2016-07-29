@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Myth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2191764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myth",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution Myth",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.11220742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution Myth",
+            "beginOffset": 53
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution  Myth",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 186
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

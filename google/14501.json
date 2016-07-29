@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Swearing Elders The Swearing Elders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17154081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swearing Elders The Swearing Elders",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1070833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Paul",
+            "beginOffset": 264
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.10152361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 148
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

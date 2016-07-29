@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0060437871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAND AND COMMUNITY Hardy Redd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005644537,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMMUNITY Redd",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "LAND AND COMMUNITY Hardy Redd",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Steve Rich",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005644537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Rich",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Steve Rich",
+            "beginOffset": 511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jane Holden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005644537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane Holden",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Jane Holden",
+            "beginOffset": 523
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

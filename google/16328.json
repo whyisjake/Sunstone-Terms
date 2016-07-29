@@ -1,0 +1,327 @@
+{
+  "entities": [
+    {
+      "name": "Candadai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15431415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 46
+          }
+        },
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 424
+          }
+        },
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 1132
+          }
+        },
+        {
+          "text": {
+            "content": "Candadai",
+            "beginOffset": 1187
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sesh",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.069697089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 581
+          }
+        },
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 1142
+          }
+        },
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 1428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.041056693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 266
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 713
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1111
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1279
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sesh",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024828797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sesh",
+            "beginOffset": 56
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neila Seshachari",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021445045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seshachari",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Neila Seshachari",
+            "beginOffset": 187
+          }
+        },
+        {
+          "text": {
+            "content": "Neila Seshachari",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Association for Mormon Letters",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Association_for_Mormon_Letters"
+      },
+      "salience": 0.015216775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Association for Mormon Letters",
+            "beginOffset": 366
+          }
+        },
+        {
+          "text": {
+            "content": "Association for Mormon Letters",
+            "beginOffset": 1379
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0098163355,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1290
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neila",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096111987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neila",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047831871,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 1329
+          }
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0014569351,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hinduism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hinduism"
+      },
+      "salience": 0.0014569351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hinduism",
+            "beginOffset": 651
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0011752037,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 894
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00084513804,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mira",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00036542735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mira",
+            "beginOffset": 1028
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Women Reflect The Mormon Temple Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33600524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women Reflect The Mormon Temple Experience",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Temple",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Temple_(Latter_Day_Saints)"
+      },
+      "salience": 0.068748541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Temple",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Mormon Temple Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01421087,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Mormon Temple Experience",
+            "beginOffset": 485
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

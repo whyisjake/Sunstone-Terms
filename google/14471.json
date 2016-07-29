@@ -1,0 +1,75 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.021874502,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 21
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons Talk",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010261173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons Talk",
+            "beginOffset": 97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Adam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00593357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Adam",
+            "beginOffset": 363
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dally",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00593357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dally",
+            "beginOffset": 455
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

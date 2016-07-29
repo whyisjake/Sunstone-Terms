@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Ñthose",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15559702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ñthose",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Ñthose",
+            "beginOffset": 1316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church For The Unchurched The Case For Non Dogmatic Religion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.021597156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church For The Unchurched The Case For Non Dogmatic Religion",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Century",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021597156,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Century",
+            "beginOffset": 71
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.010108789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0078337267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hamer",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Millennials",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Millennials"
+      },
+      "salience": 0.0032223444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Millennials",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024100544,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 758
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014421048,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Williams",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering"
+      },
+      "salience": 0.00060479617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Williams",
+            "beginOffset": 1068
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

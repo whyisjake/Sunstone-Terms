@@ -1,0 +1,263 @@
+{
+  "entities": [
+    {
+      "name": "Orrin Hatch",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orrin_Hatch"
+      },
+      "salience": 0.21447861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orrin Hatch",
+            "beginOffset": 204
+          }
+        },
+        {
+          "text": {
+            "content": "Orrin Hatch",
+            "beginOffset": 1263
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022774149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 171
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL07155",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019488329,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL07155",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.017728122,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 191
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMON DOCTRINE ENSOULMENT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012229783,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMON DOCTRINE ENSOULMENT",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "MORMON DOCTRINE",
+            "beginOffset": 139
+          }
+        },
+        {
+          "text": {
+            "content": "MORMON DOCTRINE",
+            "beginOffset": 1198
+          }
+        }
+      ]
+    },
+    {
+      "name": "ENSOULMENT",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ensoulment"
+      },
+      "salience": 0.011176665,
+      "mentions": [
+        {
+          "text": {
+            "content": "ENSOULMENT",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "ENSOULMENT",
+            "beginOffset": 1141
+          }
+        }
+      ]
+    },
+    {
+      "name": "MICHAEL GOLDSMITH",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Michael_Goldsmith"
+      },
+      "salience": 0.0033167296,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL GOLDSMITH",
+            "beginOffset": 726
+          }
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 866
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025932302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah&",
+            "beginOffset": 1230
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024940805,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormons",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024940805,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 487
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0023281551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1481
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEPSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022148252,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEPSON",
+            "beginOffset": 715
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0011491382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University",
+            "beginOffset": 801
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1121
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stempel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010253295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stempel",
+            "beginOffset": 992
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

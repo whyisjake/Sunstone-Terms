@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.15416378,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 63
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eternal Value of Hardship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030845514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eternal Value of Hardship",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian J. Kemp Why",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028868322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian J. Kemp  Why",
+            "beginOffset": 433
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001987335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale &hellip",
+            "beginOffset": 773
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dale Beecher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019309042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dale Beecher",
+            "beginOffset": 419
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

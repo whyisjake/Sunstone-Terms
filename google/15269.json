@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.15241294,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 213
+          }
+        }
+      ]
+    },
+    {
+      "name": "Comics Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13625236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Comics Mormon",
+            "beginOffset": 16
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

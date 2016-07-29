@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Da Vinci Code",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+      },
+      "salience": 0.39946622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Da Vinci Code",
+            "beginOffset": 59
+          }
+        },
+        {
+          "text": {
+            "content": "DA VINCI CODE",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Da Vinci Code",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leonardo Da Vinci",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+      },
+      "salience": 0.08087419,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leonardo Da Vinci",
+            "beginOffset": 373
+          }
+        },
+        {
+          "text": {
+            "content": "da Vinci",
+            "beginOffset": 1079
+          }
+        },
+        {
+          "text": {
+            "content": "Leonardo Da Vinci",
+            "beginOffset": 1646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.017361999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 906
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mary_Magdalene"
+      },
+      "salience": 0.0079679433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Magdalene",
+            "beginOffset": 463
+          }
+        },
+        {
+          "text": {
+            "content": "Magdalene",
+            "beginOffset": 554
+          }
+        },
+        {
+          "text": {
+            "content": "Magdalene",
+            "beginOffset": 786
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lance S. Owens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033991025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lance S. Owens",
+            "beginOffset": 941
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan brown",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Dan_Brown"
+      },
+      "salience": 0.0019367306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan brown",
+            "beginOffset": 1195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.0018514473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0018130452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 608
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gnostic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018130452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gnostic",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Templar",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Knights_Templar"
+      },
+      "salience": 0.0018130452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Templar",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grail",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_Grail"
+      },
+      "salience": 0.0018130452,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grail",
+            "beginOffset": 658
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret Starbird",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Margaret_Starbird"
+      },
+      "salience": 0.0013474468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret Starbird",
+            "beginOffset": 913
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rev.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Revelation"
+      },
+      "salience": 0.0013474468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rev.",
+            "beginOffset": 932
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

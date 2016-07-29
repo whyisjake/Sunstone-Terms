@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0048483224,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 453
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctrine_and_Covenants"
+      },
+      "salience": 0.0039136484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 306
+          }
+        },
+        {
+          "text": {
+            "content": "Doctrine and Covenants",
+            "beginOffset": 998
+          }
+        }
+      ]
+    },
+    {
+      "name": "Allred",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034782938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allred",
+            "beginOffset": 686
+          }
+        }
+      ]
+    },
+    {
+      "name": "Emily Clyde Curtis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009464788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emily Clyde Curtis",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alan Eastman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009464788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alan Eastman",
+            "beginOffset": 714
+          }
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009464788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael J. Stevens",
+            "beginOffset": 728
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

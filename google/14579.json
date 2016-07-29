@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "David",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068150528,
+      "mentions": [
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "David",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "Godhood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Divinity"
+      },
+      "salience": 0.067383431,
+      "mentions": [
+        {
+          "text": {
+            "content": "Godhood",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Europe"
+      },
+      "salience": 0.0070241257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 438
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058269403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 319
+          }
+        }
+      ]
+    },
+    {
+      "name": "children's Memorial Hospital",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Children's_Memorial_Hospital"
+      },
+      "salience": 0.0042847837,
+      "mentions": [
+        {
+          "text": {
+            "content": "children's  Memorial Hospital",
+            "beginOffset": 460
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oregon"
+      },
+      "salience": 0.0018180275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oregon",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chicago"
+      },
+      "salience": 0.0018180275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 395
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Lee Warthen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38281241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lee Warthen",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Lee Warthen",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Winter Quarters Laws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.070813715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Winter Quarters Laws",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Winter Quarters L. Kimball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023277977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Winter Quarters L. Kimball",
+            "beginOffset": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013920313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristin",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.011552615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 235
+          }
+        }
+      ]
+    },
+    {
+      "name": "Winter Quarters",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Winter_Quarters_(North_Omaha,_Nebraska)"
+      },
+      "salience": 0.011114745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Winter Quarters",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward L. Kimball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099443328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward L. Kimball",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "North",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/North_Omaha,_Nebraska"
+      },
+      "salience": 0.0036095539,
+      "mentions": [
+        {
+          "text": {
+            "content": "North",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mississippi River",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mississippi_River"
+      },
+      "salience": 0.0036095539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mississippi River",
+            "beginOffset": 286
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

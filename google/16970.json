@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0073820585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 135
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1087
+          }
+        }
+      ]
+    },
+    {
+      "name": "OSTLER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Groom_(profession)"
+      },
+      "salience": 0.00051630114,
+      "mentions": [
+        {
+          "text": {
+            "content": "OSTLER",
+            "beginOffset": 987
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00040586686,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "BILL HEERSINK",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00040002758,
+      "mentions": [
+        {
+          "text": {
+            "content": "BILL HEERSINK",
+            "beginOffset": 998
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

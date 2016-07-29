@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.091804765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 542
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helmut Huebener Story: Some Personal Reflections German",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.071956351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helmut Huebener Story: Some Personal Reflections German",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Helmut Huebener Story",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.055497054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helmut Huebener Story",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Helmut Huebener Story",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.055494137,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 535
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

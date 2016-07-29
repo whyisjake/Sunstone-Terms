@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00490869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 354
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 998
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0029370615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Payne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024565316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Payne",
+            "beginOffset": 660
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

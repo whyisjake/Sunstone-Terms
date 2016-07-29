@@ -1,0 +1,313 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.32569569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 2008
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 299
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 536
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 2117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.041763421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 828
+          }
+        },
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 1824
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 2214
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.023917856,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 2053
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lineage SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018965652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lineage SL03091",
+            "beginOffset": 91
+          }
+        }
+      ]
+    },
+    {
+      "name": "Children: Changing Mormon Conception of Race",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016216418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Children: Changing Mormon Conception of Race",
+            "beginOffset": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01090293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 1383
+          }
+        },
+        {
+          "text": {
+            "content": "Bringhurst",
+            "beginOffset": 1794
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.008301435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1983
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0038319807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 867
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1184
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0028141644,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "I SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020389995,
+      "mentions": [
+        {
+          "text": {
+            "content": "I SL03091",
+            "beginOffset": 1915
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0018353084,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1032
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0017972281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 1052
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0014429427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1376
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas W. Murphy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014429427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas W. Murphy",
+            "beginOffset": 1405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mortan Brent Adair",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044857306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mortan Brent Adair",
+            "beginOffset": 1423
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand L. Mauss nnj II",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00044857306,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand L. Mauss nnj I I",
+            "beginOffset": 1446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Lissa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014709872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lissa",
+            "beginOffset": 315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014515097,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rick",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hari Krishnas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011416218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hari Krishnas",
+            "beginOffset": 325
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0083803674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 393
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 375
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,245 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.24066548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 778
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 855
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saints_(novel)"
+      },
+      "salience": 0.078724973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.027681021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 72
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10114",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018183546,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10114",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.011376742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1094
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.011120275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010778728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith&",
+            "beginOffset": 531
+          }
+        }
+      ]
+    },
+    {
+      "name": "Herman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096948994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Herman",
+            "beginOffset": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland Safety Society",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland_Safety_Society"
+      },
+      "salience": 0.0067168162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland Safety Society",
+            "beginOffset": 286
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland Safety Society",
+            "beginOffset": 1215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0028951198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0023589607,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 759
+          }
+        }
+      ]
+    },
+    {
+      "name": "DELEWSKI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016516714,
+      "mentions": [
+        {
+          "text": {
+            "content": "DELEWSKI",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richards",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brad_Richards"
+      },
+      "salience": 0.0005136808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richards",
+            "beginOffset": 923
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

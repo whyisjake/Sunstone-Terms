@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Emanuel Swedenborg",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+      },
+      "salience": 0.11407424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emanuel Swedenborg",
+            "beginOffset": 39
+          }
+        },
+        {
+          "text": {
+            "content": "Swedenborg",
+            "beginOffset": 379
+          }
+        },
+        {
+          "text": {
+            "content": "Swedenborg",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "Emanuel Swedenborg",
+            "beginOffset": 935
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swedenborg Influence LDS Doctrine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036681388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Swedenborg Influence LDS Doctrine",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "W. Miller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088085718,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Miller",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sweden"
+      },
+      "salience": 0.0072382228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweden",
+            "beginOffset": 643
+          }
+        },
+        {
+          "text": {
+            "content": "Sweden",
+            "beginOffset": 790
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0045293272,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.0038685158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 394
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Beckstead",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034946892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Beckstead",
+            "beginOffset": 526
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

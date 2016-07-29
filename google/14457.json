@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.036712967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 434
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01027931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080836285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 302
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

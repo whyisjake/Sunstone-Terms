@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Mantras",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046963986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Mantras",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.011223563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1077
+          }
+        }
+      ]
+    },
+    {
+      "name": "McLemore",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035183385,
+      "mentions": [
+        {
+          "text": {
+            "content": "McLemore",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Doe Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033346533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doe Daughtrey",
+            "beginOffset": 456
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

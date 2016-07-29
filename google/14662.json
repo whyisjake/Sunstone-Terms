@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "World Religions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0710553,
+      "mentions": [
+        {
+          "text": {
+            "content": "World Religions",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "World Religions",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "World Religions",
+            "beginOffset": 640
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman Catholic Priesthood",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.055483438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Catholic Priesthood",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic Priesthood",
+            "beginOffset": 232
+          }
+        },
+        {
+          "text": {
+            "content": "Roman Catholic Priesthood",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039971013,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duke",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duke_University"
+      },
+      "salience": 0.022593653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Duke",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harvard University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Harvard_University"
+      },
+      "salience": 0.016012892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harvard University",
+            "beginOffset": 316
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "SONJA FARNSWORTH",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018036038,
+      "mentions": [
+        {
+          "text": {
+            "content": "SONJA FARNSWORTH",
+            "beginOffset": 809
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.009886099,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 419
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1318
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simpson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031320916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simpson",
+            "beginOffset": 913
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUNTEER HAWKER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021791749,
+      "mentions": [
+        {
+          "text": {
+            "content": "MOUNTEER HAWKER",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sonya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008498581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonya",
+            "beginOffset": 1042
+          }
+        },
+        {
+          "text": {
+            "content": "Sonya",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.000677579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 960
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

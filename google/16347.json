@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "OMNIS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.054318406,
+      "mentions": [
+        {
+          "text": {
+            "content": "OMNIS",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.025552351,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 567
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.025552351,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 628
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall Britain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0067654909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall Britain",
+            "beginOffset": 293
+          }
+        }
+      ]
+    },
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066636689,
+      "mentions": [
+        {
+          "text": {
+            "content": "H. Bailey",
+            "beginOffset": 282
+          }
+        },
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 818
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kim McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043581007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim McCall",
+            "beginOffset": 835
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

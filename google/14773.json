@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.271875,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 580
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bryan_Robson"
+      },
+      "salience": 0.0586878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robson",
+            "beginOffset": 378
+          }
+        }
+      ]
+    },
+    {
+      "name": "Divine Nature",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030992664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Divine Nature",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Nature",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Divine Nature",
+            "beginOffset": 634
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.027171934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 213
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Time and Eternity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027171934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Time and Eternity",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "Time and Eternity",
+            "beginOffset": 246
+          }
+        },
+        {
+          "text": {
+            "content": "Time and Eternity",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yates",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019530941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yates",
+            "beginOffset": 326
+          }
+        }
+      ]
+    },
+    {
+      "name": "Margaret",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077972203,
+      "mentions": [
+        {
+          "text": {
+            "content": "Margaret",
+            "beginOffset": 532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_State_University"
+      },
+      "salience": 0.0020156808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah State University",
+            "beginOffset": 476
+          }
+        }
+      ]
+    },
+    {
+      "name": "Logan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Logan,_Utah"
+      },
+      "salience": 0.0020156808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Logan",
+            "beginOffset": 501
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

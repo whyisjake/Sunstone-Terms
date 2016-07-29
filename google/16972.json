@@ -1,0 +1,319 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.14624839,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 502
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 757
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1081
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Harris",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sam_Harris"
+      },
+      "salience": 0.14216948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Harris",
+            "beginOffset": 277
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Harris",
+            "beginOffset": 1396
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Harris",
+            "beginOffset": 1754
+          }
+        },
+        {
+          "text": {
+            "content": "Sam Harris",
+            "beginOffset": 1994
+          }
+        }
+      ]
+    },
+    {
+      "name": "Letter to A Christian Nation",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Letter_to_a_Christian_Nation"
+      },
+      "salience": 0.029134227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Letter to A Christian Nation",
+            "beginOffset": 301
+          }
+        },
+        {
+          "text": {
+            "content": "Letter to A Christian Nation",
+            "beginOffset": 2018
+          }
+        }
+      ]
+    },
+    {
+      "name": "EXISTENCE OF GOD",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Existence_of_God"
+      },
+      "salience": 0.025092075,
+      "mentions": [
+        {
+          "text": {
+            "content": "EXISTENCE OF GOD",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "EXISTENCE OF GOD",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "EXISTENCE OF GOD",
+            "beginOffset": 1899
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.02302972,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1886
+          }
+        }
+      ]
+    },
+    {
+      "name": "The End of Faith",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_End_of_Faith"
+      },
+      "salience": 0.0019548258,
+      "mentions": [
+        {
+          "text": {
+            "content": "The End of Faith",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0017989589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1432
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 1800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0017081933,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Richard Dawkins&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016694333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard Dawkins&",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "S. ANDERSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012573909,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. ANDERSON",
+            "beginOffset": 1274
+          }
+        }
+      ]
+    },
+    {
+      "name": "DUANE JEFFERY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012406223,
+      "mentions": [
+        {
+          "text": {
+            "content": "DUANE JEFFERY",
+            "beginOffset": 1287
+          }
+        }
+      ]
+    },
+    {
+      "name": "JANA RIESS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.0012406223,
+      "mentions": [
+        {
+          "text": {
+            "content": "JANA RIESS",
+            "beginOffset": 1302
+          }
+        }
+      ]
+    },
+    {
+      "name": "ARDEAN WATTS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012406223,
+      "mentions": [
+        {
+          "text": {
+            "content": "ARDEAN WATTS",
+            "beginOffset": 1314
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00090202386,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 2128
+          }
+        }
+      ]
+    },
+    {
+      "name": "Osama Christopher Hitchens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048374373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christopher Hitchens",
+            "beginOffset": 1353
+          }
+        },
+        {
+          "text": {
+            "content": "Osama Christopher Hitchens",
+            "beginOffset": 1471
+          }
+        }
+      ]
+    },
+    {
+      "name": "R. DENNIS POTTER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00038567255,
+      "mentions": [
+        {
+          "text": {
+            "content": "R. DENNIS POTTER",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

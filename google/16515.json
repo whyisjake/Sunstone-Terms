@@ -1,0 +1,235 @@
+{
+  "entities": [
+    {
+      "name": "B.H. Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.71981418,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. H. Roberts",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "B. H. Roberts",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 519
+          }
+        },
+        {
+          "text": {
+            "content": "B. H. Roberts",
+            "beginOffset": 1290
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 1456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.010211168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 207
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0051503805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1326
+          }
+        }
+      ]
+    },
+    {
+      "name": "First Council of Seventy",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Seventy_(LDS_Church)"
+      },
+      "salience": 0.0038453685,
+      "mentions": [
+        {
+          "text": {
+            "content": "First Council of Seventy",
+            "beginOffset": 309
+          }
+        },
+        {
+          "text": {
+            "content": "First Council of Seventy",
+            "beginOffset": 1489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democratic Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.0038453685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democratic Party",
+            "beginOffset": 359
+          }
+        },
+        {
+          "text": {
+            "content": "Democratic Party",
+            "beginOffset": 1539
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0038453685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 352
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1532
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0013069707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sillito",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011733995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sillito",
+            "beginOffset": 868
+          }
+        }
+      ]
+    },
+    {
+      "name": "Woodruff Manifesto",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/1890_Manifesto"
+      },
+      "salience": 0.0011398506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Woodruff Manifesto",
+            "beginOffset": 632
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00092158356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenberg",
+            "beginOffset": 949
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00064994051,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1584
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

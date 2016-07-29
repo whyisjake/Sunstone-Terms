@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.11036554,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 420
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 638
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1089
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Profession",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060074437,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Profession",
+            "beginOffset": 98
+          }
+        },
+        {
+          "text": {
+            "content": "My Profession",
+            "beginOffset": 1096
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.012469296,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1115
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012469296,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 1152
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0029023089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 1356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nichols",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027037542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nichols",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Cummings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027037542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Cummings",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Lyons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027037542,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Lyons",
+            "beginOffset": 699
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

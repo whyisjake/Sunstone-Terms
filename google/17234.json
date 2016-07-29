@@ -1,0 +1,301 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.14009631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 239
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 276
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 821
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Langford",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12523542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonathan Langford",
+            "beginOffset": 407
+          }
+        },
+        {
+          "text": {
+            "content": "Jonathan Langford",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL09333 Panel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0461576,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL09333 Panel",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Gay Mormon Literature Project The Gay Mormon Literature Project",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024274826,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Gay Mormon Literature Project The Gay Mormon Literature Project",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Gay Mormon Literature Project",
+            "beginOffset": 635
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.016884485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tinker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tinker_v._Des_Moines_Independent_Community_School_District"
+      },
+      "salience": 0.0054279957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tinker",
+            "beginOffset": 335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Melissa Leilani Larson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048185554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melissa Leilani Larson",
+            "beginOffset": 366
+          }
+        },
+        {
+          "text": {
+            "content": "Melissa Leilani Larson",
+            "beginOffset": 952
+          }
+        }
+      ]
+    },
+    {
+      "name": "Johnny Townsend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048185554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johnny Townsend",
+            "beginOffset": 390
+          }
+        },
+        {
+          "text": {
+            "content": "Johnny Townsend",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jerry Thomas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043949182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerry Thomas",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drury",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004328737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drury",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Drury",
+            "beginOffset": 908
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gerald S. Argetsinger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004328737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gerald S. Argetsinger",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Gerald S. Argetsinger",
+            "beginOffset": 929
+          }
+        }
+      ]
+    },
+    {
+      "name": "York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/York"
+      },
+      "salience": 0.0036429393,
+      "mentions": [
+        {
+          "text": {
+            "content": "York",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Julie Kavner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036429393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Kavner",
+            "beginOffset": 510
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bowling Green State University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bowling_Green_State_University"
+      },
+      "salience": 0.0036429393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bowling Green State University",
+            "beginOffset": 547
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.0036429393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ohio",
+            "beginOffset": 581
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul Tinker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030161724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul Tinker",
+            "beginOffset": 916
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,435 @@
+{
+  "entities": [
+    {
+      "name": "B.H. Roberts",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/B._H._Roberts"
+      },
+      "salience": 0.31528938,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 217
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 422
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 571
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 773
+          }
+        },
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 1026
+          }
+        },
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 1080
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 1183
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 1287
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 1383
+          }
+        },
+        {
+          "text": {
+            "content": "B.H. Roberts",
+            "beginOffset": 1842
+          }
+        },
+        {
+          "text": {
+            "content": "Roberts",
+            "beginOffset": 1998
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.12882632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 262
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 1428
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 2043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.027682438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 647
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 962
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 2122
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.H.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islamic_calendar"
+      },
+      "salience": 0.018186858,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. H.",
+            "beginOffset": 21
+          }
+        }
+      ]
+    },
+    {
+      "name": "VH Roberts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012237767,
+      "mentions": [
+        {
+          "text": {
+            "content": "VH Roberts",
+            "beginOffset": 1619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joe Geisner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010807535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe Geisner",
+            "beginOffset": 1435
+          }
+        },
+        {
+          "text": {
+            "content": "Joe",
+            "beginOffset": 1677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0067296261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1047
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1400
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1482
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.0057312292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican Party",
+            "beginOffset": 304
+          }
+        },
+        {
+          "text": {
+            "content": "Republican Party",
+            "beginOffset": 2085
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030658832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan",
+            "beginOffset": 1724
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0029622354,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1884
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0016681943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1305
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.0016301373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 762
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016301373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrat",
+            "beginOffset": 597
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0012974759,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1110
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 1217
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0012783109,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.0012151792,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 1699
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/D._Michael_Quinn"
+      },
+      "salience": 0.000313031,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 1448
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000313031,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 1505
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon Kaiser",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000313031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jon Kaiser",
+            "beginOffset": 1592
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

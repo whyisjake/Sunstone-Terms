@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Michael Stevens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025724869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Stevens",
+            "beginOffset": 804
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Stevens",
+            "beginOffset": 1052
+          }
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 1192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Building a Religious Learning Community The Challenge of Building a Religious Learning Community Genuine",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.020029105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Building a Religious Learning Community The Challenge of Building a Religious Learning Community Genuine",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Building a Religious Learning Community Genuine",
+            "beginOffset": 1226
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nielsen",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nielsen_N.V."
+      },
+      "salience": 0.0031226263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nielsen",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031226263,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffrey",
+            "beginOffset": 903
+          }
+        }
+      ]
+    },
+    {
+      "name": "Goddard",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Goddard_Space_Flight_Center"
+      },
+      "salience": 0.000971092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goddard",
+            "beginOffset": 1148
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Pillars Of My Faith Pillars Of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.33711684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith Pillars Of My Faith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lucas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.070308536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucas",
+            "beginOffset": 86
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pillars Of My Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.056307457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pillars Of My Faith",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Honourable"
+      },
+      "salience": 0.049939033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hon",
+            "beginOffset": 134
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

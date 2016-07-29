@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "Gospel",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gospel_music"
+      },
+      "salience": 0.068430483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gospel",
+            "beginOffset": 375
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marc Chagall&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039208647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marc Chagall&",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Marc Chagall&",
+            "beginOffset": 242
+          }
+        },
+        {
+          "text": {
+            "content": "Marc Chagall&",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "William Blake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Blake"
+      },
+      "salience": 0.034789458,
+      "mentions": [
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 291
+          }
+        },
+        {
+          "text": {
+            "content": "William Blake",
+            "beginOffset": 1011
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poet-Christian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030455565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poet-Christian",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Poet-Christian",
+            "beginOffset": 313
+          }
+        },
+        {
+          "text": {
+            "content": "Poet-Christian",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Art and Philosophy",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026657227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Art and Philosophy",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "Art and Philosophy",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Art and Philosophy",
+            "beginOffset": 983
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Trevor south",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010279947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trevor south",
+            "beginOffset": 135
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wall",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wall"
+      },
+      "salience": 0.0097442046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wall",
+            "beginOffset": 193
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0097442046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 382
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frankenstein Mormon Steeples",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007771309,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frankenstein Mormon Steeples",
+            "beginOffset": 435
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

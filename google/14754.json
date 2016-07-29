@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Flock",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Flock_(birds)"
+      },
+      "salience": 0.077359118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flock",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Flock",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Flock",
+            "beginOffset": 479
+          }
+        }
+      ]
+    },
+    {
+      "name": "Freud",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sigmund_Freud"
+      },
+      "salience": 0.071266845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freud",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Freud",
+            "beginOffset": 43
+          }
+        },
+        {
+          "text": {
+            "content": "Freud",
+            "beginOffset": 465
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

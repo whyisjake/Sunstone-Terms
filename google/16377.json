@@ -1,0 +1,259 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.39928058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 124
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1576
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 470
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1685
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.075942419,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 330
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 762
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1782
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.02244387,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1621
+          }
+        }
+      ]
+    },
+    {
+      "name": "Humility SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017807193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humility SL03091",
+            "beginOffset": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0078041279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1551
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054082358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris",
+            "beginOffset": 1463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0036043131,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 801
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0026472844,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 449
+          }
+        }
+      ]
+    },
+    {
+      "name": "nnj SL03091",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019182615,
+      "mentions": [
+        {
+          "text": {
+            "content": "nnj SL03091",
+            "beginOffset": 1481
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.00143089,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 966
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0014012016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 986
+          }
+        }
+      ]
+    },
+    {
+      "name": "Terman California",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00042209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terman California",
+            "beginOffset": 1310
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duncan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Duncan,_British_Columbia"
+      },
+      "salience": 0.00042209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duncan",
+            "beginOffset": 1359
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

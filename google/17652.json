@@ -1,0 +1,249 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.12559864,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 252
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 654
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 696
+          }
+        }
+      ]
+    },
+    {
+      "name": "NRM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Natural_resource_management"
+      },
+      "salience": 0.072035842,
+      "mentions": [
+        {
+          "text": {
+            "content": "NRM",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "NRM",
+            "beginOffset": 492
+          }
+        },
+        {
+          "text": {
+            "content": "NRM",
+            "beginOffset": 740
+          }
+        }
+      ]
+    },
+    {
+      "name": "Re-envision Early Mormon History",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042137444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Re-envision Early Mormon History",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "non-Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029486008,
+      "mentions": [
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 218
+          }
+        },
+        {
+          "text": {
+            "content": "non-Mormon",
+            "beginOffset": 662
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jan Shipps",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jan_Shipps"
+      },
+      "salience": 0.021834994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 346
+          }
+        },
+        {
+          "text": {
+            "content": "Shipps",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "Jan Shipps",
+            "beginOffset": 789
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fawn Brodie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Fawn_M._Brodie"
+      },
+      "salience": 0.019318415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "Fawn Brodie",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.019063963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 565
+          }
+        }
+      ]
+    },
+    {
+      "name": "No Man Knows My History",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/No_Man_Knows_My_History"
+      },
+      "salience": 0.018649545,
+      "mentions": [
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "No Man Knows My History",
+            "beginOffset": 536
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.0043432703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 376
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 819
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0042989021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 477
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.0032837673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 446
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

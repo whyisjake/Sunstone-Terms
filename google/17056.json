@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.18783426,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 781
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1461
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "Honor Code",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Academic_honor_code"
+      },
+      "salience": 0.12073311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honor Code",
+            "beginOffset": 344
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Code",
+            "beginOffset": 829
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Code",
+            "beginOffset": 1737
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0710336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 441
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 720
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Honor Code&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025390057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honor Code&",
+            "beginOffset": 20
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Code&",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Code&",
+            "beginOffset": 1472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Honor Mormon Values",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02271907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honor Mormon Values",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Mormon Values",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "Honor Mormon Values",
+            "beginOffset": 1490
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU Honor Code",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_Educational_System_Honor_Code"
+      },
+      "salience": 0.00611963,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU Honor Code",
+            "beginOffset": 645
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashley Sanders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029219158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashley Sanders",
+            "beginOffset": 943
+          }
+        },
+        {
+          "text": {
+            "content": "Ashley",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caleb Proux",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029219158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caleb Proux",
+            "beginOffset": 959
+          }
+        },
+        {
+          "text": {
+            "content": "Caleb",
+            "beginOffset": 1012
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

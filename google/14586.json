@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.025117503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abraham and Isaac",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Binding_of_Isaac"
+      },
+      "salience": 0.014228358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isaac",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Abraham and Isaac",
+            "beginOffset": 430
+          }
+        },
+        {
+          "text": {
+            "content": "Isaac",
+            "beginOffset": 456
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ishmael",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ishmael"
+      },
+      "salience": 0.0082481783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ishmael",
+            "beginOffset": 282
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021345236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paul",
+            "beginOffset": 398
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

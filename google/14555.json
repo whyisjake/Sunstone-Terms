@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.020645071,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 31
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 78
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Colorado"
+      },
+      "salience": 0.0017517707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colorado",
+            "beginOffset": 428
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary Jane Carter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017054022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary Jane Carter",
+            "beginOffset": 399
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

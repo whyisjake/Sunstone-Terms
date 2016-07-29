@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Richard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.114308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Richard",
+            "beginOffset": 254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Polygyny&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08644361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Polygyny&",
+            "beginOffset": 29
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-Polyandry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074320719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pseudo-Polyandry",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Polygyny",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.058764249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Polygyny",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Polygyny",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mister van Wagner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014502408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister van Wagner",
+            "beginOffset": 356
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-Polyandry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01157533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pseudo-Polyandry",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "van Wagoner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0094575081,
+      "mentions": [
+        {
+          "text": {
+            "content": "van Wagoner",
+            "beginOffset": 486
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

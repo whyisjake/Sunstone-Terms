@@ -1,0 +1,77 @@
+{
+  "entities": [
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.06886816,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 674
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW08002",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022592073,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW08002",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0021520362,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 557
+          }
+        }
+      ]
+    },
+    {
+      "name": "VINSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021074484,
+      "mentions": [
+        {
+          "text": {
+            "content": "VINSON",
+            "beginOffset": 587
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

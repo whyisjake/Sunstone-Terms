@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "name": "Bella",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bella_Swan"
+      },
+      "salience": 0.19577074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": 564
+          }
+        },
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": 1063
+          }
+        }
+      ]
+    },
+    {
+      "name": "Desire Bella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029632553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Desire Bella",
+            "beginOffset": 65
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10121",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020824097,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10121",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twilight",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Twilight_(2008_film)"
+      },
+      "salience": 0.010670085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twilight",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Twilight",
+            "beginOffset": 1110
+          }
+        }
+      ]
+    },
+    {
+      "name": "Edward",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Edward_Cullen"
+      },
+      "salience": 0.0079657482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Edward",
+            "beginOffset": 251
+          }
+        },
+        {
+          "text": {
+            "content": "Edward",
+            "beginOffset": 1242
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0023607698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 676
+          }
+        }
+      ]
+    },
+    {
+      "name": "WELKER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0020967112,
+      "mentions": [
+        {
+          "text": {
+            "content": "WELKER",
+            "beginOffset": 759
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

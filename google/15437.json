@@ -1,0 +1,127 @@
+{
+  "entities": [
+    {
+      "name": "PPI",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Pixel_density"
+      },
+      "salience": 0.32413337,
+      "mentions": [
+        {
+          "text": {
+            "content": "PPI",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "PPI",
+            "beginOffset": 67
+          }
+        },
+        {
+          "text": {
+            "content": "PPI",
+            "beginOffset": 593
+          }
+        }
+      ]
+    },
+    {
+      "name": "Little",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066463239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 92
+          }
+        },
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 618
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ximmer Shederlaomach",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.065657064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shederlaomach",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Ximmer Shederlaomach",
+            "beginOffset": 630
+          }
+        }
+      ]
+    },
+    {
+      "name": "A-1",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/A1_road_(Great_Britain)"
+      },
+      "salience": 0.016798513,
+      "mentions": [
+        {
+          "text": {
+            "content": "A-1",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "A-1",
+            "beginOffset": 80
+          }
+        },
+        {
+          "text": {
+            "content": "A-1",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Conkling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016590368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "Chris Conkling",
+            "beginOffset": 652
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

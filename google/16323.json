@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Theology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Beliefs_and_practices_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.020874334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 111
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon Theology",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010968488,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1243
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Justice",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_justice"
+      },
+      "salience": 0.0089549487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Justice",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "Social Justice",
+            "beginOffset": 1067
+          }
+        }
+      ]
+    },
+    {
+      "name": "Equality",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_equality"
+      },
+      "salience": 0.0073448182,
+      "mentions": [
+        {
+          "text": {
+            "content": "Equality",
+            "beginOffset": 140
+          }
+        },
+        {
+          "text": {
+            "content": "Equality",
+            "beginOffset": 1054
+          }
+        }
+      ]
+    },
+    {
+      "name": "mesj",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073448182,
+      "mentions": [
+        {
+          "text": {
+            "content": "mesj",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "mesj",
+            "beginOffset": 1083
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Charles Duffy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035889999,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Charles Duffy",
+            "beginOffset": 579
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

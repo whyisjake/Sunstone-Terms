@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "name": "Brigham Young",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      "salience": 0.65470672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 100
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 669
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 1037
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "E. Parshall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016754672,
+      "mentions": [
+        {
+          "text": {
+            "content": "E. Parshall",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Indians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.0081266994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indians",
+            "beginOffset": 256
+          }
+        },
+        {
+          "text": {
+            "content": "Indians",
+            "beginOffset": 1241
+          }
+        }
+      ]
+    },
+    {
+      "name": "Newell G. Bringhurst",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00093725964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Newell G. Bringhurst",
+            "beginOffset": 748
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

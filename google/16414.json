@@ -1,0 +1,345 @@
+{
+  "entities": [
+    {
+      "name": "Martin Luther King Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr."
+      },
+      "salience": 0.31203702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 120
+          }
+        },
+        {
+          "text": {
+            "content": "Martin Luther King Jr.",
+            "beginOffset": 1720
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 229
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 466
+          }
+        },
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 1829
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.088391885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Saints",
+            "beginOffset": 758
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter-day Saints",
+            "beginOffset": 1926
+          }
+        }
+      ]
+    },
+    {
+      "name": "Main Street Plaza SL03091",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041430537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Main Street Plaza SL03091",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "I Have a Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/I_Have_a_Dream"
+      },
+      "salience": 0.014967229,
+      "mentions": [
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "I Have a Dream",
+            "beginOffset": 1765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0051748818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 95
+          }
+        },
+        {
+          "text": {
+            "content": "Washington",
+            "beginOffset": 1695
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.0048125321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 797
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 1114
+          }
+        }
+      ]
+    },
+    {
+      "name": "African",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/African_American"
+      },
+      "salience": 0.0034742991,
+      "mentions": [
+        {
+          "text": {
+            "content": "African",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL03091",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00258244,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL03091",
+            "beginOffset": 1629
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0023049768,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 962
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0018776158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 982
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rockies",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rocky_Mountains"
+      },
+      "salience": 0.00066534476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rockies",
+            "beginOffset": 1422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Barberi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barberi",
+            "beginOffset": 1306
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rocky Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rocky_Anderson"
+      },
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rocky Anderson",
+            "beginOffset": 1315
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stephen Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stephen Clark",
+            "beginOffset": 1331
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rev. Tom Goldsmith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rev. Tom Goldsmith",
+            "beginOffset": 1346
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nancy Saxton Francis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy Saxton Francis",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ross",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ross",
+            "beginOffset": 1402
+          }
+        }
+      ]
+    },
+    {
+      "name": "Angie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angie",
+            "beginOffset": 1461
+          }
+        }
+      ]
+    },
+    {
+      "name": "Benioff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00056813948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benioff",
+            "beginOffset": 1487
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

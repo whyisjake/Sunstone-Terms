@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Virginia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Virginia"
+      },
+      "salience": 0.13253301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia",
+            "beginOffset": 5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vinson MICHAEL VINSON",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.091314122,
+      "mentions": [
+        {
+          "text": {
+            "content": "MICHAEL VINSON",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Vinson  MICHAEL VINSON",
+            "beginOffset": 208
+          }
+        },
+        {
+          "text": {
+            "content": "Michael Vinson",
+            "beginOffset": 358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Santa Claus",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Claus"
+      },
+      "salience": 0.048197757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Santa Claus",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "University of Cambridge Divinity School",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037999287,
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Cambridge Divinity School",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "University of Cambridge Divinity School",
+            "beginOffset": 262
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture Notes",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026611028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture Notes",
+            "beginOffset": 184
+          }
+        },
+        {
+          "text": {
+            "content": "Scripture Notes",
+            "beginOffset": 334
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.026611028,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 323
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

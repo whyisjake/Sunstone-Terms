@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "name": "Janet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055082012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "Organizations Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016701134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Organizations Mormonism",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Organizations Mormonism",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.01628354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Good Neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01628354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Good Neighbors",
+            "beginOffset": 23
+          }
+        },
+        {
+          "text": {
+            "content": "Good Neighbors",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Good Neighbors",
+            "beginOffset": 752
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kristen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0087354407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kristen",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trajan",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032440647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trajan",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles"
+      },
+      "salience": 0.0026887287,
+      "mentions": [
+        {
+          "text": {
+            "content": "UCLA",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aaron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026887287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron",
+            "beginOffset": 590
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

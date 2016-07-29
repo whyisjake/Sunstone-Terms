@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "FBI",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation"
+      },
+      "salience": 0.13499767,
+      "mentions": [
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 329
+          }
+        },
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 806
+          }
+        },
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 944
+          }
+        },
+        {
+          "text": {
+            "content": "FBI",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0377871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 298
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1109
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Porter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024484582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kenneth Porter",
+            "beginOffset": 471
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samuel Cowley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samuel_P._Cowley"
+      },
+      "salience": 0.018894427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samuel Cowley",
+            "beginOffset": 181
+          }
+        },
+        {
+          "text": {
+            "content": "Samuel Cowley",
+            "beginOffset": 992
+          }
+        }
+      ]
+    },
+    {
+      "name": "Douglas Price",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018894427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Douglas Price",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Douglas Price",
+            "beginOffset": 1007
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Porter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018239949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert Porter",
+            "beginOffset": 215
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Porter",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.01066286,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 940
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.0097120432,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 876
+          }
+        }
+      ]
+    },
+    {
+      "name": "Top Ten",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Record_chart"
+      },
+      "salience": 0.00266099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Top Ten",
+            "beginOffset": 422
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bureau",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/News_bureau"
+      },
+      "salience": 0.00266099,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bureau",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Mayfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024277933,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Mayfield",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jean",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059305324,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jean",
+            "beginOffset": 774
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

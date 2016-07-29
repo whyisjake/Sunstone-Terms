@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.091092154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 810
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.042074673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 593
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 856
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jake Zollinger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01374408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jake Zollinger",
+            "beginOffset": 244
+          }
+        },
+        {
+          "text": {
+            "content": "Jake Zollinger",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kipp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0099017825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kipp",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ryan Kipp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059623374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ryan Kipp",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Ryan Kipp",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daniel Kipp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059623374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel Kipp",
+            "beginOffset": 271
+          }
+        },
+        {
+          "text": {
+            "content": "Daniel Kipp",
+            "beginOffset": 1008
+          }
+        }
+      ]
+    },
+    {
+      "name": "Laura Kipp",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041138511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laura Kipp",
+            "beginOffset": 969
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

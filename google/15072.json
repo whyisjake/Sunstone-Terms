@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "The World Beyond the Valley The World Beyond the Valley",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.17406817,
+      "mentions": [
+        {
+          "text": {
+            "content": "The World Beyond the Valley The World Beyond the Valley",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "The World Beyond the Valley",
+            "beginOffset": 444
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lisa Boland Hawkins",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11791491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lisa Boland Hawkins",
+            "beginOffset": 383
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nikkei",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nikkei_225"
+      },
+      "salience": 0.038129855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nikkei",
+            "beginOffset": 60
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Alison Craig",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.092788339,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alison Craig",
+            "beginOffset": 403
+          }
+        },
+        {
+          "text": {
+            "content": "Alison",
+            "beginOffset": 508
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reconstruction of Heaven",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0715783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reconstruction of Heaven",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church The Reconstruction of Heaven",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.025968276,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church The Reconstruction of Heaven",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.020844597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 209
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Reconstruction of Heaven",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018130979,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Reconstruction of Heaven",
+            "beginOffset": 606
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saddam",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saddam_Hussein"
+      },
+      "salience": 0.013866214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saddam",
+            "beginOffset": 266
+          }
+        }
+      ]
+    },
+    {
+      "name": "NYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_York_University"
+      },
+      "salience": 0.013866214,
+      "mentions": [
+        {
+          "text": {
+            "content": "NYU",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.0035860853,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": 531
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

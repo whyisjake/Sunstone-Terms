@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Prison Ministry Prison Ministry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.072287463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prison Ministry Prison Ministry",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.015901415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Massachusetts"
+      },
+      "salience": 0.011105522,
+      "mentions": [
+        {
+          "text": {
+            "content": "Massachusetts",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Prison Ministry",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0088655017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prison Ministry",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gandhi",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mahatma_Gandhi"
+      },
+      "salience": 0.0028775767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gandhi",
+            "beginOffset": 331
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

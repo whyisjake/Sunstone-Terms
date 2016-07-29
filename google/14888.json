@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Marxist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021917375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marxist",
+            "beginOffset": 229
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jack_Anderson_(columnist)"
+      },
+      "salience": 0.0021917375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Anderson",
+            "beginOffset": 474
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dano",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018168439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dano",
+            "beginOffset": 327
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0013347348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Charlie Gibson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Charles_Gibson"
+      },
+      "salience": 0.00056547072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlie Gibson",
+            "beginOffset": 401
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

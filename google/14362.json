@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "The Patriarchal Family of Heaven",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089855477,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Patriarchal Family of Heaven",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "The Patriarchal Family of Heaven",
+            "beginOffset": 458
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Patriarchal Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03042751,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Patriarchal Family",
+            "beginOffset": 89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heaven Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023353625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven Mormons",
+            "beginOffset": 115
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

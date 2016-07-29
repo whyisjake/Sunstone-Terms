@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.12094301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1191
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1231
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1079
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1400
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1493
+          }
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.044411864,
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 307
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 752
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 864
+          }
+        },
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 1019
+          }
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 1631
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0099301506,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Americans",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0049497932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 459
+          }
+        },
+        {
+          "text": {
+            "content": "Americans",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Daughtrey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001783953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daughtrey",
+            "beginOffset": 924
+          }
+        }
+      ]
+    },
+    {
+      "name": "ASU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.001783953,
+      "mentions": [
+        {
+          "text": {
+            "content": "ASU",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

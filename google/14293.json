@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Zion",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion"
+      },
+      "salience": 0.096647158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.06546589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 71
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 663
+          }
+        }
+      ]
+    },
+    {
+      "name": "Revolution&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057459675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revolution&",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Revolution&",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Revolution&",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Zion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035392869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus Zion",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "America Zion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0247512,
+      "mentions": [
+        {
+          "text": {
+            "content": "America Zion",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022154288,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Mormonism",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.020854112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 670
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calvinist",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Calvinism"
+      },
+      "salience": 0.018945914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvinist",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.018388757,
+      "mentions": [
+        {
+          "text": {
+            "content": "America",
+            "beginOffset": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.0049102325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 466
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

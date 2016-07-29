@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Virginia Burgess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014011237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia Burgess",
+            "beginOffset": 858
+          }
+        }
+      ]
+    },
+    {
+      "name": "SAME-SEX ATTRACTION",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Homosexuality"
+      },
+      "salience": 0.012236812,
+      "mentions": [
+        {
+          "text": {
+            "content": "SAME-SEX ATTRACTION",
+            "beginOffset": 144
+          }
+        },
+        {
+          "text": {
+            "content": "SAME-SEX ATTRACTION",
+            "beginOffset": 1204
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0054107215,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 224
+          }
+        },
+        {
+          "text": {
+            "content": "LDS church",
+            "beginOffset": 1284
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virginia Bourgeous",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002073338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virginia Bourgeous",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Campbell_Soup_Company"
+      },
+      "salience": 0.0019650066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Campbell",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012357319,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00053434819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 962
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "My Faith Pillars of My Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.09805999,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith Pillars of My Faith",
+            "beginOffset": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Peggy Fletcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024207845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peggy Fletcher",
+            "beginOffset": 290
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015416075,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Faith",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jewish",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jews"
+      },
+      "salience": 0.011789882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jewish",
+            "beginOffset": 432
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

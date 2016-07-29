@@ -1,0 +1,157 @@
+{
+  "entities": [
+    {
+      "name": "Wrong Messengers The",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023114126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wrong Messengers The",
+            "beginOffset": 165
+          }
+        },
+        {
+          "text": {
+            "content": "Wrong Messengers The",
+            "beginOffset": 963
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eli Lilly",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eli_Lilly_and_Company"
+      },
+      "salience": 0.0067939563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eli Lilly",
+            "beginOffset": 726
+          }
+        }
+      ]
+    },
+    {
+      "name": "McKinsey",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/McKinsey_%26_Company"
+      },
+      "salience": 0.0023590978,
+      "mentions": [
+        {
+          "text": {
+            "content": "McKinsey",
+            "beginOffset": 445
+          }
+        }
+      ]
+    },
+    {
+      "name": "razorfish",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0022359164,
+      "mentions": [
+        {
+          "text": {
+            "content": "razorfish",
+            "beginOffset": 498
+          }
+        }
+      ]
+    },
+    {
+      "name": "C.E.O.",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chief_executive_officer"
+      },
+      "salience": 0.0022359164,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. E. O.",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glenn Cornett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022022303,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cornett",
+            "beginOffset": 384
+          }
+        },
+        {
+          "text": {
+            "content": "Glenn Cornett",
+            "beginOffset": 1182
+          }
+        }
+      ]
+    },
+    {
+      "name": "D. Michael Quinn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022022303,
+      "mentions": [
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "D. Michael Quinn",
+            "beginOffset": 1200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00067509769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los",
+            "beginOffset": 871
+          }
+        }
+      ]
+    },
+    {
+      "name": "Los Alamos",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory"
+      },
+      "salience": 0.000576497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Los Alamos",
+            "beginOffset": 878
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

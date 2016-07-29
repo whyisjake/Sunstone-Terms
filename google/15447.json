@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "JUSTICE OF",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.26692495,
+      "mentions": [
+        {
+          "text": {
+            "content": "JUSTICE OF",
+            "beginOffset": 131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Marsh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16013256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Marsh",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Carol Marsh",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.041553818,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 119
+          }
+        },
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 543
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050242692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Dennis Clark",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "mtn",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/MTN_Group"
+      },
+      "salience": 0.001316298,
+      "mentions": [
+        {
+          "text": {
+            "content": "mtn",
+            "beginOffset": 383
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

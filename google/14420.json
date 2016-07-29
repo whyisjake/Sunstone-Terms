@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Biblical Literalism A Critique",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1122768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblical Literalism A Critique",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Randy Rathbone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020323327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Randy Rathbone",
+            "beginOffset": 196
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/William_Blake"
+      },
+      "salience": 0.020323327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blake",
+            "beginOffset": 215
+          }
+        }
+      ]
+    },
+    {
+      "name": "Einstein",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Albert_Einstein"
+      },
+      "salience": 0.016866544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Einstein",
+            "beginOffset": 264
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

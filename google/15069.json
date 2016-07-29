@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "Nothing But the Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Full_of_It"
+      },
+      "salience": 0.3765898,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Whole Truth",
+            "beginOffset": 35
+          }
+        },
+        {
+          "text": {
+            "content": "The Whole Truth",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "The Whole Truth",
+            "beginOffset": 588
+          }
+        },
+        {
+          "text": {
+            "content": "Nothing But the Truth",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Truth",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Truth"
+      },
+      "salience": 0.072962306,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 24
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 577
+          }
+        },
+        {
+          "text": {
+            "content": "The Truth",
+            "beginOffset": 102
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nothing But the Truth Truth and Consequences",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.037856136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nothing But the Truth Truth and Consequences",
+            "beginOffset": 56
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

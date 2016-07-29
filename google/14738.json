@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church Women&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.04935395,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church Women&",
+            "beginOffset": 72
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 155
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 631
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018657526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Women&",
+            "beginOffset": 559
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

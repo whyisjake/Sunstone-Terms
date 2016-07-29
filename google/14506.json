@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "Quasi-Church Publications",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.033240221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quasi-Church Publications",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Quasi-Church Publications",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.030124977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 45
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 127
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 575
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

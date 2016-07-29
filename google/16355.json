@@ -1,0 +1,253 @@
+{
+  "entities": [
+    {
+      "name": "Caroline Barnes Crosby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50026041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Barnes Crosby",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "CAROLINE BARNES CROSBY",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Caroline Barnes Crosby",
+            "beginOffset": 743
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046242122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kirtland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kirtland,_Ohio"
+      },
+      "salience": 0.022636529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Kirtland",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.022636529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 880
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.022636529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.012793592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 145
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "Krys Corbett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Krys Corbett",
+            "beginOffset": 424
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Corbett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris Corbett",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0033379302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 274
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 979
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sam Brannan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Samuel_Brannan"
+      },
+      "salience": 0.0031973317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Brannan",
+            "beginOffset": 393
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_Francisco_Bay_Area"
+      },
+      "salience": 0.00298475,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco Bay Area",
+            "beginOffset": 288
+          }
+        },
+        {
+          "text": {
+            "content": "San Francisco Bay Area",
+            "beginOffset": 993
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palo alto",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Palo_Alto,_California"
+      },
+      "salience": 0.0024179174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palo alto",
+            "beginOffset": 562
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0024179174,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 639
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

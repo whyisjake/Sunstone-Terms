@@ -1,0 +1,265 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.27536434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Protection for Plural Marriage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019533185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitutional Protection for Plural Marriage",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Constitutional Protection for Plural Marriage",
+            "beginOffset": 112
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitution",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Constitution"
+      },
+      "salience": 0.017875927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 211
+          }
+        },
+        {
+          "text": {
+            "content": "Constitution",
+            "beginOffset": 1296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muslims",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Muslim"
+      },
+      "salience": 0.01276917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muslims",
+            "beginOffset": 1042
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supreme Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+      },
+      "salience": 0.0074270312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Supreme Court",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Protection for Plural Marriage",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0024446789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Constitutional Protection for Plural Marriage",
+            "beginOffset": 1197
+          }
+        }
+      ]
+    },
+    {
+      "name": "bill Morrison",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022236442,
+      "mentions": [
+        {
+          "text": {
+            "content": "bill Morrison",
+            "beginOffset": 1133
+          }
+        }
+      ]
+    },
+    {
+      "name": "Griswold v. Connecticut",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Griswold_v._Connecticut"
+      },
+      "salience": 0.0019587993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Griswold v. Connecticut",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roe v. Wade",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roe_v._Wade"
+      },
+      "salience": 0.0019587993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roe v. Wade",
+            "beginOffset": 705
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.0017756659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 555
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1254
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001547392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rex Sears",
+            "beginOffset": 879
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mary P. Batchelor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001547392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mary P. Batchelor",
+            "beginOffset": 890
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Hollis",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.001547392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Hollis",
+            "beginOffset": 912
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00048127162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chris",
+            "beginOffset": 1106
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.00048127162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1085
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.000432246,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 1023
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

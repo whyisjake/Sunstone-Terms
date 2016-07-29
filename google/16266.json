@@ -1,0 +1,233 @@
+{
+  "entities": [
+    {
+      "name": "The Lord of the Rings",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+      },
+      "salience": 0.21600792,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Lord of the Rings",
+            "beginOffset": 55
+          }
+        },
+        {
+          "text": {
+            "content": "The Lord of the Rings",
+            "beginOffset": 841
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tolkien",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/J._R._R._Tolkien"
+      },
+      "salience": 0.066328213,
+      "mentions": [
+        {
+          "text": {
+            "content": "J.R.R.",
+            "beginOffset": 26
+          }
+        },
+        {
+          "text": {
+            "content": "Tolkien",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Tolkien",
+            "beginOffset": 267
+          }
+        },
+        {
+          "text": {
+            "content": "Tolkien",
+            "beginOffset": 819
+          }
+        },
+        {
+          "text": {
+            "content": "Tolkien",
+            "beginOffset": 1053
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Rex Sears",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041796491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rex Sears",
+            "beginOffset": 332
+          }
+        },
+        {
+          "text": {
+            "content": "L. Rex Sears",
+            "beginOffset": 1117
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tolkien&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024795521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tolkien&",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Tolkien&",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.019973386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1005
+          }
+        }
+      ]
+    },
+    {
+      "name": "Middle Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle-earth"
+      },
+      "salience": 0.017869361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Middle Earth",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Middle Earth",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jason W. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010586607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jason W. Anderson",
+            "beginOffset": 343
+          }
+        },
+        {
+          "text": {
+            "content": "Jason",
+            "beginOffset": 638
+          }
+        },
+        {
+          "text": {
+            "content": "Jason W. Anderson",
+            "beginOffset": 1131
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marcy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096854586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marcy",
+            "beginOffset": 611
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lara A. Reymann Sanderson Asia",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004891607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lara A. Reymann Sanderson Asia",
+            "beginOffset": 362
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tuskegee cation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004891607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tuskegee cation",
+            "beginOffset": 420
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lara &hellip",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002704645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lara &hellip",
+            "beginOffset": 1150
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

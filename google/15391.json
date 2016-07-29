@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "Scriptures Leadership",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064734481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures Leadership",
+            "beginOffset": 58
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scriptures",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.023523651,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scriptures",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "cal state Bakersfield",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California_State_University,_Bakersfield"
+      },
+      "salience": 0.013255253,
+      "mentions": [
+        {
+          "text": {
+            "content": "cal state Bakersfield",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012566298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anna",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Chile"
+      },
+      "salience": 0.012566298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chile",
+            "beginOffset": 304
+          }
+        }
+      ]
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Las_Vegas"
+      },
+      "salience": 0.010423485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Las Vegas",
+            "beginOffset": 345
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

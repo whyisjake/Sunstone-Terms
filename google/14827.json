@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "name": "Mormon Theology And Environment Mormon Theology And Environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.080245011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology And Environment Mormon Theology And Environment",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Theology And Environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010334141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Theology And Environment",
+            "beginOffset": 561
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0098529207,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 359
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

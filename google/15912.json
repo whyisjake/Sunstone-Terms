@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Of Good Report",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.2657586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Of Good Report",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Of Good Report",
+            "beginOffset": 76
+          }
+        },
+        {
+          "text": {
+            "content": "Of Good Report",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gopnik",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18007098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gopnik",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas Rogers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014785197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas Rogers",
+            "beginOffset": 590
+          }
+        }
+      ]
+    },
+    {
+      "name": "Praiseworthy Rogers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013840125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Praiseworthy Rogers",
+            "beginOffset": 95
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

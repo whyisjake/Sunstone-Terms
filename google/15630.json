@@ -1,0 +1,89 @@
+{
+  "entities": [
+    {
+      "name": "Helen Mar Whitney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27961496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Helen Mar Whitney&",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Helen Mar Whitney&",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Todd Compton",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Todd_Compton"
+      },
+      "salience": 0.21434906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compton",
+            "beginOffset": 118
+          }
+        },
+        {
+          "text": {
+            "content": "Todd Compton",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha Pierce Utah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02010298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha Pierce Utah",
+            "beginOffset": 127
+          }
+        }
+      ]
+    },
+    {
+      "name": "John mark Helen Mar Whitney&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019063583,
+      "mentions": [
+        {
+          "text": {
+            "content": "John mark Helen Mar Whitney&",
+            "beginOffset": 411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Martha Pierce",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013627118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Martha Pierce",
+            "beginOffset": 494
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

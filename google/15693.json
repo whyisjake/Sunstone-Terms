@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "name": "That&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16196918,
+      "mentions": [
+        {
+          "text": {
+            "content": "That&",
+            "beginOffset": 7
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0969741,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Life",
+            "beginOffset": 29
+          }
+        },
+        {
+          "text": {
+            "content": "My Life",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "My Life",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.063007563,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 97
+          }
+        },
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 183
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Norton",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026380656,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Norton",
+            "beginOffset": 244
+          }
+        }
+      ]
+    },
+    {
+      "name": "Postle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01968102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Postle",
+            "beginOffset": 446
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.019646356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 300
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 359
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

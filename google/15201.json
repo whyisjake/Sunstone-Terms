@@ -1,0 +1,97 @@
+{
+  "entities": [
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.19121052,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.11400167,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 317
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 406
+          }
+        }
+      ]
+    },
+    {
+      "name": "Section 156",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061874796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Section 156",
+            "beginOffset": 17
+          }
+        },
+        {
+          "text": {
+            "content": "Section 156",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Section 156",
+            "beginOffset": 558
+          }
+        }
+      ]
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Las_Vegas"
+      },
+      "salience": 0.015159406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Las Vegas",
+            "beginOffset": 352
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

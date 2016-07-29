@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.36947429,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 6
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 357
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 957
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mine Modifying Frameworks Animating Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.028286191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mine Modifying Frameworks Animating Faith",
+            "beginOffset": 13
+          }
+        }
+      ]
+    },
+    {
+      "name": "Walker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030080944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Walker",
+            "beginOffset": 479
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

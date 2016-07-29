@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.14149405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 141
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1248
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.08589913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 587
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Father Homosexuality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027684189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father Homosexuality",
+            "beginOffset": 53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022564795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 259
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 1366
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.010193205,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 109
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1216
+          }
+        }
+      ]
+    },
+    {
+      "name": "Madsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017033648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madsen",
+            "beginOffset": 779
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "LDS Dems Caucus",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.35484782,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Dems Caucus",
+            "beginOffset": 163
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Dems",
+            "beginOffset": 199
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Dems",
+            "beginOffset": 518
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Dems Caucus",
+            "beginOffset": 965
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Dems",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEMS CAUCUS",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24584433,
+      "mentions": [
+        {
+          "text": {
+            "content": "DEMS CAUCUS",
+            "beginOffset": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Democratic Party",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah_Democratic_Party"
+      },
+      "salience": 0.08959052,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Democratic Party",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Democratic Party",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Democratic Party",
+            "beginOffset": 1055
+          }
+        },
+        {
+          "text": {
+            "content": "Utah Democratic Party",
+            "beginOffset": 891
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018957665,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 603
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.01175482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 452
+          }
+        }
+      ]
+    },
+    {
+      "name": "Central Committee",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Central_Committee"
+      },
+      "salience": 0.0066681462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Central Committee",
+            "beginOffset": 113
+          }
+        },
+        {
+          "text": {
+            "content": "Central Committee",
+            "beginOffset": 915
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Caitlyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051995227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kathleen Caitlyn",
+            "beginOffset": 713
+          }
+        }
+      ]
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "salience": 0.0035014472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 355
+          }
+        },
+        {
+          "text": {
+            "content": "Democrats",
+            "beginOffset": 1157
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utahns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030721994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utahns",
+            "beginOffset": 336
+          }
+        },
+        {
+          "text": {
+            "content": "Utahns",
+            "beginOffset": 1138
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yamaha",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Yamaha_Motor_Company"
+      },
+      "salience": 0.0029644682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yamaha",
+            "beginOffset": 771
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Janis_Joplin"
+      },
+      "salience": 0.0024891659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janis",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crystal Young-Otterstrom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024891659,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal Young-Otterstrom",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Southbourne",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020630106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Southbourne",
+            "beginOffset": 687
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mason",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mason,_Ohio"
+      },
+      "salience": 0.00064168556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mason",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marguerite",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064168556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marguerite",
+            "beginOffset": 825
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

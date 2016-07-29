@@ -1,0 +1,291 @@
+{
+  "entities": [
+    {
+      "name": "Prophet Mormon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.374087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prophet Mormon",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 149
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 372
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 454
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1055
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1278
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1360
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.16039829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 339
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 580
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 759
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 1245
+          }
+        }
+      ]
+    },
+    {
+      "name": "Franck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028951995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Franck",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.023659088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 57
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 426
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon 1",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.022066433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon 1",
+            "beginOffset": 198
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon 1",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW10008",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021864414,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW10008",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.013992764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 293
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus Christ",
+            "beginOffset": 892
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christians",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christian"
+      },
+      "salience": 0.0087732887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Christians",
+            "beginOffset": 1257
+          }
+        },
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 821
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0028961385,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 615
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 751
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001378158,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1394
+          }
+        }
+      ]
+    },
+    {
+      "name": "rejon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00060132251,
+      "mentions": [
+        {
+          "text": {
+            "content": "rejon",
+            "beginOffset": 948
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hardenberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00060132251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hardenberg",
+            "beginOffset": 967
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

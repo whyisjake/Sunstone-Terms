@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "SL10261",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031923514,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10261",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church&",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029057227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 253
+          }
+        },
+        {
+          "text": {
+            "content": "Church&",
+            "beginOffset": 887
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christianity Mormon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024467258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christianity Mormon",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 432
+          }
+        },
+        {
+          "text": {
+            "content": "Christianity",
+            "beginOffset": 1066
+          }
+        }
+      ]
+    },
+    {
+      "name": "JACK JEFFRIES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003748968,
+      "mentions": [
+        {
+          "text": {
+            "content": "JACK JEFFRIES",
+            "beginOffset": 637
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eucharist",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eucharist"
+      },
+      "salience": 0.003227904,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eucharist",
+            "beginOffset": 626
+          }
+        }
+      ]
+    },
+    {
+      "name": "MAXINE HANKS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031073578,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAXINE HANKS",
+            "beginOffset": 652
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00096675981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "dnmt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00096675981,
+      "mentions": [
+        {
+          "text": {
+            "content": "dnmt",
+            "beginOffset": 727
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

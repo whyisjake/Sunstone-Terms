@@ -1,0 +1,103 @@
+{
+  "entities": [
+    {
+      "name": "Berners Lee",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tim_Berners-Lee"
+      },
+      "salience": 0.093053468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berners Lee",
+            "beginOffset": 150
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Testament Understanding The New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.085677885,
+      "mentions": [
+        {
+          "text": {
+            "content": "The New Testament Understanding The New Testament",
+            "beginOffset": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Canadian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.015419364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canadian",
+            "beginOffset": 227
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.015419364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 257
+          }
+        }
+      ]
+    },
+    {
+      "name": "The New Testament",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/New_Testament"
+      },
+      "salience": 0.014364367,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Testament",
+            "beginOffset": 478
+          }
+        },
+        {
+          "text": {
+            "content": "The New Testament",
+            "beginOffset": 548
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jack Noel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039944956,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Noel",
+            "beginOffset": 346
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

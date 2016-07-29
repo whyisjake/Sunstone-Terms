@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "LDS Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28044432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 82
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Mormonism",
+            "beginOffset": 417
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 1126
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Mormonism",
+            "beginOffset": 1461
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW09005",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.093424417,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW09005",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saint Movement",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.0170466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saint Movement",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zion",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Zion_(Latter_Day_Saints)"
+      },
+      "salience": 0.014704448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Zion",
+            "beginOffset": 657
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0053633922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 341
+          }
+        },
+        {
+          "text": {
+            "content": "Community of Christ",
+            "beginOffset": 1385
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vanderbilt",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vanderbilt_Commodores_football"
+      },
+      "salience": 0.0028658067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vanderbilt",
+            "beginOffset": 1001
+          }
+        }
+      ]
+    },
+    {
+      "name": "L. Bryant",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001545543,
+      "mentions": [
+        {
+          "text": {
+            "content": "L. Bryant",
+            "beginOffset": 805
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

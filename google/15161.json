@@ -1,0 +1,223 @@
+{
+  "entities": [
+    {
+      "name": "Mass Murder",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mass_murder"
+      },
+      "salience": 0.65093225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mass Murder",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "Mass Murder",
+            "beginOffset": 218
+          }
+        }
+      ]
+    },
+    {
+      "name": "Repent",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Repentance"
+      },
+      "salience": 0.029800102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Repent",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Repent",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Repent",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Scriptural Basis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026481209,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Scriptural Basis",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "The Scriptural Basis",
+            "beginOffset": 153
+          }
+        },
+        {
+          "text": {
+            "content": "The Scriptural Basis",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jeff Lundgren&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026481209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeff Lundgren&",
+            "beginOffset": 62
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Lundgren&",
+            "beginOffset": 177
+          }
+        },
+        {
+          "text": {
+            "content": "Jeff Lundgren&",
+            "beginOffset": 701
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grayson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Grayson_High_School"
+      },
+      "salience": 0.0083449688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grayson",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Grayson",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0070278831,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 245
+          }
+        }
+      ]
+    },
+    {
+      "name": "Herald",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Herald_(Zimbabwe)"
+      },
+      "salience": 0.006662216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Herald",
+            "beginOffset": 632
+          }
+        }
+      ]
+    },
+    {
+      "name": "St Paul",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
+      },
+      "salience": 0.0055251736,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Paul",
+            "beginOffset": 386
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Iowa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Iowa"
+      },
+      "salience": 0.0055251736,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Iowa",
+            "beginOffset": 439
+          }
+        }
+      ]
+    },
+    {
+      "name": "Harold house",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050809463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harold house",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "RLDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.0017222676,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 513
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

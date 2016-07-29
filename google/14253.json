@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Two Mormon Views",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2870388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two Mormon Views",
+            "beginOffset": 28
+          }
+        },
+        {
+          "text": {
+            "content": "Two Mormon Views",
+            "beginOffset": 524
+          }
+        }
+      ]
+    },
+    {
+      "name": "Two Mormon Views",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13021818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two Mormon Views",
+            "beginOffset": 82
+          }
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/California"
+      },
+      "salience": 0.014174568,
+      "mentions": [
+        {
+          "text": {
+            "content": "California",
+            "beginOffset": 144
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

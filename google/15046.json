@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Lee Smith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10665204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 576
+          }
+        },
+        {
+          "text": {
+            "content": "Lee Smith",
+            "beginOffset": 553
+          }
+        }
+      ]
+    },
+    {
+      "name": "Health Law",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Health_law"
+      },
+      "salience": 0.072614364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Health Law",
+            "beginOffset": 195
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055163912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons&",
+            "beginOffset": 718
+          }
+        }
+      ]
+    },
+    {
+      "name": "Word of Wisdom Make",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.042434867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word of Wisdom Make",
+            "beginOffset": 9
+          }
+        },
+        {
+          "text": {
+            "content": "Word of Wisdom Make",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Word of Wisdom Make",
+            "beginOffset": 650
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.014692984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 219
+          }
+        }
+      ]
+    },
+    {
+      "name": "Does",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Deer"
+      },
+      "salience": 0.013929442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Does",
+            "beginOffset": 641
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

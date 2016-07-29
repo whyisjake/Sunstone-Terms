@@ -1,0 +1,55 @@
+{
+  "entities": [
+    {
+      "name": "Creed",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Creed_(band)"
+      },
+      "salience": 0.33743194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Creed",
+            "beginOffset": 3
+          }
+        },
+        {
+          "text": {
+            "content": "Creed",
+            "beginOffset": 49
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scott Kenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034094471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scott Kenny",
+            "beginOffset": 413
+          }
+        }
+      ]
+    },
+    {
+      "name": "My Creed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021947315,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Creed",
+            "beginOffset": 457
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

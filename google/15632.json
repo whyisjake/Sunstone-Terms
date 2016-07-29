@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "name": "Shawn Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30362558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shawn Johnson",
+            "beginOffset": 167
+          }
+        },
+        {
+          "text": {
+            "content": "Shawn Johnson",
+            "beginOffset": 692
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.05075876,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 665
+          }
+        }
+      ]
+    },
+    {
+      "name": "Duff Dazley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027277693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duff Dazley",
+            "beginOffset": 182
+          }
+        },
+        {
+          "text": {
+            "content": "Duff Dazley",
+            "beginOffset": 707
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jim Stringham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015601797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jim Stringham",
+            "beginOffset": 677
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Culture Stringham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014602243,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Culture Stringham",
+            "beginOffset": 144
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janie Bennett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010492374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janie Bennett",
+            "beginOffset": 195
+          }
+        },
+        {
+          "text": {
+            "content": "Janie Bennett",
+            "beginOffset": 249
+          }
+        },
+        {
+          "text": {
+            "content": "Janie Bennett",
+            "beginOffset": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heber",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Heber_City,_Utah"
+      },
+      "salience": 0.0087072812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heber",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frank Mensel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085765375,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frank Mensel",
+            "beginOffset": 210
+          }
+        },
+        {
+          "text": {
+            "content": "Frank Mensel",
+            "beginOffset": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mansell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072210524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mansell",
+            "beginOffset": 408
+          }
+        }
+      ]
+    },
+    {
+      "name": "DC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.0072210524,
+      "mentions": [
+        {
+          "text": {
+            "content": "DC",
+            "beginOffset": 467
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Maryland"
+      },
+      "salience": 0.0022507336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maryland",
+            "beginOffset": 470
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

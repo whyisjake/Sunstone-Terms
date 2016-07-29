@@ -1,0 +1,337 @@
+{
+  "entities": [
+    {
+      "name": "Planned Parenthood",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Planned_Parenthood"
+      },
+      "salience": 0.059012882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Planned Parenthood",
+            "beginOffset": 334
+          }
+        },
+        {
+          "text": {
+            "content": "Planned Parenthood",
+            "beginOffset": 1441
+          }
+        }
+      ]
+    },
+    {
+      "name": "Friend A Tribute",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04558906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friend A Tribute",
+            "beginOffset": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pill",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill"
+      },
+      "salience": 0.041485228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pill",
+            "beginOffset": 190
+          }
+        },
+        {
+          "text": {
+            "content": "Pill",
+            "beginOffset": 1297
+          }
+        }
+      ]
+    },
+    {
+      "name": "Planned Parenthood Assoc.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022627456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Planned Parenthood Assoc.",
+            "beginOffset": 468
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poet",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Poet"
+      },
+      "salience": 0.021921473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poet",
+            "beginOffset": 52
+          }
+        },
+        {
+          "text": {
+            "content": "Poet",
+            "beginOffset": 125
+          }
+        },
+        {
+          "text": {
+            "content": "Poet",
+            "beginOffset": 1232
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mentor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021921473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mentor",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Mentor",
+            "beginOffset": 131
+          }
+        },
+        {
+          "text": {
+            "content": "Mentor",
+            "beginOffset": 1238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arthur Henry King",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021921473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arthur Henry King",
+            "beginOffset": 13
+          }
+        },
+        {
+          "text": {
+            "content": "Arthur Henry King",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Arthur Henry King",
+            "beginOffset": 1193
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0057697259,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 556
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 805
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0051093246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 356
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 497
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 1463
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marguerite Moloney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039696433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marguerite Moloney",
+            "beginOffset": 690
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.0039696433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 741
+          }
+        }
+      ]
+    },
+    {
+      "name": "Giles Florence",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0039696433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Giles Florence",
+            "beginOffset": 725
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fred Pinnegar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039696433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fred Pinnegar",
+            "beginOffset": 710
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebekah Chandler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032898022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebekah Chandler",
+            "beginOffset": 785
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0032898022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 867
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maxine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013204082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine",
+            "beginOffset": 1065
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rebecca",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011980482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rebecca",
+            "beginOffset": 1151
+          }
+        }
+      ]
+    },
+    {
+      "name": "PL Kerry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010230405,
+      "mentions": [
+        {
+          "text": {
+            "content": "PL Kerry",
+            "beginOffset": 1095
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

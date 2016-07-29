@@ -1,0 +1,303 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.2047784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 110
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 281
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 333
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 718
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 770
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anointed",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Anointing"
+      },
+      "salience": 0.18808584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anointed",
+            "beginOffset": 437
+          }
+        },
+        {
+          "text": {
+            "content": "Anointed",
+            "beginOffset": 874
+          }
+        }
+      ]
+    },
+    {
+      "name": "Treasure-Hunting Joseph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060025893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Treasure-Hunting Joseph",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Treasure-Hunting Joseph",
+            "beginOffset": 398
+          }
+        },
+        {
+          "text": {
+            "content": "Treasure-Hunting Joseph",
+            "beginOffset": 835
+          }
+        }
+      ]
+    },
+    {
+      "name": "Buried Treasure",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Buried_treasure"
+      },
+      "salience": 0.052466366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buried Treasure",
+            "beginOffset": 15
+          }
+        },
+        {
+          "text": {
+            "content": "Buried Treasure",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Buried Treasure",
+            "beginOffset": 675
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Search",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051707692,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Search",
+            "beginOffset": 660
+          }
+        }
+      ]
+    },
+    {
+      "name": "God&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044133916,
+      "mentions": [
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 202
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "God&",
+            "beginOffset": 862
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon History",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/History_of_the_Latter_Day_Saint_movement"
+      },
+      "salience": 0.042431813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 34
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 257
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon History",
+            "beginOffset": 694
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shaman&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042431813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaman&",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "Shaman&",
+            "beginOffset": 302
+          }
+        },
+        {
+          "text": {
+            "content": "Shaman&",
+            "beginOffset": 739
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palmyra Seer",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.042431813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palmyra Seer",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "Palmyra Seer",
+            "beginOffset": 351
+          }
+        },
+        {
+          "text": {
+            "content": "Palmyra Seer",
+            "beginOffset": 788
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smoldering Gift",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042431813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smoldering Gift",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Smoldering Gift",
+            "beginOffset": 377
+          }
+        },
+        {
+          "text": {
+            "content": "Smoldering Gift",
+            "beginOffset": 814
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anointed The Search",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014741404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anointed The Search",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Italy"
+      },
+      "salience": 0.0027638718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Italy",
+            "beginOffset": 620
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

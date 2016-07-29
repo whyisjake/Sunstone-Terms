@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.18099731,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 578
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 667
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1009
+          }
+        }
+      ]
+    },
+    {
+      "name": "Monson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Thomas_S._Monson"
+      },
+      "salience": 0.076545417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 280
+          }
+        },
+        {
+          "text": {
+            "content": "Monson",
+            "beginOffset": 1224
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10112",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025424624,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10112",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "C.S. Lewis",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/C._S._Lewis"
+      },
+      "salience": 0.011291205,
+      "mentions": [
+        {
+          "text": {
+            "content": "C. S. Lewis",
+            "beginOffset": 183
+          }
+        },
+        {
+          "text": {
+            "content": "C. S. Lewis",
+            "beginOffset": 1127
+          }
+        }
+      ]
+    },
+    {
+      "name": "Boyd K. Packer",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Boyd_K._Packer"
+      },
+      "salience": 0.011291205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boyd K. Packer",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Boyd K. Packer",
+            "beginOffset": 1140
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011291205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best",
+            "beginOffset": 231
+          }
+        },
+        {
+          "text": {
+            "content": "Best",
+            "beginOffset": 1175
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097480547,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS People",
+            "beginOffset": 255
+          }
+        },
+        {
+          "text": {
+            "content": "LDS People",
+            "beginOffset": 1199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Abraham Lincoln",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Abraham_Lincoln"
+      },
+      "salience": 0.00875932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abraham Lincoln",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "Abraham Lincoln",
+            "beginOffset": 1240
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neal A. Maxwell",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Neal_A._Maxwell"
+      },
+      "salience": 0.0063532535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neal A. Maxwell",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Neal A. Maxwell",
+            "beginOffset": 1104
+          }
+        }
+      ]
+    },
+    {
+      "name": "LAGA Manson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029089393,
+      "mentions": [
+        {
+          "text": {
+            "content": "LAGA Manson",
+            "beginOffset": 832
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "name": "ENGLAND",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/England"
+      },
+      "salience": 0.064564273,
+      "mentions": [
+        {
+          "text": {
+            "content": "ENGLAND",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "ENGLAND",
+            "beginOffset": 169
+          }
+        },
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 638
+          }
+        },
+        {
+          "text": {
+            "content": "England",
+            "beginOffset": 695
+          }
+        },
+        {
+          "text": {
+            "content": "ENGLAND",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANCHESTER",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Manchester"
+      },
+      "salience": 0.056843273,
+      "mentions": [
+        {
+          "text": {
+            "content": "MANCHESTER",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "MANCHESTER",
+            "beginOffset": 157
+          }
+        },
+        {
+          "text": {
+            "content": "Manchester",
+            "beginOffset": 626
+          }
+        },
+        {
+          "text": {
+            "content": "MANCHESTER",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.025348045,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 238
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 616
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 873
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW08008",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024376586,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW08008",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "word of God",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.0060203727,
+      "mentions": [
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 405
+          }
+        },
+        {
+          "text": {
+            "content": "word of God",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0024631631,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 560
+          }
+        }
+      ]
+    },
+    {
+      "name": "RUST",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Rust"
+      },
+      "salience": 0.00073768053,
+      "mentions": [
+        {
+          "text": {
+            "content": "RUST",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROBERT BRIGGS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00073768053,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROBERT BRIGGS",
+            "beginOffset": 713
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

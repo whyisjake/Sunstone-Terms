@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "name": "Temple Endowment Swear Not At All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064656183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple Endowment Swear Not At All",
+            "beginOffset": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temple Endowment",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.049012482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temple Endowment",
+            "beginOffset": 81
+          }
+        },
+        {
+          "text": {
+            "content": "Temple Endowment",
+            "beginOffset": 532
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

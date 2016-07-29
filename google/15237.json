@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "LDS Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.085494459,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "LDS Church",
+            "beginOffset": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "San",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/San_people"
+      },
+      "salience": 0.013328698,
+      "mentions": [
+        {
+          "text": {
+            "content": "San",
+            "beginOffset": 192
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rockefeller Exploring",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0077155614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rockefeller Exploring",
+            "beginOffset": 454
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "The Cultural and Historical Implications",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21302809,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Cultural and Historical Implications",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "The Cultural and Historical Implications",
+            "beginOffset": 114
+          }
+        },
+        {
+          "text": {
+            "content": "The Cultural and Historical Implications",
+            "beginOffset": 211
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City Bombings Cases",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077577777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City Bombings Cases",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Salt Lake City Bombings Cases",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Salt_Lake_City"
+      },
+      "salience": 0.046019126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salt Lake City",
+            "beginOffset": 259
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Fundamentalist Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormon_fundamentalism"
+      },
+      "salience": 0.18668054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fundamentalist Mormon",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormon",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 235
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormon",
+            "beginOffset": 642
+          }
+        },
+        {
+          "text": {
+            "content": "Fundamentalist Mormons",
+            "beginOffset": 106
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 399
+          }
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.0073196013,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": 349
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Wisconsin",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison"
+      },
+      "salience": 0.0073196013,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Wisconsin",
+            "beginOffset": 614
+          }
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Drake_(rapper)"
+      },
+      "salience": 0.0060709445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drake",
+            "beginOffset": 460
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

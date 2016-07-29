@@ -1,0 +1,153 @@
+{
+  "entities": [
+    {
+      "name": "Jeffrey Johnson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43411136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeffrey Johnson",
+            "beginOffset": 340
+          }
+        }
+      ]
+    },
+    {
+      "name": "Historical Research",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046663865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Historical Research",
+            "beginOffset": 8
+          }
+        },
+        {
+          "text": {
+            "content": "Historical Research",
+            "beginOffset": 117
+          }
+        },
+        {
+          "text": {
+            "content": "Historical Research",
+            "beginOffset": 688
+          }
+        }
+      ]
+    },
+    {
+      "name": "Open",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Open_Championship"
+      },
+      "salience": 0.041485026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Open",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Open",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Open",
+            "beginOffset": 767
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah Ethics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01368146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah Ethics",
+            "beginOffset": 675
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.01291221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 265
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.012152596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 435
+          }
+        },
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 491
+          }
+        }
+      ]
+    },
+    {
+      "name": "What",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010478503,
+      "mentions": [
+        {
+          "text": {
+            "content": "What",
+            "beginOffset": 206
+          }
+        }
+      ]
+    },
+    {
+      "name": "church of Jesus Christ of latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010464348,
+      "mentions": [
+        {
+          "text": {
+            "content": "church of Jesus Christ of latter",
+            "beginOffset": 600
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

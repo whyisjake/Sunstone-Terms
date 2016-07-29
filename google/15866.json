@@ -1,0 +1,45 @@
+{
+  "entities": [
+    {
+      "name": "Corwin Waterman Aaron",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026156457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corwin",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Corwin Waterman Aaron",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Corwin",
+            "beginOffset": 586
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bryan Waterman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015357777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bryan Waterman",
+            "beginOffset": 593
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,313 @@
+{
+  "entities": [
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.11884723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 415
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 320
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 537
+          }
+        },
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 1463
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.094061255,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 310
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1453
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alchemy Of The Book Of Mormon Musical The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.024183553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alchemy Of The Book Of Mormon Musical The Book of Mormon",
+            "beginOffset": 68
+          }
+        }
+      ]
+    },
+    {
+      "name": "Best Musical",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tony_Award_for_Best_Musical"
+      },
+      "salience": 0.021238515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best Musical",
+            "beginOffset": 268
+          }
+        },
+        {
+          "text": {
+            "content": "Best Musical",
+            "beginOffset": 1411
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fake Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020690432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fake Faith",
+            "beginOffset": 22
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tonys",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tony_Award"
+      },
+      "salience": 0.016257653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tonys",
+            "beginOffset": 294
+          }
+        },
+        {
+          "text": {
+            "content": "Tonys",
+            "beginOffset": 1437
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+      },
+      "salience": 0.0027504868,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Book of Mormon",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Two by Two",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Two_by_Two_(musical)"
+      },
+      "salience": 0.0024692991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Two by Two",
+            "beginOffset": 371
+          }
+        },
+        {
+          "text": {
+            "content": "Two by Two",
+            "beginOffset": 1514
+          }
+        }
+      ]
+    },
+    {
+      "name": "Welker",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wes_Welker"
+      },
+      "salience": 0.0023490831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Welker",
+            "beginOffset": 738
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Iowa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Iowa"
+      },
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Iowa",
+            "beginOffset": 804
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Taiwan"
+      },
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taiwan",
+            "beginOffset": 839
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 851
+          }
+        }
+      ]
+    },
+    {
+      "name": "George D. Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Signature_Books"
+      },
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "George D. Smith",
+            "beginOffset": 779
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marc E. Shaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marc E. Shaw",
+            "beginOffset": 765
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clifton H. Jolley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019467429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clifton H. Jolley",
+            "beginOffset": 746
+          }
+        }
+      ]
+    },
+    {
+      "name": "Broadway",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Broadway_theatre"
+      },
+      "salience": 0.0016509265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Broadway",
+            "beginOffset": 392
+          }
+        },
+        {
+          "text": {
+            "content": "Broadway",
+            "beginOffset": 1535
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013999947,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1553
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

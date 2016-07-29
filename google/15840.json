@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "name": "Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021122951,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark",
+            "beginOffset": 921
+          }
+        }
+      ]
+    },
+    {
+      "name": "Great Western",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022573234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Western",
+            "beginOffset": 1353
+          }
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Huntington Hall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018705981,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elizabeth Huntington Hall",
+            "beginOffset": 928
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013331403,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1711
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Eugene_England"
+      },
+      "salience": 0.00058156491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 1043
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.00058156491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 1130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dennis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058156491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dennis",
+            "beginOffset": 1250
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

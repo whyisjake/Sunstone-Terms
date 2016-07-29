@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Traditional Mormon Perspectives Ethical",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.054960996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Traditional Mormon Perspectives Ethical",
+            "beginOffset": 50
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.043552548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 586
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 292
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon church",
+            "beginOffset": 619
+          }
+        }
+      ]
+    },
+    {
+      "name": "Traditional Mormon Perspectives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017129082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Traditional Mormon Perspectives",
+            "beginOffset": 132
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

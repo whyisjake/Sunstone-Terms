@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "name": "SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.21267879,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intellectual Dialogue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.16655743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intellectual Dialogue",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Intellectual Dialogue",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Intellectual Dialogue",
+            "beginOffset": 170
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church SUNSTONE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.068810239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church SUNSTONE",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE",
+            "beginOffset": 145
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church Richard Ferre",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043375675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Ferre",
+            "beginOffset": 115
+          }
+        },
+        {
+          "text": {
+            "content": "Church Richard Ferre",
+            "beginOffset": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eugene England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043375675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 129
+          }
+        },
+        {
+          "text": {
+            "content": "Eugene England",
+            "beginOffset": 221
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,267 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.31717896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 22
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 396
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1219
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1541
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 104
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1249
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latter-day Saints",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+      },
+      "salience": 0.10691427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 154
+          }
+        },
+        {
+          "text": {
+            "content": "Latter-day Saints",
+            "beginOffset": 1299
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Diversity Exploring The Mind",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026252834,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Diversity Exploring The Mind",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chuck Schofield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023458144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chuck Schofield",
+            "beginOffset": 749
+          }
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.01353129,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 243
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1388
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0098720361,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1235
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hale",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097776214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hale",
+            "beginOffset": 732
+          }
+        }
+      ]
+    },
+    {
+      "name": "Catherine Shelby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003934457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catherine Shelby",
+            "beginOffset": 813
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smith&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034372821,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith&",
+            "beginOffset": 622
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0032022451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 417
+          }
+        }
+      ]
+    },
+    {
+      "name": "B.A.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bachelor_of_Arts"
+      },
+      "salience": 0.0015600502,
+      "mentions": [
+        {
+          "text": {
+            "content": "B.A.",
+            "beginOffset": 766
+          }
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015600502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Respondent",
+            "beginOffset": 772
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015600502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 947
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church &hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014390819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church &hellip",
+            "beginOffset": 1562
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

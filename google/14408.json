@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.20012853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 451
+          }
+        }
+      ]
+    },
+    {
+      "name": "Judaism",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Judaism"
+      },
+      "salience": 0.063283868,
+      "mentions": [
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 61
+          }
+        },
+        {
+          "text": {
+            "content": "Judaism",
+            "beginOffset": 465
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tangency",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Electrical_contacts"
+      },
+      "salience": 0.030836873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tangency",
+            "beginOffset": 38
+          }
+        },
+        {
+          "text": {
+            "content": "Tangency",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Tangency",
+            "beginOffset": 489
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vietnamese",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vietnam"
+      },
+      "salience": 0.010189472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnamese",
+            "beginOffset": 223
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hebrew Union College",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hebrew_Union_College-Jewish_Institute_of_Religion"
+      },
+      "salience": 0.010189472,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hebrew Union College",
+            "beginOffset": 371
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

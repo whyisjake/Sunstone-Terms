@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "name": "Member-Missionary-Media",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.048962239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Member-Missionary-Media",
+            "beginOffset": 4
+          }
+        },
+        {
+          "text": {
+            "content": "Member-Missionary-Media",
+            "beginOffset": 69
+          }
+        },
+        {
+          "text": {
+            "content": "Member-Missionary-Media",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Walt_Disney_Company"
+      },
+      "salience": 0.0079839742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Disney",
+            "beginOffset": 177
+          }
+        }
+      ]
+    },
+    {
+      "name": "Burbank",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Burbank,_California"
+      },
+      "salience": 0.0075679338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burbank",
+            "beginOffset": 268
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

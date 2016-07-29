@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "name": "MITT ROMNEY",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mitt_Romney"
+      },
+      "salience": 0.43259367,
+      "mentions": [
+        {
+          "text": {
+            "content": "MITT ROMNEY",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 132
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 185
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 410
+          }
+        },
+        {
+          "text": {
+            "content": "Mitt Romney",
+            "beginOffset": 775
+          }
+        },
+        {
+          "text": {
+            "content": "Romney",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "CARTOONISTS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cartoonist"
+      },
+      "salience": 0.024555819,
+      "mentions": [
+        {
+          "text": {
+            "content": "CARTOONISTS",
+            "beginOffset": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "Republican",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "salience": 0.00851984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 160
+          }
+        },
+        {
+          "text": {
+            "content": "Republican",
+            "beginOffset": 803
+          }
+        }
+      ]
+    },
+    {
+      "name": "SUNSTONE Symposium",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0067951353,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUNSTONE Symposium",
+            "beginOffset": 54
+          }
+        },
+        {
+          "text": {
+            "content": "SUNSTONE Symposium",
+            "beginOffset": 697
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.0063117049,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 573
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.0017012733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 482
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013440626,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 588
+          }
+        }
+      ]
+    },
+    {
+      "name": "Greg Robinson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013440626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Greg Robinson",
+            "beginOffset": 597
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

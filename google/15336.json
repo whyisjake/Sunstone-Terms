@@ -1,0 +1,67 @@
+{
+  "entities": [
+    {
+      "name": "Rachel Bauchman Case Religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.44527423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Bauchman Case Religion",
+            "beginOffset": 36
+          }
+        }
+      ]
+    },
+    {
+      "name": "Public Schools",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_school"
+      },
+      "salience": 0.31859186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 16
+          }
+        },
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Public Schools",
+            "beginOffset": 395
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rachel Bauchman Case",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034641605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachel Bauchman Case",
+            "beginOffset": 93
+          }
+        },
+        {
+          "text": {
+            "content": "Rachel Bauchman Case",
+            "beginOffset": 415
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,149 @@
+{
+  "entities": [
+    {
+      "name": "Bible",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bible"
+      },
+      "salience": 0.063195042,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 162
+          }
+        },
+        {
+          "text": {
+            "content": "Bible",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture Christ&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057105582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture Christ&",
+            "beginOffset": 122
+          }
+        },
+        {
+          "text": {
+            "content": "Christ&",
+            "beginOffset": 698
+          }
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Book_of_Mormon"
+      },
+      "salience": 0.047043938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 44
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 176
+          }
+        },
+        {
+          "text": {
+            "content": "Book of Mormon",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "Scripture",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Religious_text"
+      },
+      "salience": 0.042565636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scripture",
+            "beginOffset": 820
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism Mormonism",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027340839,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism Mormonism",
+            "beginOffset": 577
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sanders",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bernie_Sanders"
+      },
+      "salience": 0.020007215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sanders",
+            "beginOffset": 316
+          }
+        },
+        {
+          "text": {
+            "content": "Sanders",
+            "beginOffset": 535
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.019086596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": [
+    {
+      "name": "Auguste Rodin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Auguste_Rodin"
+      },
+      "salience": 0.10098147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rodin",
+            "beginOffset": 27
+          }
+        },
+        {
+          "text": {
+            "content": "Rodin",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Auguste Rodin",
+            "beginOffset": 112
+          }
+        },
+        {
+          "text": {
+            "content": "Rodin",
+            "beginOffset": 783
+          }
+        },
+        {
+          "text": {
+            "content": "Auguste Rodin",
+            "beginOffset": 825
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brigham Young University of Art",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0394089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brigham Young University of Art",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Brigham Young University of Art",
+            "beginOffset": 846
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.016644897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 263
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 976
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062732757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark England",
+            "beginOffset": 380
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert Christensen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061163232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christensen",
+            "beginOffset": 367
+          }
+        },
+        {
+          "text": {
+            "content": "Robert Christensen",
+            "beginOffset": 1080
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark England",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034506787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark England",
+            "beginOffset": 1100
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

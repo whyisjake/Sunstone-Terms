@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "TRANSHUMANISM SW0712",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040766694,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW0712",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "TRANSHUMANISM SW0712",
+            "beginOffset": 73
+          }
+        }
+      ]
+    },
+    {
+      "name": "PARALLELS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034141902,
+      "mentions": [
+        {
+          "text": {
+            "content": "PARALLELS",
+            "beginOffset": 25
+          }
+        }
+      ]
+    },
+    {
+      "name": "MORMONISM",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.029225949,
+      "mentions": [
+        {
+          "text": {
+            "content": "MORMONISM",
+            "beginOffset": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "Transhumanism",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Transhumanism"
+      },
+      "salience": 0.0076261703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Transhumanism",
+            "beginOffset": 850
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0013124875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 917
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 981
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAN WOTHERSPOON SW0712",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011001643,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAN WOTHERSPOON  SW0712",
+            "beginOffset": 956
+          }
+        }
+      ]
+    },
+    {
+      "name": "CANNON",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cannon"
+      },
+      "salience": 0.00083989883,
+      "mentions": [
+        {
+          "text": {
+            "content": "CANNON",
+            "beginOffset": 945
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Ph.D.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+      },
+      "salience": 0.070769593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 172
+          }
+        },
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 367
+          }
+        },
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 196
+          }
+        },
+        {
+          "text": {
+            "content": "Ph.D.",
+            "beginOffset": 343
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spring 1987 Dialogue",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.041225415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spring 1987 Dialogue",
+            "beginOffset": 73
+          }
+        },
+        {
+          "text": {
+            "content": "Spring 1987 Dialogue",
+            "beginOffset": 238
+          }
+        }
+      ]
+    },
+    {
+      "name": "Armand L. Mauss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020141453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 179
+          }
+        },
+        {
+          "text": {
+            "content": "Armand L. Mauss",
+            "beginOffset": 350
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert W. Reynolds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018112807,
+      "mentions": [
+        {
+          "text": {
+            "content": "W. Reynolds",
+            "beginOffset": 159
+          }
+        },
+        {
+          "text": {
+            "content": "Robert W. Reynolds",
+            "beginOffset": 323
+          }
+        }
+      ]
+    },
+    {
+      "name": "John Dewey Remy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018112807,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 203
+          }
+        },
+        {
+          "text": {
+            "content": "John Dewey Remy",
+            "beginOffset": 374
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

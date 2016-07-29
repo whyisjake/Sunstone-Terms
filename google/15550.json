@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.35193479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 51
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 138
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 385
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 629
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Hero's Journey",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Monomyth"
+      },
+      "salience": 0.0491515,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Hero’s Journey",
+            "beginOffset": 68
+          }
+        },
+        {
+          "text": {
+            "content": "The Hero’s Journey",
+            "beginOffset": 646
+          }
+        }
+      ]
+    },
+    {
+      "name": "Death Cannot Conquer The Hero Again&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042991247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Death Cannot Conquer The Hero Again&",
+            "beginOffset": 7
+          }
+        },
+        {
+          "text": {
+            "content": "Death Cannot Conquer The Hero Again&",
+            "beginOffset": 94
+          }
+        },
+        {
+          "text": {
+            "content": "Death Cannot Conquer The Hero Again&",
+            "beginOffset": 585
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Hero's Journey Rathbone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017462162,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Hero’s Journey Rathbone",
+            "beginOffset": 155
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.016174572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 365
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jupiter_(mythology)"
+      },
+      "salience": 0.014158195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jupiter",
+            "beginOffset": 316
+          }
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Roman_Empire"
+      },
+      "salience": 0.014158195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 328
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tim Rathbone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010110597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tim Rathbone",
+            "beginOffset": 665
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

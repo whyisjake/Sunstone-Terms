@@ -1,0 +1,115 @@
+{
+  "entities": [
+    {
+      "name": "Deborah Rossiter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02267459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rossiter",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Deborah Rossiter",
+            "beginOffset": 574
+          }
+        }
+      ]
+    },
+    {
+      "name": "Susan J. Kroupa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013525151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susan J. Kroupa",
+            "beginOffset": 70
+          }
+        },
+        {
+          "text": {
+            "content": "Susan J. Kroupa",
+            "beginOffset": 592
+          }
+        }
+      ]
+    },
+    {
+      "name": "Willardsen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013525151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Willardsen",
+            "beginOffset": 105
+          }
+        },
+        {
+          "text": {
+            "content": "Willardsen",
+            "beginOffset": 627
+          }
+        }
+      ]
+    },
+    {
+      "name": "Crickett Goodsell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013525151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crickett Goodsell",
+            "beginOffset": 87
+          }
+        },
+        {
+          "text": {
+            "content": "Crickett Goodsell",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orem Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Orem,_Utah"
+      },
+      "salience": 0.0053074532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orem Utah",
+            "beginOffset": 210
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045346282,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah valley",
+            "beginOffset": 181
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

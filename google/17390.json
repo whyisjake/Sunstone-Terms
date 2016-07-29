@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "name": "Hanks",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Tom_Hanks"
+      },
+      "salience": 0.029875187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hanks",
+            "beginOffset": 429
+          }
+        }
+      ]
+    },
+    {
+      "name": "Feminist Theology",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Feminist_theology"
+      },
+      "salience": 0.029331414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feminist Theology",
+            "beginOffset": 28
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jenne Alderks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020206725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenne Alderks",
+            "beginOffset": 436
+          }
+        }
+      ]
+    },
+    {
+      "name": "Natalie Hamilton Kelly Earhart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019238997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natalie Hamilton Kelly Earhart",
+            "beginOffset": 468
+          }
+        },
+        {
+          "text": {
+            "content": "Natalie Hamilton Kelly",
+            "beginOffset": 725
+          }
+        },
+        {
+          "text": {
+            "content": "Natalie",
+            "beginOffset": 779
+          }
+        },
+        {
+          "text": {
+            "content": "Natalie",
+            "beginOffset": 828
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.006076599,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 283
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1082
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sara K.S. Hanks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002168335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sara K.S. Hanks",
+            "beginOffset": 451
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

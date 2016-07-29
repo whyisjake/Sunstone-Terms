@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "name": "Borderlands",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.087807521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 419
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlands",
+            "beginOffset": 761
+          }
+        }
+      ]
+    },
+    {
+      "name": "THE BORDERLANDS",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.070521675,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE BORDERLANDS",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "SW080013",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041593306,
+      "mentions": [
+        {
+          "text": {
+            "content": "SW080013",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.021773268,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 79
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 756
+          }
+        }
+      ]
+    },
+    {
+      "name": "Borderlander",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070307869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Borderlander",
+            "beginOffset": 326
+          }
+        },
+        {
+          "text": {
+            "content": "Borderlander",
+            "beginOffset": 1003
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sunstone_(magazine)"
+      },
+      "salience": 0.0039333245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS Borderlanders",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0023508307,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS Borderlanders",
+            "beginOffset": 683
+          }
+        }
+      ]
+    },
+    {
+      "name": "JEFF BURTON",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jeff_Burton"
+      },
+      "salience": 0.0011465601,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEFF BURTON",
+            "beginOffset": 703
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

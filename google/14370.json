@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.45173025,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 101
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oliver Cowdery The Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057309873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oliver Cowdery The Life",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oliver Cowdery Greg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044279609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oliver Cowdery Greg",
+            "beginOffset": 39
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ipanema",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016146187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipanema",
+            "beginOffset": 81
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ford",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ford_Motor_Company"
+      },
+      "salience": 0.011899457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ford",
+            "beginOffset": 143
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oliver Cowdery",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Oliver_Cowdery"
+      },
+      "salience": 0.0090097226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oliver Cowdery",
+            "beginOffset": 476
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

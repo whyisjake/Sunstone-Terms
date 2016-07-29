@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "name": "Sunstone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1574685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 40
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone",
+            "beginOffset": 1013
+          }
+        }
+      ]
+    },
+    {
+      "name": "KESLER",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Ryan_Kesler"
+      },
+      "salience": 0.09302327,
+      "mentions": [
+        {
+          "text": {
+            "content": "KESLER",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sunstone&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08434204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 227
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 260
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 1200
+          }
+        },
+        {
+          "text": {
+            "content": "Sunstone&",
+            "beginOffset": 1233
+          }
+        }
+      ]
+    },
+    {
+      "name": "JANA RIESS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jana_Riess"
+      },
+      "salience": 0.0042633712,
+      "mentions": [
+        {
+          "text": {
+            "content": "JANA RIESS",
+            "beginOffset": 602
+          }
+        }
+      ]
+    },
+    {
+      "name": "LD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Liberal_Democrats"
+      },
+      "salience": 0.0035332958,
+      "mentions": [
+        {
+          "text": {
+            "content": "LD",
+            "beginOffset": 708
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faust",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faust_(1926_film)"
+      },
+      "salience": 0.0025903312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faust",
+            "beginOffset": 820
+          }
+        },
+        {
+          "text": {
+            "content": "Faust",
+            "beginOffset": 980
+          }
+        }
+      ]
+    },
+    {
+      "name": "&hellip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024979312,
+      "mentions": [
+        {
+          "text": {
+            "content": "&hellip",
+            "beginOffset": 1365
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

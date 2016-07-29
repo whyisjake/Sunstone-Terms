@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "Toward a Sexual",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038067225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toward a Sexual",
+            "beginOffset": 421
+          }
+        }
+      ]
+    },
+    {
+      "name": "Macbeth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Macbeth"
+      },
+      "salience": 0.017560447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Macbeth",
+            "beginOffset": 202
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

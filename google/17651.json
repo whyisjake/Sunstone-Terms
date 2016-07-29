@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "name": "Osmond Session",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.23397541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Osmond  Session",
+            "beginOffset": 35
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russ Osmond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17144059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russ Osmond",
+            "beginOffset": 66
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

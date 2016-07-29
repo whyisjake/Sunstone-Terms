@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "Healing Imagination The Healing Imagination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1434153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Healing Imagination The Healing Imagination",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christian",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Christianity"
+      },
+      "salience": 0.11075948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christian",
+            "beginOffset": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Healing Imagination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022510111,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Healing Imagination",
+            "beginOffset": 485
+          }
+        }
+      ]
+    },
+    {
+      "name": "UN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_Nations"
+      },
+      "salience": 0.00731024,
+      "mentions": [
+        {
+          "text": {
+            "content": "UN",
+            "beginOffset": 354
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

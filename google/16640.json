@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "name": "Christ",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Jesus"
+      },
+      "salience": 0.15522648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 174
+          }
+        },
+        {
+          "text": {
+            "content": "Christ",
+            "beginOffset": 1235
+          }
+        },
+        {
+          "text": {
+            "content": "Jesus",
+            "beginOffset": 669
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.09779539,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 136
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 297
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1197
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1358
+          }
+        }
+      ]
+    },
+    {
+      "name": "McCall",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067851688,
+      "mentions": [
+        {
+          "text": {
+            "content": "McCall",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arizona State",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Arizona_State_University"
+      },
+      "salience": 0.0022896815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arizona State",
+            "beginOffset": 1099
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00058999081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dan",
+            "beginOffset": 950
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Brigham_Young_University"
+      },
+      "salience": 0.00058999081,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU",
+            "beginOffset": 1040
+          }
+        }
+      ]
+    },
+    {
+      "name": "MA",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Master_of_Arts"
+      },
+      "salience": 0.00058999081,
+      "mentions": [
+        {
+          "text": {
+            "content": "MA",
+            "beginOffset": 1070
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

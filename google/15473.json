@@ -1,0 +1,95 @@
+{
+  "entities": [
+    {
+      "name": "Linda Wilcox",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29949972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Linda Wilcox",
+            "beginOffset": 515
+          }
+        },
+        {
+          "text": {
+            "content": "Linda Wilcox",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Linda",
+            "beginOffset": 273
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS FEMALE MISSIONARY DIARIES",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.04503661,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS FEMALE MISSIONARY DIARIES",
+            "beginOffset": 27
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS FEMALE MISSIONARY DIARIES Becky Johns",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027449898,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS FEMALE MISSIONARY DIARIES Johns",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "LDS FEMALE MISSIONARY DIARIES Becky Johns",
+            "beginOffset": 472
+          }
+        }
+      ]
+    },
+    {
+      "name": "Becky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016202711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Becky",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormons",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0088286065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormons",
+            "beginOffset": 261
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

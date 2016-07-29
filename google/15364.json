@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "name": "Not.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Negation"
+      },
+      "salience": 0.037922867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Not.",
+            "beginOffset": 88
+          }
+        },
+        {
+          "text": {
+            "content": "Not.",
+            "beginOffset": 181
+          }
+        }
+      ]
+    },
+    {
+      "name": "Promises&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023592707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Promises&",
+            "beginOffset": 116
+          }
+        },
+        {
+          "text": {
+            "content": "Promises&",
+            "beginOffset": 425
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021439023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liam",
+            "beginOffset": 222
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

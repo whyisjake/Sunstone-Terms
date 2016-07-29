@@ -1,0 +1,69 @@
+{
+  "entities": [
+    {
+      "name": "university of Pennsylvania",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Pennsylvania"
+      },
+      "salience": 0.027745742,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Pennsylvania",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Utah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Utah"
+      },
+      "salience": 0.010966723,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Utah",
+            "beginOffset": 182
+          }
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Philadelphia"
+      },
+      "salience": 0.0083864778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Philadelphia",
+            "beginOffset": 214
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0077155461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 341
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

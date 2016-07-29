@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "John Rawls",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/John_Rawls"
+      },
+      "salience": 0.10235589,
+      "mentions": [
+        {
+          "text": {
+            "content": "John Rawls",
+            "beginOffset": 77
+          }
+        },
+        {
+          "text": {
+            "content": "John Rawls",
+            "beginOffset": 795
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Justice",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Social_justice"
+      },
+      "salience": 0.043146346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Social Justice",
+            "beginOffset": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "SL10356",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028383147,
+      "mentions": [
+        {
+          "text": {
+            "content": "SL10356",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormonism"
+      },
+      "salience": 0.028383147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 31
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.014596941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 130
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 848
+          }
+        }
+      ]
+    },
+    {
+      "name": "HENRICHSEN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034178477,
+      "mentions": [
+        {
+          "text": {
+            "content": "HENRICHSEN",
+            "beginOffset": 371
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0032778906,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 308
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 1026
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bennett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026848565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bennett",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Casper",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Casper,_Wyoming"
+      },
+      "salience": 0.0026848565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Casper",
+            "beginOffset": 620
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Wyoming"
+      },
+      "salience": 0.0026848565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wyoming",
+            "beginOffset": 638
+          }
+        }
+      ]
+    },
+    {
+      "name": "BYU BYU Idaho",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00083518703,
+      "mentions": [
+        {
+          "text": {
+            "content": "BYU BYU Idaho",
+            "beginOffset": 706
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

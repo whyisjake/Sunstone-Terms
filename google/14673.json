@@ -1,0 +1,93 @@
+{
+  "entities": [
+    {
+      "name": "Peace Is Possible: The Politics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.23885444,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peace Is Possible: The Politics",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sermon on the Mount Peace Is Possible",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.034653302,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermon on the Mount Peace Is Possible",
+            "beginOffset": 38
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sermon on the Mount",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Sermon_on_the_Mount"
+      },
+      "salience": 0.020128464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Sermon on the Mount",
+            "beginOffset": 716
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soviet Union",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Soviet_Union"
+      },
+      "salience": 0.0081432974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soviet Union",
+            "beginOffset": 175
+          }
+        },
+        {
+          "text": {
+            "content": "Soviet Union",
+            "beginOffset": 407
+          }
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.0057676458,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": 626
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

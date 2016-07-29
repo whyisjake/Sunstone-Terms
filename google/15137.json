@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "Men&",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035664409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Men&",
+            "beginOffset": 85
+          }
+        },
+        {
+          "text": {
+            "content": "Men&",
+            "beginOffset": 537
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clark",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034637224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clark",
+            "beginOffset": 158
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033946507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brothers",
+            "beginOffset": 14
+          }
+        },
+        {
+          "text": {
+            "content": "Brothers",
+            "beginOffset": 66
+          }
+        },
+        {
+          "text": {
+            "content": "Brothers",
+            "beginOffset": 518
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hearts",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026329044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hearts",
+            "beginOffset": 504
+          }
+        }
+      ]
+    },
+    {
+      "name": "Warner",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Warner_Music_Group"
+      },
+      "salience": 0.010259903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Warner",
+            "beginOffset": 488
+          }
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085122008,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": 292
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of southern California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Southern_California"
+      },
+      "salience": 0.0085122008,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of southern California",
+            "beginOffset": 312
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

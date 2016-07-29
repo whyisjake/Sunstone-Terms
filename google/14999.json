@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Church Ideas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22629909,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church Ideas",
+            "beginOffset": 34
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.036534574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hispanics",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans"
+      },
+      "salience": 0.020694328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hispanics",
+            "beginOffset": 151
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

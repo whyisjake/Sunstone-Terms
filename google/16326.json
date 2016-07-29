@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "name": "Joseph Smith Jr.",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.096082151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 65
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 156
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 143
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith Jr.",
+            "beginOffset": 1038
+          }
+        },
+        {
+          "text": {
+            "content": "Joseph Smith",
+            "beginOffset": 1025
+          }
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.018369485,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 236
+          }
+        },
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 1118
+          }
+        }
+      ]
+    },
+    {
+      "name": "Non-Mormon",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014819876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 18
+          }
+        },
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Non-Mormon",
+            "beginOffset": 978
+          }
+        }
+      ]
+    },
+    {
+      "name": "Joseph&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040481593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joseph&",
+            "beginOffset": 462
+          }
+        }
+      ]
+    },
+    {
+      "name": "Senate",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States_Senate"
+      },
+      "salience": 0.0022943236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Senate",
+            "beginOffset": 953
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

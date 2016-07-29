@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "name": "THE MIDDLE EAST",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Middle_East"
+      },
+      "salience": 0.138943,
+      "mentions": [
+        {
+          "text": {
+            "content": "THE MIDDLE EAST",
+            "beginOffset": 19
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 180
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 715
+          }
+        },
+        {
+          "text": {
+            "content": "Middle East",
+            "beginOffset": 944
+          }
+        }
+      ]
+    },
+    {
+      "name": "Palestinian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/State_of_Palestine"
+      },
+      "salience": 0.030792328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Palestinian",
+            "beginOffset": 233
+          }
+        },
+        {
+          "text": {
+            "content": "Palestinian",
+            "beginOffset": 997
+          }
+        }
+      ]
+    },
+    {
+      "name": "Israeli",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.030792328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israeli",
+            "beginOffset": 225
+          }
+        },
+        {
+          "text": {
+            "content": "Israeli",
+            "beginOffset": 989
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormonism",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.015839392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 47
+          }
+        },
+        {
+          "text": {
+            "content": "Mormonism",
+            "beginOffset": 811
+          }
+        }
+      ]
+    },
+    {
+      "name": "U.S.",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/United_States"
+      },
+      "salience": 0.012508135,
+      "mentions": [
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 296
+          }
+        },
+        {
+          "text": {
+            "content": "U.S.",
+            "beginOffset": 1060
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ricks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039167921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ricks",
+            "beginOffset": 450
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iraq"
+      },
+      "salience": 0.0039021026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 314
+          }
+        },
+        {
+          "text": {
+            "content": "Iraq",
+            "beginOffset": 1078
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omar Kader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037122089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omar Kader",
+            "beginOffset": 457
+          }
+        }
+      ]
+    },
+    {
+      "name": "J. Bonner Ritchie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037122089,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. Bonner Ritchie",
+            "beginOffset": 469
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

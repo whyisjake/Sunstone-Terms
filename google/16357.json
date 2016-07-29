@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "name": "Cooper",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Cooper_Car_Company"
+      },
+      "salience": 0.096228994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cooper",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.023377644,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Andersen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002603929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devery S. Andersen",
+            "beginOffset": 686
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

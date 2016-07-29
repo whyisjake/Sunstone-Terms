@@ -1,0 +1,145 @@
+{
+  "entities": [
+    {
+      "name": "Alice Louse Reynolds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34127888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alice Louse Reynolds",
+            "beginOffset": 121
+          }
+        },
+        {
+          "text": {
+            "content": "Alice Louse Reynolds",
+            "beginOffset": 609
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lauren hunter Stromberg",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067040123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lauren hunter Stromberg",
+            "beginOffset": 437
+          }
+        }
+      ]
+    },
+    {
+      "name": "Motherless Children: The Alice Louse Reynolds",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050079007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Motherless Children: The Alice Louse Reynolds",
+            "beginOffset": 15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Forum Comforting the Motherless Children",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.050079007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forum Comforting the Motherless Children",
+            "beginOffset": 75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Washington DC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "salience": 0.010297054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Washington DC",
+            "beginOffset": 179
+          }
+        }
+      ]
+    },
+    {
+      "name": "Motherless Children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008494677,
+      "mentions": [
+        {
+          "text": {
+            "content": "Motherless Children",
+            "beginOffset": 584
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alabama",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Alabama"
+      },
+      "salience": 0.0080991127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alabama",
+            "beginOffset": 405
+          }
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Utah"
+      },
+      "salience": 0.0080991127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Utah",
+            "beginOffset": 400
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlanta",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atlanta"
+      },
+      "salience": 0.0025275885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlanta",
+            "beginOffset": 484
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "name": "Shawn Aaron McRaney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14253135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaron McRaney",
+            "beginOffset": 290
+          }
+        },
+        {
+          "text": {
+            "content": "Shawn Aaron McRaney",
+            "beginOffset": 933
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Two",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.033638574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Two",
+            "beginOffset": 44
+          }
+        }
+      ]
+    },
+    {
+      "name": "Difficult Balancing Act",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018617019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Difficult Balancing Act",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Janet Brigham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0080155227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janet Brigham",
+            "beginOffset": 305
+          }
+        },
+        {
+          "text": {
+            "content": "Janet",
+            "beginOffset": 582
+          }
+        },
+        {
+          "text": {
+            "content": "Janet Brigham",
+            "beginOffset": 954
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mormons"
+      },
+      "salience": 0.0041122125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 447
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ashis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018199161,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashis",
+            "beginOffset": 656
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

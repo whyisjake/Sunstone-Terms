@@ -1,0 +1,187 @@
+{
+  "entities": [
+    {
+      "name": "Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Church_(building)"
+      },
+      "salience": 0.12366742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 133
+          }
+        },
+        {
+          "text": {
+            "content": "Church",
+            "beginOffset": 1092
+          }
+        }
+      ]
+    },
+    {
+      "name": "PANEL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Panel_painting"
+      },
+      "salience": 0.044692703,
+      "mentions": [
+        {
+          "text": {
+            "content": "PANEL",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quiet Desperation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015387422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quiet Desperation",
+            "beginOffset": 342
+          }
+        },
+        {
+          "text": {
+            "content": "Quiet Desperation",
+            "beginOffset": 1301
+          }
+        }
+      ]
+    },
+    {
+      "name": "Church of Jesus Christ of Latter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011672752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter",
+            "beginOffset": 74
+          }
+        },
+        {
+          "text": {
+            "content": "Church of Jesus Christ of Latter",
+            "beginOffset": 1033
+          }
+        }
+      ]
+    },
+    {
+      "name": "Saint",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Saint"
+      },
+      "salience": 0.0065674563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint",
+            "beginOffset": 475
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon Church",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0065433281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon Church",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "A. Rees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001066109,
+      "mentions": [
+        {
+          "text": {
+            "content": "A. Rees",
+            "beginOffset": 916
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carol Lynn Pearson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Carol_Lynn_Pearson"
+      },
+      "salience": 0.001066109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carol Lynn Pearson",
+            "beginOffset": 925
+          }
+        }
+      ]
+    },
+    {
+      "name": "Connell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001066109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Connell",
+            "beginOffset": 945
+          }
+        }
+      ]
+    },
+    {
+      "name": "Donovon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001066109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donovon",
+            "beginOffset": 961
+          }
+        }
+      ]
+    },
+    {
+      "name": "David H. Bailey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001066109,
+      "mentions": [
+        {
+          "text": {
+            "content": "David H. Bailey",
+            "beginOffset": 970
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

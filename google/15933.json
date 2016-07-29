@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "name": "John 20",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.59966087,
+      "mentions": [
+        {
+          "text": {
+            "content": "John 20",
+            "beginOffset": 30
+          }
+        },
+        {
+          "text": {
+            "content": "John 20",
+            "beginOffset": 75
+          }
+        },
+        {
+          "text": {
+            "content": "John 20",
+            "beginOffset": 500
+          }
+        }
+      ]
+    },
+    {
+      "name": "Twin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Twin"
+      },
+      "salience": 0.094073489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twin",
+            "beginOffset": 23
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ken Freese",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.084952615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freese",
+            "beginOffset": 90
+          }
+        },
+        {
+          "text": {
+            "content": "Ken Freese",
+            "beginOffset": 515
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thomas&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015900942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thomas&",
+            "beginOffset": 53
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.20079276,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 0
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 48
+          }
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 528
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lynn Matthews Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022744661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Matthews Anderson",
+            "beginOffset": 96
+          }
+        },
+        {
+          "text": {
+            "content": "Lynn Matthews Anderson",
+            "beginOffset": 576
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

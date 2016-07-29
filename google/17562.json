@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "name": "B. Smithson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024643743,
+      "mentions": [
+        {
+          "text": {
+            "content": "B. Smithson",
+            "beginOffset": 541
+          }
+        }
+      ]
+    },
+    {
+      "name": "Russian",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.0020424633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russian",
+            "beginOffset": 749
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

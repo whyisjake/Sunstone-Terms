@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "name": "Real Olympics Scandal The Real Olympics",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.047601063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Real Olympics Scandal The Real Olympics",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018955357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 86
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 591
+          }
+        }
+      ]
+    },
+    {
+      "name": "Molen",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071783913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molen",
+            "beginOffset": 212
+          }
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.0045094285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": 288
+          }
+        }
+      ]
+    },
+    {
+      "name": "Robert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045094285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Robert",
+            "beginOffset": 307
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rob Bishop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044415873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rob Bishop",
+            "beginOffset": 219
+          }
+        },
+        {
+          "text": {
+            "content": "Rob Bishop",
+            "beginOffset": 728
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ron Molen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044415873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ron",
+            "beginOffset": 523
+          }
+        },
+        {
+          "text": {
+            "content": "Ron Molen",
+            "beginOffset": 717
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Real Olympics",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0015244057,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Real Olympics",
+            "beginOffset": 531
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

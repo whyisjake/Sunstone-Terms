@@ -1,0 +1,99 @@
+{
+  "entities": [
+    {
+      "name": "Excommunications",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Excommunication"
+      },
+      "salience": 0.37829915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Excommunications",
+            "beginOffset": 12
+          }
+        },
+        {
+          "text": {
+            "content": "Excommunications",
+            "beginOffset": 60
+          }
+        },
+        {
+          "text": {
+            "content": "Excommunications",
+            "beginOffset": 497
+          }
+        }
+      ]
+    },
+    {
+      "name": "Profile Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20721781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Profile Fielding Anderson",
+            "beginOffset": 88
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lavina Fielding Anderson",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lavina_Fielding_Anderson"
+      },
+      "salience": 0.026434168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lavina Fielding Anderson",
+            "beginOffset": 533
+          }
+        }
+      ]
+    },
+    {
+      "name": "Associated Press",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Associated_Press"
+      },
+      "salience": 0.016700789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Associated Press",
+            "beginOffset": 173
+          }
+        },
+        {
+          "text": {
+            "content": "AP",
+            "beginOffset": 162
+          }
+        }
+      ]
+    },
+    {
+      "name": "Levine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014794249,
+      "mentions": [
+        {
+          "text": {
+            "content": "Levine",
+            "beginOffset": 278
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

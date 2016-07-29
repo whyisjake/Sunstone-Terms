@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.441891,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 37
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 146
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 633
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community Of Christ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Community_of_Christ"
+      },
+      "salience": 0.13056596,
+      "mentions": [
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 84
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 193
+          }
+        },
+        {
+          "text": {
+            "content": "RLDS",
+            "beginOffset": 680
+          }
+        },
+        {
+          "text": {
+            "content": "Community Of Christ",
+            "beginOffset": 89
+          }
+        },
+        {
+          "text": {
+            "content": "Community Of Christ",
+            "beginOffset": 685
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Michigan",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Michigan"
+      },
+      "salience": 0.071622781,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Michigan",
+            "beginOffset": 296
+          }
+        }
+      ]
+    },
+    {
+      "name": "Community Of Christ Scherer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012177171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community Of Christ Scherer",
+            "beginOffset": 198
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of Missouri",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Missouri"
+      },
+      "salience": 0.010444283,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of Missouri",
+            "beginOffset": 351
+          }
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Missouri"
+      },
+      "salience": 0.010331621,
+      "mentions": [
+        {
+          "text": {
+            "content": "Missouri",
+            "beginOffset": 554
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kansas city",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area"
+      },
+      "salience": 0.0088324053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kansas city",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Scherer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006304828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mark Scherer",
+            "beginOffset": 705
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

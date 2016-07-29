@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "name": "The International Missionary Experience Military Mormon Missionaries",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.073357791,
+      "mentions": [
+        {
+          "text": {
+            "content": "The International Missionary Experience Military Mormon Missionaries",
+            "beginOffset": 55
+          }
+        }
+      ]
+    },
+    {
+      "name": "The International Missionary Experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040432673,
+      "mentions": [
+        {
+          "text": {
+            "content": "The International Missionary Experience",
+            "beginOffset": 150
+          }
+        },
+        {
+          "text": {
+            "content": "The International Missionary Experience",
+            "beginOffset": 704
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vietnamese",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vietnam"
+      },
+      "salience": 0.014017337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnam",
+            "beginOffset": 402
+          }
+        },
+        {
+          "text": {
+            "content": "Vietnamese",
+            "beginOffset": 425
+          }
+        },
+        {
+          "text": {
+            "content": "Vietnam",
+            "beginOffset": 583
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vietnam War",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vietnam_War"
+      },
+      "salience": 0.011638948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnam War",
+            "beginOffset": 332
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.011638948,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 569
+          }
+        }
+      ]
+    },
+    {
+      "name": "Military Mormon Missionaries",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011535508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Military Mormon Missionaries",
+            "beginOffset": 649
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

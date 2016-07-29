@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "name": "The Development of Temple Worship",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.045601577,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Development of Temple Worship",
+            "beginOffset": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "NW10006",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039099827,
+      "mentions": [
+        {
+          "text": {
+            "content": "NW10006",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nauvoo",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      "salience": 0.023037458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 152
+          }
+        },
+        {
+          "text": {
+            "content": "Nauvoo",
+            "beginOffset": 742
+          }
+        }
+      ]
+    },
+    {
+      "name": "LDS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.018387176,
+      "mentions": [
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 103
+          }
+        },
+        {
+          "text": {
+            "content": "LDS",
+            "beginOffset": 693
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devery S. Anderson",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049233143,
+      "mentions": [
+        {
+          "text": {
+            "content": "S. Anderson",
+            "beginOffset": 414
+          }
+        },
+        {
+          "text": {
+            "content": "Devery S. Anderson",
+            "beginOffset": 1004
+          }
+        }
+      ]
+    },
+    {
+      "name": "Velma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003722399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Velma",
+            "beginOffset": 538
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+  "entities": [
+    {
+      "name": "Faith",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Faith"
+      },
+      "salience": 0.13201684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": 19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fortress of Faith",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10077068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fortress of Faith",
+            "beginOffset": 32
+          }
+        },
+        {
+          "text": {
+            "content": "Fortress of Faith",
+            "beginOffset": 169
+          }
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.02992902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": 154
+          }
+        }
+      ]
+    },
+    {
+      "name": "Islam",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Islam"
+      },
+      "salience": 0.0078262147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Islam",
+            "beginOffset": 143
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

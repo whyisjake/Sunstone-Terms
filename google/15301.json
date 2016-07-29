@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "name": "Smith",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      "salience": 0.654685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 25
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 33
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 41
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 83
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 91
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 99
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 547
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 555
+          }
+        },
+        {
+          "text": {
+            "content": "Smith",
+            "beginOffset": 563
+          }
+        }
+      ]
+    },
+    {
+      "name": "Agnes Moulton Coolbrith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056988459,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agnes Moulton Coolbrith",
+            "beginOffset": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Agnes Moulton Coolbrith",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038598921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agnes Moulton Coolbrith",
+            "beginOffset": 58
+          }
+        },
+        {
+          "text": {
+            "content": "Agnes Moulton Coolbrith",
+            "beginOffset": 522
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pickett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033740513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pickett",
+            "beginOffset": 49
+          }
+        },
+        {
+          "text": {
+            "content": "Pickett",
+            "beginOffset": 107
+          }
+        },
+        {
+          "text": {
+            "content": "Pickett",
+            "beginOffset": 571
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leo Lyman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013552226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo Lyman",
+            "beginOffset": 216
+          }
+        },
+        {
+          "text": {
+            "content": "Leo",
+            "beginOffset": 243
+          }
+        }
+      ]
+    },
+    {
+      "name": "university of California",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_California"
+      },
+      "salience": 0.00919108,
+      "mentions": [
+        {
+          "text": {
+            "content": "university of California",
+            "beginOffset": 275
+          }
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Berkeley,_California"
+      },
+      "salience": 0.00919108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Berkeley",
+            "beginOffset": 329
+          }
+        }
+      ]
+    },
+    {
+      "name": "sampradaya Mormons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00286732,
+      "mentions": [
+        {
+          "text": {
+            "content": "sampradaya Mormons",
+            "beginOffset": 357
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mississippi"
+      },
+      "salience": 0.00286732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mississippi",
+            "beginOffset": 399
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,159 @@
+{
+  "entities": [
+    {
+      "name": "Mama Dragons",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.066052392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Dragons",
+            "beginOffset": 358
+          }
+        },
+        {
+          "text": {
+            "content": "Mama Dragons",
+            "beginOffset": 544
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mama Dragons Roundtable",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024291698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Dragons Roundtable",
+            "beginOffset": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mama Bear&",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010404079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Bear&",
+            "beginOffset": 214
+          }
+        },
+        {
+          "text": {
+            "content": "Mama Bear&",
+            "beginOffset": 898
+          }
+        }
+      ]
+    },
+    {
+      "name": "LGBT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/LGBT"
+      },
+      "salience": 0.0060834032,
+      "mentions": [
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 128
+          }
+        },
+        {
+          "text": {
+            "content": "LGBT",
+            "beginOffset": 812
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mormon",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints"
+      },
+      "salience": 0.0055394126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 108
+          }
+        },
+        {
+          "text": {
+            "content": "Mormon",
+            "beginOffset": 792
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oviatt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002210154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oviatt",
+            "beginOffset": 653
+          }
+        }
+      ]
+    },
+    {
+      "name": "Brooke Caldwell",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002210154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brooke Caldwell",
+            "beginOffset": 661
+          }
+        }
+      ]
+    },
+    {
+      "name": "Debra Oaks Coe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006874511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Debra Oaks Coe",
+            "beginOffset": 678
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jill Hazard Rowe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006874511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jill Hazard Rowe",
+            "beginOffset": 694
+          }
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
