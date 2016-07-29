@@ -59,7 +59,7 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	 */
 	private function import_terms( $object ) {
 		foreach ( $object->entities as $entity ) {
-			$this->import_term( $entity );
+			$this->import_term( $object->pid, $entity );
 		}
 	}
 
@@ -69,9 +69,9 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	 * @param  object $entity Entitle
 	 * @return void
 	 */
-	private function import_term( $entity ) {
+	private function import_term( $pid, $entity ) {
 		$taxonomy = $this->find_taxonomy( $entity->type );
-		$this->set_term( $entity->pid, $entity->name, $taxonomy );
+		$this->set_term( $pid, $entity->name, $taxonomy );
 	}
 
 	/**
