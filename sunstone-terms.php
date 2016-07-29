@@ -22,6 +22,10 @@ include_once( 'taxonomies/organization.php' );
 include_once( 'taxonomies/person.php' );
 include_once( 'taxonomies/work-of-art.php' );
 
+if ( defined( 'WP_CLI' ) && WP_CLI ) {
+	include_once( 'lib/cli.php' );
+}
+
 class Sunstone_Terms {
 	/**
 	 * The one instance of Sunstone_Terms
