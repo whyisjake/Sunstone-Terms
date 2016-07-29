@@ -42,7 +42,7 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	 * @return [type]      [description]
 	 */
 	private function massage_data( $pid ) {
-		WP_CLI::line( sprintf( 'Starting %d', $pid ) );
+		echo( sprintf( 'Starting %d', $pid ) );
 		$file_path = sprintf( '%s/%d.json', $this->path(), $pid );
 		if ( file_exists( $file_path ) ) {
 			$json   = file_get_contents( $file_path );
