@@ -14,7 +14,7 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	 * @return void
 	 */
 	public function load_terms( $args, $assoc_args ) {
-		$files  = scandir( $this->path() );
+		$files  = scandir( $this->path(), 1 );
 		$pids   = array_map( array( $this, 'convert_to_ints' ), $files );
 		$import = array_map( array( $this, 'massage_data' ), $pids );
 	}
@@ -43,10 +43,13 @@ class Sunstone_Terms_CLI extends WP_CLI_Command {
 	 */
 	private function massage_data( $pid ) {
 		WP_CLI::line( sprintf( 'Starting %d', $pid ) );
-		$json   = file_get_contents( sprintf( '%s/%d.json', $this->path(), $pid ) );
-		$object = json_decode( $json );
-		$object->pid = $pid;
-		$imported = $this->import_terms( $object );
+		$file_path = sprintf( '%s/%d.json', $this->path(), $pid );
+		if ( file_exists( $file_path ) ) {
+			$json   = file_get_contents( $file_path );
+			$object = json_decode( $json );
+			$object->pid = $pid;
+			$imported = $this->import_terms( $object );
+		}
 	}
 
 	/**
