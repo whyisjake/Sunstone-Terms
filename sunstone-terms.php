@@ -50,6 +50,22 @@ class Sunstone_Terms {
 	 * @return Sunstone_Terms
 	 */
 	public function __construct() {
+		add_filter( 'tdc_enabled_taxonomies', array( $this, 'custom_tdc_taxonomies' ), 10, 1 );
+	}
+
+	/**
+	 * Let's add our custom taxonomies for the filter.
+	 * @param  [type] $taxonomies [description]
+	 * @return [type]             [description]
+	 */
+	public function custom_tdc_taxonomies( $taxonomies ) {
+	    $taxonomies[] = 'good';
+	    $taxonomies[] = 'location';
+	    $taxonomies[] = 'occasion';
+	    $taxonomies[] = 'organization';
+	    $taxonomies[] = 'person';
+	    $taxonomies[] = 'work-of-art';
+	    return $taxonomies;
 	}
 }
 /**
